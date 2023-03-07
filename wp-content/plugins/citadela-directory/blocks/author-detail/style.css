@@ -1,0 +1,35 @@
+/*
+*	AUTHOR DETAIL: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-author-detail							{ margin-bottom: 2rem; }
+.ctdl-author-detail .item-thumbnail 		{ position: relative; border: 1px solid #cccccc; padding: 20px; }
+.ctdl-author-detail .author-cover 			{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; padding: 0; overflow: hidden; }
+.ctdl-author-detail .author-cover img   	{ position: absolute; object-fit: cover; width: 100%; height: 100%; position: absolute; top: 0; left: 0; }
+.ctdl-author-detail .author-cover:before    { content: ""; position: absolute; bottom: 0; left: 0; width: 100%; height: 50%; background: linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 50%,transparent); z-index: 5; }
+.ctdl-author-detail .item-body				{ margin-top: 20px; }
+
+.ctdl-author-detail .author-posts-number    { font-size: 0.8em; font-weight: bold; position: absolute; right: 20px; top: -1.25em; z-index: 10; background: #ffffff; padding: 5px 10px; color: #000000; }
+.ctdl-author-detail .author-info			{  }
+.ctdl-author-detail .author-icon			{ width: 64px; margin: 0px 0px 10px 0px; }
+.ctdl-author-detail .author-icon img    	{ width: 100%; vertical-align: top; border-radius: 100%; }
+.ctdl-author-detail .author-name			{ font-size: 1.6em; font-weight: 700; color: #000000; }
+
+.ctdl-author-detail.show-author-cover .has-cover .item-thumbnail		{ border: none; }
+.ctdl-author-detail.show-author-cover .has-cover .author-posts-number	{ top: 20px; }
+.ctdl-author-detail.show-author-cover .has-cover .author-info			{ position: relative; z-index: 10; }
+.ctdl-author-detail.show-author-cover .has-cover .author-icon           { width: 104px; padding: 4px; background: #ffffff; }
+.ctdl-author-detail.show-author-cover .has-cover .author-icon img		{ border-radius: 0%; }
+.ctdl-author-detail.show-author-cover .has-cover .author-name           { color: #ffffff; align-self: flex-end; }
+
+@media all and (min-width: 400px)
+{
+	.ctdl-author-detail .author-cover 			{ position: relative; height: 0; padding: 40% 0 0 0; } 
+	
+	.ctdl-author-detail .author-info			{ display: flex; flex-flow: row nowrap;  }
+	.ctdl-author-detail .author-icon			{ flex: 0 0 auto; margin: 0px 20px 0px 0px; }
+	.ctdl-author-detail .author-name			{ flex: 1 1 auto; align-self: center; }
+	
+	.ctdl-author-detail.show-author-cover .has-cover .item-thumbnail	{ padding: 0; }
+	.ctdl-author-detail.show-author-cover .has-cover .author-info		{ position: absolute; left: 20px; bottom: 20px; z-index: 10; max-width: calc(100% - 40px); }
+}

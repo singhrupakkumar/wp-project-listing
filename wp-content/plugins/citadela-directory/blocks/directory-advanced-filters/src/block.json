@@ -1,0 +1,140 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/directory-advanced-filters",
+	"category": "citadela-directory-blocks",
+	"icon": "filter",
+	"attributes": {
+		"in_search_form": {
+			"type": "boolean",
+			"default": false
+		},
+		"advanced_header": {
+			"type": "boolean",
+			"default": false
+		},
+		"advanced_header_opened": {
+			"type": "boolean",
+			"default": true
+		},
+		"advanced_header_closed_on_mobile": {
+			"type": "boolean",
+			"default": false
+		},
+		"layout": {
+			"type": "string",
+			"default": "box"
+		},
+		"align": {
+			"type": "string",
+			"default": "left"
+		},
+		"box_width": {
+			"type": "string"
+		},
+		"title": {
+			"type": "string",
+			"default": ""
+		},
+		"hide_empty": {
+			"type": "boolean",
+			"default": false
+		},
+		"hide_empty_checkbox": {
+			"type": "boolean",
+			"default": false
+		},
+		"show_data": {
+			"type": "string",
+			"default": "all"
+		},
+		"selected_inputs": {
+			"type": "array",
+			"default": []
+		},
+		"title_color": {
+			"type": "string",
+			"default": ""
+		},
+		"lines_color": {
+			"type": "string",
+			"default": ""
+		},
+		"labels_color": {
+			"type": "string",
+			"default": ""
+		},
+		"data_row_bg_color": {
+			"type": "string",
+			"default": ""
+		},
+		"filters_order": {
+			"type": "array",
+			"default": []
+		},
+		"active_filter_groups": {
+			"type": "array",
+			"default": []
+		},
+		"filter_operators": {
+			"type": "object",
+			"default": []
+		},
+		"show_group_title": {
+			"type": "boolean",
+			"default": true
+		},
+		"show_submit_button": {
+			"type": "boolean",
+			"default": true
+		},
+		"button_text": {
+			"type": "string",
+			"default": "Filter"
+		},
+		"button_style": {
+			"type": "string",
+			"default": "small-button"
+		},
+		"button_text_color": {
+			"type": "string",
+			"default": ""
+		},
+		"button_bg_color": {
+			"type": "string",
+			"default": ""
+		},
+		"button_border_radius": {
+			"type": "number"
+		},
+		"lines_type": {
+			"type": "string",
+			"default": "filter-group"
+		},
+		"header_text_color": {
+			"type": "string",
+			"default": ""
+		},
+		"header_bg_color": {
+			"type": "string",
+			"default": ""
+		},
+		"header_border_color": {
+			"type": "string",
+			"default": ""
+		},
+		"header_border_type": {
+			"type": "string",
+			"default": "none"
+		},
+		"filters_submit_label": {
+			"type": "string",
+			"default": "OK"
+		},
+		"filters_disable_label": {
+			"type": "string",
+			"default": "Disable filters"
+		}
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

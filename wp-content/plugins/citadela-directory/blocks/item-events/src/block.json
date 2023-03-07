@@ -1,0 +1,30 @@
+{
+    "apiVersion": 1,
+    "name": "citadela-directory/item-events",
+    "category": "citadela-directory-blocks",
+    "icon": "calendar",
+    "attributes": {
+        "title": {
+            "type": "string",
+            "default": ""
+        },
+        "showEventFeaturedImage": {
+            "type": "boolean",
+            "default": true
+        },
+        "showEventDescription": {
+            "type": "boolean",
+            "default": true
+        },
+        "showEventPrice": {
+            "type": "boolean",
+            "default": true
+        },
+        "imageSize": {
+            "type": "string",
+            "default": "thumbnail"
+        }
+    },
+    "example": {},
+    "editorScript": "citadela-directory-blocks"
+}

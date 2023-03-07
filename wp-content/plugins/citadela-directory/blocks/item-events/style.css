@@ -1,0 +1,36 @@
+/*
+*	ITEM EVENTS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-events {}
+.ctdl-item-events .citadela-event		{ margin-bottom: 2em; }
+
+.ctdl-item-events .citadela-event-date  { margin-bottom: 0.5em; }
+.ctdl-item-events .event-date-label		{ display: inline-block; vertical-align: top; background: #000000; color: #ffffff; font-size: 0.9em; font-weight: bold; text-transform: uppercase; padding: 5px 10px; }
+
+.ctdl-item-events .citadela-event-thumbnail				{ display: none; }
+.ctdl-item-events .citadela-event-datetime				{ font-size: 0.9em; }
+.ctdl-item-events .citadela-event-title h3             			{ font-size: 1.4em; font-weight: bold; }
+.ctdl-item-events .citadela-event-title .event-price:before    	{ content: "| "; opacity: 0.5; font-weight: 400; }
+
+@media all and (min-width: 400px)
+{
+	.ctdl-item-events .citadela-event			{ display: flex; flex-flow: row nowrap; }
+	.ctdl-item-events .citadela-event-date		{ flex: 0 0 auto; width: 90px; padding-right: 20px; margin: 0; }
+	.ctdl-item-events .event-date-label			{ display: block; text-align: center; padding: 10px; }
+	.ctdl-item-events .event-date-label > * 		{ display: block; }
+	.ctdl-item-events .event-date-label > .month  	{ font-size: 0.9em; }
+	.ctdl-item-events .event-date-label > .day  	{ font-size: 1.6em; }
+	.ctdl-item-events .citadela-event-body  	{ flex: 1 1 auto; }
+}
+@media all and (min-width: 769px)
+{
+	.ctdl-item-events .citadela-event-body      { display: flex; flex-flow: row nowrap; }
+	.ctdl-item-events .citadela-event-thumbnail	{ flex: 0 0 auto; display: block; order: 2; width: 150px; margin-left: 20px; }
+	.ctdl-item-events .citadela-event-data		{ flex: 1 1 auto; order: 1; }
+}
+
+
+.ctdl-item-events:not(.show-item-description) .citadela-event-data		{ display: flex; flex-flow: column wrap; }
+.ctdl-item-events:not(.show-item-description) .citadela-event-datetime	{ flex: 0 0 auto; order: 2; }
+.ctdl-item-events:not(.show-item-description) .citadela-event-title     { flex: 0 0 auto; order: 1; }

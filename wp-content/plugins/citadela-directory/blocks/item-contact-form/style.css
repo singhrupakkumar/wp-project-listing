@@ -1,0 +1,12 @@
+/*
+*	ITEM CONTACT FORM: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+
+.ctdl-item-contact-form {}
+
+.ctdl-item-contact-form .input-container							{ margin-bottom: 0.5em; }
+.ctdl-item-contact-form .input-container:not(.sf-button) label		{ display: none; }
+.ctdl-item-contact-form .input-container:not(.sf-button) input,
+.ctdl-item-contact-form .input-container:not(.sf-button) textarea	{ width: 100%; box-sizing: border-box; padding: 5px 10px; }
+.ctdl-item-contact-form .input-container:not(.sf-button) textarea	{ height: 200px; max-width: 100%; min-width: 100%; }

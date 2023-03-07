@@ -1,0 +1,669 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"PO-Revision-Date: 2022-08-03 09:59+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Domain: citadela\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pomyślał o „%2$s”"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "Niezgodność motywu %s i wtyczek AIT"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "Niezgodność motywu %s i PHP"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "Niezgodność motywu %s i wersji WordPress"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 obszar widżetów stron"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "Klucz API"
+
+#: design/js/build/editor.js:128 design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Dodaj więcej klas oddzielonych spacją."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Dodaje listę bloków i funkcji Gutenberga, takich jak mapa, GPX, wpisy na blogu na mapie lub subskrypcje."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Administrator → Lista Citadeli → Aktywacja wtyczki"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Administrator → Motyw Cytadeli"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Administrator → Ustawienia → Cytadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Wygląd zewnętrzny"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Ustawienia wyglądu Twojej witryny"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Obszar widżetów archiwów"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Archiwa Autora:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Obszar widżetów strony bloga"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Kategoria: Archiwum:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Cytadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Cytadela aktywowana"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Pulpit nawigacyjny Cytadeli"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Układy Cytadeli"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Lista Cytadeli"
+
+#: design/js/build/editor.js:195 design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Ustawienia strony Cytadeli"
+
+#: design/js/build/editor.js:198 design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Ustawienia postu w Cytadeli"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Cytadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Zainstalowana wtyczka Citadela Pro."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Motyw Cytadeli"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Dokumentacja Citadeli zawiera wszystko, czego potrzebujesz, aby zrozumieć, jak działają motywy i wtyczki premium. Jest napisany dla Ciebie i innych użytkowników, aby jak najszybciej poznać nasz motyw. Dokumentacja jest aktualizowana codziennie. Zawiera opis nowych funkcji i często zadawane pytania od naszego wsparcia."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela to darmowy, wielofunkcyjny motyw WordPress stworzony przez AitThemes. Możesz go używać bez żadnych ograniczeń na swojej komercyjnej lub niekomercyjnej stronie internetowej."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela to darmowy, wielofunkcyjny motyw WordPress. Możesz go używać bez żadnych ograniczeń na swojej komercyjnej lub niekomercyjnej stronie internetowej. Jednak nasze wtyczki premium mogą przenieść Twoją witrynę na zupełnie nowy poziom!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Skomentuj <span class=\"screen-reader-text\">%s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Możliwość dodawania komentarzy nie jest dostępna."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "Komentarze <span class=\"screen-reader-text\">do %s</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Komentarze <span class=\"screen-reader-text\">do %s</span>"
+
+#: citadela-theme/customizer.php:35 footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "Utworzono za pomocą motywu WordPress Citadela autorstwa AitThemes"
+
+#: design/js/build/editor.js:127 design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Niestandardowa klasa CSS"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Obsługa klienta"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Dostosuj kolory, czcionki i układ. Dodaje niestandardowe bloki dla edytora Gutenberg WordPress."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Archiwa dat:"
+
+#: citadela-theme/Citadela.php:107 citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "Domena"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Pobierz układy"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35 template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edytuj <span class=\"screen-reader-text\">%s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Kod zakupu Envato"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Błąd podczas instalowania wtyczki"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Błąd podczas instalacji"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Wygasłe członkostwo"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Poznaj układy Citadela"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Szybki, lekki i łatwy w użyciu motyw wielofunkcyjny. Opracowany dla kreatora stron Blocks i Gutenberg. Najlepsze dla firm, prywatnych stron internetowych i blogów."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Tekst stopki"
+
+#: citadela-theme/config/config.php:17 functions.php:20
+msgid "Footer menu"
+msgstr "Menu stopki"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Obszar widżetów stopki"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Pełna szerokość strony"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Układ nagłówka"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Pomocna dokumentacja"
+
+#: design/js/build/editor.js:115 design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Ukryj sekcję tytułu strony"
+
+#: citadela-theme/customizer.php:89 citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "Ukryj tytuł i slogan witryny"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "Ukryj tytuł witryny i slogan na komputerze"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Ukryj tytuł witryny i slogan na urządzeniu mobilnym"
+
+#: citadela-theme/customizer.php:90 citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Ukryj tylko opis"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Obszar widżetów domowych"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Zainstaluj wtyczki Citadela"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Zainstaluj wtyczki Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Zainstalowane"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Instalowanie..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Nieprawidłowy klucz API dla tej domeny"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Nieprawidłowy kod zakupu dla tej domeny"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Wygląda na to, że w tym miejscu nic nie znaleziono. Może spróbuj jednego z poniższych linków lub wyszukaj?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wygląda na to, że nie możemy znaleźć tego, czego szukasz. Być może wyszukiwanie może pomóc."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Pakiet układu"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Ucz się więcej"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Lewa strona paska bocznego"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "Kod zakupu MOJO"
+
+#: citadela-theme/config/config.php:16 functions.php:19
+msgid "Main menu"
+msgstr "Menu główne"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Następny"
+
+#: citadela-theme/customizer.php:88 citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Nic"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "nic nie znaleziono"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jedna myśl o „%1$s”"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Nie można znaleźć tej strony."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Obszar widżetów stron"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22 template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32 template-parts/content.php:50
+msgid "Pages:"
+msgstr "Strony:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Odmowa pozwolenia."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Wprowadź prawidłowy klucz API dla tej domeny. Możesz to skonfigurować w %s."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Wprowadź prawidłowy kod zakupu dla tej domeny. Możesz to skonfigurować w %s."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Spróbuj sprawdzić później aktywację produktu tutaj:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Podłącz"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "Opublikowany w"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "Opublikowany"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Obszar widżetów postów"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Zainstalowane wtyczki Premium Citadela."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Funkcja premium"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Wtyczka Premium"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Funkcje profesjonalne"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Kod zakupu"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "Kod zakupu %1$s jest już używany na „%2$s”. Jeśli chcesz z niego korzystać na tej stronie, możesz %3$swyrejestrować go tutaj%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "Kod zakupu jest już używany"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy do opublikowania swojego pierwszego posta? <a href=\"%1$s\">Zacznij tutaj</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Gotowe do użycia układy Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Gotowe do użycia, za jednym kliknięciem zainstaluj układy Citadela, aby uruchomić nową witrynę w kilka minut."
+
+#: design/js/build/editor.js:121 design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Usuń spację pod nagłówkiem"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Strona prawego paska bocznego"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Ratować"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Wyniki wyszukiwania dla:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Obszar widżetów wyników wyszukiwania"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "Ustawienia nagłówka witryny"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Przepraszamy, ale nic nie pasuje do wyszukiwanych haseł. Spróbuj ponownie z innymi słowami kluczowymi."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Zacznij czytać"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Archiwa tagów:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Tagi"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Dziękujemy za zainstalowanie motywu Citadela autorstwa AitThemes"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Dziękujemy za korzystanie z wtyczek premium Citadela. Jako płacący klient AitThemes masz dostęp do naszego forum wsparcia i dokumentacji."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "Klucz API dla hosta lokalnego nie jest potrzebny."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Tematyczny kod zakupu"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Wystąpił błąd podczas instalacji wtyczki."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Na tej stronie działa wersja próbna produktów Citadela. Kup członkostwo, aby aktywować stronę. %1$sWyświetl dostępne członkostwa%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Wyszkolony zespół wsparcia pomoże Ci szybko rozpocząć pracę nad Twoją witryną. Naszym celem jest nauczenie Cię, jak efektywnie i we właściwy sposób korzystać z naszych produktów. System wsparcia jest w pełni poufny i zamknięty, możesz tam zadać dowolne pytanie dotyczące naszego motywu. Pamiętaj, że nie wprowadzamy żadnych dostosowań. Jest wielu projektantów lokalizacji, którzy z przyjemnością pomogą Ci w realizacji Twoich niestandardowych pomysłów."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Odwiedź Wsparcie"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Nie możemy teraz zweryfikować Twojego klucza API."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "W tej chwili nie możemy zweryfikować Twojego kodu zakupu."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "Stworzyliśmy również wersje premium Citadeli, które przeniosą Twoją witrynę na zupełnie nowy poziom."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Zauważyliśmy, że używasz niezgodnych wtyczek AIT Citadela (%s), więc je dezaktywowaliśmy."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Zauważyliśmy, że używasz przestarzałej wersji PHP, która nie jest już obsługiwana. Upewnij się, że Twoja witryna jest szybka i bezpieczna, <a href='%1$s'>uaktualniając PHP do najnowszej wersji</a> . Minimalne wymaganie dla %2$s to <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Zauważyliśmy, że używasz przestarzałej wersji WordPressa. Upewnij się, że Twoja witryna jest bezpieczna, <a href='%1$s'>aktualizując WordPress do najnowszej wersji</a> . Minimalnym wymaganiem dla %2$s jest <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "Widgety wyświetlane w stopce."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "Widgety wyświetlane na stronie 404."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "Widgety wyświetlane na stronie Sklepu."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Widgety wyświetlane na stronach archiwum."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "Widgety wyświetlane na stronie bloga."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "Widgety wyświetlane na stronie głównej."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Widgety wyświetlane na stronach."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "Widgety wyświetlane na postach."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "Widgety wyświetlane na stronie wyników wyszukiwania."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Dzięki naszym układom motywów WordPress Citadela nie musisz zatrudniać projektanta, który pomoże Ci sprawić, by Twoja witryna wyglądała profesjonalnie. Nasi projektanci już to dla Ciebie zrobili. Układy Citadela WordPress są starannie zaprojektowane, aby pasowały do Twojej firmy. Wystarczy zmienić treść, aby zaprezentować swoją pracę. Oszczędza czas i pieniądze."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Obszar widżetów sklepu Woocommerce"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "Kod zakupu znajdziesz na swoim koncie %1$sEnvato → Pobieranie%2$s pod przyciskiem Pobierz."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "Kod zakupu znajdziesz na swoim koncie %1$sMOJO → Motywy%2$s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Kod zakupu znajdziesz w wiadomości e-mail dotyczącej zakupu od Themely."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Możesz wygenerować klucz API dla tej domeny na swoim %1$saccount%2$s."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Możesz zaimportować dowolny z tych układów, aby rozpocząć tworzenie swojej witryny. Układ można zaimportować za pomocą wtyczki Citadela Pro."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Możesz zaimportować dowolny z tych układów, aby rozpocząć tworzenie swojej witryny. Układ można zaimportować za pomocą wtyczki Citadela Pro. Pakiety układów można znaleźć w głównym pliku zip, który można pobrać z Themeforest."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Możesz przetestować pełną wersję funkcji premium Citadela za darmo."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Możesz przetestować pełną wersję funkcji premium Citadela za darmo. W przypadku aktywnej witryny internetowej potrzebne jest aktywne członkostwo i ważny klucz API dla tej domeny. %1$sZobacz dostępne członkostwa%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Nie masz uprawnień do instalowania wtyczek."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Aby korzystać z płatnych funkcji Citadela, musisz wpisać %1$s. Jeden %1$s pozwoli Ci uruchomić Citadelę pod jednym adresem URL. Zapewni również automatyczne aktualizacje motywów i wtyczek."
+
+#: citadela-theme/Citadela.php:110 citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "Będzie to potrzebne do wygenerowania klucza API"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Twoje członkostwo wygasło. Możesz %1$sprzedłużyć go tutaj%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "przez"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "przez AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

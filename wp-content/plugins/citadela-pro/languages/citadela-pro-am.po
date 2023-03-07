@@ -1,0 +1,2811 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: am\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "%s ተሰኪ እና ፒኤችፒ አለመጣጣም።"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "%s ተሰኪ እና የዎርድፕረስ አለመጣጣም"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "%s ተሰኪ ቦዝኗል"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%s ተሰኪ አለመጣጣም።"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(ከAitThemes መለያህ ማውረድ ትችላለህ)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% አግድም"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% አቀባዊ"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "ተቀበል"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "በዴስክቶፕ እና በሞባይል መሳሪያዎች ላይ በተለየ መልኩ በሚታዩ ብሎኮች መካከል ባዶ ቦታ ይጨምሩ።"
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "ተጨማሪ ጽሑፍ"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "ተጨማሪ ጽሑፍ ከመስክ ጋር ይታያል። ከእርስዎ ውሎች ወይም የግላዊነት ፖሊሲ ጋር ለማገናኘት እንደ ዩአርኤል ያሉ የኤችቲኤምኤል ቅርጸት ሊይዝ ይችላል።"
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "የላቀ"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "የላቁ ቅንብሮች"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "የጽሑፍ ማእከልን አሰልፍ"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "ጽሑፍ ወደ ግራ አሰልፍ"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "ጽሑፍን ወደ ቀኝ አሰልፍ"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "የአርማውን ክፍል በግራ በኩል አሰልፍ"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "ሁሉም"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "ሁሉም ልዩ ገጾች"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "ሁሉም ብሎኮች ወደ %s ተሰኪ ተወስደዋል።"
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "የኩባንያ አገልግሎቶችን በቀላሉ ወደ ድር ጣቢያዎ እንዲያክሉ ያስችልዎታል።"
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "በብጁ ቅንብሮች እና ቅርጸ-ቁምፊ ጽሑፍ እንዲያስገቡ ይፈቅድልዎታል።"
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "በፈለከው ቦታ የገጽ ርዕስ እንድታስቀምጥ ይፈቅድልሃል። ለምሳሌ ከራስጌ ምስል በኋላ።"
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "ማስታወቂያዎች አሞሌ"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "የማስታወቂያ አሞሌ"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "የማስታወቂያ አሞሌ ማንኛውንም አስፈላጊ ማስታወቂያዎችን በሁሉም ገጾችዎ አናት ላይ እንዲያቀርቡ ያስችልዎታል።"
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "የማስታወቂያ አሞሌ ከተመረጠው ቀን እና ሰዓት በኋላ ይታያል።"
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "የማስታወቂያ አሞሌ እስከ ተመረጠው ቀን እና ሰዓት ድረስ ይታያል።"
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "የድር ጣቢያዎን ጎብኝዎች የአይፒ አድራሻ ስም አይስጡ።"
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "መልክ"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "ለድር ጣቢያዎ የመልክ ቅንብሮች"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "ለቀላል የማስታወቂያዎች ባር የተተገበረ።"
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "ወደ ላይ መውጣት"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "የደራሲ የህይወት ታሪክ መረጃ"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "የደራሲው ስም"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "የተመረጠ ዘይቤ መገኘት ለርዕሶች በተመረጠው ቅርጸ-ቁምፊ ላይ ይወሰናል."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "የሚገኝ ክልል"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "የበስተጀርባ ምስል ተደራቢ"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "የበስተጀርባ ቅንብሮች"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "የበስተጀርባ ቀለም"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "የበስተጀርባ ቀለም አይነት"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "የበስተጀርባ ቅልመት"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "የበስተጀርባ ምስል"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "የበስተጀርባ ምስል መድገም"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "የበስተጀርባ ምስል መጠን"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "የበስተጀርባ አቀማመጥ"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "ለድር ጣቢያዎ ራስጌ ዳራ ቅንጅቶች"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "የአሞሌ ዳራ ቀለም"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "ጥቁር"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "የብሎግ ገጽ"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "የብሎግ ልጥፎች"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "ራዲየስ ብዥታ"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "ደፋር"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "ደፋር (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "የድንበር ቅንጅቶች"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "የድንበር ቀለም"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "የድንበር ራዲየስ"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "የድንበር ራዲየስ አማራጮች"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "የድንበር ስፋት"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "የድንበር ቀለም"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "የድንበር ስፋት"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "ከታች"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "ከታች"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "ከታች ግራ"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "ከታች በቀኝ"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "የሳጥን አቀማመጥ"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "የሳጥን ስፋት"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "የበርገር ምናሌ ብቻ"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "የአዝራር ዳራ ቀለም"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "የአዝራር URL"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "የአዝራር ዳራ"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "የአዝራር ማገናኛ"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "የአዝራር ቅንብሮች"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "የአዝራር ጽሑፍ"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "አዝራሮች የድንበር ራዲየስ"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "ሰርዝ"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Carousel autoplay ነቅቷል።"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "የ Carousel loop ሁነታ ነቅቷል።"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "ምድቦች"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "ምድብ"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "የምድብ መግለጫ"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "የምድብ ርዕስ"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "ምድብ፡"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "መሃል"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "መሃል"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "HTML መለያ ቀይር"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "አዶ ቀይር"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "ምስል ቀይር"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "ለዴስክቶፕ ጥራት ምስልን ይቀይሩ"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "ለተንቀሳቃሽ ስልክ ጥራት ምስል ቀይር"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Citadela - ልዩ ገጾች"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Citadela ብሎኮች"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Citadela የይዘት ቅንብሮች"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Citadela ግማሽ አቀማመጥ ቅንብሮች"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Citadela ራስጌ ቅንብሮች"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Citadela ልጥፎች ብሎኮች"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Citadela አገልግሎት የምስል መጠንን አግድ"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Citadela ልዩ ገጾች"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "ክላሲክ"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "ክላሲክ"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "ግልጽ"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "ክላስተር"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "ክላስተር እገዳ"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "ሜኑ ወደ አዝራር ሰብስብ"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "ሊሰበሰቡ የሚችሉ የግርጌ መግብሮች አማራጮች"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "የቀለም ቅንጅቶች"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "ቀለሞች"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "የአስተያየት ደራሲ ስም በድር ጣቢያ መስክ ውስጥ ከገባው ዩአርኤል ጋር አይገናኝም።"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "የአስተያየት ጽሑፍ መስክ"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "የአስተያየቶች ቅጥያ በእያንዳንዱ የዎርድፕረስ አስተያየት ቅጽ ላይ የእገዛ ጽሑፍን ለመጨመር መጠቀም ይቻላል።"
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "የአስተያየቶች ማራዘሚያ"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "የአስተያየቶች አገናኞች ቅንብሮች"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "አረጋግጥ"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "ይይዛል"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "ይዘት"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "የይዘት መጠን"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "የይዘት መጠን ስፋት"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "የይዘት ስፋት"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "የይዘት ስፋት መጠኖች"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "የኩኪዎች ማብቂያ ጊዜ"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "ሽፋን"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "ሽፋን"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "የአምድ ቁመትን ይሸፍኑ"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "የአሁኑ የማገጃ እይታ"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "የአሁኑ ገጽ ርዕስ"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "ብጁ ራስጌ ነቅቷል። የሚከተሉት አማራጮች ለዚህ ገጽ ውጤት ላይኖራቸው ይችላል።"
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "ብጁ አርማ ያለው ብጁ ራስጌ ለዚህ ገጽ ነቅቷል። የአርማ ምስል ለውጥ በቅድመ-እይታ ላይታይ ይችላል።"
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "ብጁ ገጽ ርዕስ"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "ብጁ ኮዶች"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "ብጁ ምስል"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "ብጁ አርማ"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "ብጁ አርማ ምስል"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "ቀለሞችን አብጅ"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "ለሞባይል ስክሪን ስፋት ብጁ አማራጮች።"
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "ቀን"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "የቀን ቀለም"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "ቀን ከ"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "ቀን ወደ"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "የቀን ሰዓቶች ቀለም"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "የቀን ርዕስ ቀለም"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "የተወሰነ ጊዜ የሌላቸው ቀናት ይደበቃሉ."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "የጌጣጌጥ ቀለም"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "የጌጣጌጥ ቀለም"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "ነባሪ"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "ነባሪ"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "ነባሪ መጠን"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "ለተለያዩ የንድፍ ክፍሎች የድንበር ራዲየስን ይግለጹ."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "ረድፍ ሰርዝ"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "መውረድ"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "የንድፍ አማራጮች"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "ዴስክቶፕ"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "የዴስክቶፕ ቅንብሮች"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "የዴስክቶፕ መጠን"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "የደራሲ ስም ማገናኛን አሰናክል"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "ነባሪ ህዳጎችን አሰናክል"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "የአርታዒ አስተያየት አገናኞችን አሰናክል"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "ተለይቶ የቀረበ ጠረጴዛን አሰናክል"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "የእንግዳ አስተያየት አገናኞችን አሰናክል"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "ምስል አሰናክል"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "ማስመጣት/መላክን አሰናክል"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "በብሎግ ልጥፍ ውስጥ ወደ ተለይቶ የቀረበ ምስል አገናኝን ያሰናክሉ።"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "የአርታዒ ያልሆኑ አስተያየት አገናኞችን አሰናክል"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "መለያየትን አሰናክል"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "በሠንጠረዡ ውስጥ የምርት፣ አገልግሎት ወይም ጥቅሎችን ያሳዩ። በጣም ጥሩውን ስምምነት ያዘጋጁ ፣ የቅናሽ ዋጋን ያሳዩ እና ለማነፃፀር አስፈላጊ ባህሪዎችን ይፃፉ።"
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "በማጣሪያዎች ላይ በመመስረት የልጥፎችን ዝርዝር ያሳያል። ለምሳሌ ልጥፎች ከተወሰነ ምድብ ብቻ።"
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "በዎርድፕረስ ብሎግ ገጽ ላይ የተለጠፈ የልጥፎችን ዝርዝር ያሳያል።"
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "እባክዎን ተንሳፋፊ ቁጥሮችን አይጠቀሙ።"
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "በማውረድ ላይ…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "የአቀማመጥ ጥቅል እዚህ ጣል ያድርጉ"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "በ%1$sየክስተቶች የቀን መቁጠሪያ%2$s ነፃ ፕለጊን በቀላሉ የክስተት ቀን መቁጠሪያ ይፍጠሩ እና ያስተዳድሩ።"
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "ልዩ ገጽን ያርትዑ"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "ምስሉን ያርትዑ ወይም ያዘምኑ"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "የኢሜል መስክ"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "አንቃ"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "ሊሰበሰብ የሚችል ግርጌ wigets አካባቢን ያንቁ"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "ተለይቶ የቀረበ ሰንጠረዥን አንቃ"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "ስህተት"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "ክስተቶች"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "በቀናት ውስጥ የተቀመጡ ኩኪዎች ጊዜያቸው ያበቃል።"
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "%s አቀማመጥን ወደ ውጪ ላክ"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "በጣም ደፋር (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "ከመጠን በላይ ደፋር"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "ተጨማሪ ብርሃን"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "ተለይቶ የቀረበ"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "ተለይቶ የቀረበ የምስል አገናኝ"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "የመስክ መለያ"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "የልዩ ገጾችን ዝርዝር አጣራ"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "ማጣሪያዎች"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "የተስተካከለ የጀርባ ምስል"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "ቋሚ ምስል"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "የቅርጸ ቁምፊ መጠን"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "የቅርጸ-ቁምፊ መጠን ክፍል"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "የግርጌ ቀለም"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "የግርጌ ኮድ"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "በህዋ ውስጥ ተገድዷል"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "አርብ"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "ከAitThemes፡-"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "ከAitThemes፡ %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "ከ WordPress.org፡"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "ከ WordPress.org፡ %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "ሙሉ ተለጣፊ ራስጌ"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "ሙሉ መጠን"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "ሙሉ መጠን ስፋት"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "ሙሉ ስፋት"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "ባለሙሉ ስፋት ራስጌ"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "የሙሉ ስፋት መጠን"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "አጠቃላይ የድንበር ራዲየስ"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "አጠቃላይ አቀማመጥ"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "ለዴስክቶፕ አጠቃላይ አማራጮች።"
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "አጠቃላይ ቅንብሮች"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "ጎግል ትንታኔ"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "የጉግል አናሌቲክስ መከታተያ መታወቂያ።"
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "ጎግል ቅርጸ-ቁምፊ"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "ግራዲየንት"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "የግራዲየንት ዲግሪ"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "የግራዲየንት ተደራቢ"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "በምስሉ ስር ያለ ቅልመት፣ ከበስተጀርባ ለ.png ምስሎች ጠቃሚ።"
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "HTML መለያ"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "የግማሽ አቀማመጥ ገጽ"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "የራስጌ ዳራ"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "የራስጌ ቀለም"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "የራስጌ ቀለም ተደራቢ"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "የራስጌ ምስል"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "የራስጌ ምስል አቀማመጥ"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "የራስጌ ምስል ድገም።"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "የራስጌ ምስል መጠን"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "የራስጌ አቀማመጥ"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "የራስጌ ዳራ"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "የራስጌ ኮድ"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "የራስጌ ጽሑፍ"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "ቁመት ቅንብሮች"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "ቁመት አሃድ"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "በዴስክቶፕ ላይ ተደብቋል"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "በሞባይል ተደብቋል"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "በዴስክቶፕ ላይ ሙሉ ተለጣፊ ራስጌ ውስጥ የተደበቀ ርዕስ"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "በተንቀሳቃሽ ስልክ ላይ ሙሉ ተለጣፊ ራስጌ ውስጥ የተደበቀ ርዕስ"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "የጣቢያ ርዕስን ደብቅ"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "ቁልፍን ከአገናኝ ጋር ደብቅ"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "የቅናሽ ዋጋን ደብቅ"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "ባዶ ቀናትን ደብቅ"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "በሞባይል ላይ ብቻ ደብቅ"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "የጣቢያ ርዕስን ደብቅ"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "የጣቢያ ርዕስ እና መለያ ደብቅ"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "የመለያ መጻፊያ መስመርን ብቻ ደብቅ"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "አግድም ማካካሻ"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "የአዶ ቀለም"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "ከነቃ፣ ተለጣፊ ልጥፎች በተዘረዘሩት ልጥፎች አናት ላይ ይታያሉ።"
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "ምስል"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "የምስል ተደራቢ ቀለም"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "የምስል አቀማመጥ"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "ምስል ድገም።"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "የምስል መጠን"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "ምስሎች"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "አቀማመጥን አስመጣ"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "የማስመጣት እና ወደ ውጪ ላክ የአቀማመጥ ቅንብሮች ገጾች ይሰናከላሉ።"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "ማስመጣት ተከናውኗል!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "አቀማመጥን ከፋይል አስመጣ"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "የአቀማመጥ ጥቅል ማስመጣት <strong>ሁሉንም ይዘቶችዎን ይሰርዛል</strong> - ሁሉንም ልጥፎች ፣ ገጾች ፣ ሚዲያዎች ፣ መለያዎች እና ምድቦች።"
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "በ &quot;em&quot; ክፍል ውስጥ"
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "ኢንፎባር"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "Infobar በድር ጣቢያዎ ላይ የኩኪዎችን ማስታወቂያ ለማሳየት ጥቅም ላይ ሊውል ይችላል። ወደ ድር ጣቢያዎ ለሚመጡ ሁሉም አዲስ ጎብኝዎች ይታያል። እሱን ለመደበቅ አዝራሩን ጠቅ ማድረግ ይችላሉ። ኢንፎባር ለተወሰኑ ቀናት ተደብቆ ይቆያል &quot;የኩኪ ጊዜው ያለፈበት&quot; መስክ ያዘጋጁት።"
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "ለአዝራር URL አስገባ። አዝራሩን ለመደበቅ ባዶውን ይተዉት።"
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "ከ%1$s በላይ የሆነ ቁጥር አስገባ ወይም ለነባሪ እሴት ባዶ ይተው።"
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "ከ%1$s በላይ የሆነ ቁጥር አስገባ።"
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "ከ%1$s ያነሰ ቁጥር ያስገቡ ወይም ለነባሪ እሴት ባዶ ይተዉት።"
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "ከ%1$s ያነሰ ቁጥር አስገባ።"
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "ረድፍ በኋላ አስገባ"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "ጽሑፍ አስገባ"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "ትክክለኛ ቁጥር አስገባ፣ እባክህ።"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "የጉግል አናሌቲክስ መከታተያ መታወቂያዎን ያስገቡ። የጉግል አናሌቲክስ መከታተያ ኮድ ወደ ድር ጣቢያዎ ይታከላል።"
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "ማስገቢያ ጥላ"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "አስፈላጊ ተሰኪዎችን ጫን"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "ተሰኪዎችን በመጫን እና በማንቃት ላይ…"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "የCitadela አቀማመጥ ጥቅል አይደለም።"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "የንጥል ንዑስ ርዕስ"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "የንጥል ርዕስ"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "ትልቅ"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "ትልቅ መጠን"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "አቀማመጥ ላኪ"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "የአቀማመጥ ላኪ ባህሪ የዎርድፕረስ ገጾችን፣ ልጥፎችን እና ሁሉንም የ Citadela አማራጮችን እና ቅንብሮችን ወደ ውጭ ይልካል። ወደ ሌላ Citadela ድህረ ገጽ በቀላሉ መጫን የምትችለውን የCitadela አቀማመጥ ለመፍጠር አቀማመጥ ላኪን መጠቀም ትችላለህ።"
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "አቀማመጥ አስመጪ የPHP ZIP ቅጥያ መጫን አለበት። እባክዎ ይጫኑት ወይም አስተናጋጅዎን ያነጋግሩ።"
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "የአቀማመጥ የማስመጣት/የመላክ ቅንብሮች"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "አቀማመጦች"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "አቀማመጦች ማስመጣት እና መላክ ተሰናክሏል።"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "ግራ"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "የግራ አሰልፍ አርማ"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "ግራ ጎን"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "የደብዳቤ ክፍተት"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "ብርሃን"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "ብርሃን (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "የመስመር ቁመት"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "የመስመሮች ቀለም"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "አገናኝ"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "የዝርዝር አቀማመጥ"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "አካባቢ"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "የአካባቢ መግለጫ"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "የአካባቢ ርዕስ"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "ቦታ፡"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "የአርማ ቅርጸ-ቁምፊ መጠን"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "የአርማ ምስል በብጁ ራስጌ ውስጥ።"
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "የአርማ ምስል ከፍተኛው ስፋት"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "የአርማ ክፍተት ከፍተኛው ስፋት"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "ዋና ምናሌ"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "መካከለኛ"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "መካከለኛ መጠን"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "አባልነት"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "የምናሌ አዝራር ቀለም"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "ዝቅተኛው እሴት 1500 ፒክስል፣ ላልተወሰነ ስፋት ባዶ ይተው።"
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "ዝቅተኛ ቁመት"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "ሞባይል"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "የሞባይል ቅንብሮች"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "የሞባይል ቅንብሮች"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "የሞባይል መጠን"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "የሞባይል ስፋት መግቻ ነጥብ"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "ዘመናዊ"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "ሰኞ"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "ወደ ታች ውሰድ"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "ወደ ላይ ተንቀሳቀስ"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "የስም መስክ"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "ቀጥሎ"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "አይ ድገም"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "ድንበሮች የሉም"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "መድገም የለም።"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "ምንም ውጤቶች አልተገኙም።"
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "ምንም ልዩ ገጾች አልተገኙም።"
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "ምንም"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "መደበኛ (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "ማስታወሻ፡ መደበኛ ገጽ ርዕስ ይደበቃል።"
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "የእቃዎች ብዛት"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "እሺ"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "ውይ! ያ ገጽ ሊገኝ አልቻለም።"
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "በአዲስ መስኮት ክፈት"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "አገናኙን በአዲስ ትር ይክፈቱ"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "የግርጌ መጫዎቻዎች አካባቢ ተከፍቷል።"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "ክፍት የሚሆንበት ሰዓቶች"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "የመክፈቻ ሰዓቶች ቅንብሮች"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "የትዕዛዝ አማራጮች"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "ያዝዙ"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "ኦሪጅናል"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "ተደራቢ ቀለም"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "ተደራቢ ቅልመት"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "ተደራቢ ግልጽነት"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "ፒኤችፒ ዚፕ ቅጥያ አልተገኘም።"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "የገጽ ቀለም"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "የአቀማመጥ ጥቅሉ ሙሉ በሙሉ እስኪመጣ ድረስ እባክዎ ይህን የአሳሽ መስኮት አይዝጉት።"
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "እባክዎን የአቀማመጥ ላኪ ሁሉንም ነገር ከዎርድፕረስ እንደማይልክ፣ እንደ WooCommerce ደረሰኞች ወይም ከሌላ የሶስተኛ ወገን ፕለጊኖች የመጣ መረጃ መሆኑን ይረዱ። ለስደት ዓላማዎች ብዙ ሌሎች ተሰኪዎች አሉ።"
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "አቀማመጥ"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "በድር ጣቢያው ላይ አቀማመጥ"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "የመለጠፍ ዝርዝሮች"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "ልጥፎች"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "የልጥፎች አሰሳ"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "የልጥፎች ቅንጅቶች"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "ቅድመ-ዕይታ በአብጁ ማያ ገጽ ላይ ብቻ ነው የሚታየው።"
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "ቀዳሚ"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "የዋጋ ሰንጠረዥ"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "የዋጋ ሰንጠረዥ አሰላለፍ"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "ራዲያል ቅልመት"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "በዘፈቀደ"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "ተጨማሪ ሊንክ አንብብ"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Citadela አቀማመጦችን ለመጠቀም ዝግጁ"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "ከብዙ የማበጀት አማራጮች ጋር ለ Citadela አቀማመጦችን እና ብሎኮችን ለመጠቀም ዝግጁ"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "በቅርብ ጊዜ የነቃው ጭብጥ ከ%s ፕለጊን ጋር ተኳሃኝ አይደለም፣ ስለዚህ ተሰኪው እንዲቦዝን ተደርጓል።"
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "መደበኛ"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "ምስል አስወግድ"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "ይድገሙ"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "በአግድም ይድገሙት"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "በአቀባዊ ይድገሙት"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "የሜዳውን ነባሪ መለያ ይተኩ።"
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "ምስል ተካ"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "የሚፈለጉ ተሰኪዎች"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "ዳግም አስጀምር"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "ምላሽ ሰጪ Spacer"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "ምላሽ ሰጪ ጽሑፍ"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "ምላሽ ሰጪ አማራጮች በማያ ገጹ ስፋት ስር ይተገበራሉ"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "እንደገና ጥቅም ላይ ሊውሉ የሚችሉ ብሎኮች"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "እንደገና ጥቅም ላይ ሊውል የሚችል የብሎኮች ቅንብሮች"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "ቀኝ"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "በቀኝ በኩል"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "ቅዳሜ"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "ቅንብሮችን አስቀምጥ"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "ልዩ ዕድሜዎችን ይፈልጉ"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "የፍለጋ ውጤቶች ለ፡"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "ለድር ጣቢያዎ ጎግል ፎንት ይምረጡ"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "የአቀማመጥ ጥቅልን ይምረጡ"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "አሰላለፍ ይምረጡ"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "በሞባይል ዲዛይን ላይ አሰላለፍ ይምረጡ"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "የበስተጀርባ አይነት ይምረጡ"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "ለድር ጣቢያዎ የቀለም ቅንጅቶችን ይምረጡ"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "የቅርጸ-ቁምፊ ክብደትን ይምረጡ"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "ምስል ይምረጡ"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "አቀማመጥ ይምረጡ"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "ለድር ጣቢያ ራስጌ አቀማመጥ ይምረጡ"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "ለድር ጣቢያዎ አቀማመጥ ይምረጡ"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "መጠን ይምረጡ"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "ከፊል-ደፋር"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "አገልግሎት"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "የአገልግሎት ምስል"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "የአገልግሎት መግለጫ ጽሑፍ"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "የአገልግሎት ራስጌ"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "የበስተጀርባ ምስል አዘጋጅ"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "ብጁ ምስል ያዘጋጁ"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "ብጁ አርማ ምስል አዘጋጅ"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "የራስጌ ቀለም እንደ የበስተጀርባ ምስል ተደራቢ ያዘጋጁ"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "በግርጌ ላይ ያሉ መግብሮች በነባሪነት በተንቀሳቃሽ ስልክ ላይ ከገጽ ጭነት በኋላ የተከፈቱ ከሆነ ያዘጋጃል። ሊሰበሰቡ የሚችሉ መግብሮች ከነቃ ተፈጻሚ ይሆናል።"
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "ቅንብሮች"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "ቅንብሮች ተቀምጠዋል"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "በራስጌ ውስጥ ለዋናው ምናሌ ቅንብሮች"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "ለጣቢያ ራስጌ ቅንብሮች"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "የጥላ ቅንጅቶች"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "የጥላ ቀለም"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "ሁልጊዜ አሳይ"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "የማሳያ ቁልፍ ከአገናኝ ጋር"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "ምድቦችን አሳይ"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "ቀን አሳይ"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "መግለጫ አሳይ"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "የቅናሽ ዋጋ አሳይ"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "ተለይቶ የቀረበ ምስል አሳይ"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "በይዘት ላይ አርዕስት አሳይ"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "አዶ አሳይ"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "ምስል አሳይ"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "ምስሉን እንደ አዶ አሳይ"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "በምናሌው ውስጥ አሳይ"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "በአስተዳዳሪ ምናሌ ውስጥ እንደገና ጥቅም ላይ ሊውሉ የሚችሉ ብሎኮችን ለማስተዳደር አገናኝ አሳይ"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "ቦታዎችን አሳይ"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "በሞባይል ላይ ብቻ አሳይ"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "በድር ጣቢያዎ ላይ የስራ ሰዓቶችን ያሳዩ።"
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "የክላስተር ብሎክን በተንቀሳቃሽ ስልክ ስክሪን መጠን ብቻ አሳይ ወይም ደብቅ።"
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "የማስታወቂያ አሞሌ ቅድመ እይታ አሳይ"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "ያለ ተጨማሪ የበስተጀርባ ቅንጅቶች ግልፅ አርዕስት አሳይ።"
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "ድር ጣቢያ አሳይ"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "ቀላል"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "ቀላል አቀማመጥ"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "ቀላል ቅንብሮች"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "ቀላል ቅንጅቶች በማስታወቂያ አሞሌ ውስጥ ቀላል ጽሑፍ እና ቁልፍ እንዲያሳዩ ያስችሉዎታል። ቀለሞች በዎርድፕረስ ማበጀት በኩል ሊበጁ ይችላሉ።"
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "ቀላል የጽሑፍ ቅጦች"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "ለብሎግ ልጥፎች ገጾች ቀለል ያሉ የአጻጻፍ ስልቶች"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "ነጠላ ቀለም"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "ነጠላ ቀለም ተደራቢ"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "በንድፍ ውስጥ ጥቅም ላይ የሚውሉ የይዘት ፣ ሰፊ እና ሙሉ ስፋት አቀማመጥ ዓይነቶች መጠኖች።"
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "ከመጀመሪያው የልጥፎች ብዛት ዝለል"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "ትንሽ"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "አነስተኛ መጠን"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "በአርማ ዙሪያ ቦታ"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "በምናሌው ዙሪያ ያለው ቦታ"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "የጠፈር ቁመት በ"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Spacer ቅንብሮች"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "የክፍተት ቅንጅቶች"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "ልዩ ገጽ"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "ልዩ ገጾች"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "ልዩ ገጾች"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "የጎን አሞሌ ወይም ዓምዶች ከሌሉ ሁልጊዜ ሙሉ ስፋት ያለው ልዩ መያዣ። እዚያ ሌሎች ብሎኮችን ማስገባት እና የመያዣውን ዳራ ማዘጋጀት ይችላሉ ።"
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "ልዩ ገጽ ተዘምኗል።"
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "ልዩ ገጾች ዝርዝር"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "የልዩ ገጾች ዝርዝር አሰሳ"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "ራዲየስ ስርጭት"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "ተለጣፊ ራስጌ በዴስክቶፕ ላይ"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "ተለጣፊ ራስጌ በሞባይል ላይ"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "ተለጣፊ የራስጌ ቅንብሮች"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "ተለጣፊ ልጥፎች መጀመሪያ"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "ቅጦች"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "የግርጌ ጽሑፍ"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "የግርጌ ጽሑፍ ቀለም"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "እሁድ"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "የሰንጠረዥ ንዑስ ርዕስ"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "የሠንጠረዥ ርዕስ"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "የመለያ መግለጫ"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "የመለያ ስም"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Tehre አቀማመጥን በማውረድ ላይ ስህተት ነበር።"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "ጽሑፍ"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "የጽሑፍ ፊደል"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "የጽሑፍ አሰላለፍ"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "የጽሑፍ ቀለም"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "የጽሑፍ ቀለም በብጁ ራስጌ።"
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "ጽሑፍ በመረጃ አሞሌ ውስጥ ይታያል። ከእርስዎ ውሎች ወይም የግላዊነት ፖሊሲ ጋር ለማገናኘት እንደ ዩአርኤሎች ያሉ የኤችቲኤምኤል ቅርጸት ሊይዝ ይችላል።"
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "በማስታወቂያዎች አሞሌ ውስጥ ባለው አዝራር ላይ ጽሑፍ ይታያል. አዝራሩን ለመደበቅ ባዶውን ይተዉት።"
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "ጽሑፉ በአዝራሩ ላይ ይታያል. ጽሁፍ ካልተገለጸ የ X ምልክት ኢንፎባርን ለመዝጋት ስራ ላይ ይውላል።"
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "የማስታወቂያ ጽሑፍ"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Citadela Pro ስላነቃህ እናመሰግናለን።"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "የ%s ተሰኪው ሊነቃ አልቻለም። አሁን ካለው ንቁ ጭብጥ ጋር ተኳሃኝ አይደለም።"
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "የCitadela አቀማመጥ እነዚህን ተሰኪዎች ይፈልጋል። አስፈላጊዎቹ ፕለጊኖች ተጭነው በራስ-ሰር እንዲነቃቁ ይደረጋሉ። ከተሰኪዎቹ ውስጥ የአንዱ መዳረሻ ከሌለህ፣ አንዳንድ ገፆች ያልተሟሉ ሊሆኑ ይችላሉ።"
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "ይዘቱ ሊመጣ አልቻለም።"
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "እንደ የአቀማመጥ ጥቅል መጠን እና የግንኙነት ፍጥነት (በዋነኛነት የማሳያ ምስሎችን በማውረድ ምክንያት) ሂደቱ ከ30 ሰከንድ እስከ 30 ደቂቃ ሊወስድ ይችላል።"
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "የገጽታ አቀማመጥ"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "ተሰኪዎችን መጫን ላይ ስህተት ነበር።"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "ወፍራም ድንበሮች"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "ቀጭን"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "ቀጭን ድንበሮች"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "ይህ ቅንብር የCitadela ስልቶቻችንን በ%1$sበክስተቶች የቀን መቁጠሪያ%2$s ፕለጊን እንጠቀም ወይም የተሰኪውን ቅጦች እንጠቀም እንደሆነ ይገልጻል።"
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "ሐሙስ"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "ንጣፍ"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "ሰድር በአግድም"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "ንጣፍ በአቀባዊ"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "ርዕስ"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "የርዕስ ቀለም"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "ርዕሶች ቅርጸ ቁምፊ"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "የርዕስ ዘይቤ"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "ምስሉን ለማርትዕ ሚዲያ ለመስቀል ፍቃድ ያስፈልገዎታል።"
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "ከፍተኛ"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "ከፍተኛ"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "ከላይ በግራ"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "ከላይ በቀኝ"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "የመከታተያ መታወቂያ"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "ግላዊነትን መከታተል"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "ግልጽ ራስጌ"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "ማክሰኞ"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "ማክሰኞ"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "የማስታወቂያ አሞሌ ተግባርን ያብሩ"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "የአስተያየቶች ቅጥያ ተግባርን ያብሩ"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "ዓይነት"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "ለፍለጋ ይተይቡ..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "የፊደል አጻጻፍ"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "የምስል ፋይል ይስቀሉ ወይም አንዱን ከሚዲያ ቤተ-መጽሐፍትዎ ይምረጡ።"
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "የተሰቀለው የዚፕ ፋይል የCitadela Layout ጥቅል አይደለም ወይም አሮጌው ተኳሃኝ ያልሆነ የአቀማመጥ ጥቅል ነው። እባክዎ አዲሱን ጥቅል ከእርስዎ AitThemes መለያ ያውርዱ።"
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "በመስቀል ላይ…"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "ዩአርኤል ከአርታዒ አስተያየት ጽሑፍ ይወገዳል። እንደ አስተዋጽዖ አበርካች እና ከዚያ በላይ ላለው የአርትዖት ልጥፍ ችሎታ ለተጠቃሚ ሚናዎች አመልክቷል።"
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "የእንግዳ አስተያየት ጽሑፍ ዩአርኤል ይወገዳል"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "ዩአርኤሎች ከአርታዒ ካልሆኑ የአስተያየት ጽሁፍ ይወገዳሉ። እንደ ተመዝጋቢ ያለ የአርትዖት ልጥፍ ችሎታ ለተጠቃሚ ሚናዎች ተተግብሯል።"
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Citadela ቅጦችን ይጠቀሙ"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "በድር ጣቢያዎ ላይ Infobar ይጠቀሙ"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "ብጁ ራስጌን ተጠቀም"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "ብጁ ስፋት ቅንብሮችን ተጠቀም"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "ነባሪ ቅርጸ-ቁምፊን ተጠቀም"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "ነባሪውን የቅርጸ ቁምፊ ክብደት ተጠቀም"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "ምላሽ ሰጪ አማራጮችን ተጠቀም"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "ከገጽታ ንድፍ የቅርጸ-ቁምፊ መጠንን በመጠቀም።"
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "ከገጽታ ንድፍ የደብዳቤ ክፍተትን በመጠቀም።"
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "የመስመር ቁመትን ከገጽታ ንድፍ በመጠቀም።"
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "አቀባዊ ማካካሻ"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "ማሳያ ይመልከቱ"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "አቀማመጦችን ይመልከቱ"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "ተጨማሪ ይመልከቱ"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "በሞባይል ላይ ታይነት"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "WP አዝራር አግድ"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "ስለ ምርታችን እና አገልግሎታችን ከእርስዎ ጋር እንድንገናኝ ኢሜልዎን እንይዛለን። ለተጨማሪ ዝርዝሮች እባክዎን <a href=\"#\">የእኛን የግላዊነት መመሪያ</a> ይመልከቱ።"
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "ስለ ምርታችን እና አገልግሎታችን ከእርስዎ ጋር እንድንገናኝ ስምዎን እንይዛለን። ለተጨማሪ ዝርዝሮች እባክዎን <a href=\"#\">የእኛን የግላዊነት መመሪያ</a> ይመልከቱ።"
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "ስለ ምርታችን እና አገልግሎታችን ከእርስዎ ጋር ለመነጋገር እንድንችል የእርስዎን ድር ጣቢያ URL እናቆየዋለን። ለተጨማሪ ዝርዝሮች እባክዎን <a href=\"#\">የእኛን የግላዊነት መመሪያ</a> ይመልከቱ።"
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "የአቀማመጥ ፓኬጁን እያስመጣን ነው..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "ጊዜው ያለፈበት የPHP ስሪት እያሄዱ እንደሆነ አስተውለናል ይህም ከአሁን በኋላ አይደገፍም፣ ስለዚህ <em>ተሰኪው እንዲቦዝን ተደርጓል</em> ። <a href='%1$s'>ፒኤችፒን ወደ የቅርብ ጊዜው ስሪት በማሻሻል</a> ጣቢያዎ ፈጣን እና ደህንነቱ የተጠበቀ መሆኑን ያረጋግጡ። ለ%2$s ዝቅተኛው መስፈርት <strong>PHP 5.6.20</strong> ነው።"
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "ጊዜው ያለፈበት የዎርድፕረስ ሥሪት እያሄዱ እንዳሉ አስተውለናል፣ ስለዚህ <em>ተሰኪው እንዲቦዝን ተደርጓል</em> ። <a href='%1$s'>WordPress ን ወደ አዲሱ ስሪት በማዘመን</a> ጣቢያዎ ደህንነቱ የተጠበቀ እና የተዘመነ መሆኑን ያረጋግጡ። ለ%2$s ዝቅተኛው መስፈርት <strong>WordPress 5.2</strong> ነው።"
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "የድር ጣቢያ URL መስክ"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "እሮብ"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "ሰፊ"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "ሰፊ መጠን"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "ሰፊ መጠን ስፋት"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "በግርጌ ላይ ያሉ መግብሮች በሞባይል ሊከፈቱ ወይም ሊዘጉ ይችላሉ።"
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "ስፋት ቅንብሮች"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "በላቁ ቅንጅቶች በኤችቲኤምኤል ላይ ሙሉ ቁጥጥር እና የማስታወቂያ አሞሌ ቅጦች አለህ።"
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "የሚገኘውን የCitadela አቀማመጦችን ማስመጣት ይችላሉ።"
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "የአንተ አስተያየቶች ምርቶቻችንን እና አገልግሎቶቻችንን እንድናሻሽል ይረዱናል ስለዚህም መቀዳቸውን እንቀጥላለን። አስተያየቱን ለወደፊት ማጣቀሻ እንጠቀማለን። ለተጨማሪ ዝርዝሮች እባክዎን <a href=\"#\">የእኛን የግላዊነት መመሪያ</a> ይመልከቱ።"
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "የአሁኑ ይዘትህ ይሰረዛል"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "ዚፕ ፋይሎች"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "የአዝራር ጽሑፍ"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "ወይም"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "ተጨማሪ ጽሑፍ ያንብቡ"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "የረድፍ ጽሑፍ..."

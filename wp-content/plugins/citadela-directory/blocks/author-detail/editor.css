@@ -1,0 +1,23 @@
+/*
+*	AUTHOR DETAIL: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-author-detail	{}
+
+.ctdl-author-detail .author-icon			{ height: 64px; background-color: rgba(200,200,200,0.7); border-radius: 100%; position: relative; color: #ffffff; }
+.ctdl-author-detail .author-icon:before     { content: "\f508"; font-size: 30px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 900; }
+.ctdl-author-detail .author-posts-number	{ color: #ffffff; font-weight: 700; background-color: #cccccc; }
+.ctdl-author-detail .posts-number:before	{ content: "###"; }
+
+.ctdl-author-detail .item-thumbnail                                     { background-color: rgba(200,200,200,0.5); }
+.ctdl-author-detail .author-cover										{ background-color: rgba(200,200,200,0.5); color: #ffffff; }
+.ctdl-author-detail .author-cover:before								{ height: 100%; background: linear-gradient(0deg,rgba(0,0,0,.5),rgba(0,0,0,.25) 50%,transparent); }
+.ctdl-author-detail.show-author-cover .has-cover .author-icon      		{ width: 96px; height: 96px; border-radius: 0; background-color: rgba(200,200,200,0.7); border: 4px solid #ffffff; }
+.ctdl-author-detail.show-author-cover .has-cover .author-icon:before    { font-size: 50px; }
+.ctdl-author-detail.show-author-cover .has-cover .author-posts-number	{ background-color: #ffffff; color: rgba(200,200,200,1); }
+
+@media all and (min-width: 400px)
+{
+	.ctdl-author-detail .item-thumbnail 		{ background: none; }
+	.ctdl-author-detail .author-cover:after		{ content: "\f03e"; font-size: 70px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 400; }
+}

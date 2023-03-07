@@ -1,0 +1,216 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/directory-similar-items",
+	"category": "citadela-directory-blocks",
+	"icon": "list-view",
+	"attributes": {
+		"refPost": {
+            "type": "array",
+            "default": []
+        },
+        "similarByAuthor": {
+            "type": "boolean",
+            "default": false
+        },
+        "similarByCategory": {
+            "type": "boolean",
+            "default": false
+        },
+        "similarByLocation": {
+            "type": "boolean",
+            "default": false
+        },
+        "showReferencePost": {
+            "type": "boolean",
+            "default": false
+        },
+
+
+        "onlyFeaturedCategory": {
+            "type": "boolean",
+            "default": false
+        },
+        "onlyFeatured": {
+            "type": "boolean",
+            "default": false
+        },
+        "featuredFirst": {
+            "type": "boolean",
+            "default": false
+        },
+        "numberOfItems": {
+            "type": "number"
+        },
+        "title": {
+            "type": "string",
+            "default": ""
+        },
+        "layout": {
+            "type": "string",
+            "default": "box"
+        },
+        "size": {
+            "type": "string",
+            "default": "medium"
+        },
+        "showItemFeaturedImage": {
+            "type": "boolean",
+            "default": true
+        },
+        "showItemSubtitle": {
+            "type": "boolean",
+            "default": true
+        },
+        "showItemDescription": {
+            "type": "boolean",
+            "default": true
+        },
+        "showItemAddress": {
+            "type": "boolean",
+            "default": true
+        },
+        "showItemWeb": {
+            "type": "boolean",
+            "default": true
+        },
+        "showItemCategories": {
+            "type": "boolean",
+            "default": true
+        },
+        "showItemLocations": {
+            "type": "boolean",
+            "default": false
+        },
+        "itemsOrderBy": {
+            "type": "string",
+            "default": "date"
+        },
+        "itemsOrder": {
+            "type": "string",
+            "default": "DESC"
+        },
+        "useCarousel": {
+            "type": "boolean",
+            "default": false
+        },
+        "carouselNavigation": {
+            "type": "boolean",
+            "default": true
+        },
+        "carouselPagination": {
+            "type": "boolean",
+            "default": true
+        },
+        "carouselAutoplay": {
+            "type": "boolean",
+            "default": false
+        },
+        "carouselAutoHeight": {
+            "type": "boolean",
+            "default": false
+        },
+        "carouselAutoplayDelay": {
+            "type": "number",
+            "default": 5
+        },
+        "carouselLoop": {
+            "type": "boolean",
+            "default": true
+        },
+        "borderWidth": {
+            "type": "string",
+            "default": "thin"
+        },
+        "borderColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "textColor": {
+            "type": "string",
+            "default": ""
+        },
+        "decorColor": {
+            "type": "string",
+            "default": ""
+        },
+        "carouselColor": {
+            "type": "string",
+            "default": ""
+        },
+        "showRating": {
+            "type": "boolean",
+            "default": true
+        },
+        "ratingColor": {
+            "type": "string",
+            "default": ""
+        },
+
+        "imageSize": {
+            "type": "string",
+            "default": "citadela_item_thumbnail"
+        },
+        "useResponsiveOptionsImageHeight": {
+            "type": "boolean",
+            "default": false
+        },
+        "breakpointMobileImageHeight": {
+            "type": "number",
+            "default": 600
+        },
+
+        "proportionalImageHeight": {
+            "type": "boolean",
+            "default": false
+        },
+        "proportionalImageHeightMobile": {
+            "type": "boolean",
+            "default": false
+        },
+        "imageHeightType": {
+            "type": "string",
+            "default": "default"
+        },
+        "imageHeightTypeMobile": {
+            "type": "string",
+            "default": "default"
+        },
+
+        "imageHeightUnit": {
+            "type": "string",
+            "default": "px"
+        },
+        "imageHeightUnitMobile": {
+            "type": "string",
+            "default": "px"
+        },
+
+        "imageHeight": {
+            "type": "number",
+            "default": 250
+        },
+        "imageHeightMobile": {
+            "type": "number",
+            "default": 250
+        },
+        
+        "imageObjectPosition": {
+            "type": "string",
+            "default": "center center"
+        },
+        "imageObjectPositionMobile": {
+            "type": "string",
+            "default": "center center"
+        }
+	},
+	"example": {
+		"attributes": {
+			"numberOfItems": 4
+		}
+	},
+	"editorScript": "citadela-directory-blocks"
+}

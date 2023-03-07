@@ -1,0 +1,2811 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tl-PH\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "%s plugin at PHP incompatiblity"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "%s plugin at WordPress incompatiblity"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "Na-deactivate ang %s plugin"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%s plugin incompatibility"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(Maaari mong i-download ang mga ito mula sa iyong AitThemes account)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% pahalang"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% patayo"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "Tanggapin"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "Magdagdag ng bakanteng espasyo sa pagitan ng mga bloke na iba ang hitsura sa desktop at sa mga mobile device."
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "Karagdagang teksto"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "Karagdagang teksto na ipinapakita kasama ang field. Maaari itong maglaman ng HTML formatting gaya ng mga url na i-link sa iyong mga tuntunin o patakaran sa privacy."
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "Advanced"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "Mga advanced na setting"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "I-align ang Text Center"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "I-align ang Text sa Kaliwa"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "I-align ang Teksto sa Kanan"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "I-align ang seksyon ng logo sa kaliwang bahagi"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "Lahat"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "Lahat ng Espesyal na Pahina"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "Ang lahat ng mga bloke ay inilipat sa %s plugin."
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "Binibigyang-daan kang madaling magdagdag ng mga serbisyo ng kumpanya sa iyong website."
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "Binibigyang-daan kang magpasok ng text na may mga custom na setting at font."
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "Binibigyang-daan kang ilagay ang pamagat ng pahina kahit saan mo gusto. Halimbawa pagkatapos ng imahe ng header."
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "Announcements Bar"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "Bar ng mga anunsyo"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "Binibigyang-daan ka ng bar ng mga anunsyo na magpakita ng anumang mahahalagang anunsyo sa tuktok ng lahat ng iyong mga pahina."
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "Ang bar ng mga anunsyo ay ipinapakita pagkatapos ng napiling petsa at oras."
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "Ang bar ng mga anunsyo ay ipinapakita hanggang sa napiling petsa at oras."
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "I-anonymize ang IP address ng iyong mga bisita sa website."
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "Hitsura"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "Mga setting ng hitsura para sa iyong website"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "Inilapat para sa Simpleng uri ng Announcements bar."
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "Paakyat"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "Talambuhay na impormasyon ng may-akda"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "Pangalan ng may-akda"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "Ang pagkakaroon ng napiling istilo ay depende sa napiling font para sa mga pamagat."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "Magagamit na hanay"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "Overlay ng Larawan sa Background"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "Mga Setting ng Background"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "Kulay ng background"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "Uri ng kulay ng background"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "Gradient ng background"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "Larawan sa background"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "Ulitin ang larawan sa background"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "Laki ng larawan sa background"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "Posisyon sa background"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "Mga setting ng background para sa header ng iyong website"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "Kulay ng Background ng Bar"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "Itim"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "Pahina ng Blog"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "Mga Post sa Blog"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "Blur radius"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "Matapang"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "Matapang (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "Mga Setting ng Border"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "Kulay ng hangganan"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "Radius ng hangganan"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "Mga pagpipilian sa radius ng hangganan"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "Lapad ng hangganan"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "Kulay ng mga hangganan"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "Lapad ng mga hangganan"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "Ibaba"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "Ibaba"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "Babang kaliwa"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "Kanan sa ibaba"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "Layout ng kahon"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "Lapad ng kahon"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "Burger menu lang"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "Kulay ng Background ng Pindutan"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "URL ng Pindutan"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "Background ng button"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "Link ng button"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "Mga setting ng button"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "Text ng button"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "Radius ng Border ng Mga Pindutan"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "Kanselahin"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Naka-enable ang carousel autoplay"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "Pinagana ang Carousel loop mode"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "Mga kategorya"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "Kategorya"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "Paglalarawan ng kategorya"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "Pamagat ng kategorya"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "Kategorya:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "Gitna"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "Gitna"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "Baguhin ang HTML tag"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "Baguhin ang icon"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "Baguhin ang larawan"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "Baguhin ang larawan para sa desktop resolution"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "Baguhin ang larawan para sa resolution ng mobile"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Citadela - Mga Espesyal na Pahina"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Citadela Blocks"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Mga Setting ng Nilalaman ng Citadela"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Mga Setting ng Half Layout ng Citadela"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Mga Setting ng Citadela Header"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Citadela Posts Blocks"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Laki ng larawan ng Citadela Service Block"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Mga Espesyal na Pahina ng Citadela"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "Klasiko"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "Klasiko"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "Malinaw"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "Cluster"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "Cluster Block"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "I-collapse ang menu sa button"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "Mga pagpipilian sa mga nako-collaps na footer na widget"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "Mga setting ng kulay"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "Mga kulay"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "Ang pangalan ng may-akda ng komento ay hindi mali-link sa url na ipinasok sa field ng Website"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "Patlang ng teksto ng komento"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "Maaaring gamitin ang Extension ng Mga Komento upang magdagdag ng text ng tulong sa bawat solong input sa form ng Komento ng WordPress."
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "Extension ng mga komento"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "Mga setting ng link ng mga komento"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "Kumpirmahin"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "Naglalaman"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "Nilalaman"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "Laki ng nilalaman"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "Laki ng nilalaman"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "Lapad ng nilalaman"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "Mga laki ng lapad ng nilalaman"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "Pag-expire ng cookies"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "Takpan"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "Takpan"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "Taas ng hanay ng takip"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "Kasalukuyang block view"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "Kasalukuyang pamagat ng pahina"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "Naka-enable ang Custom na Header. Maaaring walang epekto ang mga sumusunod na opsyon para sa pahinang ito."
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "Ang Custom na Header na may Custom na Logo ay pinagana para sa pahinang ito. Ang pagbabago ng larawan ng logo ay maaaring hindi makita sa preview."
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "Pamagat ng Custom na Pahina"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "Mga custom na code"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "Custom na larawan"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "Custom na logo"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "Custom na larawan ng logo"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "I-customize ang mga kulay"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "Na-customize na mga opsyon para sa lapad ng mobile na screen."
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "Petsa"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "Kulay ng petsa"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "Petsa mula"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "Mag-date sa"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "Kulay ng mga oras ng araw"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "Kulay ng pamagat ng araw"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "Itatago ang mga araw na walang tinukoy na oras."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "Kulay ng Dekorasyon"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "Kulay ng dekorasyon"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "Default"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "Default"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "Default na laki"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "Tukuyin ang radius ng hangganan para sa iba&#39;t ibang bahagi ng disenyo."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "Tanggalin ang hilera"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "Pababa"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "Mga Pagpipilian sa Disenyo"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "Desktop"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "Mga setting ng desktop"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "Laki ng desktop"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "Huwag paganahin ang link ng pangalan ng may-akda"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "Huwag paganahin ang mga default na margin"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "Huwag paganahin ang mga link sa komento ng editor"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "Huwag paganahin ang itinatampok na talahanayan"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "Huwag paganahin ang mga link ng komento ng bisita"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "Huwag paganahin ang larawan"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "Huwag paganahin ang pag-import/pag-export"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "Huwag paganahin ang link sa itinatampok na larawan sa post sa blog"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "Huwag paganahin ang mga link ng komentong hindi editor"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "Huwag paganahin ang separator"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "Ipakita ang mga alok ng produkto, serbisyo o mga pakete sa talahanayan. Itakda ang pinakamagandang deal, ipakita ang may diskwentong presyo at magsulat ng mahahalagang feature para sa paghahambing."
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "Ipinapakita ang listahan ng mga post batay sa mga filter. Halimbawa mga post lamang mula sa partikular na kategorya."
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "Ipinapakita ang paginated na listahan ng mga post sa pahina ng WordPress Blog."
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "Huwag gumamit ng mga float number, mangyaring."
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "Dina-download…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "I-drop ang Layout package dito"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "Madaling gumawa at mamahala ng kalendaryo ng mga kaganapan gamit ang %1$sThe Events Calendar%2$s libreng plugin."
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "I-edit ang Espesyal na Pahina"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "I-edit o i-update ang larawan"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "Field ng email"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "Paganahin"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "I-enable ang collapsible footer wigets area"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "Paganahin ang itinatampok na talahanayan"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "Error"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "Mga kaganapan"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "Pag-expire ng na-save na cookies sa mga araw."
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "I-export ang %s Layout"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "Sobrang Bold (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "Extra-bold"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "Extra-light"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "Itinatampok"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "Itinatampok na link ng larawan"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "Label ng field"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "I-filter ang listahan ng mga espesyal na pahina"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "Mga filter"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "Nakapirming larawan sa background"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "Nakapirming imahe"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "Laki ng font"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "Unit ng laki ng font"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "Kulay ng Footer"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "Footer code"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "Pinilit sa loob ng kalawakan"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "Biyernes"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "Mula sa AitThemes:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "Mula sa AitThemes: %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "Mula sa WordPress.org:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "Mula sa WordPress.org: %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "Buong Malagkit na header"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "Buong laki"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "Buong laki ng lapad"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "Buong lapad"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "Fullwidth na header"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "Laki ng buong lapad"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "Pangkalahatang Border Radius"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "Pangkalahatang Layout"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "Pangkalahatang mga opsyon para sa desktop."
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "Pangkalahatang mga Setting"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "Google Analytics tracking ID."
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "Font ng Google"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "Gradient"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Gradient degree"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "gradient na overlay"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "Gradient sa ilalim ng imahe, kapaki-pakinabang para sa mga .png na larawan sa background."
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "HTML tag"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "Half layout page"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "Background ng Header"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "Kulay ng Header"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "Overlay ng Kulay ng Header"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "Larawan ng Header"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "Posisyon ng Larawan ng Header"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "Ulitin ang Larawan ng Header"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "Laki ng Larawan ng Header"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "Layout ng Header"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "Background ng header"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "Code ng header"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "Header text"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "Mga Setting ng Taas"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "Yunit ng taas"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "Nakatago sa desktop"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "Nakatago sa mobile"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "Nakatagong pamagat sa buong malagkit na header sa desktop"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "Nakatagong pamagat sa buong malagkit na header sa mobile"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "Itago ang pamagat ng Site"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "Itago ang button na may link"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "Itago ang presyo ng diskwento"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "Itago ang mga walang laman na araw"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "Itago lang sa mobile"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "Itago ang pamagat ng site"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "Itago ang pamagat at tagline ng site"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "Itago lang ang tagline"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "Pahalang na offset"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "Kulay ng icon"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "Kung pinagana, ang mga malagkit na post ay ipapakita sa tuktok ng mga nakalistang post."
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "Imahe"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "Kulay ng overlay ng larawan"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "Posisyon ng imahe"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "Ulitin ang larawan"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "Laki ng larawan"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "Mga larawan"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "Mag-import ng Layout"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "Idi-disable ang mga page ng mga setting ng pag-import at pag-export ng layout"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "Tapos na ang pag-import!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "Mag-import ng layout mula sa file"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "Ang pag-import ng Layout package ay <strong>magtatanggal ng lahat ng iyong nilalaman</strong> - lahat ng Mga Post, Mga Pahina, Media, Mga Tag at Kategorya."
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "Sa &quot;em&quot; unit"
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "Infobar"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "Maaaring gamitin ang Infobar upang ipakita ang notification ng cookies sa iyong website. Ito ay ipinapakita sa lahat ng mga bagong bisita na pumupunta sa iyong website. Maaari silang mag-click sa pindutan upang itago ito. Ang Infobar ay itinago sa loob ng bilang ng mga araw na itakda ito sa field na &quot;Pag-expire ng cookie&quot;."
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "Ipasok ang URL para sa button. Iwanang walang laman upang itago ang button."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "Ipasok ang numerong mas malaki sa %1$s, o iwanang walang laman para sa default na halaga."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "Maglagay ng numerong mas malaki sa %1$s."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "Ipasok ang numerong mas maliit sa %1$s, o iwanang walang laman para sa default na halaga."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "Ipasok ang numerong mas maliit sa %1$s."
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "Ipasok ang row pagkatapos"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "Ipasok ang teksto"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "Maglagay ng wastong numero, mangyaring."
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "Ipasok ang iyong Google Analytics Tracking ID. Ang tracking code ng Google Analytics ay idaragdag sa iyong website."
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "Inset anino"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "Mag-install ng mga kinakailangang plugin"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "Pag-install at pag-activate ng mga plugin…"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "Hindi ito Citadela Layout package"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "Subtitle ng item"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "pamagat ng item"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "Malaki"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "Malaking sukat"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "Layout Exporter"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "Ang tampok na Layout Exporter ay nag-e-export ng mga pahina ng WordPress, mga post at lahat ng mga opsyon at setting ng Citadela. Maaari mong gamitin ang Layout Exporter upang lumikha ng layout ng Citadela na madali mong mai-install sa isa pang website ng Citadela."
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "Kailangang mai-install ng Layout Importer ang PHP ZIP extension. Mangyaring i-install ito o makipag-ugnayan sa iyong hosting provider."
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "Mga setting ng pag-import/pag-export ng layout"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "Mga Layout"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "Naka-disable ang pag-import at pag-export ng mga layout"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "Kaliwa"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "Logo ng align sa kaliwa"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "Kaliwang parte"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "Espasyo ng titik"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "Liwanag"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "Banayad (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "Taas ng linya"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "Kulay ng mga linya"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "Link"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "Layout ng listahan"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "Lokasyon"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "Paglalarawan ng lokasyon"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "Pamagat ng lokasyon"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "Lokasyon:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "Laki ng font ng logo"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "Larawan ng logo sa custom na header."
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "Maximum na lapad ng larawan ng logo"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "Logo space max width"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "Pangunahing Menu"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "Katamtaman"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "Katamtamang laki"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "Membership"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "Kulay ng button ng menu"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "Minimum na value na 1500px, iwanang walang laman para sa walang limitasyong lapad."
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "Mininum na taas"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "Mobile"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "Mga Setting ng Mobile"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "Mga setting ng mobile"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "Laki ng mobile"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "Breakpoint sa lapad ng mobile"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "Moderno"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "Lunes"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "Bumaba"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "Umakyat"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "Field ng pangalan"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "Susunod"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "Walang Ulitin"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "Walang hangganan"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "Walang repeat"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "Walang nahanap na resulta."
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "Walang nakitang mga espesyal na pahina."
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "wala"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "Normal (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "Tandaan: itatago ang karaniwang pamagat ng pahina."
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "Bilang ng mga item"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "OK"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "Oops! Hindi mahanap ang page na iyon."
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "Magbukas sa bagong bintana"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "Open ang link sa bagong tab"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "Binuksan ang footer wigets area"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "Mga Oras ng Pagbubukas"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "Mga setting ng Mga Oras ng Pagbubukas"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "Mga Pagpipilian sa Order"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "Iniutos ni"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "Orihinal"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "Kulay ng overlay"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "Overlay gradient"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "Overlay opacity"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "Hindi nakita ang extension ng PHP ZIP"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "Kulay ng Pahina"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "Mangyaring huwag isara ang browser window na ito hanggang sa ganap na ma-import ang Layout package."
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "Mangyaring maunawaan na ang Layout Exporter ay hindi nag-e-export ng lahat mula sa WordPress, tulad ng mga WooCommerce invoice o data mula sa iba pang mga 3rd party na plugin. Mayroong maraming iba pang mga plugin na magagamit para sa mga layunin ng paglipat."
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "Posisyon"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "Posisyon sa website"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "Mga Detalye ng Post"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "Mga post"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "Nabigasyon ng mga post"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "Mga setting ng post"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "Ang preview ay ipinapakita lamang sa Customizer screen."
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "Nakaraang"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "Talahanayan ng Presyo"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "Pag-align ng talahanayan ng presyo"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Radial gradient"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "Random"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "Magbasa pa ng link"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Handa nang gamitin ang mga layout ng Citadela"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "Handa nang gumamit ng mga layout at block para sa Citadela na may maraming mga pagpipilian sa pagpapasadya"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "Ang kamakailang na-activate na tema ay hindi tugma sa %s plugin, samakatuwid ang plugin ay na-deactivate."
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "Regular"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "Alisin ang larawan"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "Ulitin"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "Ulitin nang pahalang"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "Ulitin nang patayo"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "Palitan ang default na label ng field."
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "Palitan ang larawan"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "Mga kinakailangang plugin"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "I-reset"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "Tumutugon na Spacer"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "Tugon na Teksto"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "Inilapat ang mga opsyong tumutugon sa ilalim ng lapad ng screen"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "Muling magagamit na mga bloke"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "Mga setting ng reusable block"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "Tama"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "Kanang bahagi"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "Sabado"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "I-save ang Mga Setting"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "Maghanap ng mga espesyal na edad"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "Mga resulta ng paghahanap para sa:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "Piliin ang Google Font para sa iyong website"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "Piliin ang Layout package"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "Piliin ang pagkakahanay"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "Pumili ng pagkakahanay sa disenyo ng mobile"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "Piliin ang uri ng background"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "Pumili ng mga kumbinasyon ng kulay para sa iyong website"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "Piliin ang bigat ng font"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "Pumili ng larawan"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "Pumili ng layout"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "Pumili ng layout para sa header ng website"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "Pumili ng layout para sa iyong website"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "Pumili ng laki"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "Semi-bold"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "Serbisyo"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "Larawan ng Serbisyo"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "Teksto ng paglalarawan ng serbisyo"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "Header ng serbisyo"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "Itakda ang larawan sa background"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "Itakda ang custom na larawan"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "Itakda ang custom na larawan ng logo"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "Itakda ang kulay ng header bilang overlay ng larawan sa background"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "Itinatakda kung ang mga widget sa footer ay binuksan o isinara bilang default sa mobile pagkatapos ng pag-load ng page. Naaangkop kung naka-enable ang mga collapsible na widget."
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "Mga setting"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "Na-save ang Mga Setting"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "Mga setting para sa pangunahing menu sa header"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "Mga setting para sa header ng site"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "Mga Setting ng Shadow"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "Kulay ng anino"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "Ipakita palagi"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "Ipakita ang button na may link"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "Ipakita ang mga kategorya"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "Ipakita ang petsa"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "Ipakita ang paglalarawan"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "Ipakita ang presyo ng diskwento"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "Ipakita ang itinatampok na larawan"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "Ipakita ang header sa nilalaman"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "Ipakita ang icon"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "Ipakita ang larawan"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "Ipakita ang larawan bilang icon"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "Ipakita sa menu"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "Ipakita ang link upang pamahalaan ang mga magagamit muli na bloke sa menu ng admin"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "Ipakita ang mga lokasyon"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "Ipakita lamang sa mobile"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "Ipakita ang mga oras ng pagbubukas sa iyong website."
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "Ipakita o itago ang Cluster block lamang sa laki ng screen ng mobile."
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "Ipakita ang preview ng Announcement Bar"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "Ipakita ang transparent na header nang walang karagdagang mga setting ng background."
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "Ipakita ang website"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "Simple"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "Simpleng layout"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "Mga simpleng setting"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "Nagbibigay-daan sa iyo ang mga simpleng setting na magpakita ng simpleng text at button sa iyong bar ng mga anunsyo. Maaaring i-customize ang mga kulay sa pamamagitan ng WordPress customizer."
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "Mga simpleng istilo ng teksto"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "Mga pinasimpleng istilo ng palalimbagan para sa mga pahina ng mga post sa blog"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "Isang kulay"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "Iisang kulay na overlay"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "Mga Laki para sa Content, Wide at Fullwidth na mga uri ng layout na ginagamit sa disenyo."
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "Laktawan ang bilang ng mga post mula sa simula"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "Maliit"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "Maliit na sukat"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "Space sa paligid ng logo"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "Puwang sa paligid ng pindutan ng menu"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "Taas ng spacer sa"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Mga setting ng spacer"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "Mga Setting ng Spacing"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Espesyal na Pahina"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Mga Espesyal na Pahina"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Mga Espesyal na Pahina"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "Espesyal na lalagyan na laging nasa buong lapad kung walang sidebar o column. Maaari kang magpasok doon ng iba pang mga bloke at magtakda ng background ng lalagyan."
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "Na-update ang espesyal na pahina."
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "Listahan ng mga espesyal na pahina"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "Pag-navigate sa listahan ng mga espesyal na pahina"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "Spread radius"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "Malagkit na header sa desktop"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "Malagkit na header sa mobile"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "Mga setting ng sticky header"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "Mga malagkit na post muna"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "Mga istilo"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "Kulay ng subtitle"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "Linggo"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "Subtitle ng talahanayan"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "Pamagat ng talahanayan"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "Paglalarawan ng tag"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "Tag name"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Ang Tehre ay isang error sa pag-download ng layout"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "Text"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "Font ng Teksto"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "Pag-align ng teksto"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "Kulay ng teksto"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "Kulay ng text sa custom na header."
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "Ipinapakita ang teksto sa Infobar. Maaari itong maglaman ng HTML formatting gaya ng mga URL na i-link sa iyong mga tuntunin o patakaran sa privacy."
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "Ipinapakita ang text sa button sa announcements bar. Iwanang walang laman upang itago ang button."
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "Ipinapakita ang teksto sa pindutan. Kung walang tinukoy na teksto, X sign ang gagamitin upang isara ang Infobar."
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "Teksto ng anunsyo"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Salamat sa pag-activate ng Citadela Pro."
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "Hindi ma-activate ang %s plugin. Hindi ito tugma sa kasalukuyang aktibong tema."
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "Ang Citadela Layout ay nangangailangan ng mga plugin na ito. Ang mga kinakailangang plugin ay mai-install at awtomatikong isaaktibo. Kung sakaling wala kang access sa isa sa mga plugin, maaaring hindi kumpleto ang ilang page."
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "Hindi ma-import ang nilalaman."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "Maaaring tumagal ang proseso kahit saan sa pagitan ng 30 segundo hanggang 30 minuto depende sa laki ng Layout package at bilis ng koneksyon (pangunahin dahil sa pag-download ng mga demo na larawan)."
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "Layout ng Tema"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "Nagkaroon ng error sa pag-install ng mga plugin"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "Makapal na hangganan"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "Manipis"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "Manipis na mga hangganan"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "Tinutukoy ng setting na ito kung gagamitin ang aming mga istilo ng Citadela sa %1$sThe Events Calendar%2$s plugin o gagamitin ang mga istilo ng plugin."
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "Huwebes"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "Tile"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "Tile Pahalang"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "Tile Patayo"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "Pamagat"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "Kulay ng pamagat"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "Font ng mga Pamagat"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "Estilo ng mga Pamagat"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "Upang i-edit ang larawan, kailangan mo ng pahintulot na mag-upload ng media."
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "Nangunguna"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "Nangunguna"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "Kaliwa sa itaas"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "Kanan sa itaas"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "Tracking ID"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "Pagsubaybay sa privacy"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "Transparent na header"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "Martes"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "Martes"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "I-on ang functionality ng Announcements bar"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "I-on ang pagpapagana ng extension ng Mga Komento"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "Uri"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "Mag-type para sa paghahanap..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "Typography"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "Mag-upload ng image file o pumili ng isa mula sa iyong media library."
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "Ang na-upload na ZIP file ay hindi Citadela Layout package o ito ay lumang hindi tugmang Layout package. Paki-download ang pinakabagong package mula sa iyong AitThemes account."
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "Ina-upload…"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "Aalisin ang mga url mula sa text ng komento ng editor. Inilapat para sa mga tungkulin ng user na may kakayahan sa pag-edit ng post tulad ng Contributor at mas mataas."
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "Aalisin ang mga url mula sa text ng komento ng bisita"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "Aalisin ang mga url mula sa text ng komentong hindi editor. Inilapat para sa mga tungkulin ng user na walang kakayahan sa pag-edit ng post tulad ng Subscriber."
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Gumamit ng mga istilo ng Citadela"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "Gamitin ang Infobar sa iyong website"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "Gumamit ng custom na header"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "Gumamit ng mga custom na setting ng lapad"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "Gumamit ng default na font"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "Gumamit ng default na timbang ng font"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "Gumamit ng mga opsyong tumutugon"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "Paggamit ng laki ng font mula sa disenyo ng tema."
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "Paggamit ng letter spacing mula sa disenyo ng tema."
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "Paggamit ng taas ng linya mula sa disenyo ng tema."
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "Vertical offset"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "Tingnan ang Demo"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "Tingnan ang mga layout"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "Tingnan ang higit pa"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "Visibility sa mobile"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "WP Button Block"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Iniingatan namin ang iyong email upang makipag-ugnayan kami sa iyo tungkol sa aming produkto at serbisyo. Para sa karagdagang mga detalye mangyaring tingnan <a href=\"#\">ang aming patakaran sa privacy</a> ."
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Pinapanatili namin ang iyong pangalan para makausap ka namin tungkol sa aming produkto at serbisyo. Para sa karagdagang mga detalye mangyaring tingnan <a href=\"#\">ang aming patakaran sa privacy</a> ."
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Pinapanatili namin ang URL ng iyong website upang makipag-ugnayan kami sa iyo tungkol sa aming produkto at serbisyo. Para sa karagdagang mga detalye mangyaring tingnan <a href=\"#\">ang aming patakaran sa privacy</a> ."
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "Ini-import namin ang Layout package..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Napansin namin na nagpapatakbo ka ng lumang bersyon ng PHP na hindi na suportado, kaya <em>na-deactivate ang plugin</em> . Tiyaking mabilis at secure ang iyong site, sa pamamagitan ng pag- <a href='%1$s'>upgrade ng PHP sa pinakabagong bersyon</a> . Ang pinakamababang kinakailangan para sa %2$s ay <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Napansin namin na nagpapatakbo ka ng lumang bersyon ng WordPress, kaya <em>na-deactivate ang plugin</em> . Tiyaking secure at napapanahon ang iyong site, sa pamamagitan ng pag- <a href='%1$s'>update ng WordPress sa pinakabagong bersyon</a> . Ang pinakamababang kinakailangan para sa %2$s ay <strong>WordPress 5.2</strong> ."
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "Field ng URL ng website"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "Miyerkules"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "Malapad"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "Malawak na sukat"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "Malawak na laki ng lapad"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "Ang lugar ng mga widget sa footer ay maaaring buksan o isara sa mobile."
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "Mga Setting ng Lapad"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "Sa mga advanced na setting mayroon kang ganap na kontrol sa html at mga istilo para sa iyong bar ng mga anunsyo."
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "Maaari kang mag-import ng alinman sa magagamit na Mga Layout ng Citadela."
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Ang iyong mga komento ay nakakatulong sa amin na mapabuti ang aming mga produkto at serbisyo upang patuloy naming i-record ang mga ito. Ginagamit din namin ang komento para sa sanggunian sa hinaharap. Para sa karagdagang mga detalye mangyaring tingnan <a href=\"#\">ang aming patakaran sa privacy</a> ."
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "Ang iyong kasalukuyang nilalaman ay tatanggalin"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "ZIP file"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "teksto ng pindutan"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "o"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "magbasa pa ng text"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "row text..."

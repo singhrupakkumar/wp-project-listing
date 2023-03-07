@@ -1,0 +1,4992 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Listing plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: uk\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:38:16+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:38:16+00:00\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Citadela Listing 5.7.15\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-directory\n"
+"X-Domain: citadela-directory\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title, 3: &ldquo; left quote, 4: &rdquo; right quote
+#: plugin/cpt/item/templates/parts/item-reviews.php:36
+msgctxt "count of reviews title"
+msgid "%1$s review for &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s reviews for &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s відгук про &quot;%2$s&quot;"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: %s plugin's name
+#: plugin/migration/Migration/Admin_Notices.php:49
+msgid "%s has finished migration. All items, categories and locations from your previous AIT directory theme are now available for use with Citadela Listing plugin."
+msgstr "%s завершив міграцію. Усі елементи, категорії та розташування з попередньої теми каталогу AIT тепер доступні для використання з плагіном Citadela Listing."
+
+#. translators: %s plugin's name
+#: plugin/migration/Migration/Admin_Notices.php:66
+msgid "%s is automatically migrating all items, categories and locations from your previous AIT directory theme in the background. Migration process may take several minutes. We will let you know when the migration is finished. You can continue to use WordPress as usual."
+msgstr "%s автоматично переміщує всі елементи, категорії та розташування з попередньої теми каталогу AIT у фоновому режимі. Процес міграції може зайняти кілька хвилин. Ми повідомимо вас, коли міграція завершиться. Ви можете продовжувати використовувати WordPress як зазвичай."
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "Несумісність плагіна %s і PHP"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:60
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "Несумісність плагіна %s і WordPress"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:83
+#: plugin/includes/CitadelaDirectoryCompatibility.php:101
+msgid "%s plugin incompatibility"
+msgstr "Несумісність плагіна %s"
+
+#. translators: %s plugin's name
+#: plugin/compatibility.php:14
+msgid "%s plugin is active"
+msgstr "Плагін %s активний"
+
+#. translators: %s: reviews count.
+#: plugin/cpt/item/templates/parts/item-rating.php:15
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s огляд"
+msgstr[1] ""
+msgstr[2] ""
+
+#: blocks/build/index.js:9107
+#: blocks/directory-search-form/src/inspector-controls.js:128
+msgid "0.1"
+msgstr "0.1"
+
+#: blocks/build/index.js:9104
+#: blocks/directory-search-form/src/inspector-controls.js:127
+msgid "1"
+msgstr "1"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:65
+#: plugin/includes/CitadelaDirectorySpecialPages.php:69
+msgid "404 Page"
+msgstr "404 Сторінка"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:43
+msgid "API Key"
+msgstr "Ключ API"
+
+#: plugin/claim-listing/ClaimListing.php:239
+msgid "Actions:"
+msgstr "Дії:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:31
+msgctxt "Item"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:98
+msgid "Add New Category"
+msgstr "Додати нову категорію"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:32
+msgid "Add New Item"
+msgstr "Додати новий елемент"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:132
+#: plugin/cpt/post/CitadelaPost.php:68
+msgid "Add New Location"
+msgstr "Додати нове розташування"
+
+#: plugin/controls/butterbean/templates/control-citadela_gallery.php:52
+msgid "Add images to gallery"
+msgstr "Додайте зображення до галереї"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:25
+#: plugin/controls/inputs/CitadelaMapControl.php:13
+#: plugin/cpt/item/templates/parts/item-container.php:169
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:22
+msgid "Address"
+msgstr "Адреса"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:207
+#: plugin/cpt/post/CitadelaPostMetabox.php:11
+#: plugin/cpt/user/CitadelaUserMetabox.php:11
+msgid "Address and Location"
+msgstr "Адреса та місцезнаходження"
+
+#: plugin/subscriptions/Feature.php:122
+msgid "Address and location"
+msgstr "Адреса та місцезнаходження"
+
+#: blocks/build/index.js:9044
+#: blocks/directory-search-form/src/inspector-controls.js:69
+msgid "Advanced Filters block displayed within search form"
+msgstr "Блок розширених фільтрів відображається у формі пошуку"
+
+#: blocks/build/index.js:5782
+msgid "Advanced Header Design"
+msgstr "Розширений дизайн заголовка"
+
+#: blocks/build/index.js:5709
+msgid "Advanced header"
+msgstr "Розширений заголовок"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: blocks/build/index.js:5636
+#: blocks/build/index.js:8809
+#: blocks/build/index.js:11911
+#: blocks/build/index.js:13332
+#: blocks/build/index.js:13842
+#: blocks/build/index.js:15161
+#: blocks/build/index.js:15339
+#: blocks/build/index.js:16255
+#: blocks/directory-search-form/src/index.js:118
+#: blocks/item-claim-listing/src/index.js:37
+#: blocks/item-extension/src/edit.js:137
+#: blocks/item-featured-image/src/edit.js:169
+#: blocks/item-get-directions/src/index.js:36
+#: blocks/item-gpx-download/src/index.js:36
+#: blocks/posts-search-form/src/index.js:117
+msgid "Align Center"
+msgstr "Вирівняти по центру"
+
+#: blocks/build/index.js:8813
+#: blocks/build/index.js:16259
+#: blocks/directory-search-form/src/index.js:122
+#: blocks/posts-search-form/src/index.js:121
+msgid "Align Justify"
+msgstr "Вирівняти Вирівняти"
+
+#: blocks/build/index.js:5635
+#: blocks/build/index.js:8808
+#: blocks/build/index.js:11910
+#: blocks/build/index.js:13331
+#: blocks/build/index.js:13841
+#: blocks/build/index.js:15160
+#: blocks/build/index.js:15338
+#: blocks/build/index.js:16254
+#: blocks/directory-search-form/src/index.js:117
+#: blocks/item-claim-listing/src/index.js:36
+#: blocks/item-extension/src/edit.js:136
+#: blocks/item-featured-image/src/edit.js:168
+#: blocks/item-get-directions/src/index.js:35
+#: blocks/item-gpx-download/src/index.js:35
+#: blocks/posts-search-form/src/index.js:116
+msgid "Align Left"
+msgstr "Вирівняти ліворуч"
+
+#: blocks/build/index.js:5637
+#: blocks/build/index.js:8810
+#: blocks/build/index.js:11912
+#: blocks/build/index.js:13333
+#: blocks/build/index.js:13843
+#: blocks/build/index.js:15162
+#: blocks/build/index.js:15340
+#: blocks/build/index.js:16256
+#: blocks/directory-search-form/src/index.js:119
+#: blocks/item-claim-listing/src/index.js:38
+#: blocks/item-extension/src/edit.js:138
+#: blocks/item-featured-image/src/edit.js:170
+#: blocks/item-get-directions/src/index.js:37
+#: blocks/item-gpx-download/src/index.js:37
+#: blocks/posts-search-form/src/index.js:118
+msgid "Align Right"
+msgstr "Вирівняти вправо"
+
+#: blocks/build/index.js:4600
+#: blocks/components/toolbar-alignment.js:19
+msgid "Align Text Center"
+msgstr "Вирівняти текст по центру"
+
+#: blocks/build/index.js:4604
+#: blocks/components/toolbar-alignment.js:21
+msgid "Align Text Justify"
+msgstr "Вирівняти текст Вирівняти"
+
+#: blocks/build/index.js:4598
+#: blocks/components/toolbar-alignment.js:18
+msgid "Align Text Left"
+msgstr "Вирівняти текст ліворуч"
+
+#: blocks/build/index.js:4602
+#: blocks/components/toolbar-alignment.js:20
+msgid "Align Text Right"
+msgstr "Вирівняти текст праворуч"
+
+#: blocks/build/index.js:11920
+#: blocks/build/index.js:15170
+#: blocks/build/index.js:15348
+#: blocks/item-claim-listing/src/index.js:53
+#: blocks/item-get-directions/src/index.js:53
+#: blocks/item-gpx-download/src/index.js:52
+msgid "Alignment"
+msgstr "Вирівнювання"
+
+#: blocks/build/index.js:6680
+#: blocks/build/index.js:6690
+#: blocks/build/index.js:7467
+#: blocks/build/index.js:7477
+#: blocks/build/index.js:15800
+#: blocks/build/index.js:15810
+#: blocks/directory-google-map/src/edit.js:198
+#: blocks/directory-google-map/src/edit.js:205
+#: blocks/directory-items-list/src/edit.js:330
+#: blocks/directory-items-list/src/edit.js:337
+#: blocks/posts-map/src/edit.js:149
+#: blocks/posts-map/src/edit.js:156
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1276
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1284
+#: plugin/assets/citadela/half-layout-map/editor.js:78
+#: plugin/assets/citadela/half-layout-map/editor.js:87
+msgid "All"
+msgstr "всі"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:92
+msgid "All Categories"
+msgstr "всі категорії"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:39
+msgid "All Items"
+msgstr "Усі предмети"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:126
+#: plugin/cpt/post/CitadelaPost.php:62
+msgid "All Locations"
+msgstr "Усі локації"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:134
+msgid "All Special Pages"
+msgstr "Усі спеціальні сторінки"
+
+#: plugin/migration/Migration/Admin_Notices.php:33
+msgid "All automatically migrated items, categories and locations were deleted from your database. New migration process started."
+msgstr "Усі автоматично перенесені елементи, категорії та розташування були видалені з вашої бази даних. Розпочався новий процес міграції."
+
+#: blocks/build/index.js:5659
+msgid "All filters"
+msgstr "Усі фільтри"
+
+#: blocks/build/index.js:13355
+#: blocks/item-extension/src/edit.js:169
+msgid "All inputs"
+msgstr "Усі входи"
+
+#: plugin/subscriptions/Feature.php:105
+msgid "Allow the customer to manage comments for Citadela items."
+msgstr "Дозвольте клієнту керувати коментарями до елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:111
+msgid "Allow the customer to manage reviews for Citadela items."
+msgstr "Дозвольте клієнту керувати відгуками про товари Citadela."
+
+#: plugin/subscriptions/Feature.php:69
+msgid "Allow the customer to set catogories for Citadela items."
+msgstr "Дозвольте клієнту встановлювати категорії для товарів Citadela."
+
+#: plugin/subscriptions/Feature.php:75
+msgid "Allow the customer to set locations for Citadela items."
+msgstr "Дозвольте клієнту встановлювати місця для предметів Citadela."
+
+#: plugin/subscriptions/Feature.php:147
+msgid "Allow the customer to set the Featured Category for Citadela items."
+msgstr "Дозвольте клієнту встановити категорію «Рекомендована» для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:153
+msgid "Allow the customer to set the GPX track file for Citadela items."
+msgstr "Дозвольте клієнту встановити файл треку GPX для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:159
+msgid "Allow the customer to set the Item Extension options for Citadela items."
+msgstr "Дозвольте клієнту встановлювати параметри розширення елемента для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:123
+msgid "Allow the customer to set the address and location for Citadela items."
+msgstr "Дозвольте клієнту вказати адресу та місце розташування товарів Citadela."
+
+#: plugin/subscriptions/Feature.php:129
+msgid "Allow the customer to set the contact for Citadela items."
+msgstr "Дозвольте клієнту встановити контакт для товарів Citadela."
+
+#: plugin/subscriptions/Feature.php:81
+msgid "Allow the customer to set the content for Citadela items."
+msgstr "Дозвольте клієнту встановлювати вміст для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:93
+msgid "Allow the customer to set the excerpt for Citadela items."
+msgstr "Дозвольте клієнту встановити витяг для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:87
+msgid "Allow the customer to set the featured image for Citadela items."
+msgstr "Дозвольте клієнту встановлювати пропоновані зображення для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:117
+msgid "Allow the customer to set the general options for Citadela items."
+msgstr "Дозвольте клієнту встановити загальні параметри для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:141
+msgid "Allow the customer to set the images gallery for Citadela items."
+msgstr "Дозвольте клієнту встановити галерею зображень для елементів Citadela."
+
+#: plugin/subscriptions/Feature.php:135
+msgid "Allow the customer to set the opening hours for Citadela items."
+msgstr "Дозвольте клієнту встановлювати години роботи для товарів Citadela."
+
+#: plugin/subscriptions/Feature.php:99
+msgid "Allow the customer to set the page attributes for Citadela items."
+msgstr "Дозвольте клієнту встановлювати атрибути сторінки для елементів Citadela."
+
+#: blocks/build/index.js:12074
+#: blocks/item-claim-listing/src/index.js:195
+msgid "Already claimed"
+msgstr "Вже заявлено"
+
+#: blocks/build/index.js:11109
+#: blocks/directory-similar-items/src/edit.js:619
+msgid "Already opened Item Post will be used as reference post."
+msgstr "Як довідковий пост використовуватиметься вже відкритий пункт."
+
+#: blocks/build/index.js:8566
+#: blocks/directory-membership-content/src/edit.js:25
+msgid "Any active subscription"
+msgstr "Будь-яка активна підписка"
+
+#: blocks/automatic-directory-google-map/src/edit.js:240
+#: blocks/automatic-directory-google-map/src/edit.js:262
+#: blocks/automatic-posts-map/src/edit.js:167
+#: blocks/automatic-posts-map/src/edit.js:187
+#: blocks/build/index.js:1275
+#: blocks/build/index.js:1300
+#: blocks/build/index.js:1830
+#: blocks/build/index.js:1855
+#: blocks/build/index.js:6739
+#: blocks/build/index.js:6764
+#: blocks/build/index.js:15851
+#: blocks/build/index.js:15876
+#: blocks/directory-google-map/src/edit.js:253
+#: blocks/directory-google-map/src/edit.js:273
+#: blocks/posts-map/src/edit.js:198
+#: blocks/posts-map/src/edit.js:218
+msgid "Appearance"
+msgstr "Зовнішній вигляд"
+
+#: plugin/claim-listing/ClaimListing.php:61
+msgid "Approve"
+msgstr "Затвердити"
+
+#: plugin/claim-listing/ClaimListing.php:239
+msgid "Approve claim"
+msgstr "Затвердити претензію"
+
+#: plugin/claim-listing/ClaimListing.php:67
+msgid "Approved"
+msgstr "Затверджено"
+
+#: plugin/cpt/item/templates/parts/archive-item-page-title.php:8
+msgid "Archives: "
+msgstr "Архіви:"
+
+#: plugin/claim-listing/ClaimListing.php:62
+#: plugin/claim-listing/ClaimListing.php:69
+msgid "Are you sure you want to decline this claim?"
+msgstr "Ви впевнені, що хочете відхилити цю претензію?"
+
+#: blocks/authors-list/src/edit.js:223
+#: blocks/build/index.js:626
+#: blocks/build/index.js:7609
+#: blocks/build/index.js:9787
+#: blocks/build/index.js:10900
+#: blocks/build/index.js:16876
+#: blocks/directory-items-list/src/edit.js:439
+#: blocks/directory-search-results/src/edit.js:283
+#: blocks/directory-similar-items/src/edit.js:411
+#: blocks/posts-search-results/src/index.js:176
+msgid "Ascending"
+msgstr "Висхідна"
+
+#: plugin/subscriptions/Feature.php:98
+msgid "Attributes"
+msgstr "Атрибути"
+
+#: blocks/author-detail/src/edit.js:41
+#: blocks/authors-list/src/edit.js:156
+#: blocks/build/index.js:185
+#: blocks/build/index.js:538
+msgid "Author Details"
+msgstr "Відомості про автора"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:377
+msgid "Author archives: "
+msgstr "Архів авторів:"
+
+#: blocks/author-detail/src/edit.js:98
+#: blocks/build/index.js:254
+msgid "Author biographical info"
+msgstr "Біографічна інформація про автора"
+
+#: blocks/author-detail/src/edit.js:92
+#: blocks/build/index.js:250
+msgid "Author name"
+msgstr "Ім&#39;я автора"
+
+#: blocks/authors-list/src/edit.js:378
+#: blocks/build/index.js:791
+msgid "Authors to display"
+msgstr "Автори для відображення"
+
+#: blocks/automatic-directory-google-map/src/index.js:11
+#: blocks/build/index.js:1532
+msgid "Automatic Listing Map"
+msgstr "Автоматична карта списку"
+
+#: blocks/automatic-posts-map/src/index.js:11
+#: blocks/build/index.js:2087
+msgid "Automatic Listing Map (for posts)"
+msgstr "Автоматична карта списку (для публікацій)"
+
+#: blocks/build/index.js:3627
+#: blocks/components/panel-carousel.js:65
+msgid "Automatic height"
+msgstr "Автоматична висота"
+
+#: blocks/build/index.js:3633
+#: blocks/components/panel-carousel.js:70
+msgid "Autoplay"
+msgstr "Автоматичне відтворення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:164
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:191
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:219
+#: blocks/build/index.js:9156
+#: blocks/build/index.js:16444
+#: blocks/directory-search-form/src/inspector-controls.js:175
+#: blocks/posts-search-form/src/inspector-controls.js:63
+msgid "Background"
+msgstr "Фон"
+
+#: plugin/settings/CitadelaDirectorySettings.php:751
+#: blocks/authors-list/src/edit.js:278
+#: blocks/build/index.js:678
+#: blocks/build/index.js:5795
+#: blocks/build/index.js:7657
+#: blocks/build/index.js:9209
+#: blocks/build/index.js:9338
+#: blocks/build/index.js:9911
+#: blocks/build/index.js:10948
+#: blocks/build/index.js:16497
+#: blocks/build/index.js:16626
+#: blocks/build/index.js:16972
+#: blocks/directory-items-list/src/edit.js:488
+#: blocks/directory-search-form/src/inspector-controls.js:218
+#: blocks/directory-search-form/src/inspector-controls.js:346
+#: blocks/directory-search-results/src/edit.js:389
+#: blocks/directory-similar-items/src/edit.js:460
+#: blocks/posts-search-form/src/inspector-controls.js:106
+#: blocks/posts-search-form/src/inspector-controls.js:237
+#: blocks/posts-search-results/src/index.js:265
+msgid "Background color"
+msgstr "Колір фону"
+
+#: plugin/settings/CitadelaDirectorySettings.php:773
+msgid "Background image"
+msgstr "Фонове зображення"
+
+#: blocks/build/index.js:9165
+#: blocks/build/index.js:16453
+#: blocks/directory-search-form/src/inspector-controls.js:180
+#: blocks/posts-search-form/src/inspector-controls.js:68
+msgid "Background on collapsed form"
+msgstr "Фон у згорнутій формі"
+
+#: blocks/build/index.js:9152
+#: blocks/build/index.js:16440
+#: blocks/directory-search-form/src/inspector-controls.js:170
+#: blocks/posts-search-form/src/inspector-controls.js:58
+msgid "Background settings"
+msgstr "Налаштування фону"
+
+#: blocks/build/index.js:9194
+#: blocks/build/index.js:16482
+#: blocks/directory-search-form/src/inspector-controls.js:206
+#: blocks/posts-search-form/src/inspector-controls.js:94
+msgid "Background type"
+msgstr "Тип фону"
+
+#: blocks/build/index.js:9174
+#: blocks/build/index.js:16462
+#: blocks/directory-search-form/src/inspector-controls.js:189
+#: blocks/posts-search-form/src/inspector-controls.js:77
+msgid "Blur background"
+msgstr "Розмиття фону"
+
+#: blocks/build/index.js:2238
+#: blocks/build/index.js:9182
+#: blocks/build/index.js:16470
+#: blocks/components/box-shadow-control.js:80
+#: blocks/directory-search-form/src/inspector-controls.js:195
+#: blocks/posts-search-form/src/inspector-controls.js:83
+msgid "Blur radius"
+msgstr "Радіус розмиття"
+
+#: blocks/build/index.js:5868
+msgid "Border around filter group"
+msgstr "Рамка навколо групи фільтрів"
+
+#: blocks/build/index.js:5822
+msgid "Border around heading"
+msgstr "Межа навколо заголовка"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:250
+#: blocks/build/index.js:5804
+#: blocks/build/index.js:9282
+#: blocks/build/index.js:16570
+#: blocks/directory-search-form/src/inspector-controls.js:296
+#: blocks/posts-search-form/src/inspector-controls.js:186
+msgid "Border color"
+msgstr "Колір кордону"
+
+#: blocks/build/index.js:9291
+#: blocks/build/index.js:11963
+#: blocks/build/index.js:15216
+#: blocks/build/index.js:15394
+#: blocks/build/index.js:16579
+#: blocks/directory-search-form/src/inspector-controls.js:304
+#: blocks/item-claim-listing/src/index.js:88
+#: blocks/item-get-directions/src/index.js:89
+#: blocks/item-gpx-download/src/index.js:88
+#: blocks/posts-search-form/src/inspector-controls.js:194
+msgid "Border radius"
+msgstr "Радіус кордону"
+
+#: blocks/build/index.js:9260
+#: blocks/build/index.js:16548
+#: blocks/directory-search-form/src/inspector-controls.js:278
+#: blocks/posts-search-form/src/inspector-controls.js:168
+msgid "Border settings"
+msgstr "Налаштування кордону"
+
+#: blocks/build/index.js:5813
+msgid "Border style"
+msgstr "Стиль кордону"
+
+#: blocks/build/index.js:9264
+#: blocks/build/index.js:16552
+#: blocks/directory-search-form/src/inspector-controls.js:283
+#: blocks/posts-search-form/src/inspector-controls.js:173
+msgid "Border width"
+msgstr "Ширина кордону"
+
+#: blocks/authors-list/src/edit.js:284
+#: blocks/build/index.js:686
+#: blocks/build/index.js:7665
+#: blocks/build/index.js:9919
+#: blocks/build/index.js:10956
+#: blocks/build/index.js:16980
+#: blocks/directory-items-list/src/edit.js:494
+#: blocks/directory-search-results/src/edit.js:395
+#: blocks/directory-similar-items/src/edit.js:466
+#: blocks/posts-search-results/src/index.js:271
+msgid "Borders color"
+msgstr "Колір меж"
+
+#: blocks/authors-list/src/edit.js:290
+#: blocks/build/index.js:694
+#: blocks/build/index.js:7682
+#: blocks/build/index.js:9936
+#: blocks/build/index.js:10973
+#: blocks/build/index.js:16988
+#: blocks/directory-items-list/src/edit.js:509
+#: blocks/directory-search-results/src/edit.js:409
+#: blocks/directory-similar-items/src/edit.js:481
+#: blocks/posts-search-results/src/index.js:277
+msgid "Borders width"
+msgstr "Ширина меж"
+
+#: plugin/settings/CitadelaDirectorySettings.php:851
+#: blocks/build/index.js:7296
+#: blocks/build/index.js:7366
+#: blocks/build/index.js:9596
+#: blocks/build/index.js:9666
+#: blocks/build/index.js:10573
+#: blocks/build/index.js:10643
+#: blocks/build/index.js:13914
+#: blocks/build/index.js:14524
+#: blocks/build/index.js:14594
+#: blocks/build/index.js:14688
+#: blocks/directory-items-list/src/edit.js:175
+#: blocks/directory-items-list/src/edit.js:223
+#: blocks/directory-search-results/src/edit.js:117
+#: blocks/directory-search-results/src/edit.js:165
+#: blocks/directory-similar-items/src/edit.js:139
+#: blocks/directory-similar-items/src/edit.js:187
+#: blocks/item-featured-image/src/edit.js:230
+#: blocks/item-gallery/src/edit.js:108
+#: blocks/item-gallery/src/edit.js:156
+#: blocks/item-gallery/src/edit.js:239
+msgid "Bottom"
+msgstr "Нижня частина"
+
+#: plugin/settings/CitadelaDirectorySettings.php:850
+#: blocks/build/index.js:7293
+#: blocks/build/index.js:7363
+#: blocks/build/index.js:9593
+#: blocks/build/index.js:9663
+#: blocks/build/index.js:10570
+#: blocks/build/index.js:10640
+#: blocks/build/index.js:13911
+#: blocks/build/index.js:14521
+#: blocks/build/index.js:14591
+#: blocks/directory-items-list/src/edit.js:174
+#: blocks/directory-items-list/src/edit.js:222
+#: blocks/directory-search-results/src/edit.js:116
+#: blocks/directory-search-results/src/edit.js:164
+#: blocks/directory-similar-items/src/edit.js:138
+#: blocks/directory-similar-items/src/edit.js:186
+#: blocks/item-featured-image/src/edit.js:229
+#: blocks/item-gallery/src/edit.js:107
+#: blocks/item-gallery/src/edit.js:155
+msgid "Bottom left"
+msgstr "Унизу зліва"
+
+#: plugin/settings/CitadelaDirectorySettings.php:852
+#: blocks/build/index.js:7299
+#: blocks/build/index.js:7369
+#: blocks/build/index.js:9599
+#: blocks/build/index.js:9669
+#: blocks/build/index.js:10576
+#: blocks/build/index.js:10646
+#: blocks/build/index.js:13917
+#: blocks/build/index.js:14527
+#: blocks/build/index.js:14597
+#: blocks/directory-items-list/src/edit.js:176
+#: blocks/directory-items-list/src/edit.js:224
+#: blocks/directory-search-results/src/edit.js:118
+#: blocks/directory-search-results/src/edit.js:166
+#: blocks/directory-similar-items/src/edit.js:140
+#: blocks/directory-similar-items/src/edit.js:188
+#: blocks/item-featured-image/src/edit.js:231
+#: blocks/item-gallery/src/edit.js:109
+#: blocks/item-gallery/src/edit.js:157
+msgid "Bottom right"
+msgstr "Внизу справа"
+
+#: blocks/build/index.js:4818
+#: blocks/components/toolbar-layout.js:65
+msgid "Box layout"
+msgstr "Макет коробки"
+
+#: blocks/build/index.js:5744
+#: blocks/build/index.js:13422
+#: blocks/item-extension/src/edit.js:231
+msgid "Box width"
+msgstr "Ширина коробки"
+
+#: blocks/build/index.js:5895
+#: blocks/build/index.js:11954
+#: blocks/build/index.js:15207
+#: blocks/build/index.js:15385
+#: blocks/item-claim-listing/src/index.js:82
+#: blocks/item-get-directions/src/index.js:83
+#: blocks/item-gpx-download/src/index.js:82
+msgid "Button background color"
+msgstr "Колір фону кнопки"
+
+#: blocks/build/index.js:5904
+msgid "Button border radius"
+msgstr "Радіус межі кнопки"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:132
+msgid "Button color"
+msgstr "Колір кнопки"
+
+#: blocks/build/index.js:9334
+#: blocks/build/index.js:16622
+#: blocks/directory-search-form/src/inspector-controls.js:341
+#: blocks/posts-search-form/src/inspector-controls.js:232
+msgid "Button settings"
+msgstr "Налаштування кнопки"
+
+#: blocks/build/index.js:5766
+msgid "Button style"
+msgstr "Стиль кнопки"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:140
+#: blocks/build/index.js:5885
+msgid "Button text color"
+msgstr "Колір тексту кнопки"
+
+#: blocks/build/index.js:11916
+#: blocks/item-claim-listing/src/index.js:48
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:78
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: plugin/claim-listing/ClaimListing.php:164
+msgid "Captcha check failed!"
+msgstr "Не вдалося перевірити Captcha!"
+
+#: plugin/controls/butterbean/templates/control-citadela_gallery.php:23
+#: plugin/controls/butterbean/templates/control-citadela_gallery.php:39
+msgid "Caption text"
+msgstr "Текст підпису"
+
+#: blocks/build/index.js:3599
+#: blocks/components/panel-carousel.js:35
+msgid "Carousel Options"
+msgstr "Параметри каруселі"
+
+#: blocks/build/index.js:4348
+#: blocks/components/state-icons.js:27
+msgid "Carousel autoplay enabled"
+msgstr "Увімкнено автовідтворення каруселі"
+
+#: blocks/authors-list/src/edit.js:303
+#: blocks/build/index.js:712
+#: blocks/build/index.js:7700
+#: blocks/build/index.js:10991
+#: blocks/build/index.js:14766
+#: blocks/directory-items-list/src/edit.js:524
+#: blocks/directory-similar-items/src/edit.js:496
+#: blocks/item-gallery/src/edit.js:316
+msgid "Carousel decoration color"
+msgstr "Колір декору каруселі"
+
+#: blocks/build/index.js:4342
+#: blocks/components/state-icons.js:20
+msgid "Carousel loop mode enabled"
+msgstr "Увімкнено режим циклу каруселі"
+
+#: plugin/cpt/item/templates/parts/item-container.php:183
+#: plugin/cpt/post/templates/parts/post-container.php:125
+#: plugin/parts/default-search-results-content.php:113
+#: plugin/subscriptions/Feature.php:68
+msgid "Categories"
+msgstr "Категорії"
+
+#: blocks/build/index.js:6177
+#: blocks/build/index.js:6679
+#: blocks/build/index.js:7466
+#: blocks/build/index.js:15799
+#: blocks/common-scripts/search-forms-initializer.js:374
+#: blocks/directory-categories-list/src/edit.js:93
+#: blocks/directory-google-map/src/edit.js:197
+#: blocks/directory-items-list/src/edit.js:329
+#: blocks/posts-map/src/edit.js:148
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1275
+#: plugin/assets/citadela/half-layout-map/editor.js:77
+msgid "Category"
+msgstr "Категорія"
+
+#: blocks/build/index.js:6195
+#: blocks/directory-categories-list/src/edit.js:108
+msgid "Category Details"
+msgstr "Інформація про категорію"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:319
+msgid "Category archives: "
+msgstr "Архіви категорій:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:171
+#: plugin/cpt/post/CitadelaPost.php:26
+msgid "Category color"
+msgstr "Колір категорії"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:172
+#: plugin/cpt/post/CitadelaPost.php:27
+msgid "Category decoration color"
+msgstr "Категорія колір декору"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:164
+#: plugin/cpt/post/CitadelaPost.php:19
+msgid "Category icon"
+msgstr "Значок категорії"
+
+#: plugin/settings/CitadelaDirectorySettings.php:848
+#: blocks/build/index.js:7287
+#: blocks/build/index.js:7357
+#: blocks/build/index.js:9587
+#: blocks/build/index.js:9657
+#: blocks/build/index.js:10564
+#: blocks/build/index.js:10634
+#: blocks/build/index.js:13905
+#: blocks/build/index.js:14515
+#: blocks/build/index.js:14585
+#: blocks/build/index.js:14685
+#: blocks/directory-items-list/src/edit.js:172
+#: blocks/directory-items-list/src/edit.js:220
+#: blocks/directory-search-results/src/edit.js:114
+#: blocks/directory-search-results/src/edit.js:162
+#: blocks/directory-similar-items/src/edit.js:136
+#: blocks/directory-similar-items/src/edit.js:184
+#: blocks/item-featured-image/src/edit.js:227
+#: blocks/item-gallery/src/edit.js:105
+#: blocks/item-gallery/src/edit.js:153
+#: blocks/item-gallery/src/edit.js:238
+msgid "Center"
+msgstr "Центр"
+
+#: plugin/settings/CitadelaDirectorySettings.php:847
+msgid "Center left"
+msgstr "По центру ліворуч"
+
+#: plugin/settings/CitadelaDirectorySettings.php:849
+msgid "Center right"
+msgstr "Центр праворуч"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:25
+msgid "Change GPX track"
+msgstr "Змінити трек GPX"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:438
+msgid "Checkbox"
+msgstr "Прапорець"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:286
+msgid "Choices for selected input type. Insert one choise per line, divide saved input value and text displayed in input using colon."
+msgstr "Вибір для вибраного типу введення. Вставте один варіант вибору на рядок, розділіть збережене введене значення та текст, що відображається у вводі, за допомогою двокрапки."
+
+#: plugin/cpt/item/CitadelaItemMetabox.php:149
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:165
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:266
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:568
+msgid "Choose option"
+msgstr "Виберіть варіант"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:113
+msgid "Citadela - Special Pages"
+msgstr "Цитадела - спеціальні сторінки"
+
+#. translators: %s plugin's name
+#: plugin/compatibility.php:14
+msgid "Citadela Directory Lite"
+msgstr "Citadela Directory Lite"
+
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1483
+#: plugin/assets/citadela/half-layout-map/editor.js:325
+msgid "Citadela Half Layout Map Settings"
+msgstr "Налаштування карти половинного макета Citadela"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:168
+#: plugin/assets/citadela/item-page-layout/editor.js:77
+msgid "Citadela Item Page Layout"
+msgstr "Макет сторінки предметів Citadela"
+
+#. Plugin Name of the plugin
+#: plugin/events/Events.php:14
+#: plugin/events/Events.php:34
+#: plugin/settings/CitadelaDirectorySettings.php:54
+#: plugin/settings/CitadelaDirectorySettings.php:55
+#: plugin/settings/CitadelaDirectorySettings.php:67
+#: plugin/settings/CitadelaDirectorySettings.php:68
+msgid "Citadela Listing"
+msgstr "Список Цитадели"
+
+#: blocks/build/index.js:5973
+#: blocks/build/index.js:13518
+#: blocks/item-extension/src/edit.js:367
+msgid "Citadela Listing > Item Extension"
+msgstr "Перелік Citadela &gt; Розширення елемента"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:466
+msgid "Citadela Listing Blocks"
+msgstr "Блоки списку Цитадели"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:471
+msgid "Citadela Posts Blocks"
+msgstr "Постові блоки Цитадели"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:195
+#: plugin/includes/CitadelaDirectorySpecialPages.php:196
+msgid "Citadela Special Pages"
+msgstr "Спеціальні сторінки Цитадели"
+
+#: plugin/subscriptions/Feature.php:273
+msgid "Citadela Subscription"
+msgstr "Підписка на Citadela"
+
+#: plugin/settings/CitadelaDirectorySettings.php:265
+#: plugin/settings/CitadelaDirectorySettings.php:266
+#: blocks/build/index.js:12106
+#: blocks/item-claim-listing/src/index.js:237
+msgid "Claim Listing"
+msgstr "Перелік претензій"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:56
+msgid "Claim Listing Request"
+msgstr "Запит на перелік претензій"
+
+#: blocks/item-claim-listing/ItemClaimListing.php:68
+msgid "Claim as:"
+msgstr "Заявити як:"
+
+#: plugin/claim-listing/ClaimListing.php:34
+msgid "Claim listing has been approved"
+msgstr "Перелік претензій затверджено"
+
+#: plugin/claim-listing/ClaimListing.php:34
+msgid "Claim listing has been declined"
+msgstr "Перелік претензій відхилено"
+
+#: plugin/claim-listing/ClaimListing.php:40
+msgid "Claim status"
+msgstr "Статус претензії"
+
+#: plugin/claim-listing/ClaimListing.php:60
+msgid "Claimed by"
+msgstr "Заявлено"
+
+#: blocks/build/index.js:2414
+#: blocks/components/custom-color-control.js:63
+#: plugin/assets/citadela/half-layout-map/build/editor.js:235
+msgid "Clear"
+msgstr "Ясно"
+
+#: plugin/migration/Migration/Settings_Tab.php:31
+msgid "Clicking on button below will restart migration process. All automatically migrated items, categories and locations will be deleted. All manually created items, categories and locations will not be deleted. Migration process will start automatically after that."
+msgstr "Натискання кнопки нижче перезапустить процес міграції. Усі автоматично перенесені елементи, категорії та місцеположення буде видалено. Усі створені вручну елементи, категорії та місця не видалятимуться. Після цього процес міграції розпочнеться автоматично."
+
+#: blocks/build/index.js:5727
+msgid "Closed on mobile"
+msgstr "Закрито на мобільному"
+
+#: blocks/automatic-directory-google-map/src/edit.js:227
+#: blocks/automatic-posts-map/src/edit.js:155
+#: blocks/build/index.js:1262
+#: blocks/build/index.js:1817
+#: blocks/build/index.js:6726
+#: blocks/build/index.js:15838
+#: blocks/directory-google-map/src/edit.js:240
+#: blocks/posts-map/src/edit.js:186
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1368
+#: plugin/assets/citadela/half-layout-map/editor.js:204
+msgid "Cluster radius in px"
+msgstr "Радіус кластера в пікселях"
+
+#: blocks/automatic-directory-google-map/src/edit.js:228
+#: blocks/automatic-posts-map/src/edit.js:156
+#: blocks/build/index.js:1263
+#: blocks/build/index.js:1818
+#: blocks/build/index.js:6727
+#: blocks/build/index.js:15839
+#: blocks/directory-google-map/src/edit.js:241
+#: blocks/posts-map/src/edit.js:187
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1369
+#: plugin/assets/citadela/half-layout-map/editor.js:205
+msgid "Clusters are disabled."
+msgstr "Кластери вимкнено."
+
+#: blocks/build/index.js:5710
+msgid "Collapsible filters section."
+msgstr "Розбірна секція фільтрів."
+
+#: plugin/cpt/item/CitadelaItem.php:363
+#: plugin/subscriptions/Feature.php:104
+msgid "Comments"
+msgstr "Коментарі"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:211
+#: plugin/subscriptions/Feature.php:128
+msgid "Contact"
+msgstr "Контакти"
+
+#: plugin/subscriptions/Feature.php:80
+msgid "Content"
+msgstr "Зміст"
+
+#: blocks/build/index.js:8577
+#: blocks/directory-membership-content/src/edit.js:39
+msgid "Content visible for:"
+msgstr "Вміст, видимий для:"
+
+#: blocks/automatic-directory-google-map/src/edit.js:253
+#: blocks/automatic-posts-map/src/edit.js:179
+#: blocks/build/index.js:1289
+#: blocks/build/index.js:1844
+#: blocks/build/index.js:6753
+#: blocks/build/index.js:15865
+#: blocks/directory-google-map/src/edit.js:265
+#: blocks/posts-map/src/edit.js:210
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1387
+#: plugin/assets/citadela/half-layout-map/editor.js:229
+msgid "Copy and paste the JSON from this website:"
+msgstr "Скопіюйте та вставте JSON з цього веб-сайту:"
+
+#: plugin/controls/butterbean/templates/control-citadela_map.php:102
+#: plugin/controls/inputs/CitadelaMapControl.php:122
+msgid "Couldn't find location, try different address."
+msgstr "Не вдалося знайти місцезнаходження, спробуйте іншу адресу."
+
+#: plugin/settings/CitadelaDirectorySettings.php:907
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: blocks/automatic-directory-google-map/src/edit.js:210
+#: blocks/automatic-posts-map/src/edit.js:138
+#: blocks/build/index.js:1246
+#: blocks/build/index.js:1801
+#: blocks/build/index.js:6710
+#: blocks/build/index.js:13769
+#: blocks/build/index.js:13792
+#: blocks/build/index.js:15822
+#: blocks/directory-google-map/src/edit.js:223
+#: blocks/item-featured-image/src/edit.js:92
+#: blocks/item-featured-image/src/edit.js:116
+#: blocks/posts-map/src/edit.js:169
+msgid "Cover column height"
+msgstr "Висота колони кришки"
+
+#: plugin/cpt/user/CitadelaUser.php:12
+#: plugin/cpt/user/CitadelaUser.php:43
+msgid "Cover image"
+msgstr "Обкладинка"
+
+#: blocks/build/index.js:4354
+#: blocks/build/index.js:4362
+#: blocks/components/state-icons.js:36
+#: blocks/components/state-icons.js:43
+msgid "Current block view"
+msgstr "Поточний вид блоку"
+
+#: blocks/automatic-directory-google-map/src/edit.js:14
+#: blocks/automatic-posts-map/src/edit.js:13
+#: blocks/build/index.js:1016
+#: blocks/build/index.js:1643
+#: blocks/build/index.js:6461
+#: blocks/build/index.js:7260
+#: blocks/build/index.js:7330
+#: blocks/build/index.js:9560
+#: blocks/build/index.js:9630
+#: blocks/build/index.js:10537
+#: blocks/build/index.js:10607
+#: blocks/build/index.js:14488
+#: blocks/build/index.js:14558
+#: blocks/build/index.js:15634
+#: blocks/directory-google-map/src/edit.js:17
+#: blocks/directory-items-list/src/edit.js:157
+#: blocks/directory-items-list/src/edit.js:205
+#: blocks/directory-search-results/src/edit.js:99
+#: blocks/directory-search-results/src/edit.js:147
+#: blocks/directory-similar-items/src/edit.js:121
+#: blocks/directory-similar-items/src/edit.js:169
+#: blocks/item-gallery/src/edit.js:90
+#: blocks/item-gallery/src/edit.js:138
+#: blocks/posts-map/src/edit.js:14
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1257
+#: plugin/assets/citadela/half-layout-map/editor.js:56
+msgid "Custom"
+msgstr "На замовлення"
+
+#: blocks/automatic-directory-google-map/src/edit.js:204
+#: blocks/automatic-posts-map/src/edit.js:132
+#: blocks/build/index.js:1242
+#: blocks/build/index.js:1797
+#: blocks/build/index.js:6706
+#: blocks/build/index.js:13868
+#: blocks/build/index.js:15818
+#: blocks/directory-google-map/src/edit.js:217
+#: blocks/item-featured-image/src/edit.js:198
+#: blocks/posts-map/src/edit.js:163
+msgid "Custom Height Settings"
+msgstr "Користувацькі налаштування висоти"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:94
+msgid "Custom inputs"
+msgstr "Спеціальні введення"
+
+#: blocks/build/index.js:9317
+#: blocks/build/index.js:16605
+#: blocks/directory-search-form/src/inspector-controls.js:326
+#: blocks/posts-search-form/src/inspector-controls.js:216
+msgid "Custom shadow"
+msgstr "Спеціальна тінь"
+
+#: blocks/build/index.js:4232
+#: blocks/components/responsive-options-tabs.js:20
+msgid "Customized options for mobile screen width."
+msgstr "Індивідуальні параметри для ширини екрана мобільного телефону."
+
+#: blocks/automatic-directory-google-map/src/edit.js:273
+#: blocks/automatic-posts-map/src/edit.js:198
+#: blocks/build/index.js:1316
+#: blocks/build/index.js:1871
+#: blocks/build/index.js:6780
+#: blocks/build/index.js:15892
+#: blocks/directory-google-map/src/edit.js:284
+#: blocks/posts-map/src/edit.js:229
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1408
+#: plugin/assets/citadela/half-layout-map/editor.js:248
+msgid "Dark"
+msgstr "Темний"
+
+#: plugin/settings/CitadelaDirectorySettings.php:279
+#: plugin/settings/CitadelaDirectorySettings.php:280
+msgid "Data migration"
+msgstr "Міграція даних"
+
+#: blocks/build/index.js:13384
+#: blocks/item-extension/src/edit.js:196
+msgid "Data of inputs with no value will not be displayed."
+msgstr "Дані вхідних даних без значення не відображатимуться."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:437
+#: blocks/build/index.js:7586
+#: blocks/build/index.js:9764
+#: blocks/build/index.js:10874
+#: blocks/build/index.js:16856
+#: blocks/directory-items-list/src/edit.js:423
+#: blocks/directory-search-results/src/edit.js:267
+#: blocks/directory-similar-items/src/edit.js:396
+#: blocks/posts-search-results/src/index.js:161
+msgid "Date"
+msgstr "Дата"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:360
+msgid "Date archives: "
+msgstr "Архів дат:"
+
+#: blocks/build/index.js:16946
+#: blocks/posts-search-results/src/index.js:239
+msgid "Date color"
+msgstr "Колір дати"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:294
+msgid "Decide if email address is visible for visitors"
+msgstr "Визначте, чи буде адреса електронної пошти видимою для відвідувачів"
+
+#: plugin/claim-listing/ClaimListing.php:62
+#: plugin/claim-listing/ClaimListing.php:69
+msgid "Decline"
+msgstr "Відхилення"
+
+#: plugin/claim-listing/ClaimListing.php:239
+msgid "Decline claim"
+msgstr "Відхилити претензію"
+
+#: blocks/authors-list/src/edit.js:241
+#: blocks/build/index.js:639
+#: blocks/build/index.js:7631
+#: blocks/build/index.js:9885
+#: blocks/build/index.js:10922
+#: blocks/build/index.js:16933
+#: blocks/directory-items-list/src/edit.js:463
+#: blocks/directory-search-results/src/edit.js:365
+#: blocks/directory-similar-items/src/edit.js:435
+#: blocks/posts-search-results/src/index.js:226
+msgid "Decoration color"
+msgstr "Колір декору"
+
+#: blocks/automatic-directory-google-map/src/edit.js:270
+#: blocks/automatic-posts-map/src/edit.js:195
+#: blocks/build/index.js:1307
+#: blocks/build/index.js:1862
+#: blocks/build/index.js:6771
+#: blocks/build/index.js:7257
+#: blocks/build/index.js:7327
+#: blocks/build/index.js:7719
+#: blocks/build/index.js:9557
+#: blocks/build/index.js:9627
+#: blocks/build/index.js:9960
+#: blocks/build/index.js:10534
+#: blocks/build/index.js:10604
+#: blocks/build/index.js:11010
+#: blocks/build/index.js:14485
+#: blocks/build/index.js:14555
+#: blocks/build/index.js:14671
+#: blocks/build/index.js:15883
+#: blocks/directory-google-map/src/edit.js:281
+#: blocks/directory-items-list/src/edit.js:156
+#: blocks/directory-items-list/src/edit.js:204
+#: blocks/directory-items-list/src/edit.js:550
+#: blocks/directory-search-results/src/edit.js:98
+#: blocks/directory-search-results/src/edit.js:146
+#: blocks/directory-search-results/src/edit.js:432
+#: blocks/directory-similar-items/src/edit.js:120
+#: blocks/directory-similar-items/src/edit.js:168
+#: blocks/directory-similar-items/src/edit.js:521
+#: blocks/item-gallery/src/edit.js:89
+#: blocks/item-gallery/src/edit.js:137
+#: blocks/item-gallery/src/edit.js:229
+#: blocks/posts-map/src/edit.js:226
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1399
+#: plugin/assets/citadela/half-layout-map/editor.js:245
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: blocks/build/index.js:14644
+#: blocks/item-gallery/src/edit.js:211
+msgid "Default Layout Options"
+msgstr "Параметри макета за замовчуванням"
+
+#: blocks/build/index.js:5031
+#: blocks/default-search-results/src/index.js:11
+msgid "Default Search Results"
+msgstr "Результати пошуку за замовчуванням"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:61
+#: plugin/includes/CitadelaDirectorySpecialPages.php:65
+msgid "Default Search Results Page"
+msgstr "Сторінка результатів пошуку за замовчуванням"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:268
+msgid "Default selection text, displayed as first option in selection. "
+msgstr "Текст вибору за замовчуванням, який відображається як перший варіант у виділенні."
+
+#: blocks/build/index.js:9314
+#: blocks/build/index.js:16602
+#: blocks/directory-search-form/src/inspector-controls.js:325
+#: blocks/posts-search-form/src/inspector-controls.js:215
+msgid "Default shadow"
+msgstr "Тінь за замовчуванням"
+
+#: plugin/settings/CitadelaDirectorySettings.php:910
+msgid "Default size"
+msgstr "Розмір за замовчуванням"
+
+#: blocks/build/index.js:3639
+#: blocks/components/panel-carousel.js:76
+msgid "Delay between slides"
+msgstr "Затримка між слайдами"
+
+#: blocks/authors-list/src/edit.js:222
+#: blocks/build/index.js:623
+#: blocks/build/index.js:7606
+#: blocks/build/index.js:9784
+#: blocks/build/index.js:10897
+#: blocks/build/index.js:16873
+#: blocks/directory-items-list/src/edit.js:438
+#: blocks/directory-search-results/src/edit.js:282
+#: blocks/directory-similar-items/src/edit.js:410
+#: blocks/posts-search-results/src/index.js:175
+msgid "Descending"
+msgstr "Спадаючий"
+
+#: blocks/build/index.js:11993
+#: blocks/item-claim-listing/src/index.js:118
+msgid "Description"
+msgstr "Опис"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:247
+msgid "Description text that appear on edit page with new input."
+msgstr "Текст опису, який з’являється на сторінці редагування з новим введенням."
+
+#: blocks/authors-list/src/edit.js:236
+#: blocks/build/index.js:635
+#: blocks/build/index.js:7627
+#: blocks/build/index.js:9881
+#: blocks/build/index.js:10918
+#: blocks/build/index.js:13443
+#: blocks/build/index.js:14749
+#: blocks/build/index.js:16929
+#: blocks/directory-items-list/src/edit.js:458
+#: blocks/directory-search-results/src/edit.js:360
+#: blocks/directory-similar-items/src/edit.js:430
+#: blocks/item-extension/src/edit.js:252
+#: blocks/item-gallery/src/edit.js:298
+#: blocks/posts-search-results/src/index.js:221
+msgid "Design Options"
+msgstr "Варіанти дизайну"
+
+#: blocks/build/index.js:4362
+#: blocks/components/state-icons.js:43
+msgid "Desktop"
+msgstr "Робочий стіл"
+
+#: blocks/build/index.js:4246
+#: blocks/components/responsive-options-tabs.js:30
+msgid "Desktop size"
+msgstr "Розмір робочого столу"
+
+#: blocks/build/index.js:9063
+#: blocks/directory-search-form/src/inspector-controls.js:87
+msgid "Disable filters button label"
+msgstr "Вимкнути мітку кнопки фільтрів"
+
+#: blocks/build/index.js:9144
+#: blocks/directory-search-form/src/inspector-controls.js:157
+msgid "Disable geolocation button label"
+msgstr "Вимкнути мітку кнопки геолокації"
+
+#: blocks/authors-list/src/edit.js:206
+#: blocks/build/index.js:600
+msgid "Display name"
+msgstr "Відображуване ім&#39;я"
+
+#: blocks/build/index.js:10871
+#: blocks/directory-similar-items/src/edit.js:393
+msgid "Displayed are nearest items by their GPS coordinates."
+msgstr "Відображаються найближчі елементи за їх GPS-координатами."
+
+#: blocks/build/index.js:11118
+#: blocks/directory-similar-items/src/edit.js:629
+msgid "Displayed will be posts similar to selected reference Item Post."
+msgstr "Відображатимуться публікації, подібні до вибраного довідкового пункту."
+
+#: blocks/build/index.js:12164
+#: blocks/item-contact-details/src/index.js:12
+msgid "Displays address, phone number and other contact information of specific listing item."
+msgstr "Відображає адресу, номер телефону та іншу контактну інформацію певного елемента списку."
+
+#: blocks/build/index.js:15129
+#: blocks/item-get-directions/src/index.js:15
+msgid "Displays button that open Google Maps navigation to Item Post location."
+msgstr "Відображає кнопку, яка відкриває навігацію на Картах Google до розташування елемента."
+
+#: blocks/build/index.js:15307
+#: blocks/item-gpx-download/src/index.js:15
+msgid "Displays button to download GPX file assigned to item."
+msgstr "Відображає кнопку для завантаження файлу GPX, призначеного елементу."
+
+#: blocks/build/index.js:12411
+#: blocks/item-contact-form/src/index.js:10
+msgid "Displays contact form which send email directly to email address of specific listing item."
+msgstr "Відображає контактну форму, яка надсилає електронну пошту безпосередньо на адресу електронної пошти певного елемента списку."
+
+#: blocks/build/index.js:8667
+#: blocks/directory-membership-content/src/index.js:11
+msgid "Displays content only for users with active membership, or only for visitors without membership."
+msgstr "Відображає вміст лише для користувачів із активним членством або лише для відвідувачів без членства."
+
+#: blocks/build/index.js:12761
+#: blocks/item-content/src/index.js:10
+msgid "Displays content written in visual editor of specific listing item."
+msgstr "Відображає вміст, написаний у візуальному редакторі певного елемента списку."
+
+#: blocks/build/index.js:15068
+#: blocks/item-gallery/src/index.js:10
+msgid "Displays gallery of images assigned to Item Post."
+msgstr "Відображає галерею зображень, призначених для запису товару."
+
+#: blocks/author-detail/src/index.js:10
+#: blocks/build/index.js:292
+msgid "Displays information about author on author archive page."
+msgstr "Відображає інформацію про автора на сторінці архіву автора."
+
+#: blocks/authors-list/src/index.js:10
+#: blocks/build/index.js:907
+msgid "Displays information about selected authors."
+msgstr "Відображає інформацію про вибраних авторів."
+
+#: blocks/build/index.js:13566
+#: blocks/item-extension/src/index.js:13
+msgid "Displays information from Item Extension inputs assigned to item."
+msgstr "Відображає інформацію з входів розширення елемента, призначених елементу."
+
+#: blocks/build/index.js:6349
+#: blocks/directory-categories-list/src/index.js:10
+msgid "Displays listing categories based on specific filter. It can display parent categories or subcategories from specific category."
+msgstr "Відображає категорії списку на основі певного фільтра. Він може відображати батьківські категорії або підкатегорії з певної категорії."
+
+#: blocks/build/index.js:10304
+#: blocks/directory-search-results/src/index.js:10
+msgid "Displays listing items based on current category/location page or results from search form."
+msgstr "Відображає елементи списку на основі поточної сторінки категорії/розташування або результатів із форми пошуку."
+
+#: blocks/build/index.js:8123
+#: blocks/directory-items-list/src/index.js:10
+msgid "Displays listing items based on filters. For example items only from specific category, location or featured items."
+msgstr "Відображає елементи списку на основі фільтрів. Наприклад, товари лише з певної категорії, місцеположення або пропоновані елементи."
+
+#: blocks/build/index.js:6999
+#: blocks/directory-google-map/src/index.js:12
+msgid "Displays listing items on map based on filters. For example items only from specific category, location or featured items."
+msgstr "Відображає елементи списку на карті на основі фільтрів. Наприклад, товари лише з певної категорії, місцеположення або пропоновані елементи."
+
+#: blocks/build/index.js:11471
+#: blocks/directory-similar-items/src/index.js:10
+msgid "Displays listing items similar to selected reference item post."
+msgstr "Відображає елементи списку, подібні до вибраної публікації довідкового елемента."
+
+#: blocks/build/index.js:8467
+#: blocks/directory-locations-list/src/index.js:10
+msgid "Displays listing locations based on specific filter. It can display parent locations or sublocations from specific location."
+msgstr "Відображає місця розташування на основі певного фільтра. Він може відображати батьківські розташування або підлокації з певного місця."
+
+#: blocks/build/index.js:11526
+#: blocks/directory-subcategories-list/src/index.js:12
+msgid "Displays listing subcategories based on current category page."
+msgstr "Відображає список підкатегорій на основі поточної сторінки категорії."
+
+#: blocks/build/index.js:11643
+#: blocks/directory-sublocations-list/src/index.js:12
+msgid "Displays listing sublocations based on current category page."
+msgstr "Відображає список підлокацій на основі поточної сторінки категорії."
+
+#: blocks/build/index.js:14305
+#: blocks/item-featured-image/src/index.js:10
+msgid "Displays main item image of specific listing item."
+msgstr "Відображає основне зображення певного елемента списку."
+
+#: blocks/build/index.js:15475
+#: blocks/item-opening-hours/src/index.js:12
+msgid "Displays opening hours of specific listing item."
+msgstr "Показує години роботи певного товару."
+
+#: blocks/build/index.js:16708
+#: blocks/posts-search-results/src/index.js:15
+msgid "Displays posts based on current results from search form."
+msgstr "Відображає повідомлення на основі поточних результатів із форми пошуку."
+
+#: blocks/build/index.js:5032
+#: blocks/default-search-results/src/index.js:12
+msgid "Displays posts based on current results on default WordPress search results page."
+msgstr "Відображає публікації на основі поточних результатів на сторінці результатів пошуку WordPress за замовчуванням."
+
+#: blocks/build/index.js:16111
+#: blocks/posts-map/src/index.js:12
+msgid "Displays posts on map based on filters. For example posts only from specific category or location."
+msgstr "Відображає повідомлення на карті на основі фільтрів. Наприклад, публікації лише з певної категорії або місця."
+
+#: blocks/automatic-directory-google-map/src/index.js:12
+#: blocks/build/index.js:1533
+msgid "Displays relevant listing items automatically based on current page. For example search results or item detail location."
+msgstr "Автоматично відображає відповідні елементи списку на основі поточної сторінки. Наприклад, результати пошуку або детальне розташування елемента."
+
+#: blocks/automatic-posts-map/src/index.js:12
+#: blocks/build/index.js:2088
+msgid "Displays relevant posts automatically based on current page. For example search results or post detail location."
+msgstr "Автоматично відображає відповідні повідомлення на основі поточної сторінки. Наприклад, результати пошуку або деталі розміщення публікації."
+
+#: blocks/build/index.js:11870
+#: blocks/item-claim-listing/src/index.js:16
+msgid "Displays the button and the form for claim listing."
+msgstr "Відображає кнопку та форму для списку претензій."
+
+#: blocks/build/index.js:13099
+#: blocks/item-events/src/index.js:10
+msgid "Displays upcoming events of specific listing item."
+msgstr "Відображає майбутні події певного елемента списку."
+
+#: blocks/build/index.js:10886
+#: blocks/directory-similar-items/src/edit.js:400
+msgid "Distance"
+msgstr "Відстань"
+
+#: blocks/build/index.js:9128
+#: blocks/directory-search-form/src/inspector-controls.js:145
+msgid "Distance option label"
+msgstr "Мітка параметра відстані"
+
+#: blocks/build/index.js:9086
+#: blocks/directory-search-form/src/inspector-controls.js:113
+msgid "Distance unit"
+msgstr "Одиниця відстані"
+
+#: blocks/build/index.js:14721
+#: blocks/item-gallery/src/edit.js:271
+msgid "Do not show"
+msgstr "Не показуй"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:38
+msgid "Do not show endpoints"
+msgstr "Не показувати кінцеві точки"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:113
+#: plugin/assets/citadela/item-page-layout/editor.js:18
+msgid "Do not use Item Detail special page settings"
+msgstr "Не використовуйте спеціальні налаштування сторінки «Деталі елемента»."
+
+#: blocks/item-gpx-download/ItemGpxDownload.php:42
+#: blocks/build/index.js:15414
+#: blocks/item-gpx-download/src/index.js:119
+msgid "Download GPX file"
+msgstr "Завантажте файл GPX"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:60
+msgid "Drop GPX file here"
+msgstr "Перекиньте файл GPX сюди"
+
+#: blocks/automatic-directory-google-map/src/edit.js:137
+#: blocks/build/index.js:1172
+#: blocks/build/index.js:6646
+#: blocks/directory-google-map/src/edit.js:164
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1331
+#: plugin/assets/citadela/half-layout-map/editor.js:148
+msgid "Dynamic track visibility"
+msgstr "Динамічна видимість треку"
+
+#: plugin/settings/CitadelaDirectorySettings.php:239
+#: plugin/settings/CitadelaDirectorySettings.php:240
+msgid "Easy Admin"
+msgstr "Легкий адмін"
+
+#: plugin/settings/CitadelaDirectorySettings.php:1045
+msgid "Easy Admin offer simplified WordPress administration without any unnecessary distractions."
+msgstr "Easy Admin пропонує спрощене адміністрування WordPress без будь-яких непотрібних відволікань."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:95
+msgid "Edit Category"
+msgstr "Редагувати категорію"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:33
+msgid "Edit Item"
+msgstr "Редагувати елемент"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:129
+#: plugin/cpt/post/CitadelaPost.php:65
+msgid "Edit Location"
+msgstr "Редагувати місцезнаходження"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:133
+msgid "Edit Special Page"
+msgstr "Редагувати спеціальну сторінку"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:286
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:57
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:33
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:434
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: blocks/build/index.js:12633
+#: blocks/item-contact-form/src/inspector-controls.js:164
+msgid "Email Help"
+msgstr "Довідка електронною поштою"
+
+#: blocks/build/index.js:12018
+#: blocks/build/index.js:12562
+#: blocks/item-claim-listing/src/index.js:141
+#: blocks/item-contact-form/src/inspector-controls.js:95
+msgid "Email Label"
+msgstr "Мітка електронної пошти"
+
+#: blocks/build/index.js:12533
+#: blocks/item-contact-form/src/inspector-controls.js:65
+msgid "Email Message"
+msgstr "Повідомлення електронною поштою"
+
+#: blocks/build/index.js:12502
+#: blocks/item-contact-form/src/inspector-controls.js:35
+msgid "Email settings"
+msgstr "Налаштування електронної пошти"
+
+#: blocks/build/index.js:12521
+#: blocks/item-contact-form/src/inspector-controls.js:54
+msgid "Email used as sender in email, make sure the email address corresponds with your website domain."
+msgstr "Електронна пошта, яка використовується як відправник в електронній пошті, переконайтеся, що адреса електронної пошти відповідає домену вашого веб-сайту."
+
+#: blocks/automatic-directory-google-map/src/edit.js:184
+#: blocks/automatic-posts-map/src/edit.js:113
+#: blocks/build/index.js:1219
+#: blocks/build/index.js:1774
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1296
+#: plugin/assets/citadela/half-layout-map/editor.js:104
+msgid "Empty map behavior"
+msgstr "Поведінка порожньої карти"
+
+#: blocks/build/index.js:11246
+#: blocks/directory-similar-items/src/edit.js:746
+msgid "Empty value to show all similar items."
+msgstr "Порожнє значення, щоб показати всі схожі елементи."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:43
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:66
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:70
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:59
+#: plugin/settings/pages/CitadelaDirectorySettingsSubscriptions.php:40
+#: plugin/subscriptions/Feature.php:54
+msgid "Enable"
+msgstr "Увімкнути"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:77
+msgid "Enable Gutenberg editor"
+msgstr "Увімкнути редактор Гутенберга"
+
+#: blocks/build/index.js:5972
+msgid "Enable and insert inputs available for filters via menu"
+msgstr "Увімкнути та вставити входи, доступні для фільтрів, через меню"
+
+#: blocks/build/index.js:13517
+#: blocks/item-extension/src/edit.js:366
+msgid "Enable and insert inputs via menu"
+msgstr "Увімкнути та вставити входи через меню"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsSubscriptions.php:41
+msgid "Enable bundled subscriptions"
+msgstr "Увімкнути пакетні підписки"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:42
+msgid "Endpoint markers are displayed in place of very first and very end point of uploaded GPX track."
+msgstr "Маркери кінцевої точки відображаються замість першої та кінцевої точок завантаженої доріжки GPX."
+
+#: blocks/build/index.js:12900
+#: blocks/item-events/src/edit.js:32
+msgid "Event Details"
+msgstr "Деталі події"
+
+#: blocks/build/index.js:12928
+#: blocks/item-events/src/edit.js:53
+msgid "Event Image Options"
+msgstr "Параметри зображення події"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:37
+msgid "Every segment in track"
+msgstr "Кожен сегмент на треку"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:402
+#: plugin/includes/CitadelaDirectorySpecialPages.php:443
+msgid "Everything"
+msgstr "Все"
+
+#. translators: %s: printed example of expected values in input.
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:289
+msgid "Example of inserted values: %s"
+msgstr "Приклад вставлених значень: %s"
+
+#: plugin/subscriptions/Feature.php:92
+msgid "Excerpt"
+msgstr "Витяг"
+
+#: blocks/build/index.js:2482
+#: blocks/components/feature-disabled-placeholder.js:12
+msgid "Feature is disabled"
+msgstr "Функція вимкнена"
+
+#: plugin/cpt/item/CitadelaItem.php:385
+#: plugin/cpt/item/CitadelaItem.php:408
+#: plugin/cpt/item/CitadelaItemConfig.php:251
+msgid "Featured"
+msgstr "Рекомендований"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:229
+msgid "Featured Category"
+msgstr "Рекомендована категорія"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:179
+#: plugin/subscriptions/Feature.php:146
+msgid "Featured category"
+msgstr "Рекомендована категорія"
+
+#: plugin/subscriptions/Feature.php:86
+msgid "Featured image"
+msgstr "Вибране зображення"
+
+#: blocks/build/index.js:7618
+#: blocks/build/index.js:9796
+#: blocks/build/index.js:10909
+#: blocks/directory-items-list/src/edit.js:448
+#: blocks/directory-search-results/src/edit.js:293
+#: blocks/directory-similar-items/src/edit.js:419
+msgid "Featured items first"
+msgstr "Рекомендовані елементи спочатку"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:191
+msgid "Featured location"
+msgstr "Вибране розташування"
+
+#: plugin/item-reviews/ItemReviews.php:309
+msgid "Fill all required fields, please."
+msgstr "Заповніть усі обов’язкові поля, будь ласка."
+
+#: blocks/directory-advanced-filters/DirectoryAdvancedFilters.php:216
+#: blocks/build/index.js:5961
+msgid "Filter"
+msgstr "Фільтр"
+
+#: blocks/common-scripts/search-forms-initializer.js:505
+msgid "Filter posts"
+msgstr "Фільтрувати дописи"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:137
+msgid "Filter special pages list"
+msgstr "Відфільтруйте список спеціальних сторінок"
+
+#: blocks/directory-advanced-filters/DirectoryAdvancedFilters.php:106
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:173
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:415
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:551
+#: blocks/build/index.js:5415
+#: blocks/build/index.js:6172
+#: blocks/build/index.js:6674
+#: blocks/build/index.js:7461
+#: blocks/build/index.js:8290
+#: blocks/build/index.js:10739
+#: blocks/build/index.js:11536
+#: blocks/build/index.js:11653
+#: blocks/build/index.js:15794
+#: blocks/build/index.js:16835
+#: blocks/directory-categories-list/src/edit.js:87
+#: blocks/directory-google-map/src/edit.js:191
+#: blocks/directory-items-list/src/edit.js:323
+#: blocks/directory-locations-list/src/edit.js:86
+#: blocks/directory-similar-items/src/edit.js:287
+#: blocks/directory-subcategories-list/src/index.js:23
+#: blocks/directory-sublocations-list/src/index.js:23
+#: blocks/posts-map/src/edit.js:142
+#: blocks/posts-search-results/src/index.js:138
+msgid "Filters"
+msgstr "фільтри"
+
+#: blocks/build/index.js:5831
+msgid "Filters Design"
+msgstr "Дизайн фільтрів"
+
+#: blocks/build/index.js:5835
+msgid "Filters background color"
+msgstr "Фільтри кольору фону"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:405
+msgid "Filters group name"
+msgstr "Назва групи фільтрів"
+
+#: blocks/build/index.js:9039
+#: blocks/directory-search-form/src/inspector-controls.js:63
+msgid "Filters settings"
+msgstr "Налаштування фільтрів"
+
+#: blocks/build/index.js:6009
+#: blocks/directory-advanced-filters/src/index.js:10
+msgid "Filters to specify results of displayed items."
+msgstr "Фільтри для визначення результатів відображених елементів."
+
+#: plugin/controls/butterbean/templates/control-citadela_map.php:43
+#: plugin/controls/inputs/CitadelaMapControl.php:69
+msgid "Find address"
+msgstr "Знайдіть адресу"
+
+#: blocks/build/index.js:13434
+#: blocks/item-extension/src/edit.js:240
+msgid "Fix width"
+msgstr "Виправити ширину"
+
+#: plugin/settings/CitadelaDirectorySettings.php:880
+msgid "Fixed"
+msgstr "Виправлено"
+
+#. translators: %s url reCaptcha v3 page
+#: plugin/settings/CitadelaDirectorySettings.php:1002
+msgid "For more details see %s."
+msgstr "Додаткову інформацію див. у %s."
+
+#: blocks/build/index.js:13435
+#: blocks/item-extension/src/edit.js:241
+msgid "Force box width to selected value."
+msgstr "Примусово встановити ширину поля до вибраного значення."
+
+#: blocks/build/index.js:13414
+#: blocks/item-extension/src/edit.js:221
+msgid "Force table style for displayed data, longer values are not moved under label."
+msgstr "Примусовий стиль таблиці для відображених даних, довші значення не переміщуються під міткою."
+
+#: blocks/build/index.js:11976
+#: blocks/item-claim-listing/src/index.js:101
+msgid "Form"
+msgstr "Форма"
+
+#: blocks/automatic-directory-google-map/src/edit.js:430
+#: blocks/automatic-posts-map/src/edit.js:355
+#: blocks/build/index.js:1482
+#: blocks/build/index.js:2037
+#: blocks/build/index.js:6946
+#: blocks/build/index.js:16058
+#: blocks/directory-google-map/src/edit.js:445
+#: blocks/posts-map/src/edit.js:387
+msgid "Form inside map breakpoint"
+msgstr "Форма всередині точки зупинки карти"
+
+#: blocks/build/index.js:16428
+#: blocks/posts-search-form/src/inspector-controls.js:44
+msgid "Form settings"
+msgstr "Налаштування форми"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:360
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:28
+msgid "Friday"
+msgstr "п&#39;ятниця"
+
+#: plugin/settings/CitadelaDirectorySettings.php:908
+msgid "Full horizontal"
+msgstr "Повна горизонтальна"
+
+#: plugin/settings/CitadelaDirectorySettings.php:909
+msgid "Full vertical"
+msgstr "Повна вертикаль"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:123
+#: plugin/assets/citadela/item-page-layout/editor.js:28
+msgid "Fullwidth page"
+msgstr "Сторінка повної ширини"
+
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:33
+msgid "GPS"
+msgstr "GPS"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:224
+#: plugin/subscriptions/Feature.php:152
+msgid "GPX Track"
+msgstr "Трек GPX"
+
+#: blocks/automatic-directory-google-map/src/edit.js:128
+#: blocks/build/index.js:1160
+#: blocks/build/index.js:6634
+#: blocks/directory-google-map/src/edit.js:155
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1321
+#: plugin/assets/citadela/half-layout-map/editor.js:137
+msgid "GPX Tracks"
+msgstr "Треки GPX"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:87
+msgid "GPX file successfully loaded!"
+msgstr "Файл GPX успішно завантажено!"
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:28
+msgid "GPX files"
+msgstr "GPX файли"
+
+#: blocks/build/index.js:14714
+#: blocks/item-gallery/src/edit.js:263
+msgid "Gallery Options"
+msgstr "Параметри галереї"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:203
+msgid "General"
+msgstr "Генеральний"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:93
+msgid "General background"
+msgstr "Загальний фон"
+
+#: plugin/subscriptions/Feature.php:116
+msgid "General options"
+msgstr "Загальні варіанти"
+
+#: blocks/build/index.js:4232
+#: blocks/components/responsive-options-tabs.js:19
+msgid "General options for desktop."
+msgstr "Загальні параметри для робочого столу."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:35
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:59
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+#: blocks/build/index.js:9074
+#: blocks/directory-search-form/src/inspector-controls.js:101
+msgid "Geolocation search settings"
+msgstr "Налаштування пошуку геолокації"
+
+#: blocks/item-get-directions/ItemGetDirections.php:44
+#: blocks/build/index.js:15236
+#: blocks/item-get-directions/src/index.js:120
+msgid "Get directions"
+msgstr "Отримати направлення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:26
+msgid "Google Maps API Key"
+msgstr "Ключ API Карт Google"
+
+#. translators: 1. starting html <a> tag with link to google documentation page, 2. ending html <a> tag
+#: plugin/settings/CitadelaDirectorySettings.php:1015
+msgid "Google Maps API key is required by Google. It is necessary for all websites that use advanced maps features such as displaying listing items on the map. Learn more about how to get API key in the %1$sfollowing tutorial%2$s."
+msgstr "Google потрібен ключ API Карт Google. Це необхідно для всіх веб-сайтів, які використовують розширені функції карт, наприклад відображення елементів списку на карті. Дізнайтеся більше про те, як отримати ключ API, у %1$s, наступному підручнику%2$s."
+
+#: plugin/settings/CitadelaDirectorySettings.php:1000
+msgid "Google reCaptcha protects your website against spam and other automated form submissions by spam bots. If you are using third party solution to protect forms on your website, ignore following key inputs."
+msgstr "Google reCaptcha захищає ваш веб-сайт від спаму та інших автоматичних форм, які надсилаються спам-ботами. Якщо ви використовуєте сторонні рішення для захисту форм на своєму веб-сайті, ігноруйте наведені нижче ключові дані."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:33
+msgid "Google reCaptcha v3 Keys"
+msgstr "Ключі Google reCaptcha v3"
+
+#: blocks/build/index.js:9200
+#: blocks/build/index.js:16488
+#: blocks/directory-search-form/src/inspector-controls.js:210
+#: blocks/posts-search-form/src/inspector-controls.js:98
+msgid "Gradient"
+msgstr "Градієнт"
+
+#: blocks/build/index.js:2671
+#: blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Ступінь градієнта"
+
+#: blocks/build/index.js:14648
+#: blocks/item-gallery/src/edit.js:216
+msgid "Grid size"
+msgstr "Розмір сітки"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:122
+msgid "Group name"
+msgstr "Назва групи"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:126
+#: plugin/assets/citadela/item-page-layout/editor.js:29
+msgid "Half layout page"
+msgstr "Половина сторінки макета"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:49
+msgid "Header menu settings"
+msgstr "Налаштування меню заголовка"
+
+#: blocks/build/index.js:5719
+msgid "Header opened or closed by default."
+msgstr "Заголовок відкривається або закривається за замовчуванням."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:42
+msgid "Header settings"
+msgstr "Налаштування заголовка"
+
+#: blocks/automatic-directory-google-map/src/edit.js:371
+#: blocks/automatic-posts-map/src/edit.js:296
+#: blocks/build/index.js:1420
+#: blocks/build/index.js:1975
+#: blocks/build/index.js:6884
+#: blocks/build/index.js:14018
+#: blocks/build/index.js:14088
+#: blocks/build/index.js:15996
+#: blocks/directory-google-map/src/edit.js:386
+#: blocks/item-featured-image/src/edit.js:335
+#: blocks/item-featured-image/src/edit.js:405
+#: blocks/posts-map/src/edit.js:328
+msgid "Height unit"
+msgstr "Одиниця висоти"
+
+#: blocks/build/index.js:12634
+#: blocks/item-contact-form/src/inspector-controls.js:165
+msgid "Help text displayed with Email input."
+msgstr "Текст довідки, що відображається за допомогою введення електронної пошти."
+
+#: blocks/build/index.js:12660
+#: blocks/item-contact-form/src/inspector-controls.js:189
+msgid "Help text displayed with Message input."
+msgstr "Текст довідки, що відображається при введенні повідомлення."
+
+#: blocks/build/index.js:12621
+#: blocks/item-contact-form/src/inspector-controls.js:153
+msgid "Help text displayed with Name input."
+msgstr "Текст довідки відображається з введенням імені."
+
+#: blocks/build/index.js:12647
+#: blocks/item-contact-form/src/inspector-controls.js:177
+msgid "Help text displayed with Subject input."
+msgstr "Текст довідки, що відображається за допомогою введення теми."
+
+#: blocks/build/index.js:12613
+#: blocks/item-contact-form/src/inspector-controls.js:144
+msgid "Help texts"
+msgstr "Довідкові тексти"
+
+#: blocks/build/index.js:16432
+#: blocks/posts-search-form/src/inspector-controls.js:49
+msgid "Hide Location input"
+msgstr "Приховати введення місцезнаходження"
+
+#: blocks/build/index.js:13383
+#: blocks/item-extension/src/edit.js:195
+msgid "Hide empty values"
+msgstr "Приховати порожні значення"
+
+#: blocks/automatic-directory-google-map/src/edit.js:188
+#: blocks/automatic-posts-map/src/edit.js:117
+#: blocks/build/index.js:1225
+#: blocks/build/index.js:1780
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1302
+#: plugin/assets/citadela/half-layout-map/editor.js:108
+msgid "Hide map"
+msgstr "Сховати карту"
+
+#: blocks/build/index.js:5665
+msgid "Hide selected filters"
+msgstr "Приховати вибрані фільтри"
+
+#: blocks/build/index.js:13361
+#: blocks/item-extension/src/edit.js:171
+msgid "Hide selected inputs"
+msgstr "Приховати вибрані введення"
+
+#: blocks/build/index.js:13392
+#: blocks/item-extension/src/edit.js:202
+msgid "Hide unchecked checkbox"
+msgstr "Приховати не встановлений прапорець"
+
+#: blocks/build/index.js:2218
+#: blocks/components/box-shadow-control.js:60
+msgid "Horizontal offset"
+msgstr "Горизонтальне зміщення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:399
+msgid "If selected, will be available in filters for Item posts."
+msgstr "Якщо вибрано, буде доступним у фільтрах для публікацій про елементи."
+
+#: plugin/settings/CitadelaDirectorySettings.php:1029
+msgid "If you would like to use your own WooCommerce Subscriptions plugin, simply deactivate bundled version below and activate your plugin."
+msgstr "Якщо ви хочете використовувати свій власний плагін WooCommerce Subscriptions, просто деактивуйте пакетну версію нижче та активуйте свій плагін."
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:43
+msgid "If your GPX track consists of several segments, endpoint markers are displayed in place of start and end of every segment."
+msgstr "Якщо ваш трек GPX складається з кількох сегментів, маркери кінцевої точки відображаються замість початку та кінця кожного сегмента."
+
+#: blocks/build/index.js:7273
+#: blocks/build/index.js:7343
+#: blocks/build/index.js:9573
+#: blocks/build/index.js:9643
+#: blocks/build/index.js:10550
+#: blocks/build/index.js:10620
+#: blocks/build/index.js:13891
+#: blocks/build/index.js:14501
+#: blocks/build/index.js:14571
+#: blocks/directory-items-list/src/edit.js:166
+#: blocks/directory-items-list/src/edit.js:214
+#: blocks/directory-search-results/src/edit.js:108
+#: blocks/directory-search-results/src/edit.js:156
+#: blocks/directory-similar-items/src/edit.js:130
+#: blocks/directory-similar-items/src/edit.js:178
+#: blocks/item-featured-image/src/edit.js:221
+#: blocks/item-gallery/src/edit.js:99
+#: blocks/item-gallery/src/edit.js:147
+msgid "Image focus"
+msgstr "Фокус зображення"
+
+#: blocks/build/index.js:7254
+#: blocks/build/index.js:7324
+#: blocks/build/index.js:7964
+#: blocks/build/index.js:8034
+#: blocks/build/index.js:9554
+#: blocks/build/index.js:9624
+#: blocks/build/index.js:10147
+#: blocks/build/index.js:10217
+#: blocks/build/index.js:10531
+#: blocks/build/index.js:10601
+#: blocks/build/index.js:11312
+#: blocks/build/index.js:11382
+#: blocks/build/index.js:14039
+#: blocks/build/index.js:14109
+#: blocks/build/index.js:14482
+#: blocks/build/index.js:14552
+#: blocks/build/index.js:14909
+#: blocks/build/index.js:14979
+#: blocks/directory-items-list/src/edit.js:153
+#: blocks/directory-items-list/src/edit.js:201
+#: blocks/directory-items-list/src/edit.js:779
+#: blocks/directory-items-list/src/edit.js:849
+#: blocks/directory-search-results/src/edit.js:95
+#: blocks/directory-search-results/src/edit.js:143
+#: blocks/directory-search-results/src/edit.js:607
+#: blocks/directory-search-results/src/edit.js:677
+#: blocks/directory-similar-items/src/edit.js:117
+#: blocks/directory-similar-items/src/edit.js:165
+#: blocks/directory-similar-items/src/edit.js:815
+#: blocks/directory-similar-items/src/edit.js:885
+#: blocks/item-featured-image/src/edit.js:355
+#: blocks/item-featured-image/src/edit.js:425
+#: blocks/item-gallery/src/edit.js:86
+#: blocks/item-gallery/src/edit.js:134
+#: blocks/item-gallery/src/edit.js:470
+#: blocks/item-gallery/src/edit.js:540
+msgid "Image height"
+msgstr "Висота зображення"
+
+#: blocks/build/index.js:7943
+#: blocks/build/index.js:8013
+#: blocks/build/index.js:10126
+#: blocks/build/index.js:10196
+#: blocks/build/index.js:11291
+#: blocks/build/index.js:11361
+#: blocks/build/index.js:14888
+#: blocks/build/index.js:14958
+#: blocks/directory-items-list/src/edit.js:759
+#: blocks/directory-items-list/src/edit.js:829
+#: blocks/directory-search-results/src/edit.js:587
+#: blocks/directory-search-results/src/edit.js:657
+#: blocks/directory-similar-items/src/edit.js:795
+#: blocks/directory-similar-items/src/edit.js:865
+#: blocks/item-gallery/src/edit.js:450
+#: blocks/item-gallery/src/edit.js:520
+msgid "Image height unit"
+msgstr "Одиниця висоти зображення"
+
+#: plugin/settings/CitadelaDirectorySettings.php:857
+msgid "Image position"
+msgstr "Позиція зображення"
+
+#: plugin/settings/CitadelaDirectorySettings.php:822
+msgid "Image repeat"
+msgstr "Повтор зображення"
+
+#: plugin/settings/CitadelaDirectorySettings.php:885
+msgid "Image scroll"
+msgstr "Прокрутка зображення"
+
+#: plugin/settings/CitadelaDirectorySettings.php:915
+#: blocks/build/index.js:2751
+#: blocks/build/index.js:12932
+#: blocks/components/image-sizes.js:14
+#: blocks/item-events/src/edit.js:58
+msgid "Image size"
+msgstr "Розмір зображення"
+
+#: blocks/build/index.js:14719
+#: blocks/item-gallery/src/edit.js:269
+msgid "Images caption text"
+msgstr "Текст підпису зображення"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:220
+#: plugin/cpt/item/CitadelaItemConfig.php:391
+#: plugin/subscriptions/Feature.php:140
+msgid "Images gallery"
+msgstr "Галерея зображень"
+
+#: blocks/build/index.js:14679
+#: blocks/item-gallery/src/edit.js:234
+msgid "Images vertical align"
+msgstr "Вертикальне вирівнювання зображень"
+
+#: blocks/build/index.js:3621
+#: blocks/components/panel-carousel.js:60
+msgid "Infinite loop"
+msgstr "Нескінченний цикл"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:253
+msgid "Input choices"
+msgstr "Вибір введення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:235
+msgid "Input description"
+msgstr "Опис введення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:229
+msgid "Input field name that appear on edit page."
+msgstr "Введіть назву поля, що з’являється на сторінці редагування."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:367
+msgid "Input identifier"
+msgstr "Введіть ідентифікатор"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:217
+msgid "Input label"
+msgstr "Вхідна етикетка"
+
+#: blocks/build/index.js:12544
+#: blocks/item-contact-form/src/inspector-controls.js:77
+msgid "Input labels"
+msgstr "Вхідні мітки"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:193
+msgid "Input type"
+msgstr "Тип введення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:184
+msgid "Inputs contain validation errors."
+msgstr "Вхідні дані містять помилки перевірки."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:87
+msgid "Inputs group"
+msgstr "Група входів"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:64
+msgid "Insert from media"
+msgstr "Вставка із носія"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:333
+msgid "Insert unit that will be displayed with number value."
+msgstr "Вставте одиницю, яка буде відображатися з числовим значенням."
+
+#: blocks/build/index.js:14724
+#: blocks/item-gallery/src/edit.js:272
+msgid "Inside image"
+msgstr "Внутрішнє зображення"
+
+#: plugin/settings/CitadelaDirectorySettings.php:226
+#: plugin/settings/CitadelaDirectorySettings.php:227
+msgid "Integrations"
+msgstr "Інтеграції"
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:99
+msgid "Invalid file format"
+msgstr "Недійсний формат файлу"
+
+#: plugin/cpt/item/templates/parts/content-none.php:14
+#: plugin/cpt/post/templates/parts/content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Здається, ми не можемо знайти те, що ви шукаєте."
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:114
+#: plugin/assets/citadela/item-page-layout/editor.js:19
+msgid "It will allow you to build a whole item detail page. No blocks will be inherited from Item Detail special page."
+msgstr "Це дозволить вам створити цілу сторінку з детальною інформацією про предмет. Жодні блоки не будуть успадковані зі спеціальної сторінки «Деталі елемента»."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:29
+msgctxt "post type singular name"
+msgid "Item"
+msgstr "Пункт"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:88
+msgctxt "taxonomy general name"
+msgid "Item Categories"
+msgstr "Категорії предметів"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:89
+msgctxt "taxonomy menu name"
+msgid "Item Categories"
+msgstr "Категорії предметів"
+
+#: plugin/CitadelaDirectory.php:689
+msgid "Item Categories widgets area"
+msgstr "Область віджетів Категорії елементів"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:90
+msgctxt "taxonomy singular name"
+msgid "Item Category"
+msgstr "Категорія товару"
+
+#: blocks/build/index.js:11869
+#: blocks/item-claim-listing/src/index.js:15
+msgid "Item Claim Listing"
+msgstr "Список претензій"
+
+#: blocks/build/index.js:12163
+#: blocks/item-contact-details/src/index.js:11
+msgid "Item Contact Details"
+msgstr "Контактні дані товару"
+
+#: blocks/build/index.js:12410
+#: blocks/item-contact-form/src/index.js:9
+msgid "Item Contact Form"
+msgstr "Контактна форма товару"
+
+#: blocks/build/index.js:12760
+#: blocks/item-content/src/index.js:9
+msgid "Item Content"
+msgstr "Вміст елемента"
+
+#: plugin/settings/CitadelaDirectorySettings.php:259
+#: plugin/settings/CitadelaDirectorySettings.php:260
+msgid "Item Detail"
+msgstr "Деталь елемента"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:25
+#: plugin/includes/CitadelaDirectorySpecialPages.php:29
+msgid "Item Detail Page"
+msgstr "Сторінка інформації про елемент"
+
+#: blocks/build/index.js:7503
+#: blocks/build/index.js:9805
+#: blocks/build/index.js:10790
+#: blocks/build/index.js:16885
+#: blocks/directory-items-list/src/edit.js:358
+#: blocks/directory-search-results/src/edit.js:302
+#: blocks/directory-similar-items/src/edit.js:330
+#: blocks/posts-search-results/src/index.js:188
+msgid "Item Details"
+msgstr "Деталі предмета"
+
+#: blocks/build/index.js:13098
+#: blocks/item-events/src/index.js:9
+msgid "Item Events"
+msgstr "Пункт Події"
+
+#: plugin/settings/CitadelaDirectorySettings.php:252
+#: plugin/settings/CitadelaDirectorySettings.php:253
+#: plugin/subscriptions/Feature.php:158
+#: blocks/build/index.js:13565
+#: blocks/item-extension/src/index.js:12
+msgid "Item Extension"
+msgstr "Розширення елемента"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:65
+msgid "Item Extension allows create additional inputs on edit pages of Item Posts."
+msgstr "Розширення елемента дозволяє створювати додаткові вводи на сторінках редагування дописів про предмети."
+
+#: blocks/build/index.js:14304
+#: blocks/item-featured-image/src/index.js:9
+msgid "Item Featured Image"
+msgstr "Вибране зображення елемента"
+
+#: blocks/build/index.js:15306
+#: blocks/item-gpx-download/src/index.js:14
+msgid "Item GPX Download"
+msgstr "Завантаження елемента GPX"
+
+#: blocks/build/index.js:15067
+#: blocks/item-gallery/src/index.js:9
+msgid "Item Gallery"
+msgstr "Галерея предметів"
+
+#: blocks/build/index.js:15128
+#: blocks/item-get-directions/src/index.js:14
+msgid "Item Get Directions"
+msgstr "Пункт Отримати маршрути"
+
+#: blocks/build/index.js:7713
+#: blocks/build/index.js:9954
+#: blocks/build/index.js:11004
+#: blocks/directory-items-list/src/edit.js:544
+#: blocks/directory-search-results/src/edit.js:426
+#: blocks/directory-similar-items/src/edit.js:515
+msgid "Item Image Options"
+msgstr "Параметри зображення елемента"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:124
+msgctxt "taxonomy singular name"
+msgid "Item Location"
+msgstr "Місцезнаходження об&#39;єкта"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:122
+msgctxt "taxonomy general name"
+msgid "Item Locations"
+msgstr "Розташування предметів"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:123
+msgctxt "taxonomy menu name"
+msgid "Item Locations"
+msgstr "Розташування предметів"
+
+#: plugin/CitadelaDirectory.php:695
+msgid "Item Locations widgets area"
+msgstr "Область віджетів &quot;Розташування елементів&quot;."
+
+#: blocks/build/index.js:15474
+#: blocks/item-opening-hours/src/index.js:11
+msgid "Item Opening Hours"
+msgstr "Години роботи товару"
+
+#: plugin/cpt/item/CitadelaItemMetabox.php:192
+msgid "Item Options"
+msgstr "Параметри елемента"
+
+#: plugin/item-reviews/ItemReviews.php:371
+msgid "Item Review"
+msgstr "Огляд товару"
+
+#: plugin/item-reviews/ItemReviews.php:72
+#: plugin/item-reviews/ItemReviews.php:417
+#: plugin/settings/CitadelaDirectorySettings.php:245
+#: plugin/settings/CitadelaDirectorySettings.php:246
+msgid "Item Reviews"
+msgstr "Огляди товарів"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:55
+msgid "Item Reviews extends WordPress Comments to allow website visitors leave a review and rating for Item Posts."
+msgstr "Item Reviews розширює коментарі WordPress, щоб відвідувачі веб-сайту могли залишати відгуки та оцінювати публікації про предмети."
+
+#: plugin/claim-listing/ClaimListing.php:253
+msgid "Item already claimed"
+msgstr "Товар уже заявлено"
+
+#: blocks/build/index.js:10762
+#: blocks/directory-similar-items/src/edit.js:306
+msgid "Item author"
+msgstr "Автор предмета"
+
+#: blocks/build/index.js:10746
+#: blocks/directory-similar-items/src/edit.js:296
+msgid "Item category"
+msgstr "Категорія товару"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:93
+msgid "Item detail page slug"
+msgstr "Пункт сторінки деталей елемента"
+
+#: blocks/item-claim-listing/ItemClaimListing.php:115
+msgid "Item has been claimed"
+msgstr "На предмет заявлено претензію"
+
+#: blocks/build/index.js:10754
+#: blocks/directory-similar-items/src/edit.js:301
+msgid "Item location"
+msgstr "місцезнаходження об&#39;єкта"
+
+#: plugin/item-reviews/ItemReviews.php:396
+msgid "Item owner reply."
+msgstr "Відповідь власника товару."
+
+#: plugin/claim-listing/ClaimListing.php:253
+msgid "Item pending moderation from admin"
+msgstr "Елемент очікує модерації від адміністратора"
+
+#: plugin/CitadelaDirectory.php:683
+msgid "Item widgets area"
+msgstr "Область віджетів елементів"
+
+#: plugin/events/Events.php:18
+msgid "Item:"
+msgstr "Пункт:"
+
+#: plugin/claim-listing/ClaimListing.php:76
+#: plugin/cpt/item/templates/parts/archive-item-page-title.php:9
+msgid "Items"
+msgstr "Предмети"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:28
+msgctxt "post type general name"
+msgid "Items"
+msgstr "Предмети"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:30
+msgctxt "post type menu name"
+msgid "Items"
+msgstr "Предмети"
+
+#: blocks/build/index.js:5728
+msgid "Keep header closed by default on mobile."
+msgstr "Тримайте заголовок закритим за замовчуванням на мобільному пристрої."
+
+#: blocks/build/index.js:9089
+#: blocks/directory-search-form/src/inspector-controls.js:116
+msgid "Kilometers"
+msgstr "Кілометри"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:234
+#: blocks/build/index.js:5851
+#: blocks/build/index.js:13455
+#: blocks/item-extension/src/edit.js:264
+msgid "Label color"
+msgstr "Колір етикетки"
+
+#: blocks/build/index.js:12019
+#: blocks/item-claim-listing/src/index.js:142
+msgid "Label for email field"
+msgstr "Мітка для поля електронної пошти"
+
+#: blocks/build/index.js:12032
+#: blocks/item-claim-listing/src/index.js:154
+msgid "Label for submit button"
+msgstr "Мітка для кнопки відправки"
+
+#: blocks/build/index.js:12006
+#: blocks/item-claim-listing/src/index.js:130
+msgid "Label for username field"
+msgstr "Мітка для поля імені користувача"
+
+#: blocks/build/index.js:12563
+#: blocks/item-contact-form/src/inspector-controls.js:96
+msgid "Label used for Email input."
+msgstr "Мітка, що використовується для введення електронної пошти."
+
+#: blocks/build/index.js:12589
+#: blocks/item-contact-form/src/inspector-controls.js:120
+msgid "Label used for Message textarea."
+msgstr "Мітка, що використовується для текстової області повідомлення."
+
+#: blocks/build/index.js:12550
+#: blocks/item-contact-form/src/inspector-controls.js:84
+msgid "Label used for Name input."
+msgstr "Мітка, яка використовується для введення імені."
+
+#: blocks/build/index.js:12576
+#: blocks/item-contact-form/src/inspector-controls.js:108
+msgid "Label used for Subject input."
+msgstr "Мітка, що використовується для введення теми."
+
+#: blocks/build/index.js:13401
+#: blocks/item-extension/src/edit.js:211
+msgid "Label width"
+msgstr "Ширина етикетки"
+
+#: blocks/build/index.js:14660
+#: blocks/item-gallery/src/edit.js:222
+msgid "Large"
+msgstr "Великий"
+
+#: blocks/build/index.js:5773
+#: blocks/build/index.js:11935
+#: blocks/build/index.js:15185
+#: blocks/build/index.js:15363
+#: blocks/item-claim-listing/src/index.js:65
+#: blocks/item-get-directions/src/index.js:65
+#: blocks/item-gpx-download/src/index.js:64
+msgid "Large button"
+msgstr "Велика кнопка"
+
+#: blocks/build/index.js:4967
+#: blocks/components/toolbar-size.js:44
+msgid "Large size"
+msgstr "Великий розмір"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:31
+#: plugin/controls/inputs/CitadelaMapControl.php:18
+msgid "Latitude"
+msgstr "Широта"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:66
+msgid "Leave a review"
+msgstr "Залишити відгук"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:335
+msgid "Leave empty to not use this option."
+msgstr "Залиште порожнім, щоб не використовувати цю опцію."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:352
+#: blocks/build/index.js:7284
+#: blocks/build/index.js:7354
+#: blocks/build/index.js:9584
+#: blocks/build/index.js:9654
+#: blocks/build/index.js:10561
+#: blocks/build/index.js:10631
+#: blocks/build/index.js:13902
+#: blocks/build/index.js:14512
+#: blocks/build/index.js:14582
+#: blocks/directory-items-list/src/edit.js:171
+#: blocks/directory-items-list/src/edit.js:219
+#: blocks/directory-search-results/src/edit.js:113
+#: blocks/directory-search-results/src/edit.js:161
+#: blocks/directory-similar-items/src/edit.js:135
+#: blocks/directory-similar-items/src/edit.js:183
+#: blocks/item-featured-image/src/edit.js:226
+#: blocks/item-gallery/src/edit.js:104
+#: blocks/item-gallery/src/edit.js:152
+msgid "Left"
+msgstr "Ліворуч"
+
+#: blocks/automatic-directory-google-map/src/edit.js:288
+#: blocks/automatic-posts-map/src/edit.js:213
+#: blocks/build/index.js:1332
+#: blocks/build/index.js:1887
+#: blocks/build/index.js:6796
+#: blocks/build/index.js:15908
+#: blocks/directory-google-map/src/edit.js:299
+#: blocks/posts-map/src/edit.js:244
+msgid "Limit displayed posts"
+msgstr "Обмежте відображені дописи"
+
+#: blocks/build/index.js:5819
+#: blocks/build/index.js:5865
+msgid "Line under heading"
+msgstr "Рядок під заголовком"
+
+#: blocks/build/index.js:5877
+#: blocks/build/index.js:13471
+#: blocks/item-extension/src/edit.js:277
+msgid "Lines color"
+msgstr "Колір ліній"
+
+#: blocks/build/index.js:5859
+msgid "Lines decoration"
+msgstr "Прикраса ліній"
+
+#: plugin/controls/butterbean/CitadelaButterbeanUrl.php:26
+msgid "Link label"
+msgstr "Мітка посилання"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:124
+msgid "Links color"
+msgstr "Колір посилань"
+
+#: blocks/build/index.js:4810
+#: blocks/components/toolbar-layout.js:59
+msgid "List layout"
+msgstr "Макет списку"
+
+#: blocks/build/index.js:6008
+#: blocks/directory-advanced-filters/src/index.js:9
+msgid "Listing Advanced Filters"
+msgstr "Перелік розширених фільтрів"
+
+#: blocks/author-detail/src/index.js:9
+#: blocks/build/index.js:291
+msgid "Listing Author Detail"
+msgstr "Інформація про автора списку"
+
+#: blocks/authors-list/src/index.js:9
+#: blocks/build/index.js:906
+msgid "Listing Authors List"
+msgstr "Список авторів"
+
+#: blocks/build/index.js:6348
+#: blocks/directory-categories-list/src/index.js:9
+msgid "Listing Categories List"
+msgstr "Список категорій"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:33
+#: plugin/includes/CitadelaDirectorySpecialPages.php:37
+msgid "Listing Category Page"
+msgstr "Сторінка категорії списку"
+
+#: blocks/build/index.js:8122
+#: blocks/directory-items-list/src/index.js:9
+msgid "Listing Items List"
+msgstr "Список елементів списку"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:37
+#: plugin/includes/CitadelaDirectorySpecialPages.php:41
+msgid "Listing Location Page"
+msgstr "Сторінка розташування списку"
+
+#: blocks/build/index.js:8466
+#: blocks/directory-locations-list/src/index.js:9
+msgid "Listing Locations List"
+msgstr "Список місць розташування"
+
+#: blocks/build/index.js:6998
+#: blocks/directory-google-map/src/index.js:11
+msgid "Listing Map"
+msgstr "Карта переліку"
+
+#: blocks/build/index.js:16110
+#: blocks/posts-map/src/index.js:11
+msgid "Listing Map (for posts)"
+msgstr "Карта списку (для публікацій)"
+
+#: blocks/build/index.js:8666
+#: blocks/directory-membership-content/src/index.js:10
+msgid "Listing Membership Content"
+msgstr "Перелік вмісту членства"
+
+#: blocks/build/index.js:8721
+#: blocks/directory-search-form/src/index.js:13
+msgid "Listing Search Form"
+msgstr "Форма пошуку списку"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:29
+#: plugin/includes/CitadelaDirectorySpecialPages.php:33
+#: blocks/build/index.js:10303
+#: blocks/directory-search-results/src/index.js:9
+msgid "Listing Search Results"
+msgstr "Перелік результатів пошуку"
+
+#: blocks/build/index.js:11470
+#: blocks/directory-similar-items/src/index.js:9
+msgid "Listing Similar Items"
+msgstr "Перелік схожих елементів"
+
+#: blocks/build/index.js:11525
+#: blocks/directory-subcategories-list/src/index.js:11
+msgid "Listing Subcategories List"
+msgstr "Список підкатегорій"
+
+#: blocks/build/index.js:11642
+#: blocks/directory-sublocations-list/src/index.js:11
+msgid "Listing Sublocations List"
+msgstr "Список підлокацій"
+
+#: plugin/cpt/item/templates/parts/item-container.php:159
+#: plugin/cpt/post/templates/parts/post-container.php:106
+#: plugin/parts/default-search-results-content.php:101
+#: blocks/build/index.js:6689
+#: blocks/build/index.js:7476
+#: blocks/build/index.js:8295
+#: blocks/build/index.js:15809
+#: blocks/common-scripts/search-forms-initializer.js:403
+#: blocks/directory-google-map/src/edit.js:204
+#: blocks/directory-items-list/src/edit.js:336
+#: blocks/directory-locations-list/src/edit.js:92
+#: blocks/posts-map/src/edit.js:155
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1283
+#: plugin/assets/citadela/half-layout-map/editor.js:86
+msgid "Location"
+msgstr "Місцезнаходження"
+
+#: plugin/cpt/post/CitadelaPost.php:60
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr "Місцезнаходження"
+
+#: blocks/build/index.js:8313
+#: blocks/directory-locations-list/src/edit.js:107
+msgid "Location Details"
+msgstr "Інформація про місцезнаходження"
+
+#: plugin/subscriptions/Feature.php:74
+msgid "Locations"
+msgstr "Розташування"
+
+#: plugin/cpt/post/CitadelaPost.php:58
+msgctxt "taxonomy general name"
+msgid "Locations"
+msgstr "Розташування"
+
+#: plugin/cpt/post/CitadelaPost.php:59
+msgctxt "taxonomy menu name"
+msgid "Locations"
+msgstr "Розташування"
+
+#: plugin/easy-admin/EasyAdmin.php:150
+msgid "Log Out"
+msgstr "Вийти"
+
+#: blocks/build/index.js:12044
+#: blocks/item-claim-listing/src/index.js:165
+msgid "Logged in text"
+msgstr "Увійшов текст"
+
+#: blocks/build/index.js:5593
+#: blocks/build/index.js:5611
+msgid "Logical operator"
+msgstr "Логічний оператор"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:38
+#: plugin/controls/inputs/CitadelaMapControl.php:23
+msgid "Longitude"
+msgstr "довгота"
+
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1261
+#: plugin/assets/citadela/half-layout-map/editor.js:62
+msgid "Map provider"
+msgstr "Постачальник карт"
+
+#: blocks/automatic-directory-google-map/src/edit.js:103
+#: blocks/automatic-posts-map/src/edit.js:95
+#: blocks/build/index.js:1128
+#: blocks/build/index.js:1748
+#: blocks/build/index.js:6602
+#: blocks/build/index.js:15771
+#: blocks/directory-google-map/src/edit.js:132
+#: blocks/posts-map/src/edit.js:127
+msgid "Maps provider"
+msgstr "Постачальник карт"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:252
+msgid "Mark Item post as featured"
+msgstr "Позначити публікацію елемента як рекомендовану"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:180
+msgid "Mark category as featured to prioritize it in displayed results."
+msgstr "Позначте категорію як рекомендовану, щоб визначити її пріоритет у відображуваних результатах."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:192
+msgid "Mark location as featured to prioritize it in displayed results."
+msgstr "Позначте місце розташування як рекомендоване, щоб визначити його пріоритет у відображуваних результатах."
+
+#: blocks/automatic-directory-google-map/src/edit.js:222
+#: blocks/automatic-posts-map/src/edit.js:150
+#: blocks/build/index.js:1258
+#: blocks/build/index.js:1813
+#: blocks/build/index.js:6722
+#: blocks/build/index.js:15834
+#: blocks/directory-google-map/src/edit.js:235
+#: blocks/posts-map/src/edit.js:181
+msgid "Marker Cluster Settings"
+msgstr "Налаштування кластера маркерів"
+
+#: blocks/automatic-directory-google-map/src/edit.js:127
+#: blocks/build/index.js:1157
+#: blocks/build/index.js:6631
+#: blocks/directory-google-map/src/edit.js:154
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1318
+#: plugin/assets/citadela/half-layout-map/editor.js:136
+msgid "Markers"
+msgstr "Маркери"
+
+#: blocks/automatic-directory-google-map/src/edit.js:129
+#: blocks/build/index.js:1163
+#: blocks/build/index.js:6637
+#: blocks/directory-google-map/src/edit.js:156
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1324
+#: plugin/assets/citadela/half-layout-map/editor.js:138
+msgid "Markers & GPX Tracks"
+msgstr "Маркери та треки GPX"
+
+#: blocks/automatic-directory-google-map/src/edit.js:228
+#: blocks/automatic-posts-map/src/edit.js:156
+#: blocks/build/index.js:1263
+#: blocks/build/index.js:1818
+#: blocks/build/index.js:6727
+#: blocks/build/index.js:15839
+#: blocks/directory-google-map/src/edit.js:241
+#: blocks/posts-map/src/edit.js:187
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1369
+#: plugin/assets/citadela/half-layout-map/editor.js:205
+msgid "Markers in distance less than %spx radius are grouped into clusters. Set 0 to disable clusters."
+msgstr "Маркери на відстані менше ніж %spx радіусу групуються в кластери. Встановіть 0, щоб вимкнути кластери."
+
+#: plugin/subscriptions/Feature.php:60
+msgid "Max number of items"
+msgstr "Максимальна кількість елементів"
+
+#: blocks/automatic-directory-google-map/src/edit.js:294
+#: blocks/automatic-posts-map/src/edit.js:219
+#: blocks/build/index.js:1340
+#: blocks/build/index.js:1895
+#: blocks/build/index.js:6804
+#: blocks/build/index.js:15916
+#: blocks/directory-google-map/src/edit.js:305
+#: blocks/posts-map/src/edit.js:250
+msgid "Maximum displayed posts"
+msgstr "Максимальна кількість відображених дописів"
+
+#: blocks/build/index.js:9116
+#: blocks/directory-search-form/src/inspector-controls.js:135
+msgid "Maximum distance"
+msgstr "Максимальна відстань"
+
+#: plugin/subscriptions/Feature.php:346
+msgid "Maximum items for the current subscription exceeded."
+msgstr "Перевищено максимальну кількість елементів для поточної підписки."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:80
+msgid "Maximum width"
+msgstr "Максимальна ширина"
+
+#: blocks/build/index.js:12938
+#: blocks/build/index.js:14657
+#: blocks/item-events/src/edit.js:62
+#: blocks/item-gallery/src/edit.js:221
+msgid "Medium"
+msgstr "Середній"
+
+#: blocks/build/index.js:4960
+#: blocks/components/toolbar-size.js:38
+msgid "Medium size"
+msgstr "Середній розмір"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:418
+msgid "Merge checkboxes into filter group and show them together in frontend filters. You can use more groups using different group names."
+msgstr "Об’єднайте прапорці в групу фільтрів і покажіть їх разом у фільтрах інтерфейсу. Ви можете використовувати більше груп, використовуючи різні назви груп."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:59
+msgid "Message"
+msgstr "повідомлення"
+
+#: blocks/build/index.js:12659
+#: blocks/item-contact-form/src/inspector-controls.js:188
+msgid "Message Help"
+msgstr "Повідомлення Довідка"
+
+#: blocks/build/index.js:12588
+#: blocks/item-contact-form/src/inspector-controls.js:119
+msgid "Message Label"
+msgstr "Мітка повідомлення"
+
+#: blocks/build/index.js:12703
+#: blocks/item-contact-form/src/inspector-controls.js:232
+msgid "Message displayed when the form sending failed because of problem on the server side."
+msgstr "Повідомлення відображається, коли не вдалося надіслати форму через проблему на стороні сервера."
+
+#: blocks/build/index.js:12690
+#: blocks/item-contact-form/src/inspector-controls.js:220
+msgid "Message displayed when the form validation failed."
+msgstr "Повідомлення відображається, коли не вдалося перевірити форму."
+
+#: blocks/build/index.js:12677
+#: blocks/item-contact-form/src/inspector-controls.js:208
+msgid "Message displayed when the form was sent succesfully."
+msgstr "Повідомлення відображається, коли форма була успішно надіслана."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:60
+msgid "Message for the email notification"
+msgstr "Повідомлення для сповіщення електронною поштою"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:56
+msgid "Metabox content settings"
+msgstr "Налаштування вмісту Metabox"
+
+#: plugin/migration/Migration/Admin_Notices.php:46
+msgid "Migration finished"
+msgstr "Міграція завершена"
+
+#: plugin/migration/Migration/Admin_Notices.php:63
+msgid "Migration in progress"
+msgstr "Триває міграція"
+
+#: plugin/migration/Migration/Settings_Tab.php:28
+msgid "Migration is currently in progress. You will be able to restart the migration when it is finished."
+msgstr "Зараз триває міграція. Ви зможете перезапустити міграцію, коли вона закінчиться."
+
+#: plugin/migration/Migration/Admin_Notices.php:32
+msgid "Migration restarted"
+msgstr "Міграція перезапущена"
+
+#: blocks/build/index.js:9092
+#: blocks/directory-search-form/src/inspector-controls.js:117
+msgid "Miles"
+msgstr "Милі"
+
+#: blocks/build/index.js:14651
+#: blocks/item-gallery/src/edit.js:219
+msgid "Mini"
+msgstr "Міні"
+
+#: blocks/build/index.js:14158
+#: blocks/build/index.js:14228
+#: blocks/item-featured-image/src/edit.js:475
+#: blocks/item-featured-image/src/edit.js:545
+msgid "Minimum height unit"
+msgstr "Одиниця мінімальної висоти"
+
+#: blocks/build/index.js:14179
+#: blocks/build/index.js:14249
+#: blocks/item-featured-image/src/edit.js:495
+#: blocks/item-featured-image/src/edit.js:565
+msgid "Minimum image height"
+msgstr "Мінімальна висота зображення"
+
+#: blocks/automatic-directory-google-map/src/edit.js:392
+#: blocks/automatic-posts-map/src/edit.js:317
+#: blocks/build/index.js:1442
+#: blocks/build/index.js:1997
+#: blocks/build/index.js:6906
+#: blocks/build/index.js:16018
+#: blocks/directory-google-map/src/edit.js:407
+#: blocks/posts-map/src/edit.js:349
+msgid "Minimum map height may differ of defined value due to needs of map's inside content."
+msgstr "Мінімальна висота карти може відрізнятися від визначеного значення через потреби внутрішнього вмісту карти."
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:235
+msgid "Missing required GPX data"
+msgstr "Відсутні необхідні дані GPX"
+
+#: blocks/build/index.js:4354
+#: blocks/components/state-icons.js:36
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: blocks/build/index.js:4259
+#: blocks/components/responsive-options-tabs.js:38
+msgid "Mobile size"
+msgstr "Розмір мобільного"
+
+#: blocks/build/index.js:8072
+#: blocks/build/index.js:10255
+#: blocks/build/index.js:11420
+#: blocks/build/index.js:13974
+#: blocks/build/index.js:15017
+#: blocks/directory-items-list/src/edit.js:884
+#: blocks/directory-search-results/src/edit.js:712
+#: blocks/directory-similar-items/src/edit.js:920
+#: blocks/item-featured-image/src/edit.js:290
+#: blocks/item-gallery/src/edit.js:575
+msgid "Mobile width breakpoint"
+msgstr "Мобільна точка розриву ширини"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:332
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:12
+msgid "Monday"
+msgstr "понеділок"
+
+#: blocks/build/index.js:5575
+msgid "Move backward"
+msgstr "Рухайтеся назад"
+
+#: blocks/build/index.js:5583
+msgid "Move forward"
+msgstr "Йти далі"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:440
+msgid "Multiselect"
+msgstr "Багаторазовий вибір"
+
+#: blocks/build/index.js:12620
+#: blocks/item-contact-form/src/inspector-controls.js:152
+msgid "Name Help"
+msgstr "Ім&#39;я Довідка"
+
+#: blocks/build/index.js:12549
+#: blocks/item-contact-form/src/inspector-controls.js:83
+msgid "Name Label"
+msgstr "Етикетка імені"
+
+#: blocks/build/index.js:12508
+#: blocks/item-contact-form/src/inspector-controls.js:42
+msgid "Name of sender displayed in received email."
+msgstr "Ім’я відправника відображається в отриманому електронному листі."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:134
+msgid "Name of settings tab on Item Edit page."
+msgstr "Назва вкладки налаштувань на сторінці редагування елемента."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:99
+msgid "New Category Name"
+msgstr "Нова назва категорії"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:34
+msgid "New Item"
+msgstr "Новий предмет"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:133
+#: plugin/cpt/post/CitadelaPost.php:69
+msgid "New Location Name"
+msgstr "Нова назва місця"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:60
+msgid "Newer reviews"
+msgstr "Новіші огляди"
+
+#: blocks/default-search-results/DefaultSearchResults.php:58
+#: plugin/parts/search-results.php:54
+msgid "Next"
+msgstr "Далі"
+
+#: blocks/automatic-directory-google-map/src/edit.js:274
+#: blocks/automatic-posts-map/src/edit.js:199
+#: blocks/build/index.js:1319
+#: blocks/build/index.js:1874
+#: blocks/build/index.js:6783
+#: blocks/build/index.js:15895
+#: blocks/directory-google-map/src/edit.js:285
+#: blocks/posts-map/src/edit.js:230
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1411
+#: plugin/assets/citadela/half-layout-map/editor.js:249
+msgid "Night"
+msgstr "Ніч"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:37
+msgid "No Items found"
+msgstr "Не знайдено жодних елементів"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:38
+msgid "No Items found in Trash"
+msgstr "У кошику не знайдено жодних елементів"
+
+#: blocks/build/index.js:9267
+#: blocks/build/index.js:16555
+#: blocks/directory-search-form/src/inspector-controls.js:286
+#: blocks/posts-search-form/src/inspector-controls.js:176
+msgid "No border"
+msgstr "Без кордону"
+
+#: blocks/authors-list/src/edit.js:293
+#: blocks/build/index.js:697
+#: blocks/build/index.js:7685
+#: blocks/build/index.js:9939
+#: blocks/build/index.js:10976
+#: blocks/build/index.js:16991
+#: blocks/directory-items-list/src/edit.js:512
+#: blocks/directory-search-results/src/edit.js:412
+#: blocks/directory-similar-items/src/edit.js:484
+#: blocks/posts-search-results/src/index.js:280
+msgid "No borders"
+msgstr "Без кордонів"
+
+#: blocks/build/index.js:5816
+#: blocks/build/index.js:5862
+msgid "No lines"
+msgstr "Без рядків"
+
+#: blocks/build/index.js:3793
+#: blocks/components/posts-selection.js:46
+msgid "No posts found"
+msgstr "Повідомлень не знайдено"
+
+#: plugin/settings/CitadelaDirectorySettings.php:815
+msgid "No repeat"
+msgstr "Без повтору"
+
+#: plugin/controls/inputs/CitadelaSelectFontawesomeControl.php:23
+msgid "No results found."
+msgstr "Нічого не знайдено."
+
+#: blocks/build/index.js:9311
+#: blocks/build/index.js:16599
+#: blocks/directory-search-form/src/inspector-controls.js:324
+#: blocks/posts-search-form/src/inspector-controls.js:214
+msgid "No shadow"
+msgstr "Жодної тіні"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:136
+msgid "No special pages found."
+msgstr "Спеціальних сторінок не знайдено."
+
+#: blocks/authors-list/src/edit.js:380
+#: blocks/build/index.js:793
+msgid "No users found"
+msgstr "Користувачів не знайдено"
+
+#: blocks/build/index.js:8579
+#: blocks/directory-membership-content/src/edit.js:41
+msgid "Non-membership visitors"
+msgstr "Відвідувачі, які не є членами"
+
+#: blocks/build/index.js:9159
+#: blocks/build/index.js:16447
+#: blocks/directory-search-form/src/inspector-controls.js:178
+#: blocks/posts-search-form/src/inspector-controls.js:66
+msgid "None"
+msgstr "Жодного"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:381
+msgid "Note"
+msgstr "Примітка"
+
+#: blocks/build/index.js:12671
+#: blocks/item-contact-form/src/inspector-controls.js:201
+msgid "Notification messages"
+msgstr "Сповіщення"
+
+#: blocks/build/index.js:12075
+#: blocks/item-claim-listing/src/index.js:196
+msgid "Notification when the item is already claimed. Leave empty to hide the notification."
+msgstr "Повідомлення, коли на товар уже заявлено права. Залиште порожнім, щоб приховати сповіщення."
+
+#: blocks/build/index.js:12088
+#: blocks/item-claim-listing/src/index.js:208
+msgid "Notification when the item is pending moderation from admin. Leave empty to hide the notification."
+msgstr "Повідомлення, коли елемент очікує на модерацію від адміністратора. Залиште порожнім, щоб приховати сповіщення."
+
+#: blocks/build/index.js:12069
+#: blocks/item-claim-listing/src/index.js:189
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:436
+msgid "Number"
+msgstr "Номер"
+
+#: blocks/build/index.js:7493
+#: blocks/build/index.js:11245
+#: blocks/directory-items-list/src/edit.js:347
+#: blocks/directory-similar-items/src/edit.js:745
+msgid "Number of items"
+msgstr "Кількість елементів"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:75
+msgid "OK"
+msgstr "в порядку"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:59
+msgid "Older reviews"
+msgstr "Старші огляди"
+
+#. translators: 1: title.
+#: plugin/cpt/item/templates/parts/item-reviews.php:30
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна думка про &quot;%1$s&quot;"
+
+#: blocks/build/index.js:6186
+#: blocks/build/index.js:8304
+#: blocks/build/index.js:11540
+#: blocks/build/index.js:11657
+#: blocks/directory-categories-list/src/edit.js:100
+#: blocks/directory-locations-list/src/edit.js:99
+#: blocks/directory-subcategories-list/src/index.js:28
+#: blocks/directory-sublocations-list/src/index.js:28
+msgid "Only featured"
+msgstr "Тільки представлені"
+
+#: blocks/build/index.js:6698
+#: blocks/build/index.js:7485
+#: blocks/build/index.js:10782
+#: blocks/directory-google-map/src/edit.js:210
+#: blocks/directory-items-list/src/edit.js:342
+#: blocks/directory-similar-items/src/edit.js:322
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1290
+#: plugin/assets/citadela/half-layout-map/editor.js:93
+msgid "Only featured items"
+msgstr "Тільки пропоновані елементи"
+
+#: blocks/build/index.js:6178
+#: blocks/directory-categories-list/src/edit.js:94
+msgid "Only parent categories"
+msgstr "Тільки батьківські категорії"
+
+#: blocks/build/index.js:8296
+#: blocks/directory-locations-list/src/edit.js:93
+msgid "Only parent locations"
+msgstr "Лише батьківські місцезнаходження"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:395
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Цю сторінку неможливо знайти."
+
+#: blocks/build/index.js:13860
+#: blocks/item-featured-image/src/edit.js:190
+msgid "Open image in popup"
+msgstr "Відкрити зображення у спливаючому вікні"
+
+#: blocks/build/index.js:5718
+msgid "Opened by default"
+msgstr "Відкрито за замовчуванням"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:215
+msgid "Opening Hours"
+msgstr "Години роботи"
+
+#: plugin/subscriptions/Feature.php:134
+msgid "Opening hours"
+msgstr "Години роботи"
+
+#: blocks/automatic-directory-google-map/src/edit.js:98
+#: blocks/automatic-posts-map/src/edit.js:90
+#: blocks/build/index.js:1124
+#: blocks/build/index.js:1744
+#: blocks/build/index.js:5705
+#: blocks/build/index.js:6598
+#: blocks/build/index.js:8572
+#: blocks/build/index.js:13379
+#: blocks/build/index.js:13849
+#: blocks/build/index.js:15166
+#: blocks/build/index.js:15344
+#: blocks/build/index.js:15767
+#: blocks/directory-google-map/src/edit.js:127
+#: blocks/directory-membership-content/src/edit.js:32
+#: blocks/item-extension/src/edit.js:190
+#: blocks/item-featured-image/src/edit.js:179
+#: blocks/item-get-directions/src/index.js:47
+#: blocks/item-gpx-download/src/index.js:47
+#: blocks/posts-map/src/edit.js:122
+msgid "Options"
+msgstr "Параметри"
+
+#: blocks/authors-list/src/edit.js:197
+#: blocks/build/index.js:590
+#: blocks/build/index.js:7579
+#: blocks/build/index.js:9757
+#: blocks/build/index.js:10866
+#: blocks/build/index.js:16849
+#: blocks/directory-items-list/src/edit.js:415
+#: blocks/directory-search-results/src/edit.js:259
+#: blocks/directory-similar-items/src/edit.js:387
+#: blocks/posts-search-results/src/index.js:153
+msgid "Order Options"
+msgstr "Параметри замовлення"
+
+#: blocks/authors-list/src/edit.js:202
+#: blocks/build/index.js:594
+#: blocks/build/index.js:7583
+#: blocks/build/index.js:9761
+#: blocks/build/index.js:10870
+#: blocks/build/index.js:16853
+#: blocks/directory-items-list/src/edit.js:420
+#: blocks/directory-search-results/src/edit.js:264
+#: blocks/directory-similar-items/src/edit.js:392
+#: blocks/posts-search-results/src/index.js:158
+msgid "Order by"
+msgstr "Сортувати за"
+
+#: blocks/build/index.js:7592
+#: blocks/build/index.js:9770
+#: blocks/build/index.js:10880
+#: blocks/directory-items-list/src/edit.js:425
+#: blocks/directory-search-results/src/edit.js:269
+#: blocks/directory-similar-items/src/edit.js:398
+msgid "Order number"
+msgstr "Номер замовлення"
+
+#: plugin/events/Events.php:55
+msgid "Organizer:"
+msgstr "Організатор:"
+
+#: plugin/claim-listing/ClaimListing.php:39
+#: plugin/cpt/item/templates/parts/review.php:34
+msgid "Owner"
+msgstr "Власник"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:120
+#: plugin/assets/citadela/item-page-layout/editor.js:25
+msgid "Page template"
+msgstr "Шаблон сторінки"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:93
+msgid "Parent Category"
+msgstr "Батьківська категорія"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:94
+msgid "Parent Category:"
+msgstr "Батьківська категорія:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:127
+#: plugin/cpt/post/CitadelaPost.php:63
+msgid "Parent Location"
+msgstr "Розташування батьків"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:128
+#: plugin/cpt/post/CitadelaPost.php:64
+msgid "Parent Location:"
+msgstr "Місцезнаходження батьків:"
+
+#: blocks/build/index.js:12087
+#: blocks/item-claim-listing/src/index.js:207
+msgid "Pending"
+msgstr "Очікується"
+
+#: blocks/automatic-directory-google-map/src/edit.js:283
+#: blocks/automatic-posts-map/src/edit.js:208
+#: blocks/build/index.js:1328
+#: blocks/build/index.js:1883
+#: blocks/build/index.js:6792
+#: blocks/build/index.js:15904
+#: blocks/directory-google-map/src/edit.js:294
+#: blocks/posts-map/src/edit.js:239
+msgid "Performance Settings"
+msgstr "Налаштування продуктивності"
+
+#: plugin/settings/CitadelaDirectorySettings.php:271
+#: plugin/settings/CitadelaDirectorySettings.php:272
+msgid "Plugin Activation"
+msgstr "Активація плагіна"
+
+#: blocks/common-scripts/search-forms-initializer.js:816
+msgid "Position unavailable"
+msgstr "Позиція недоступна"
+
+#: plugin/cpt/post/CitadelaPostMetabox.php:70
+#: plugin/cpt/user/CitadelaUserMetabox.php:70
+msgid "Post Options"
+msgstr "Параметри публікації"
+
+#: plugin/controls/butterbean/templates/control-citadela_featured_category_select.php:44
+msgid "Post has not selected any term."
+msgstr "Пост не вибрав жодного терміну."
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:57
+#: plugin/includes/CitadelaDirectorySpecialPages.php:61
+msgid "Posts Author Page"
+msgstr "Сторінка автора публікацій"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:45
+#: plugin/includes/CitadelaDirectorySpecialPages.php:49
+msgid "Posts Category Page"
+msgstr "Сторінка категорії публікацій"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:53
+#: plugin/includes/CitadelaDirectorySpecialPages.php:57
+msgid "Posts Date Page"
+msgstr "Сторінка дати публікацій"
+
+#: blocks/build/index.js:16168
+#: blocks/posts-search-form/src/index.js:12
+msgid "Posts Search Form"
+msgstr "Форма пошуку публікацій"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:41
+#: plugin/includes/CitadelaDirectorySpecialPages.php:45
+#: blocks/build/index.js:16707
+#: blocks/posts-search-results/src/index.js:14
+msgid "Posts Search Results"
+msgstr "Результати пошуку публікацій"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:49
+#: plugin/includes/CitadelaDirectorySpecialPages.php:53
+msgid "Posts Tag Page"
+msgstr "Сторінка тегів дописів"
+
+#: blocks/default-search-results/DefaultSearchResults.php:61
+#: blocks/default-search-results/DefaultSearchResults.php:65
+#: plugin/parts/search-results.php:57
+#: plugin/parts/search-results.php:61
+msgid "Posts navigation"
+msgstr "Навігація по публікаціях"
+
+#: blocks/authors-list/src/edit.js:253
+#: blocks/build/index.js:652
+msgid "Posts number color"
+msgstr "Колір номера публікацій"
+
+#: blocks/default-search-results/DefaultSearchResults.php:57
+#: plugin/parts/search-results.php:53
+msgid "Previous"
+msgstr "Попередній"
+
+#: blocks/build/index.js:7246
+#: blocks/build/index.js:7316
+#: blocks/build/index.js:9546
+#: blocks/build/index.js:9616
+#: blocks/build/index.js:10523
+#: blocks/build/index.js:10593
+#: blocks/build/index.js:14474
+#: blocks/build/index.js:14544
+#: blocks/directory-items-list/src/edit.js:146
+#: blocks/directory-items-list/src/edit.js:193
+#: blocks/directory-search-results/src/edit.js:88
+#: blocks/directory-search-results/src/edit.js:135
+#: blocks/directory-similar-items/src/edit.js:110
+#: blocks/directory-similar-items/src/edit.js:157
+#: blocks/item-gallery/src/edit.js:79
+#: blocks/item-gallery/src/edit.js:126
+msgid "Proportional image height"
+msgstr "Пропорційна висота зображення"
+
+#: blocks/build/index.js:2676
+#: blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Радіальний градієнт"
+
+#: blocks/build/index.js:7595
+#: blocks/build/index.js:9773
+#: blocks/build/index.js:10883
+#: blocks/build/index.js:16862
+#: blocks/directory-items-list/src/edit.js:426
+#: blocks/directory-search-results/src/edit.js:270
+#: blocks/directory-similar-items/src/edit.js:399
+#: blocks/posts-search-results/src/index.js:163
+msgid "Random"
+msgstr "Випадковий"
+
+#: plugin/item-reviews/ItemReviews.php:78
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:68
+#: blocks/build/index.js:7673
+#: blocks/build/index.js:9927
+#: blocks/build/index.js:10964
+#: blocks/directory-items-list/src/edit.js:501
+#: blocks/directory-search-results/src/edit.js:402
+#: blocks/directory-similar-items/src/edit.js:473
+msgid "Rating stars color"
+msgstr "Колір рейтингових зірочок"
+
+#: blocks/common-scripts/google-maps-initializer.js:238
+#: blocks/common-scripts/leaflet-maps-initializer.js:991
+#: blocks/common-scripts/leaflet-maps-initializer.js:1088
+#: blocks/components/infowindow.js:31
+#: blocks/components/leaflet-popup-track.js:31
+#: blocks/components/leaflet-popup.js:33
+msgid "Read more"
+msgstr "Детальніше"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:103
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "Нещодавно активована тема не сумісна з плагіном %s, тому плагін було деактивовано."
+
+#: blocks/automatic-directory-google-map/src/edit.js:391
+#: blocks/automatic-posts-map/src/edit.js:316
+#: blocks/build/index.js:1441
+#: blocks/build/index.js:1996
+#: blocks/build/index.js:6905
+#: blocks/build/index.js:16017
+#: blocks/directory-google-map/src/edit.js:406
+#: blocks/posts-map/src/edit.js:348
+msgid "Recommended map height"
+msgstr "Рекомендована висота карти"
+
+#: blocks/build/index.js:11107
+#: blocks/build/index.js:11117
+#: blocks/directory-similar-items/src/edit.js:618
+#: blocks/directory-similar-items/src/edit.js:628
+msgid "Reference Item Post"
+msgstr "Довідковий пункт Пост"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:28
+msgid "Remove GPX track"
+msgstr "Видалити трек GPX"
+
+#: plugin/settings/CitadelaDirectorySettings.php:433
+#: plugin/settings/CitadelaDirectorySettings.php:795
+msgid "Remove Image"
+msgstr "Видалити зображення"
+
+#: plugin/settings/CitadelaDirectorySettings.php:814
+msgid "Repeat"
+msgstr "Повторюйте"
+
+#: plugin/settings/CitadelaDirectorySettings.php:816
+msgid "Repeat horizontally"
+msgstr "Повторіть по горизонталі"
+
+#: plugin/settings/CitadelaDirectorySettings.php:817
+msgid "Repeat vertically"
+msgstr "Повторіть по вертикалі"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:67
+msgid "Respond to review"
+msgstr "Відповідь на огляд"
+
+#: blocks/build/index.js:8073
+#: blocks/build/index.js:10256
+#: blocks/build/index.js:11421
+#: blocks/build/index.js:13975
+#: blocks/build/index.js:15018
+#: blocks/directory-items-list/src/edit.js:885
+#: blocks/directory-search-results/src/edit.js:713
+#: blocks/directory-similar-items/src/edit.js:921
+#: blocks/item-featured-image/src/edit.js:291
+#: blocks/item-gallery/src/edit.js:576
+msgid "Responsive options applied under screen width"
+msgstr "Адаптивні параметри застосовуються під шириною екрана"
+
+#: plugin/migration/Migration/Settings_Tab.php:14
+#: plugin/migration/Migration/Settings_Tab.php:29
+#: plugin/migration/Migration/Settings_Tab.php:32
+msgid "Restart migration"
+msgstr "Перезапустіть міграцію"
+
+#: blocks/build/index.js:5594
+msgid "Results include at least one of selected filters."
+msgstr "Результати включають принаймні один із вибраних фільтрів."
+
+#: blocks/build/index.js:5594
+msgid "Results must include all selected filters."
+msgstr "Результати мають містити всі вибрані фільтри."
+
+#: blocks/automatic-directory-google-map/src/edit.js:272
+#: blocks/automatic-posts-map/src/edit.js:197
+#: blocks/build/index.js:1313
+#: blocks/build/index.js:1868
+#: blocks/build/index.js:6777
+#: blocks/build/index.js:15889
+#: blocks/directory-google-map/src/edit.js:283
+#: blocks/posts-map/src/edit.js:228
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1405
+#: plugin/assets/citadela/half-layout-map/editor.js:247
+msgid "Retro"
+msgstr "ретро"
+
+#: plugin/subscriptions/Feature.php:110
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:353
+#: blocks/build/index.js:7290
+#: blocks/build/index.js:7360
+#: blocks/build/index.js:9590
+#: blocks/build/index.js:9660
+#: blocks/build/index.js:10567
+#: blocks/build/index.js:10637
+#: blocks/build/index.js:13908
+#: blocks/build/index.js:14518
+#: blocks/build/index.js:14588
+#: blocks/directory-items-list/src/edit.js:173
+#: blocks/directory-items-list/src/edit.js:221
+#: blocks/directory-search-results/src/edit.js:115
+#: blocks/directory-search-results/src/edit.js:163
+#: blocks/directory-similar-items/src/edit.js:137
+#: blocks/directory-similar-items/src/edit.js:185
+#: blocks/item-featured-image/src/edit.js:228
+#: blocks/item-gallery/src/edit.js:106
+#: blocks/item-gallery/src/edit.js:154
+msgid "Right"
+msgstr "Правильно"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:367
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:32
+msgid "Saturday"
+msgstr "субота"
+
+#: plugin/settings/CitadelaDirectorySettings.php:122
+msgid "Save Settings"
+msgstr "Зберегти налаштування"
+
+#: plugin/settings/CitadelaDirectorySettings.php:879
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: blocks/build/index.js:8903
+#: blocks/build/index.js:16328
+#: blocks/common-scripts/search-forms-initializer.js:518
+#: blocks/directory-search-form/src/index.js:215
+#: blocks/posts-search-form/src/index.js:195
+msgid "Search"
+msgstr "Пошук"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:91
+msgid "Search Categories"
+msgstr "Пошук категорій"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:36
+msgid "Search Items"
+msgstr "Пошук елементів"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:125
+#: plugin/cpt/post/CitadelaPost.php:61
+msgid "Search Locations"
+msgstr "Пошук місць"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:135
+msgid "Search Special ages"
+msgstr "Пошук Особливий вік"
+
+#: blocks/common-scripts/search-forms-initializer.js:457
+msgid "Search by geolocation"
+msgstr "Пошук за геолокацією"
+
+#: blocks/authors-list/src/edit.js:379
+#: blocks/build/index.js:792
+msgid "Search for authors"
+msgstr "Пошук авторів"
+
+#: blocks/build/index.js:3791
+#: blocks/components/posts-selection.js:45
+msgid "Search for posts"
+msgstr "Пошук дописів"
+
+#: blocks/build/index.js:11119
+#: blocks/directory-similar-items/src/edit.js:630
+msgid "Search for reference item post"
+msgstr "Пошук довідкового елемента публікації"
+
+#: blocks/automatic-directory-google-map/src/edit.js:431
+#: blocks/automatic-posts-map/src/edit.js:356
+#: blocks/build/index.js:1483
+#: blocks/build/index.js:2038
+#: blocks/build/index.js:6947
+#: blocks/build/index.js:16059
+#: blocks/directory-google-map/src/edit.js:446
+#: blocks/posts-map/src/edit.js:388
+msgid "Search form is displayed inside map on screen width larger than"
+msgstr "Форма пошуку відображається всередині карти на ширині екрана більше ніж"
+
+#: blocks/build/index.js:8722
+#: blocks/directory-search-form/src/index.js:14
+msgid "Search form that allows visitors to search listing items by keyword, category or location."
+msgstr "Форма пошуку, яка дозволяє відвідувачам шукати елементи списку за ключовим словом, категорією або місцем розташування."
+
+#: blocks/build/index.js:16169
+#: blocks/posts-search-form/src/index.js:13
+msgid "Search form that allows visitors to search posts by keyword, category or location."
+msgstr "Форма пошуку, яка дозволяє відвідувачам шукати повідомлення за ключовим словом, категорією або місцем розташування."
+
+#: blocks/common-scripts/search-forms-initializer.js:347
+#: blocks/common-scripts/search-forms-initializer.js:358
+msgid "Search keyword"
+msgstr "Пошук ключового слова"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:409
+#: plugin/includes/CitadelaDirectorySpecialPages.php:450
+msgid "Search results for: "
+msgstr "Результати пошуку для:"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:57
+msgid "Secret Key"
+msgstr "Секретний ключ"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:439
+msgid "Select"
+msgstr "Виберіть"
+
+#: blocks/common-scripts/search-forms-initializer.js:378
+msgid "Select Category"
+msgstr "Виберіть категорію"
+
+#: plugin/settings/CitadelaDirectorySettings.php:425
+#: plugin/settings/CitadelaDirectorySettings.php:787
+msgid "Select Image"
+msgstr "Виберіть Зображення"
+
+#: blocks/common-scripts/search-forms-initializer.js:407
+msgid "Select Location"
+msgstr "Виберіть Розташування"
+
+#: blocks/build/index.js:4497
+#: blocks/build/index.js:4596
+#: blocks/components/toolbar-alignment-inspector.js:14
+#: blocks/components/toolbar-alignment.js:17
+msgid "Select alignment"
+msgstr "Виберіть вирівнювання"
+
+#: plugin/events/Events.php:71
+msgid "Select an Item"
+msgstr "Виберіть елемент"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:415
+msgid "Select featured category"
+msgstr "Виберіть рекомендовану категорію"
+
+#: plugin/cpt/user/CitadelaUser.php:49
+msgid "Select image"
+msgstr "Виберіть зображення"
+
+#: blocks/build/index.js:4836
+#: blocks/components/toolbar-layout.js:82
+msgid "Select layout"
+msgstr "Виберіть макет"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:357
+msgid "Select position of unit displayed with number value."
+msgstr "Виберіть позицію одиниці, яка відображається з числовим значенням."
+
+#: blocks/build/index.js:4951
+#: blocks/components/toolbar-size.js:29
+msgid "Select size"
+msgstr "Виберіть розмір"
+
+#: blocks/build/index.js:5594
+msgid "Select type input cannot use AND operator."
+msgstr "Вибір типу введення не може використовувати оператор І."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:210
+msgid "Select type of input field."
+msgstr "Виберіть тип поля введення."
+
+#: plugin/item-reviews/ItemReviews.php:177
+msgid "Select your rating, please."
+msgstr "Виберіть свій рейтинг, будь ласка."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:416
+msgid "Selected category will be prioritized and will present Item post on the map."
+msgstr "Вибрана категорія буде визначена пріоритетом, і на карті відобразиться публікація елемента."
+
+#: blocks/build/index.js:3812
+#: blocks/components/posts-selection.js:71
+msgid "Selected post is no more published."
+msgstr "Вибрана публікація більше не публікується."
+
+#: blocks/build/index.js:3789
+#: blocks/components/posts-selection.js:44
+msgid "Selected posts"
+msgstr "Вибрані дописи"
+
+#: blocks/build/index.js:3812
+#: blocks/components/posts-selection.js:72
+msgid "Selected posts are no more published."
+msgstr "Вибрані дописи більше не публікуються."
+
+#: blocks/build/index.js:10774
+#: blocks/directory-similar-items/src/edit.js:316
+msgid "Selected reference post will be listed before all other similar posts."
+msgstr "Вибрана довідкова публікація буде перелічена перед усіма іншими подібними дописами."
+
+#: blocks/build/index.js:12601
+#: blocks/item-contact-form/src/inspector-controls.js:131
+msgid "Send Button Text"
+msgstr "Надіслати текст кнопки"
+
+#: blocks/build/index.js:12520
+#: blocks/item-contact-form/src/inspector-controls.js:53
+msgid "Sender Email"
+msgstr "Електронна пошта відправника"
+
+#: blocks/build/index.js:12507
+#: blocks/item-contact-form/src/inspector-controls.js:41
+msgid "Sender Name"
+msgstr "Ім&#39;я відправника"
+
+#: blocks/build/index.js:12702
+#: blocks/item-contact-form/src/inspector-controls.js:231
+msgid "Server Error Message"
+msgstr "Повідомлення про помилку сервера"
+
+#: blocks/item-claim-listing/ItemClaimListing.php:121
+msgid "Server encountered an error. If problem persists, contact website administrator, please."
+msgstr "На сервері виникла помилка. Якщо проблема не зникне, зверніться, будь ласка, до адміністратора сайту."
+
+#: plugin/settings/CitadelaDirectorySettings.php:89
+msgid "Settings Saved"
+msgstr "Налаштування збережено"
+
+#: blocks/build/index.js:9308
+#: blocks/build/index.js:16596
+#: blocks/directory-search-form/src/inspector-controls.js:321
+#: blocks/posts-search-form/src/inspector-controls.js:211
+msgid "Shadow"
+msgstr "Тінь"
+
+#: blocks/build/index.js:2210
+#: blocks/components/box-shadow-control.js:52
+msgid "Shadow color"
+msgstr "Колір тіні"
+
+#: blocks/build/index.js:9304
+#: blocks/build/index.js:16592
+#: blocks/directory-search-form/src/inspector-controls.js:316
+#: blocks/posts-search-form/src/inspector-controls.js:206
+msgid "Shadow settings"
+msgstr "Налаштування тіней"
+
+#: blocks/build/index.js:6207
+#: blocks/directory-categories-list/src/edit.js:118
+msgid "Show Category description"
+msgstr "Показати опис категорії"
+
+#: blocks/build/index.js:6199
+#: blocks/directory-categories-list/src/edit.js:113
+msgid "Show Category icon"
+msgstr "Показати значок категорії"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:293
+msgid "Show Email Address"
+msgstr "Показати адресу електронної пошти"
+
+#: blocks/build/index.js:8325
+#: blocks/directory-locations-list/src/edit.js:117
+msgid "Show Location description"
+msgstr "Показати опис місцезнаходження"
+
+#: blocks/build/index.js:8317
+#: blocks/directory-locations-list/src/edit.js:112
+msgid "Show Location icon"
+msgstr "Показати значок місцезнаходження"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:325
+msgid "Show Opening Hours"
+msgstr "Показати години роботи"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:45
+msgid "Show Streetview"
+msgstr "Показати Перегляд вулиць"
+
+#: blocks/build/index.js:7531
+#: blocks/build/index.js:9833
+#: blocks/build/index.js:10818
+#: blocks/directory-items-list/src/edit.js:378
+#: blocks/directory-search-results/src/edit.js:322
+#: blocks/directory-similar-items/src/edit.js:350
+msgid "Show address"
+msgstr "Показати адресу"
+
+#: blocks/build/index.js:9043
+#: blocks/directory-search-form/src/inspector-controls.js:68
+msgid "Show advanced filters"
+msgstr "Показати розширені фільтри"
+
+#: blocks/author-detail/src/edit.js:51
+#: blocks/authors-list/src/edit.js:166
+#: blocks/build/index.js:197
+#: blocks/build/index.js:550
+msgid "Show author image"
+msgstr "Показати зображення автора"
+
+#: blocks/author-detail/src/edit.js:56
+#: blocks/authors-list/src/edit.js:171
+#: blocks/build/index.js:205
+#: blocks/build/index.js:558
+msgid "Show biographical info"
+msgstr "Показати біографічну інформацію"
+
+#: blocks/build/index.js:7547
+#: blocks/build/index.js:9849
+#: blocks/build/index.js:10834
+#: blocks/build/index.js:16913
+#: blocks/directory-items-list/src/edit.js:388
+#: blocks/directory-search-results/src/edit.js:332
+#: blocks/directory-similar-items/src/edit.js:360
+#: blocks/posts-search-results/src/index.js:208
+msgid "Show categories"
+msgstr "Показати категорії"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:301
+msgid "Show contact form on page which send an email to defined email address"
+msgstr "Показати контактну форму на сторінці, яка надсилає електронний лист на визначену адресу електронної пошти"
+
+#: blocks/author-detail/src/edit.js:46
+#: blocks/authors-list/src/edit.js:161
+#: blocks/build/index.js:189
+#: blocks/build/index.js:542
+msgid "Show cover image"
+msgstr "Показати зображення обкладинки"
+
+#: blocks/build/index.js:5652
+#: blocks/build/index.js:5656
+#: blocks/build/index.js:13348
+#: blocks/build/index.js:13352
+#: blocks/item-extension/src/edit.js:161
+#: blocks/item-extension/src/edit.js:166
+msgid "Show data"
+msgstr "Показати дані"
+
+#: blocks/build/index.js:16897
+#: blocks/posts-search-results/src/index.js:198
+msgid "Show date"
+msgstr "Показати дату"
+
+#: blocks/build/index.js:7523
+#: blocks/build/index.js:9825
+#: blocks/build/index.js:10810
+#: blocks/build/index.js:12912
+#: blocks/build/index.js:16905
+#: blocks/directory-items-list/src/edit.js:373
+#: blocks/directory-search-results/src/edit.js:317
+#: blocks/directory-similar-items/src/edit.js:345
+#: blocks/item-events/src/edit.js:42
+#: blocks/posts-search-results/src/index.js:203
+msgid "Show description"
+msgstr "Показати опис"
+
+#: blocks/automatic-directory-google-map/src/edit.js:187
+#: blocks/automatic-posts-map/src/edit.js:116
+#: blocks/build/index.js:1222
+#: blocks/build/index.js:1777
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1299
+#: plugin/assets/citadela/half-layout-map/editor.js:107
+msgid "Show empty map"
+msgstr "Показати порожню карту"
+
+#: blocks/build/index.js:7507
+#: blocks/build/index.js:9809
+#: blocks/build/index.js:10794
+#: blocks/build/index.js:12904
+#: blocks/build/index.js:16889
+#: blocks/directory-items-list/src/edit.js:363
+#: blocks/directory-search-results/src/edit.js:307
+#: blocks/directory-similar-items/src/edit.js:335
+#: blocks/item-events/src/edit.js:37
+#: blocks/posts-search-results/src/index.js:193
+msgid "Show featured image"
+msgstr "Показати обране зображення"
+
+#: blocks/build/index.js:7619
+#: blocks/build/index.js:9797
+#: blocks/build/index.js:10910
+#: blocks/directory-items-list/src/edit.js:449
+#: blocks/directory-search-results/src/edit.js:294
+#: blocks/directory-similar-items/src/edit.js:420
+msgid "Show featured items on the top of list before all other item posts."
+msgstr "Показувати пропоновані елементи вгорі списку перед усіма іншими публікаціями."
+
+#: blocks/build/index.js:5736
+msgid "Show filters group title"
+msgstr "Показати назву групи фільтрів"
+
+#: blocks/authors-list/src/edit.js:181
+#: blocks/build/index.js:574
+msgid "Show link"
+msgstr "Показати посилання"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:298
+msgid "Show link label input"
+msgstr "Показати введення мітки посилання"
+
+#: blocks/build/index.js:7563
+#: blocks/build/index.js:9865
+#: blocks/build/index.js:10850
+#: blocks/build/index.js:16921
+#: blocks/directory-items-list/src/edit.js:400
+#: blocks/directory-search-results/src/edit.js:344
+#: blocks/directory-similar-items/src/edit.js:372
+#: blocks/posts-search-results/src/index.js:213
+msgid "Show locations"
+msgstr "Показати місця"
+
+#: blocks/common-scripts/google-maps-initializer.js:238
+#: blocks/common-scripts/leaflet-maps-initializer.js:991
+#: blocks/common-scripts/leaflet-maps-initializer.js:1088
+#: blocks/components/infowindow.js:31
+#: blocks/components/leaflet-popup-track.js:31
+#: blocks/components/leaflet-popup.js:33
+msgid "Show more"
+msgstr "Показати більше"
+
+#: blocks/build/index.js:3609
+#: blocks/components/panel-carousel.js:48
+msgid "Show navigation arrows"
+msgstr "Показати стрілки навігації"
+
+#: blocks/automatic-directory-google-map/src/edit.js:124
+#: blocks/build/index.js:1154
+#: blocks/build/index.js:6628
+#: blocks/directory-google-map/src/edit.js:151
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1315
+#: plugin/assets/citadela/half-layout-map/editor.js:133
+msgid "Show on map"
+msgstr "Показати на карті"
+
+#: blocks/build/index.js:6187
+#: blocks/build/index.js:11541
+#: blocks/directory-categories-list/src/edit.js:101
+#: blocks/directory-subcategories-list/src/index.js:29
+msgid "Show only categories marked as featured."
+msgstr "Показати лише категорії, позначені як рекомендовані."
+
+#: blocks/build/index.js:7555
+#: blocks/build/index.js:9857
+#: blocks/build/index.js:10842
+#: blocks/directory-items-list/src/edit.js:394
+#: blocks/directory-search-results/src/edit.js:338
+#: blocks/directory-similar-items/src/edit.js:366
+msgid "Show only featured category"
+msgstr "Показати лише пропоновані категорії"
+
+#: blocks/build/index.js:8305
+#: blocks/build/index.js:11658
+#: blocks/directory-locations-list/src/edit.js:100
+#: blocks/directory-sublocations-list/src/index.js:29
+msgid "Show only locations marked as featured."
+msgstr "Показати лише місця, позначені як пропоновані."
+
+#: blocks/build/index.js:3615
+#: blocks/components/panel-carousel.js:54
+msgid "Show pagination bullets"
+msgstr "Показати маркери розбиття на сторінки"
+
+#: blocks/author-detail/src/edit.js:61
+#: blocks/authors-list/src/edit.js:176
+#: blocks/build/index.js:213
+#: blocks/build/index.js:566
+msgid "Show posts number"
+msgstr "Показати номер публікацій"
+
+#: blocks/build/index.js:12920
+#: blocks/item-events/src/edit.js:47
+msgid "Show price"
+msgstr "Показати ціну"
+
+#: blocks/build/index.js:7571
+#: blocks/build/index.js:9873
+#: blocks/build/index.js:10858
+#: blocks/directory-items-list/src/edit.js:406
+#: blocks/directory-search-results/src/edit.js:350
+#: blocks/directory-similar-items/src/edit.js:378
+msgid "Show rating"
+msgstr "Показати рейтинг"
+
+#: blocks/build/index.js:10773
+#: blocks/directory-similar-items/src/edit.js:315
+msgid "Show reference Item Post"
+msgstr "Показати посилання"
+
+#: blocks/build/index.js:5662
+msgid "Show selected filters"
+msgstr "Показати вибрані фільтри"
+
+#: blocks/build/index.js:13358
+#: blocks/item-extension/src/edit.js:170
+msgid "Show selected inputs"
+msgstr "Показати вибрані входи"
+
+#: blocks/build/index.js:10743
+#: blocks/directory-similar-items/src/edit.js:292
+msgid "Show similar posts from the same:"
+msgstr "Показати схожі дописи з того самого:"
+
+#: blocks/build/index.js:5757
+msgid "Show submit filter button"
+msgstr "Показати кнопку фільтра надсилання"
+
+#: blocks/build/index.js:7515
+#: blocks/build/index.js:9817
+#: blocks/build/index.js:10802
+#: blocks/directory-items-list/src/edit.js:368
+#: blocks/directory-search-results/src/edit.js:312
+#: blocks/directory-similar-items/src/edit.js:340
+msgid "Show subtitle"
+msgstr "Показати субтитри"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:33
+msgid "Show track endpoint markers on"
+msgstr "Показати маркери кінцевої точки треку"
+
+#: blocks/build/index.js:7539
+#: blocks/build/index.js:9841
+#: blocks/build/index.js:10826
+#: blocks/directory-items-list/src/edit.js:383
+#: blocks/directory-search-results/src/edit.js:327
+#: blocks/directory-similar-items/src/edit.js:355
+msgid "Show web"
+msgstr "Показати Інтернет"
+
+#: blocks/automatic-directory-google-map/src/edit.js:271
+#: blocks/automatic-posts-map/src/edit.js:196
+#: blocks/build/index.js:1310
+#: blocks/build/index.js:1865
+#: blocks/build/index.js:6774
+#: blocks/build/index.js:15886
+#: blocks/directory-google-map/src/edit.js:282
+#: blocks/posts-map/src/edit.js:227
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1402
+#: plugin/assets/citadela/half-layout-map/editor.js:246
+msgid "Silver"
+msgstr "Срібло"
+
+#: blocks/build/index.js:4802
+#: blocks/components/toolbar-layout.js:53
+msgid "Simple layout"
+msgstr "Простий макет"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:50
+msgid "Site Key"
+msgstr "Ключ сайту"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:153
+msgid "Site logo"
+msgstr "Логотип сайту"
+
+#: blocks/build/index.js:16839
+#: blocks/posts-search-results/src/index.js:143
+msgid "Skip number of posts from start"
+msgstr "Пропустити кількість дописів із початку"
+
+#: blocks/build/index.js:14654
+#: blocks/item-gallery/src/edit.js:220
+msgid "Small"
+msgstr "Маленький"
+
+#: blocks/build/index.js:5770
+#: blocks/build/index.js:11932
+#: blocks/build/index.js:15182
+#: blocks/build/index.js:15360
+#: blocks/item-claim-listing/src/index.js:64
+#: blocks/item-get-directions/src/index.js:64
+#: blocks/item-gpx-download/src/index.js:63
+msgid "Small button"
+msgstr "Маленька кнопка"
+
+#: blocks/build/index.js:4953
+#: blocks/components/toolbar-size.js:32
+msgid "Small size"
+msgstr "Малий розмір"
+
+#: blocks/build/index.js:9197
+#: blocks/build/index.js:16485
+#: blocks/directory-search-form/src/inspector-controls.js:209
+#: blocks/posts-search-form/src/inspector-controls.js:97
+msgid "Solid color"
+msgstr "Суцільний колір"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:131
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Спеціальна сторінка"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:132
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Спеціальні сторінки"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:130
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Спеціальні сторінки"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:140
+msgid "Special page updated."
+msgstr "Оновлено спеціальну сторінку."
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:139
+msgid "Special pages list"
+msgstr "Список спеціальних сторінок"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:138
+msgid "Special pages list navigation"
+msgstr "Навігація зі списком спеціальних сторінок"
+
+#: blocks/build/index.js:2248
+#: blocks/components/box-shadow-control.js:90
+msgid "Spread radius"
+msgstr "Радіус розкидання"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:36
+msgid "Start and end of track"
+msgstr "Початок і кінець треку"
+
+#: blocks/build/index.js:9101
+#: blocks/directory-search-form/src/inspector-controls.js:124
+msgid "Step"
+msgstr "Крок"
+
+#: plugin/controls/inputs/CitadelaMapControl.php:28
+msgid "Streetview"
+msgstr "Перегляд вулиць"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:48
+msgid "Streetview is available only if Google API key is enabled"
+msgstr "Перегляд вулиць доступний, лише якщо ввімкнено ключ API Google"
+
+#: blocks/build/index.js:11928
+#: blocks/build/index.js:15178
+#: blocks/build/index.js:15356
+#: blocks/item-claim-listing/src/index.js:59
+#: blocks/item-get-directions/src/index.js:59
+#: blocks/item-gpx-download/src/index.js:58
+msgid "Style"
+msgstr "Стиль"
+
+#: blocks/automatic-directory-google-map/src/edit.js:252
+#: blocks/automatic-posts-map/src/edit.js:178
+#: blocks/build/index.js:1288
+#: blocks/build/index.js:1843
+#: blocks/build/index.js:6752
+#: blocks/build/index.js:15864
+#: blocks/directory-google-map/src/edit.js:264
+#: blocks/posts-map/src/edit.js:209
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1386
+#: plugin/assets/citadela/half-layout-map/editor.js:228
+msgid "Style JSON"
+msgstr "Стиль JSON"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:51
+msgid "Subject"
+msgstr "Тема"
+
+#: blocks/build/index.js:12646
+#: blocks/item-contact-form/src/inspector-controls.js:176
+msgid "Subject Help"
+msgstr "Довідка по темі"
+
+#: blocks/build/index.js:12575
+#: blocks/item-contact-form/src/inspector-controls.js:107
+msgid "Subject Label"
+msgstr "Позначка теми"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:52
+msgid "Subject for the email notification"
+msgstr "Тема для повідомлення електронною поштою"
+
+#: blocks/build/index.js:12031
+#: blocks/item-claim-listing/src/index.js:153
+msgid "Submit Label"
+msgstr "Надіслати ярлик"
+
+#: blocks/build/index.js:9136
+#: blocks/directory-search-form/src/inspector-controls.js:151
+msgid "Submit distance button label"
+msgstr "Надіслати мітку кнопки відстані"
+
+#: blocks/build/index.js:9052
+#: blocks/directory-search-form/src/inspector-controls.js:77
+msgid "Submit filters button label"
+msgstr "Мітка кнопки Надіслати фільтри"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:77
+msgid "Submit reply"
+msgstr "Надіслати відповідь"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:68
+#: plugin/cpt/item/templates/parts/item-reviews.php:76
+msgid "Submit review"
+msgstr "Надіслати відгук"
+
+#: plugin/settings/CitadelaDirectorySettings.php:233
+#: plugin/settings/CitadelaDirectorySettings.php:234
+msgid "Subscriptions"
+msgstr "Підписки"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:244
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: blocks/build/index.js:12676
+#: blocks/item-contact-form/src/inspector-controls.js:207
+msgid "Success Message"
+msgstr "Повідомлення про успіх"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:374
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:36
+msgid "Sunday"
+msgstr "неділя"
+
+#: blocks/build/index.js:13413
+#: blocks/item-extension/src/edit.js:220
+msgid "Table style"
+msgstr "Стиль столу"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:340
+msgid "Tag archives: "
+msgstr "Архів тегів:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:279
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:47
+msgid "Telephone"
+msgstr "Телефон"
+
+#: blocks/build/index.js:12057
+#: blocks/item-claim-listing/src/index.js:177
+msgid "Terms & Conditions label"
+msgstr "Мітка &quot;Умови використання&quot;."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:432
+msgid "Text"
+msgstr "Текст"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:116
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:179
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:206
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:242
+#: blocks/authors-list/src/edit.js:265
+#: blocks/build/index.js:665
+#: blocks/build/index.js:5786
+#: blocks/build/index.js:7644
+#: blocks/build/index.js:9346
+#: blocks/build/index.js:9898
+#: blocks/build/index.js:10935
+#: blocks/build/index.js:11944
+#: blocks/build/index.js:14753
+#: blocks/build/index.js:15197
+#: blocks/build/index.js:15375
+#: blocks/build/index.js:16634
+#: blocks/build/index.js:16959
+#: blocks/directory-items-list/src/edit.js:475
+#: blocks/directory-search-form/src/inspector-controls.js:351
+#: blocks/directory-search-results/src/edit.js:377
+#: blocks/directory-similar-items/src/edit.js:447
+#: blocks/item-claim-listing/src/index.js:72
+#: blocks/item-gallery/src/edit.js:303
+#: blocks/item-get-directions/src/index.js:73
+#: blocks/item-gpx-download/src/index.js:72
+#: blocks/posts-search-form/src/inspector-controls.js:242
+#: blocks/posts-search-results/src/index.js:252
+msgid "Text color"
+msgstr "Колір тексту"
+
+#: blocks/build/index.js:12045
+#: blocks/item-claim-listing/src/index.js:166
+msgid "Text displayed in the form when user is logged in"
+msgstr "Текст, який відображається у формі, коли користувач увійшов в систему"
+
+#: plugin/controls/butterbean/CitadelaButterbeanUrl.php:27
+#: plugin/cpt/item/CitadelaItemConfig.php:316
+msgid "Text displayed instead of full website url"
+msgstr "Відображається текст замість повної URL-адреси веб-сайту"
+
+#: blocks/build/index.js:12602
+#: blocks/item-contact-form/src/inspector-controls.js:132
+msgid "Text displayed on Send Button."
+msgstr "Текст відображається на кнопці Надіслати."
+
+#: blocks/automatic-directory-google-map/src/edit.js:195
+#: blocks/automatic-posts-map/src/edit.js:124
+#: blocks/build/index.js:1234
+#: blocks/build/index.js:1789
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1309
+#: plugin/assets/citadela/half-layout-map/editor.js:117
+msgid "Text displayed on empty map"
+msgstr "Текст відображається на порожній карті"
+
+#: blocks/build/index.js:12058
+#: blocks/item-claim-listing/src/index.js:178
+msgid "Text for Terms & Conditions form input. Leave empty to disable the checkbox."
+msgstr "Текст для Загальних положень та умов для введення форми. Залиште порожнім, щоб вимкнути прапорець."
+
+#: blocks/build/index.js:4794
+#: blocks/components/toolbar-layout.js:47
+msgid "Text layout"
+msgstr "Макет тексту"
+
+#: blocks/build/index.js:15188
+#: blocks/build/index.js:15366
+#: blocks/item-get-directions/src/index.js:66
+#: blocks/item-gpx-download/src/index.js:65
+msgid "Text link"
+msgstr "Текстове посилання"
+
+#: blocks/build/index.js:12534
+#: blocks/item-contact-form/src/inspector-controls.js:66
+msgid "Text of email message. Available are variables: {user-name} {user-email} {user-message}"
+msgstr "Текст повідомлення електронної пошти. Доступні змінні: {user-name} {user-email} {user-message}"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:433
+msgid "Textarea"
+msgstr "Текстова область"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:85
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "Не вдалося активувати плагін %s. Вона несумісна з поточною активною темою."
+
+#: plugin/subscriptions/Feature.php:61
+msgid "The maximum number of items that customers with this subscription can publish (Leave empty for the unlimited number of items)."
+msgstr "Максимальна кількість елементів, які клієнти з цією підпискою можуть опублікувати (залиште порожнім для необмеженої кількості елементів)."
+
+#: blocks/automatic-directory-google-map/src/edit.js:245
+#: blocks/automatic-directory-google-map/src/edit.js:267
+#: blocks/automatic-posts-map/src/edit.js:172
+#: blocks/automatic-posts-map/src/edit.js:192
+#: blocks/build/index.js:1279
+#: blocks/build/index.js:1304
+#: blocks/build/index.js:1834
+#: blocks/build/index.js:1859
+#: blocks/build/index.js:6743
+#: blocks/build/index.js:6768
+#: blocks/build/index.js:15855
+#: blocks/build/index.js:15880
+#: blocks/directory-google-map/src/edit.js:258
+#: blocks/directory-google-map/src/edit.js:278
+#: blocks/posts-map/src/edit.js:203
+#: blocks/posts-map/src/edit.js:223
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1379
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1396
+#: plugin/assets/citadela/half-layout-map/editor.js:218
+#: plugin/assets/citadela/half-layout-map/editor.js:242
+msgid "Theme"
+msgstr "Тема"
+
+#: blocks/build/index.js:8599
+#: blocks/directory-membership-content/src/edit.js:57
+msgid "There are no available subscriptions. Add some, please."
+msgstr "Немає доступних підписок. Додайте, будь ласка."
+
+#: blocks/build/index.js:5953
+msgid "There are no filters to show."
+msgstr "Немає фільтрів для показу."
+
+#: blocks/build/index.js:13510
+#: blocks/item-extension/src/edit.js:332
+msgid "There are no inputs to show."
+msgstr "Немає введених даних для показу."
+
+#: blocks/build/index.js:13512
+#: blocks/build/index.js:13514
+#: blocks/item-extension/src/edit.js:343
+#: blocks/item-extension/src/edit.js:354
+msgid "There are no selected inputs to show."
+msgstr "Немає вибраних входів для відображення."
+
+#: blocks/build/index.js:9273
+#: blocks/build/index.js:16561
+#: blocks/directory-search-form/src/inspector-controls.js:288
+#: blocks/posts-search-form/src/inspector-controls.js:178
+msgid "Thick border"
+msgstr "Товста облямівка"
+
+#: blocks/authors-list/src/edit.js:295
+#: blocks/build/index.js:703
+#: blocks/build/index.js:7691
+#: blocks/build/index.js:9945
+#: blocks/build/index.js:10982
+#: blocks/build/index.js:16997
+#: blocks/directory-items-list/src/edit.js:514
+#: blocks/directory-search-results/src/edit.js:414
+#: blocks/directory-similar-items/src/edit.js:486
+#: blocks/posts-search-results/src/index.js:282
+msgid "Thick borders"
+msgstr "Товсті межі"
+
+#: blocks/build/index.js:9270
+#: blocks/build/index.js:16558
+#: blocks/directory-search-form/src/inspector-controls.js:287
+#: blocks/posts-search-form/src/inspector-controls.js:177
+msgid "Thin border"
+msgstr "Тонка облямівка"
+
+#: blocks/authors-list/src/edit.js:294
+#: blocks/build/index.js:700
+#: blocks/build/index.js:7688
+#: blocks/build/index.js:9942
+#: blocks/build/index.js:10979
+#: blocks/build/index.js:16994
+#: blocks/directory-items-list/src/edit.js:513
+#: blocks/directory-search-results/src/edit.js:413
+#: blocks/directory-similar-items/src/edit.js:485
+#: blocks/posts-search-results/src/index.js:281
+msgid "Thin borders"
+msgstr "Тонкі межі"
+
+#: plugin/settings/CitadelaDirectorySettings.php:1055
+msgid "This feature adds Claim Listing functionality for Listing items"
+msgstr "Ця функція додає функціональні можливості складання списку претензій для елементів списку"
+
+#: plugin/subscriptions/Feature.php:55
+msgid "This product is a Citadela Subscription."
+msgstr "Цей продукт є передплатою Citadela."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:72
+msgid "This setting will enable editing of Item Posts using Gutenberg editor. This feature will allow you to have greater administration flexibility. Please be careful which blocks you include in the item detail as everything will be placed in the \"Item Content\" block on Item Detail Special page."
+msgstr "Цей параметр дозволить редагувати дописи за допомогою редактора Gutenberg. Ця функція дозволить вам мати більшу гнучкість адміністрування. Будь ласка, будьте обережні, які блоки ви додаєте до інформації про предмет, оскільки все буде розміщено в блоці «Вміст предмета» на сторінці «Спеціальні відомості про предмет»."
+
+#: blocks/build/index.js:12935
+#: blocks/item-events/src/edit.js:61
+msgid "Thumbnail"
+msgstr "Ескіз"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:353
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:24
+msgid "Thursday"
+msgstr "четвер"
+
+#: blocks/build/index.js:3640
+#: blocks/components/panel-carousel.js:77
+msgid "Time in seconds"
+msgstr "Час у секундах"
+
+#: blocks/build/index.js:7589
+#: blocks/build/index.js:9767
+#: blocks/build/index.js:10877
+#: blocks/build/index.js:11981
+#: blocks/build/index.js:16859
+#: blocks/directory-items-list/src/edit.js:424
+#: blocks/directory-search-results/src/edit.js:268
+#: blocks/directory-similar-items/src/edit.js:397
+#: blocks/item-claim-listing/src/index.js:107
+#: blocks/posts-search-results/src/index.js:162
+msgid "Title"
+msgstr "Назва"
+
+#: blocks/build/index.js:5843
+#: blocks/build/index.js:13447
+#: blocks/item-extension/src/edit.js:258
+msgid "Title color"
+msgstr "Колір заголовка"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:108
+msgid "Titles color"
+msgstr "Колір заголовків"
+
+#: plugin/settings/CitadelaDirectorySettings.php:845
+#: blocks/build/index.js:7278
+#: blocks/build/index.js:7348
+#: blocks/build/index.js:9578
+#: blocks/build/index.js:9648
+#: blocks/build/index.js:10555
+#: blocks/build/index.js:10625
+#: blocks/build/index.js:13896
+#: blocks/build/index.js:14506
+#: blocks/build/index.js:14576
+#: blocks/build/index.js:14682
+#: blocks/directory-items-list/src/edit.js:169
+#: blocks/directory-items-list/src/edit.js:217
+#: blocks/directory-search-results/src/edit.js:111
+#: blocks/directory-search-results/src/edit.js:159
+#: blocks/directory-similar-items/src/edit.js:133
+#: blocks/directory-similar-items/src/edit.js:181
+#: blocks/item-featured-image/src/edit.js:224
+#: blocks/item-gallery/src/edit.js:102
+#: blocks/item-gallery/src/edit.js:150
+#: blocks/item-gallery/src/edit.js:237
+msgid "Top"
+msgstr "Топ"
+
+#: plugin/settings/CitadelaDirectorySettings.php:844
+#: blocks/build/index.js:7275
+#: blocks/build/index.js:7345
+#: blocks/build/index.js:9575
+#: blocks/build/index.js:9645
+#: blocks/build/index.js:10552
+#: blocks/build/index.js:10622
+#: blocks/build/index.js:13893
+#: blocks/build/index.js:14503
+#: blocks/build/index.js:14573
+#: blocks/directory-items-list/src/edit.js:168
+#: blocks/directory-items-list/src/edit.js:216
+#: blocks/directory-search-results/src/edit.js:110
+#: blocks/directory-search-results/src/edit.js:158
+#: blocks/directory-similar-items/src/edit.js:132
+#: blocks/directory-similar-items/src/edit.js:180
+#: blocks/item-featured-image/src/edit.js:223
+#: blocks/item-gallery/src/edit.js:101
+#: blocks/item-gallery/src/edit.js:149
+msgid "Top left"
+msgstr "Зліва вгорі"
+
+#: plugin/settings/CitadelaDirectorySettings.php:846
+#: blocks/build/index.js:7281
+#: blocks/build/index.js:7351
+#: blocks/build/index.js:9581
+#: blocks/build/index.js:9651
+#: blocks/build/index.js:10558
+#: blocks/build/index.js:10628
+#: blocks/build/index.js:13899
+#: blocks/build/index.js:14509
+#: blocks/build/index.js:14579
+#: blocks/directory-items-list/src/edit.js:170
+#: blocks/directory-items-list/src/edit.js:218
+#: blocks/directory-search-results/src/edit.js:112
+#: blocks/directory-search-results/src/edit.js:160
+#: blocks/directory-similar-items/src/edit.js:134
+#: blocks/directory-similar-items/src/edit.js:182
+#: blocks/item-featured-image/src/edit.js:225
+#: blocks/item-gallery/src/edit.js:103
+#: blocks/item-gallery/src/edit.js:151
+msgid "Top right"
+msgstr "Верхній правий"
+
+#: blocks/automatic-directory-google-map/src/edit.js:143
+#: blocks/automatic-directory-google-map/src/edit.js:162
+#: blocks/build/index.js:1181
+#: blocks/build/index.js:1200
+#: blocks/build/index.js:6655
+#: blocks/directory-google-map/src/edit.js:171
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1338
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1353
+#: plugin/assets/citadela/half-layout-map/editor.js:157
+#: plugin/assets/citadela/half-layout-map/editor.js:181
+msgid "Track color"
+msgstr "Колір треку"
+
+#: blocks/automatic-directory-google-map/src/edit.js:149
+#: blocks/automatic-directory-google-map/src/edit.js:168
+#: blocks/build/index.js:1190
+#: blocks/build/index.js:1209
+#: blocks/build/index.js:6664
+#: blocks/directory-google-map/src/edit.js:178
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1345
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1360
+#: plugin/assets/citadela/half-layout-map/editor.js:166
+#: plugin/assets/citadela/half-layout-map/editor.js:190
+msgid "Track endpoints color"
+msgstr "Колір кінцевих точок відстеження"
+
+#: blocks/automatic-directory-google-map/src/edit.js:138
+#: blocks/build/index.js:1173
+#: blocks/build/index.js:6647
+#: blocks/directory-google-map/src/edit.js:165
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1332
+#: plugin/assets/citadela/half-layout-map/editor.js:149
+msgid "Tracks are hidden and replaced with map marker according to zoom level."
+msgstr "Треки приховані та замінені маркером карти відповідно до рівня масштабування."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:339
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:16
+msgid "Tuesday"
+msgstr "вівторок"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:44
+msgid "Turn on Claim Listing feature"
+msgstr "Увімкніть функцію списку претензій"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:71
+msgid "Turn on Item Extension features"
+msgstr "Увімкніть функції розширення елемента"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:60
+msgid "Turn on Item Reviews for listing items"
+msgstr "Увімкніть Огляди товарів для товарів зі списку"
+
+#: plugin/controls/inputs/CitadelaSelectFontawesomeControl.php:23
+msgid "Type for search..."
+msgstr "Введіть для пошуку..."
+
+#: blocks/build/index.js:13393
+#: blocks/item-extension/src/edit.js:203
+msgid "Unchecked single checkbox will not be displayed."
+msgstr "Не встановлений одиничний прапорець не відображатиметься."
+
+#: plugin/claim-listing/ClaimListing.php:55
+#: plugin/claim-listing/ClaimListing.php:64
+msgid "Unclaimed"
+msgstr "Незатребувані"
+
+#: blocks/build/index.js:14727
+#: blocks/item-gallery/src/edit.js:273
+msgid "Under image"
+msgstr "Під зображенням"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:380
+msgid "Unique identifier for new input field. Use single word, no spaces. Underscores and dashes allowed."
+msgstr "Унікальний ідентифікатор для нового поля введення. Використовуйте одне слово, без пробілів. Дозволено підкреслення та тире."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:320
+msgid "Unit of number"
+msgstr "Одиниця числа"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:342
+msgid "Unit position"
+msgstr "Позиція одиниці"
+
+#. Description of the plugin
+msgid "Universal listing features for any website"
+msgstr "Універсальні функції списку для будь-якого веб-сайту"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:97
+msgid "Update Category"
+msgstr "Оновити категорію"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:131
+#: plugin/cpt/post/CitadelaPost.php:67
+msgid "Update Location"
+msgstr "Оновити місцезнаходження"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:63
+msgid "Upload file"
+msgstr "Завантажити файл"
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:236
+msgid "Uploaded file doesn't include required GPX track data."
+msgstr "Завантажений файл не містить необхідні дані треку GPX."
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:100
+msgid "Uploaded file has not valid XML format."
+msgstr "Завантажений файл має недійсний формат XML."
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:69
+msgid "Uploading&#8230;"
+msgstr "Завантаження…"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:435
+msgid "Url"
+msgstr "URL-адреса"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:300
+msgid "Use Contact Form"
+msgstr "Використовуйте контактну форму"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:67
+msgid "Use Easy Admin interface for your subscribers"
+msgstr "Використовуйте простий інтерфейс адміністратора для ваших передплатників"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:78
+msgid "Use Gutenberg editor for the content of listing items"
+msgstr "Використовуйте редактор Gutenberg для вмісту елементів списку"
+
+#: blocks/build/index.js:3603
+#: blocks/components/panel-carousel.js:40
+msgid "Use carousel"
+msgstr "Використовуйте карусель"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:308
+msgid "Use correct full website url"
+msgstr "Використовуйте правильну повну URL-адресу веб-сайту"
+
+#: blocks/build/index.js:9078
+#: blocks/directory-search-form/src/inspector-controls.js:106
+msgid "Use geolocation search"
+msgstr "Використовуйте пошук геолокації"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:387
+msgid "Use in search filter"
+msgstr "Використовуйте у фільтрі пошуку"
+
+#: blocks/build/index.js:7727
+#: blocks/build/index.js:9968
+#: blocks/build/index.js:11018
+#: blocks/build/index.js:13872
+#: blocks/build/index.js:14697
+#: blocks/directory-items-list/src/edit.js:555
+#: blocks/directory-search-results/src/edit.js:437
+#: blocks/directory-similar-items/src/edit.js:526
+#: blocks/item-featured-image/src/edit.js:203
+#: blocks/item-gallery/src/edit.js:245
+msgid "Use responsive options"
+msgstr "Використовуйте адаптивні параметри"
+
+#: plugin/item-reviews/ItemReviews.php:310
+msgid "Use valid email address, please."
+msgstr "Використовуйте дійсну адресу електронної пошти, будь ласка."
+
+#: blocks/build/index.js:12618
+#: blocks/item-contact-form/src/inspector-controls.js:148
+msgid "Useful to show additional help text or GDPR text with each input in the form."
+msgstr "Корисно для показу додаткового тексту довідки або тексту GDPR з кожним введенням у формі."
+
+#: blocks/authors-list/src/edit.js:205
+#: blocks/build/index.js:597
+msgid "User ID"
+msgstr "ідентифікатор користувача"
+
+#: plugin/cpt/user/CitadelaUser.php:39
+msgid "User additional options"
+msgstr "Додаткові параметри користувача"
+
+#: blocks/common-scripts/search-forms-initializer.js:812
+msgid "User denied geolocation"
+msgstr "Користувачу заборонено геолокацію"
+
+#: blocks/authors-list/src/edit.js:208
+#: blocks/build/index.js:606
+msgid "User email"
+msgstr "Електронна адреса користувача"
+
+#: blocks/authors-list/src/edit.js:207
+#: blocks/build/index.js:603
+msgid "User login"
+msgstr "Вхід користувача"
+
+#: blocks/authors-list/src/edit.js:209
+#: blocks/build/index.js:609
+msgid "User posts count"
+msgstr "Зараховуються повідомлення користувачів"
+
+#: blocks/authors-list/src/edit.js:210
+#: blocks/build/index.js:612
+msgid "User registration date"
+msgstr "Дата реєстрації користувача"
+
+#: blocks/build/index.js:12005
+#: blocks/item-claim-listing/src/index.js:129
+msgid "Username Label"
+msgstr "Мітка імені користувача"
+
+#: blocks/build/index.js:8582
+#: blocks/directory-membership-content/src/edit.js:42
+msgid "Users with active membership"
+msgstr "Користувачі з активним членством"
+
+#: blocks/build/index.js:12689
+#: blocks/item-contact-form/src/inspector-controls.js:219
+msgid "Validation Error Message"
+msgstr "Повідомлення про помилку перевірки"
+
+#: blocks/build/index.js:13463
+#: blocks/item-extension/src/edit.js:270
+msgid "Value color"
+msgstr "Значення кольору"
+
+#: blocks/build/index.js:2228
+#: blocks/components/box-shadow-control.js:70
+msgid "Vertical offset"
+msgstr "Вертикальне зміщення"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:96
+msgid "View Category"
+msgstr "Переглянути категорію"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:35
+msgid "View Item"
+msgstr "Переглянути елемент"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:130
+#: plugin/cpt/post/CitadelaPost.php:66
+msgid "View Location"
+msgstr "Переглянути місцезнаходження"
+
+#: plugin/easy-admin/EasyAdmin.php:149
+msgid "View Site"
+msgstr "Переглянути сайт"
+
+#: plugin/cpt/item/templates/parts/item-container.php:152
+#: plugin/cpt/post/templates/parts/post-container.php:99
+#: plugin/parts/default-search-results-content.php:94
+msgid "View more"
+msgstr "Дивитись більше"
+
+#: plugin/parts/authors-list.php:96
+#: blocks/authors-list/src/edit.js:418
+#: blocks/build/index.js:848
+msgid "View posts"
+msgstr "Переглянути дописи"
+
+#: blocks/authors-list/src/edit.js:188
+#: blocks/build/index.js:582
+msgid "View posts label"
+msgstr "Переглянути мітку публікацій"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:88
+msgid "View track on the map"
+msgstr "Переглянути трек на карті"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:216
+msgid "We recommend to use 24:00 time format for SEO purposes and satisfy Google Structured Data requirements. Use time like 08:00-15:00."
+msgstr "Ми рекомендуємо використовувати формат часу 24:00 для цілей SEO та відповідати вимогам до структурованих даних Google. Використовуйте час 08:00-15:00."
+
+#. translators: %s plugin's name
+#: plugin/compatibility.php:16
+msgid "We've deactivated Citadela Directory Lite plugin. You can now activate and enjoy full version of the plugin."
+msgstr "Ми деактивували плагін Citadela Directory Lite. Тепер ви можете активувати та користуватися повною версією плагіна."
+
+#: plugin/settings/CitadelaDirectorySettings.php:1033
+msgid "We've noticed WooCommerce Subscriptions plugin is active, subscriptions functionality from Citadela Listing plugin is available."
+msgstr "Ми помітили, що плагін WooCommerce Subscriptions активний, доступна функція підписок із плагіна Citadela Listing."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Ми помітили, що ви використовуєте застарілу версію PHP, яка більше не підтримується, тому <em>плагін було деактивовано</em> . Переконайтеся, що ваш сайт працює швидко та безпечно, <a href='%1$s'>оновивши PHP до останньої версії</a> . Мінімальна вимога для %2$s – <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to WordPress Update page, 2. plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:63
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Ми помітили, що ви використовуєте застарілу версію WordPress, тому <em>плагін було деактивовано</em> . Переконайтеся, що ваш сайт безпечний і оновлений, <a href='%1$s'>оновивши WordPress до останньої версії</a> . Мінімальна вимога для %2$s – <strong>WordPress 5.2</strong> ."
+
+#: plugin/cpt/item/templates/parts/item-container.php:175
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:67
+msgid "Web"
+msgstr "Інтернет"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:307
+msgid "Website Link"
+msgstr "Посилання на сайт"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:315
+msgid "Website Link Label"
+msgstr "Мітка посилання на веб-сайт"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:108
+msgid "Website link rel attribute"
+msgstr "Атрибут посилання на веб-сайт rel"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:346
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:20
+msgid "Wednesday"
+msgstr "середа"
+
+#: plugin/CitadelaDirectory.php:690
+msgid "Widgets displayed on Item Categories pages."
+msgstr "Віджети, що відображаються на сторінках категорій елементів."
+
+#: plugin/CitadelaDirectory.php:696
+msgid "Widgets displayed on Item Locations pages."
+msgstr "Віджети, що відображаються на сторінках розташування елементів."
+
+#: plugin/CitadelaDirectory.php:684
+msgid "Widgets displayed on Item posts pages."
+msgstr "Віджети, що відображаються на сторінках публікацій про предмет."
+
+#: blocks/build/index.js:11246
+#: blocks/directory-similar-items/src/edit.js:746
+msgid "Will be listed all available similar items."
+msgstr "Буде перераховано всі доступні подібні товари."
+
+#: blocks/build/index.js:9162
+#: blocks/build/index.js:16450
+#: blocks/directory-search-form/src/inspector-controls.js:179
+#: blocks/posts-search-form/src/inspector-controls.js:67
+msgid "With background"
+msgstr "З фоном"
+
+#: blocks/automatic-directory-google-map/src/edit.js:112
+#: blocks/automatic-posts-map/src/edit.js:104
+#: blocks/build/index.js:1143
+#: blocks/build/index.js:1763
+#: blocks/build/index.js:6617
+#: blocks/build/index.js:15786
+#: blocks/directory-google-map/src/edit.js:141
+#: blocks/posts-map/src/edit.js:136
+msgid "With search form"
+msgstr "З формою пошуку"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:311
+msgid "With url will be available additional input to insert text displayed instead of plain link."
+msgstr "За допомогою url буде доступний додатковий вхід для вставки тексту, що відображається замість простого посилання."
+
+#: blocks/build/index.js:8591
+#: blocks/directory-membership-content/src/edit.js:52
+msgid "WooCommerce subscriptions"
+msgstr "Підписки на WooCommerce"
+
+#: blocks/automatic-directory-google-map/src/edit.js:211
+#: blocks/automatic-posts-map/src/edit.js:139
+#: blocks/build/index.js:1247
+#: blocks/build/index.js:1802
+#: blocks/build/index.js:6711
+#: blocks/build/index.js:13770
+#: blocks/build/index.js:13793
+#: blocks/build/index.js:15823
+#: blocks/directory-google-map/src/edit.js:224
+#: blocks/item-featured-image/src/edit.js:93
+#: blocks/item-featured-image/src/edit.js:117
+#: blocks/posts-map/src/edit.js:170
+msgid "Works when block is the only block in a column."
+msgstr "Працює, коли блок є єдиним блоком у стовпці."
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:84
+msgid "You do not have permission to upload files."
+msgstr "У вас немає дозволу на завантаження файлів."
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:69
+msgid "You must be logged in to post a review."
+msgstr "Ви повинні увійти, щоб опублікувати відгук."
+
+#: plugin/item-reviews/ItemReviews.php:174
+msgid "Your rating"
+msgstr "Ваш рейтинг"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:83
+msgid "Your reply to review"
+msgstr "Ваша відповідь на огляд"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:82
+msgid "Your review"
+msgstr "Ваш огляд"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:284
+msgid "blue : Blue color"
+msgstr "синій: блакитний колір"
+
+#: blocks/build/index.js:7964
+#: blocks/build/index.js:8034
+#: blocks/build/index.js:10147
+#: blocks/build/index.js:10217
+#: blocks/build/index.js:11312
+#: blocks/build/index.js:11382
+#: blocks/build/index.js:14039
+#: blocks/build/index.js:14109
+#: blocks/build/index.js:14909
+#: blocks/build/index.js:14979
+#: blocks/directory-items-list/src/edit.js:779
+#: blocks/directory-items-list/src/edit.js:849
+#: blocks/directory-search-results/src/edit.js:607
+#: blocks/directory-search-results/src/edit.js:677
+#: blocks/directory-similar-items/src/edit.js:815
+#: blocks/directory-similar-items/src/edit.js:885
+#: blocks/item-featured-image/src/edit.js:355
+#: blocks/item-featured-image/src/edit.js:425
+#: blocks/item-gallery/src/edit.js:470
+#: blocks/item-gallery/src/edit.js:540
+msgid "default image size"
+msgstr "розмір зображення за замовчуванням"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-listing/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-listing/"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:61
+msgctxt "Uploader: Drop file here - or - Select file from computer"
+msgid "or"
+msgstr "або"
+
+#: plugin/parts/author-detail.php:53
+#: plugin/parts/authors-list.php:83
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "пост"
+msgstr[1] ""
+msgstr[2] ""
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:283
+msgid "red : Red color"
+msgstr "червоний: червоний колір"

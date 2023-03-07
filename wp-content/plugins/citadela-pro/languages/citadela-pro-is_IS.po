@@ -1,0 +1,2811 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: is\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "%s viðbót og PHP ósamrýmanleiki"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "%s viðbót og WordPress ósamrýmanleiki"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "%s viðbótin hefur verið gerð óvirk"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%s viðbót ósamrýmanleiki"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(Þú getur halað þeim niður af AitThemes reikningnum þínum)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% lárétt"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% lóðrétt"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "Taka"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "Bættu við tómu bili á milli blokka sem munu líta öðruvísi út á skjáborði og farsímum."
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "Viðbótartexti"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "Viðbótartexti birtist með reitnum. Það getur innihaldið HTML-snið eins og vefslóðir til að tengja við skilmála þína eða persónuverndarstefnu."
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "Ítarlegri"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "Ítarlegar stillingar"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "Samræma textamiðstöð"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "Stilltu texta til vinstri"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "Réttu texta til hægri"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "Stilltu lógóhlutann við vinstri hliðina"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "Allt"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "Allar sérstakar síður"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "Allar blokkir voru færðar í %s viðbótina."
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "Gerir þér kleift að bæta fyrirtækjaþjónustu á vefsíðuna þína auðveldlega."
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "Gerir þér kleift að setja inn texta með sérsniðnum stillingum og letri."
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "Gerir þér kleift að setja síðuheiti hvar sem þú vilt. Til dæmis á eftir hausmynd."
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "Tilkynningar Bar"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "Tilkynningar bar"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "Tilkynningarstikan gerir þér kleift að kynna allar mikilvægar tilkynningar efst á öllum síðum þínum."
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "Tilkynningarstikan birtist eftir valda dagsetningu og tíma."
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "Tilkynningarstikan birtist þar til valin dagsetning og tími er valinn."
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "Nafnlausu IP-tölu gesta á vefsíðunni þinni."
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "Útlit"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "Útlitsstillingar fyrir vefsíðuna þína"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "Sótt um einfalda gerð tilkynningastikunnar."
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "Hækkandi"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "Ævisögulegar upplýsingar höfundar"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "Nafn höfundar"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "Framboð á völdum stíl fer eftir valinni leturgerð fyrir titla."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "Laus úrval"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "Yfirborð bakgrunnsmyndar"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "Bakgrunnsstillingar"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "Bakgrunns litur"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "Tegund bakgrunnslita"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "Bakgrunnshalli"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "Bakgrunnsmynd"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "Bakgrunnsmynd endurtekin"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "Stærð bakgrunnsmyndar"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "Bakgrunnsstaða"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "Bakgrunnsstillingar fyrir vefsíðuhausinn þinn"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "Bakgrunnslitur á bar"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "Svartur"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "Bloggsíða"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "Bloggfærslur"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "Óljós radíus"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "Djarft"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "Feitletrað (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "Stillingar landamæra"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "Rammalitur"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "Radíus á landamærum"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "Möguleikar á rammaradíus"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "Kantarbreidd"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "Borders litur"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "Kantar breidd"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "Neðst"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "Neðst"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "Neðst til vinstri"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "Neðst til hægri"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "Skipulag kassa"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "Kassabreidd"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "Aðeins hamborgaramatseðill"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "Hnappur Bakgrunnslitur"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "Vefslóð hnapps"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "Bakgrunnur hnappa"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "Hnappur"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "Hnappstillingar"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "Hnappatexti"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "Hnappar Border Radíus"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "Hætta við"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Sjálfvirk spilun hringekju virkt"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "Kveikt á hringekjuham"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "Flokkar"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "Flokkur"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "Flokkslýsing"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "Flokkur titill"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "Flokkur:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "Miðja"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "Miðja"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "Breyta HTML tagi"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "Breyta tákni"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "Skiptu um mynd"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "Breyttu mynd fyrir skjáborðsupplausn"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "Breyttu mynd fyrir farsímaupplausn"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Citadela - sérstakar síður"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Citadela blokkir"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Citadela innihaldsstillingar"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Citadela Half Layout Stillingar"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Citadela hausstillingar"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Citadela Posts Blocks"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Citadela Service Block myndstærð"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Citadela sérstakar síður"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "Klassískt"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "Klassískt"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "Hreinsa"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "Klasi"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "Klasablokk"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "Draga saman valmynd að hnappi"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "Valkostir fyrir sambrjótanlegar fæturgræjur"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "Litastillingar"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "Litir"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "Nafn höfundar athugasemda verður ekki tengt við vefslóð sem er sett inn í vefsvæði"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "Athugasemdarreit"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "Athugasemdaviðbót er hægt að nota til að bæta hjálpartexta við hvert einasta inntak á WordPress athugasemdaformi."
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "Comments viðbót"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "Stillingar athugasemdartengla"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "Staðfesta"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "Innihalda"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "Efni"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "Stærð efnis"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "Efnisstærð breidd"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "Efnisbreidd"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "Efnisbreiddarstærðir"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "Fótspor rennur út"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "Þekja"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "Þekja"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "Hæð þekjusúlu"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "Núverandi blokkarsýn"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "Núverandi síðutitill"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "Sérsniðinn haus er virkur. Eftirfarandi valkostir gætu ekki haft áhrif á þessa síðu."
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "Sérsniðinn haus með sérsniðnu merki er virkt fyrir þessa síðu. Breyting á lógómynd gæti ekki verið sýnileg í forskoðun."
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "Sérsniðinn síðutitill"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "Sérsniðnir kóðar"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "Sérsniðin mynd"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "Sérsniðið lógó"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "Sérsniðin lógómynd"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "Sérsníða liti"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "Sérsniðnir valkostir fyrir breidd farsímaskjás."
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "Dagsetning"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "Dagsetning litur"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "Dagsetning frá"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "Dagsetning til"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "Litur dagstunda"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "Titill litur dagsins"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "Dagar án skilgreinds tíma verða faldir."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "Skreytingarlitur"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "Skreytingarlitur"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "Sjálfgefið"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "Sjálfgefið"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "Sjálfgefin stærð"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "Skilgreindu ramma radíus fyrir mismunandi hluta hönnunar."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "Eyða línu"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "Lækkandi"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "Hönnunarvalkostir"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "Skrifborð"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "Stillingar á skjáborði"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "Stærð skjáborðs"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "Slökktu á höfundarnafnstengli"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "Slökktu á sjálfgefnum spássíur"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "Slökktu á athugasemdatengli ritstjóra"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "Slökktu á töflu sem valin er"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "Slökktu á athugasemdartengli gesta"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "Slökktu á mynd"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "Slökktu á inn-/útflutningi"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "Slökktu á hlekk á sýndarmynd í bloggfærslu"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "Slökktu á athugasemdatenglum sem ekki eru ritstjórar"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "Slökktu á skilju"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "Sýndu vöru-, þjónustu- eða pakkatilboð í töflunni. Settu besta tilboðið, sýndu afsláttarverð og skrifaðu mikilvæga eiginleika til samanburðar."
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "Sýnir lista yfir færslur byggðar á síum. Til dæmis færslur eingöngu úr tilteknum flokki."
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "Sýnir blaðsíðulista yfir færslur á WordPress bloggsíðu."
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "Ekki nota flottölur, vinsamlegast."
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "Sækir…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "Slepptu Layout pakkanum hér"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "Búðu til og stjórnaðu viðburðadagatali auðveldlega með %1$sThe Event Calendar%2$s ókeypis viðbótinni."
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "Breyta sérstakri síðu"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "Breyttu eða uppfærðu myndina"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "Tölvupóstreitur"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "Virkja"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "Virkjaðu samanbrjótanlegt fótsporssvæði"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "Virkjaðu úrvalstöflu"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "Villa"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "Viðburðir"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "Rennur út vistaðar kökur eftir dögum."
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "Flytja út %s skipulag"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "Extra feitletrað (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "Extra feitletrað"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "Extra-létt"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "Valið"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "Tengill á mynd"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "Merki reits"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "Sía sérstaka síða lista"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "Síur"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "Föst bakgrunnsmynd"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "Föst mynd"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "Leturstærð"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "Leturstærðareining"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "Fótlitur"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "Fótkóði"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "Þvingað inn í rými"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "föstudag"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "Frá AitThemes:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "Frá AitThemes: %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "Frá WordPress.org:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "Frá WordPress.org: %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "Fullur Sticky haus"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "Full stærð"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "Breidd í fullri stærð"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "Full breidd"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "haus í fullri breidd"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "Stærð í fullri breidd"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "Almennur landamæraradíus"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "Almennt útlit"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "Almennir valkostir fyrir skjáborð."
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "Almennar stillingar"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "Google Analytics rakningarauðkenni."
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "Google leturgerð"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "Halli"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Stigagráða"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "Halli yfirlag"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "Halli undir mynd, gagnlegt fyrir .png myndir í bakgrunni."
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "HTML merki"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "Hálf skipulagssíða"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "Bakgrunnur fyrir haus"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "Litur haus"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "Yfirlit haus"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "Hausmynd"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "Staðsetning hausmyndar"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "Höfuðmynd endurtekin"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "Stærð hausmyndar"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "Uppsetning haus"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "Bakgrunnur fyrir haus"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "Kóði fyrir haus"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "Texti fyrir haus"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "Hæðarstillingar"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "Hæð eining"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "Falið á skjáborðinu"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "Falið í farsíma"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "Falinn titill í fullum klístruðum haus á skjáborðinu"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "Falinn titill í fullum klístruðum haus á farsíma"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "Fela titil vefsvæðis"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "Fela hnappinn með tengli"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "Fela afsláttarverð"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "Fela tóma daga"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "Fela aðeins á farsíma"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "Fela titil vefsvæðis"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "Fela titil vefsvæðis og tagline"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "Fela aðeins tagline"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "Lárétt offset"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "Táknlitur"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "Ef þetta er virkt birtast klístraðar færslur efst á skráðum færslum."
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "Mynd"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "Myndyfirlagslitur"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "Myndastaða"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "Mynd endurtekin"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "Myndastærð"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "Myndir"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "Flytja inn skipulag"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "Innflutnings- og útflutningsstillingarsíður verða óvirkar"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "Innflutningi lokið!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "Flytja inn skipulag úr skrá"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "Innflutningur á útlitspakka mun <strong>eyða öllu innihaldi þínu</strong> - öllum færslum, síðum, miðlum, merkjum og flokkum."
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "Í &quot;em&quot; einingu"
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "Upplýsingaslá"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "Hægt er að nota upplýsingastikuna til að birta tilkynningu um vafrakökur á vefsíðunni þinni. Það er birt öllum nýjum gestum sem koma á vefsíðuna þína. Þeir geta smellt á hnappinn til að fela hann. Upplýsingastikan er síðan falin í marga daga og stilltu hana á reitinn „Kökurrennur“."
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "Settu inn vefslóð fyrir hnappinn. Skildu eftir tómt til að fela hnappinn."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "Settu inn tölu sem er stærra en %1$s eða skildu eftir autt fyrir sjálfgefið gildi."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "Settu inn númer sem er stærra en %1$s."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "Settu inn tölu sem er minni en %1$s eða skildu eftir autt fyrir sjálfgefið gildi."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "Settu inn númer sem er minna en %1$s."
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "Setjið inn röð á eftir"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "Settu inn texta"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "Settu inn gilt númer, vinsamlegast."
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "Settu inn Google Analytics rakningarauðkennið þitt. Google Analytics rakningarkóði verður bætt við vefsíðuna þína."
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "Innfelldur skuggi"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "Settu upp nauðsynlegar viðbætur"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "Setur upp og virkjar viðbætur..."
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "Það er ekki Citadela Layout pakki"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "Undirtitill atriðis"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "Titill hlutar"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "Stórt"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "Stór stærð"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "Útlitsútflytjandi"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "Layout Exporter eiginleiki flytur út WordPress síður, færslur og alla Citadela valkosti og stillingar. Þú getur notað Layout Exporter til að búa til Citadela skipulag sem þú getur auðveldlega sett upp á aðra Citadela vefsíðu."
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "Layout Importer þarf að hafa PHP ZIP viðbótina uppsetta. Vinsamlegast settu það upp eða hafðu samband við hýsingaraðilann þinn."
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "Innflutnings-/útflutningsstillingar fyrir útlit"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "Skipulag"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "Innflutningur og útflutningur skipulags er óvirkur"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "Vinstri"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "Vinstri stillt lógó"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "Vinstri hlið"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "Bréfabil"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "Ljós"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "Ljós (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "Línuhæð"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "Litur línur"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "Tengill"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "Skipulag lista"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "Staðsetning"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "Staðsetningarlýsing"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "Staðsetningarheiti"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "Staðsetning:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "Leturstærð lógós"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "Merkimynd í sérsniðnum haus."
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "Hámarksbreidd lógómyndar"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "Merkirými hámarksbreidd"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "Aðal matseðill"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "Miðlungs"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "Miðstærð"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "Aðild"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "Litur valmyndarhnapps"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "Lágmarksgildi 1500px, látið vera autt fyrir ótakmarkaða breidd."
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "Lágmarkshæð"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "Farsíma"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "Farsímastillingar"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "Farsímastillingar"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "Farsímastærð"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "Brotpunktur fyrir farsímabreidd"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "Nútímalegt"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "Mánudagur"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "Færðu þig niður"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "Fara upp"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "Nafnareitur"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "Næst"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "Engin endurtekning"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "Engin landamæri"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "Engin endurtekning"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "Engar niðurstöður fundust."
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "Engar sérstakar síður fundust."
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "Enginn"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "Venjulegt (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "Athugið: venjulegur síðutitill verður falinn."
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "Fjöldi hluta"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "Allt í lagi"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "Úps! Sú síða finnst ekki."
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "Opna í nýjum glugga"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "Opnaðu tengil í nýjum flipa"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "Opnað fætur wigets svæði"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "Opnunartímar"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "Stillingar opnunartíma"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "Pöntunarvalkostir"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "Raða eftir"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "Upprunalegt"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "Yfirborðslitur"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "Yfirlagshalli"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "Ógegnsæi yfirborðs"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "PHP ZIP viðbót fannst ekki"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "Síðu litur"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "Vinsamlegast ekki loka þessum vafraglugga fyrr en Layout pakkinn hefur verið fluttur inn alveg."
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "Vinsamlegast skildu að Layout Exporter flytur ekki allt út frá WordPress, svo sem WooCommerce reikninga eða gögn frá öðrum viðbætur frá þriðja aðila. Það eru mörg önnur viðbætur í boði fyrir flutning."
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "Staða"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "Staða á heimasíðu"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "Upplýsingar um færslu"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "Færslur"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "Innlegg flakk"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "Stillingar fyrir færslur"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "Forskoðun birtist aðeins á Customizer skjánum."
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "Fyrri"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "Verðtafla"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "Verðtöfluröðun"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Radial halli"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "Handahófi"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "Lesa meira hlekkur"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Tilbúið til notkunar Citadela skipulag"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "Tilbúið til notkunar skipulag og kubba fyrir Citadela með mörgum sérstillingarmöguleikum"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "Nýlega virkjað þema er ekki samhæft við %s viðbót, þess vegna var viðbótin óvirkjuð."
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "Venjulegur"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "Fjarlægðu mynd"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "Endurtaktu"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "Endurtaktu lárétt"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "Endurtaktu lóðrétt"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "Skiptu um sjálfgefna merki reitsins."
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "Skiptu um mynd"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "Nauðsynleg viðbætur"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "Endurstilla"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "Móttækilegur Spacer"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "Móttækilegur texti"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "Móttækilegur valkostur notaður undir skjábreidd"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "Endurnýtanlegar blokkir"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "Endurnýtanlegar blokkir stillingar"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "Rétt"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "Hægri hlið"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "laugardag"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "Vista stillingar"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "Leita Special age"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "Leitarniðurstöður fyrir:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "Veldu Google leturgerð fyrir vefsíðuna þína"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "Veldu Útlit pakka"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "Veldu jöfnun"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "Veldu röðun á farsímahönnun"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "Veldu bakgrunnsgerð"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "Veldu litasamsetningar fyrir vefsíðuna þína"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "Veldu leturþyngd"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "Veldu mynd"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "Veldu skipulag"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "Veldu útlit fyrir vefsíðuhaus"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "Veldu skipulag fyrir vefsíðuna þína"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "Veldu stærð"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "Hálf feitletrað"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "Þjónusta"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "Þjónustumynd"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "Þjónustulýsingartexti"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "Þjónustuhaus"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "Stilltu bakgrunnsmynd"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "Stilltu sérsniðna mynd"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "Stilltu sérsniðna lógómynd"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "Stilltu hauslit sem bakgrunnsmynd"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "Stillir hvort græjur í síðufæti eru opnaðar eða lokaðar sjálfgefið í farsíma eftir hleðslu síðu. Gildir ef sambrjótanlegar græjur eru virkar."
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "Stillingar"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "Stillingar vistaðar"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "Stillingar fyrir aðalvalmynd í haus"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "Stillingar fyrir síðuhaus"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "Skuggastillingar"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "Skugga litur"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "Sýna alltaf"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "Sýna hnapp með tengli"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "Sýna flokka"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "Sýningardagsetning"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "Sýna lýsingu"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "Sýna afsláttarverð"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "Sýna valda mynd"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "Sýna haus yfir efni"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "Sýna táknmynd"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "Sýna mynd"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "Sýna mynd sem táknmynd"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "Sýna í valmynd"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "Sýna tengil til að stjórna endurnýtanlegum blokkum í stjórnunarvalmyndinni"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "Sýna staðsetningar"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "Sýna aðeins í farsíma"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "Sýndu opnunartíma á vefsíðunni þinni."
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "Sýna eða fela klasablokk eingöngu á farsímaskjástærð."
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "Sýna forskoðun á tilkynningastiku"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "Sýna gagnsæjan haus án frekari bakgrunnsstillinga."
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "Sýna vefsíðu"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "Einfalt"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "Einfalt skipulag"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "Einfaldar stillingar"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "Einfaldar stillingar gera þér kleift að sýna einfaldan texta og hnapp á tilkynningastikunni þinni. Hægt er að aðlaga liti með WordPress sérsniðnum."
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "Einfaldir textastílar"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "Einfaldari leturgerð fyrir bloggsíður"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "Einlitur"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "Ein litur yfirlag"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "Stærðir fyrir innihald, breið og fullbreiddar útlitsgerðir sem notaðar eru við hönnun."
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "Slepptu fjölda pósta frá upphafi"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "Lítil"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "Lítil stærð"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "Rými í kringum lógó"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "Rúm í kringum valmyndarhnappinn"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "Hæð bils inn"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Spacer stillingar"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "Bilstillingar"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Sérsíða"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Sérstakar síður"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Sérstakar síður"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "Sérstakur gámur sem er alltaf á fullri breidd ef það er engin hliðarstika eða súlur. Þú getur sett þar inn aðra kubba og stillt gámabakgrunn."
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "Sérsíða uppfærð."
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "Sérstakur síðalisti"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "Sérstakar síðulistaleiðsögn"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "Dreifingarradíus"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "Sticky haus á skjáborðinu"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "Sticky haus á farsíma"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "Stillingar fyrir klístur haus"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "Sticky færslur fyrst"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "Stíll"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "Undirtitill"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "Litur texta"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "sunnudag"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "Undirtitill töflu"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "Titill töflu"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "Merkilýsing"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "Merki nafn"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Tehre kom upp villa við niðurhal á skipulagi"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "Texti"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "Texta leturgerð"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "Textajöfnun"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "Litur texta"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "Textalitur í sérsniðnum haus."
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "Texti sýndur á upplýsingastikunni. Það getur innihaldið HTML snið eins og vefslóðir til að tengja við skilmála þína eða persónuverndarstefnu."
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "Texti sýndur á hnappinum á tilkynningastikunni. Skildu eftir tómt til að fela hnappinn."
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "Texti birtist á hnappinum. Ef enginn texti er tilgreindur verður X táknið notað til að loka upplýsingastikunni."
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "Texti tilkynningar"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Þakka þér fyrir að virkja Citadela Pro."
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "Ekki var hægt að virkja %s viðbótina. Það er ekki samhæft við núverandi virka þema."
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "Citadela útlitið krefst þessara viðbóta. Nauðsynleg viðbætur verða settar upp og virkjaðar sjálfkrafa. Ef þú hefur ekki aðgang að einni af viðbótunum gætu sumar síður verið ófullkomnar."
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "Ekki var hægt að flytja efnið inn."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "Ferlið getur tekið hvar sem er á milli 30 sekúndur og 30 mínútur eftir stærð útlitspakkans og tengingarhraða (aðallega vegna niðurhals kynningarmynda)."
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "Þema skipulag"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "Villa kom upp við að setja upp viðbætur"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "Þykkur landamæri"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "Þunnt"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "Þunnir rammar"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "Þessi stilling skilgreinir hvort nota eigi Citadela stíla okkar í %1$sThe Event Calendar%2$s viðbótinni eða nota stíl viðbótarinnar."
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "fimmtudag"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "Flísar"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "Flísar lárétt"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "Flísar Lóðrétt"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "Titill"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "Titill litur"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "Titlar leturgerð"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "Titlar Stíll"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "Til að breyta myndinni þarftu leyfi til að hlaða upp efni."
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "Efst"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "Efst"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "Efst til vinstri"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "Efst til hægri"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "Auðkenni rakningar"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "Rekja einkalíf"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "Gegnsætt haus"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "Þriðjudagur"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "þriðjudag"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "Kveiktu á virkni tilkynningastikunnar"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "Kveiktu á virkni athugasemdaviðbótar"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "Tegund"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "Sláðu inn til að leita..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "Leturfræði"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "Hladdu upp myndskrá eða veldu eina úr fjölmiðlasafninu þínu."
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "Upphlaðið ZIP skrá er ekki Citadela Layout pakki eða það er gamall ósamhæfður Layout pakki. Vinsamlegast hlaðið niður nýjasta pakkanum af AitThemes reikningnum þínum."
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "Hleður inn..."
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "Vefslóðir úr athugasemdatexta ritstjóra verða fjarlægðar. Sótt um notendahlutverk með færslugetu eins og Contributor og hærri."
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "Vefslóðir úr athugasemdatexta gesta verða fjarlægðar"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "Vefslóðir úr athugasemdatexta sem ekki er ritstjóri verða fjarlægðar. Sótt um notendahlutverk án þess að breyta færslugetu eins og áskrifandi."
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Notaðu Citadela stíl"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "Notaðu Infobar á vefsíðunni þinni"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "Notaðu sérsniðna haus"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "Notaðu sérsniðnar breiddarstillingar"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "Notaðu sjálfgefið leturgerð"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "Notaðu sjálfgefna leturþyngd"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "Notaðu móttækilega valkosti"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "Notaðu leturstærð frá þemahönnun."
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "Notaðu bókstafabil frá þemahönnun."
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "Notaðu línuhæð úr þemahönnun."
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "Lóðrétt offset"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "Skoða kynningu"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "Skoða skipulag"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "Sjá meira"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "Sýnileiki í farsíma"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "WP hnappablokk"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Við geymum tölvupóstinn þinn svo við getum átt samskipti við þig um vöru okkar og þjónustu. Fyrir frekari upplýsingar vinsamlega sjá <a href=\"#\">persónuverndarstefnu okkar</a> ."
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Við geymum nafnið þitt svo við getum átt samskipti við þig um vörur okkar og þjónustu. Fyrir frekari upplýsingar vinsamlega sjá <a href=\"#\">persónuverndarstefnu okkar</a> ."
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Við geymum vefslóðina þína svo við getum átt samskipti við þig um vöru okkar og þjónustu. Fyrir frekari upplýsingar vinsamlega sjá <a href=\"#\">persónuverndarstefnu okkar</a> ."
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "Við erum að flytja inn Layout pakkann..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Við höfum tekið eftir því að þú ert að keyra úrelta útgáfu af PHP sem er ekki lengur studd, þess vegna <em>var viðbótin óvirkjuð</em> . Gakktu úr skugga um að vefsíðan þín sé hröð og örugg með því <a href='%1$s'>að uppfæra PHP í nýjustu útgáfuna</a> . Lágmarkskrafa fyrir %2$s er <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Við höfum tekið eftir því að þú ert að keyra úrelta útgáfu af WordPress, þess vegna <em>var viðbótin óvirkjuð</em> . Gakktu úr skugga um að síðan þín sé örugg og uppfærð með því <a href='%1$s'>að uppfæra WordPress í nýjustu útgáfuna</a> . Lágmarkskrafa fyrir %2$s er <strong>WordPress 5.2</strong> ."
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "Vefslóð vefsvæðis"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "miðvikudag"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "Breiður"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "Breið stærð"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "Breidd stærð"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "Græjusvæði í síðufæti er hægt að opna eða loka á farsíma."
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "Breiddarstillingar"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "Með háþróuðum stillingum hefurðu fulla stjórn á HTML og stílum fyrir tilkynningastikuna þína."
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "Þú getur flutt inn hvaða Citadela útlit sem er tiltækt."
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Athugasemdir þínar hjálpa okkur að bæta vörur okkar og þjónustu svo við höldum áfram að skrá þær. Við notum athugasemdina einnig til framtíðarviðmiðunar. Fyrir frekari upplýsingar vinsamlega sjá <a href=\"#\">persónuverndarstefnu okkar</a> ."
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "Núverandi efni þínu verður eytt"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "ZIP skrár"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "hnappatexti"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "eða"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "lestu meiri texta"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "línutexti..."

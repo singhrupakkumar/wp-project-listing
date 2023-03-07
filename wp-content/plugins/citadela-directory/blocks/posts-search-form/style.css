@@ -1,0 +1,115 @@
+/*
+*	POSTS SEARCH FORM: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-posts-search-form														{ margin-bottom: 1.5em; position: relative; color: #000000; }
+.ctdl-posts-search-form.align-left .citadela-block-form,
+.ctdl-posts-search-form.align-left.layout-collapsed .search-form			{ text-align: left; }
+.ctdl-posts-search-form.align-center .citadela-block-form,
+.ctdl-posts-search-form.align-center.layout-collapsed .search-form 			{ text-align: center; }
+.ctdl-posts-search-form.align-right .citadela-block-form,
+.ctdl-posts-search-form.align-right.layout-collapsed .search-form 			{ text-align: right; }
+.ctdl-posts-search-form.align-left .search-form								{ justify-content: flex-start; }
+.ctdl-posts-search-form.align-center .search-form 							{ justify-content: center; }
+.ctdl-posts-search-form.align-right .search-form 							{ justify-content: flex-end; }
+
+.ctdl-posts-search-form.align-justify .citadela-block-form             		{ margin-left: auto; margin-right: auto; }
+.ctdl-posts-search-form.align-justify .search-form							{ display: flex; }
+.ctdl-posts-search-form.align-justify .data-type-2 							{ flex: 0 1 auto; }
+
+.ctdl-posts-search-form .search-form 		{ display: flex; flex-flow: wrap; font-size: 17px; line-height: 24px; margin-right: -3px; margin-left: -3px; }
+.ctdl-posts-search-form .data-type-1 		{ flex: 1 1 auto; display: inline-block; vertical-align: top; max-width: 100%; }
+.ctdl-posts-search-form .data-type-2 		{ flex: 1 1 auto; display: inline-block; vertical-align: top; max-width: 100%; display: flex; flex-flow: wrap; }
+.ctdl-posts-search-form .data-submit 		{ flex: 0 1 auto; display: inline-block; vertical-align: top; max-width: 100%; }
+.ctdl-posts-search-form .input-data			{ position: relative; }
+
+.ctdl-posts-search-form .input-container					{ display: inline-block; margin-right: 3px; margin-left: 3px; margin-bottom: 6px; vertical-align: top; max-width: calc(100% - 6px); }
+.ctdl-posts-search-form .input-container label				{ display: none; }
+.ctdl-posts-search-form .input-container.keyword			{ display: block; width: auto; }      	
+.ctdl-posts-search-form .input-container.category,
+.ctdl-posts-search-form .input-container.location			{ flex: 1 1 auto; width: 200px; }
+.ctdl-posts-search-form .input-container.sf-button			{ display: block; width: auto; }
+
+
+.ctdl-posts-search-form .input-container.keyword input[type="text"]								{ width: 100%; height: 46px; margin: 0px !important; padding: 2px 10px 2px 10px; box-sizing: border-box; border: 1px solid #cccccc; }
+.ctdl-posts-search-form .input-container.sf-button button										{ min-width: 150px; box-sizing: border-box; font-size: 16px; width: 100%; padding: 2px 16px 2px 16px; height: 46px; margin: 0px !important; cursor: pointer; }
+
+.ctdl-posts-search-form .input-container .directory-search-form-select__value-container 		{ padding: 0px 8px; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__placeholder				{ max-width: 100%; margin-left: 0; margin-right: 0; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; padding: 2px 10px; left: 0; top: 50%; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__indicator				{ cursor: pointer; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__loading-indicator   	{ display: none !important; }
+.ctdl-posts-search-form .input-container .css-w8afj7-Input										{ max-width: 140px; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__input > input			{ height: 36px; margin: 0px !important; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__input,
+.ctdl-posts-search-form .input-container .directory-search-form-select__input > input,
+.ctdl-posts-search-form .input-container .directory-search-form-select__input > div         	{ max-width: 100%; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__input > div				{ text-overflow: ellipsis; }
+
+.ctdl-posts-search-form .input-container input[type="text"],
+.ctdl-posts-search-form .input-container .directory-search-form-select__control,
+.ctdl-posts-search-form .input-container button														{ border-radius: 4px; }
+
+.ctdl-posts-search-form .input-container.keyword input[type="text"],
+.ctdl-posts-search-form .input-container .directory-search-form-select__control,
+.ctdl-posts-search-form .input-container.sf-button button											{ border: 1px solid #cccccc; box-shadow: none; outline: none; }
+
+.ctdl-posts-search-form .input-container.keyword input[type="text"]:focus,
+.ctdl-posts-search-form .input-container .directory-search-form-select__control--is-focused,
+.ctdl-posts-search-form .input-container.sf-button button:focus										{ border: 1px solid #cccccc; box-shadow: none; outline: none; }
+
+
+/* DROPDOWN MENU */
+
+.ctdl-posts-search-form .input-container .directory-search-form-select__menu						{ width: 180px; overflow: hidden; margin-top: 6px; margin-bottom: 6px; border-radius: 4px; border: 1px solid #cccccc; box-shadow: 0px 2px 15px rgba(0,0,0,0.1); }
+.ctdl-posts-search-form .input-container .directory-search-form-select__menu-list  			 		{ padding-top: 0px; padding-bottom: 0px; font-size: 14px; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__option						{ cursor: pointer; }
+.ctdl-posts-search-form .input-container .directory-search-form-select__option--is-focused      	{ box-shadow: none; outline: none; }
+
+
+/* GEOLOCATION */
+
+.ctdl-posts-search-form .input-container.geolocation label								{ display: block; position: absolute; top: 50%; left: 0; transform: translate(0, -50%); text-indent: -9999px; overflow: hidden; width: 46px; cursor: pointer; }
+.ctdl-posts-search-form .input-container.geolocation label:before						{ content: "\f05b"; opacity: 0.5; display: block; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-indent: 0px; font-family: 'Font Awesome 5 Free'; font-weight: 900; font-size: 19px; }
+.ctdl-posts-search-form .input-container.geolocation.input-enabled label:before     	{ opacity: 1; }
+
+.ctdl-posts-search-form .input-container.geolocation .geolocation-toggle 						{ height: 46px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px; }
+.ctdl-posts-search-form .input-container.geolocation.input-disabled .geolocation-toggle 		{ width: 46px; cursor: pointer; }
+
+.ctdl-posts-search-form .input-container.geolocation .geolocation-radius 										{ width: 250px; max-width: calc(100vw - 40px); max-width: -webkit-calc(100vw - 40px); display: none; position: absolute; z-index: 1000; background: #ffffff; padding: 15px; margin-top: 6px; border: 1px solid #cccccc; border-radius: 4px; box-shadow: 0px 2px 15px rgba(0,0,0,0.1); }
+.ctdl-posts-search-form .input-container.geolocation.input-enabled .radius-value 								{ line-height: 44px; margin: 0 15px 0 46px; }
+.ctdl-posts-search-form.radius-opened .input-container.geolocation .geolocation-toggle							{ width: 250px; max-width: calc(100vw - 40px); max-width: -webkit-calc(100vw - 40px); }
+.ctdl-posts-search-form .input-container.geolocation .geolocation-radius .buttons-wrapper						{ margin: 0px -5px; }
+.ctdl-posts-search-form .input-container.geolocation .geolocation-radius .buttons-wrapper a						{ display: inline-block; vertical-align: middle; margin: 0px 5px 6px 5px; cursor: pointer; text-decoration: none; }
+.ctdl-posts-search-form .input-container.geolocation .geolocation-radius .buttons-wrapper a:hover				{ text-decoration: underline; }
+.ctdl-posts-search-form .input-container.geolocation .geolocation-radius .buttons-wrapper .submit-radius    	{ padding: 2px 10px; background: #000000; color: #ffffff; border-radius: 3px; }
+
+.ctdl-posts-search-form.radius-opened .input-container.geolocation .geolocation-radius 			{ display: block; }
+.ctdl-posts-search-form .input-container.geolocation .geolocation-disable-button 				{ display: none; position: absolute; top: 0; right: 0; width: 16px; -moz-transform: translate(0%, -25%); -webkit-transform: translate(0%, -25%); -ms-transform: translate(0%, -25%); transform: translate(0%, -25%); text-align: center; cursor: pointer; }
+.ctdl-posts-search-form .input-container.geolocation .geolocation-disable-button:before 		{ font-family: 'Font Awesome 5 Free'; font-weight: 900; font-size: 13px; content: "\f00d"; line-height: 16px; }
+
+.ctdl-posts-search-form .input-container.geolocation.input-enabled .geolocation-toggle:hover ~ .geolocation-disable-button,
+.ctdl-posts-search-form .input-container.geolocation.input-enabled .geolocation-disable-button:hover 			{ display: block; }
+
+
+/* SEARCH FORM in MAPS */
+
+.ctdl-posts-map .ctdl-posts-search-form,
+.ctdl-automatic-posts-map .ctdl-posts-search-form														{ margin-left: 20px; margin-right: 20px; margin-top: 1.5em; }
+.ctdl-posts-map .ctdl-posts-search-form.align-justify .citadela-block-form,
+.ctdl-automatic-posts-map .ctdl-posts-search-form.align-justify .citadela-block-form  					{ max-width: 1200px; }
+
+
+.ctdl-posts-map > *,
+.ctdl-automatic-posts-map > *																{ position: relative; }
+.ctdl-posts-map:not(.outside-search-form) .ctdl-posts-search-form,
+.ctdl-automatic-posts-map:not(.outside-search-form) .ctdl-posts-search-form					{ position: absolute; bottom: 40px; left: 0; right: 0; margin: 0; padding: 0; margin: 0px 60px; }
+
+
+/* BACKGROUND settings */
+
+.ctdl-posts-search-form.has-background	.citadela-block-form									{ padding: 20px; }
+.ctdl-posts-search-form.has-background.layout-collapsed	.citadela-block-form					{ padding-bottom: 14px; }
+.ctdl-posts-search-form.has-background-collapsed.layout-collapsed .citadela-block-form      	{ padding: 20px 20px 14px 20px;}
+
+
+

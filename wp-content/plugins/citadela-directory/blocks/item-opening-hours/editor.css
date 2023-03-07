@@ -1,0 +1,11 @@
+/*
+*	ITEM OPENING HOURS: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-item-opening-hours .citadela-block-articles-wrap  { padding-top: 8px; }
+.ctdl-item-opening-hours .oh-day						{ margin-bottom: 6px; margin-right: -6px; }
+.ctdl-item-opening-hours .oh-day > div					{ margin: 0em 6px 0px 0px; height: 1em; }
+.ctdl-item-opening-hours .oh-day .oh-label  			{ width: 30%; background-color: rgba(200,200,200,0.8); }
+.ctdl-item-opening-hours .oh-day .oh-data 				{ width: 65%; background-color: rgba(200,200,200,0.5); }
+
+.ctdl-item-opening-hours .citadela-block-note span.line	{ width: 70% !important; margin-top: 0.5em; }

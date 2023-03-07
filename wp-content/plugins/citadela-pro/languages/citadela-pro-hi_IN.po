@@ -1,0 +1,2811 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hi\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "%s प्लगइन और PHP असंगति"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "%s प्लगइन और वर्डप्रेस असंगति"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "%s प्लगइन निष्क्रिय कर दिया गया है"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%s प्लगइन असंगति"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(आप उन्हें अपने AitThemes खाते से डाउनलोड कर सकते हैं)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% क्षैतिज"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% लंबवत"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "स्वीकार करना"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "ब्लॉक के बीच खाली जगह जोड़ें जो डेस्कटॉप और मोबाइल उपकरणों पर अलग-अलग दिखाई देंगी।"
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "अतिरिक्त पाठ"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "फ़ील्ड के साथ प्रदर्शित अतिरिक्त पाठ। इसमें आपकी शर्तों या गोपनीयता नीति से लिंक करने के लिए url जैसे HTML स्वरूपण शामिल हो सकते हैं।"
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "विकसित"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "एडवांस सेटिंग"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "ऐट थीम्स"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "पाठ केंद्र संरेखित करें"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "पाठ को बाएँ संरेखित करें"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "टेक्स्ट को दाएं संरेखित करें"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "लोगो अनुभाग को बाईं ओर संरेखित करें"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "सभी"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "सभी विशेष पृष्ठ"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "सभी ब्लॉक को %s प्लगइन में ले जाया गया।"
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "आपको अपनी वेबसाइट पर कंपनी सेवाओं को आसानी से जोड़ने की अनुमति देता है।"
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "आपको कस्टम सेटिंग्स और फ़ॉन्ट के साथ टेक्स्ट डालने की अनुमति देता है।"
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "आपको अपनी पसंद के किसी भी स्थान पर पृष्ठ शीर्षक डालने की अनुमति देता है। उदाहरण के लिए हेडर इमेज के बाद।"
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "घोषणाएँ बार"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "घोषणाएं बार"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "अनाउंसमेंट बार आपको किसी भी महत्वपूर्ण घोषणा को अपने सभी पेजों के शीर्ष पर प्रस्तुत करने की अनुमति देता है।"
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "घोषणा बार चयनित तिथि और समय के बाद प्रदर्शित होता है।"
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "घोषणा बार चयनित दिनांक और समय तक प्रदर्शित होता है।"
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "अपने वेबसाइट विज़िटर के आईपी पते को अनामित करें।"
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "दिखावट"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "आपकी वेबसाइट के लिए प्रकटन सेटिंग"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "साधारण प्रकार के अनाउंसमेंट बार के लिए आवेदन किया।"
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "आरोही"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "लेखक की जीवनी संबंधी जानकारी"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "लेखक का नाम"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "चयनित शैली की उपलब्धता शीर्षकों के लिए चयनित फ़ॉन्ट पर निर्भर करती है।"
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "उपलब्ध रेंज"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "पृष्ठभूमि छवि ओवरले"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "पृष्ठभूमि सेटिंग्स"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "पीछे का रंग"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "पृष्ठभूमि रंग प्रकार"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "पृष्ठभूमि ढाल"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "पृष्ठभूमि छवि"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "बैकग्राउंड इमेज रिपीट"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "पृष्ठभूमि छवि का आकार"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "पृष्ठभूमि की स्थिति"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "आपके वेबसाइट हेडर के लिए पृष्ठभूमि सेटिंग"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "बार पृष्ठभूमि रंग"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "काला"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "ब्लॉग पेज"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "वेबदैनिकी डाक"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "धुंधला त्रिज्या"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "साहसिक"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "बोल्ड (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "सीमा सेटिंग्स"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "सीमा रंग"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "सीमा त्रिज्या"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "सीमा त्रिज्या विकल्प"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "सीमा चौड़ाई"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "बॉर्डर का रंग"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "सीमाओं की चौड़ाई"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "नीचे"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "नीचे"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "तली छोड़ें"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "नीचे दाएं"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "बॉक्स लेआउट"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "बॉक्स की चौड़ाई"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "केवल बर्गर मेनू"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "बटन पृष्ठभूमि रंग"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "बटन यूआरएल"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "बटन पृष्ठभूमि"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "बटन लिंक"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "बटन सेटिंग्स"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "टेक्स्ट बटन"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "बटन सीमा त्रिज्या"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "हिंडोला ऑटोप्ले सक्षम"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "हिंडोला लूप मोड सक्षम"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "श्रेणी"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "वर्ग विवरण"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "श्रेणी शीर्षक"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "श्रेणी:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "केंद्र"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "केंद्र"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "HTML टैग बदलें"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "आइकॉन बदलें"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "चित्र को बदलें"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "डेस्कटॉप रिज़ॉल्यूशन के लिए छवि बदलें"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "मोबाइल रिज़ॉल्यूशन के लिए छवि बदलें"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "सिटाडेला - विशेष पृष्ठ"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "सिटाडेला ब्लॉक"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "सिटाडेला सामग्री सेटिंग्स"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "सिटाडेला हाफ लेआउट सेटिंग्स"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "सिटाडेला हैडर सेटिंग्स"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "सिटाडेला पोस्ट ब्लॉक"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "सिटाडेला प्रो"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "सिटाडेला सर्विस ब्लॉक इमेज का आकार"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "सिटाडेला विशेष पृष्ठ"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "क्लासिक"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "क्लासिक"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "साफ़"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "झुंड"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "क्लस्टर ब्लॉक"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "मेनू को बटन पर संक्षिप्त करें"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "बंधनेवाला पादलेख विजेट विकल्प"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "रंग सेटिंग्स"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "रंग की"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "टिप्पणी लेखक का नाम वेबसाइट क्षेत्र में डाले गए यूआरएल से लिंक नहीं होगा"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "टिप्पणी टेक्स्ट फ़ील्ड"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "कमेंट एक्सटेंशन का उपयोग वर्डप्रेस कमेंट फॉर्म में हर एक इनपुट में हेल्प टेक्स्ट जोड़ने के लिए किया जा सकता है।"
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "कमेंट एक्सटेंशन"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "टिप्पणियाँ लिंक सेटिंग्स"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "पुष्टि करें"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "शामिल होना"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "विषय"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "सामग्री का आकार"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "सामग्री आकार चौड़ाई"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "सामग्री की चौड़ाई"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "सामग्री चौड़ाई आकार"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "कुकीज़ की समाप्ति"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "ढकना"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "ढकना"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "कवर कॉलम ऊंचाई"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "वर्तमान ब्लॉक दृश्य"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "वर्तमान पृष्ठ शीर्षक"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "कस्टम हेडर सक्षम है। हो सकता है कि इस पृष्ठ के लिए निम्नलिखित विकल्पों का प्रभाव न हो।"
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "इस पेज के लिए कस्टम लोगो के साथ कस्टम हैडर सक्षम है। पूर्वावलोकन में लोगो छवि का परिवर्तन दिखाई नहीं दे सकता है।"
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "कस्टम पेज शीर्षक"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "कस्टम कोड"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "कस्टम छवि"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "कस्टम लोगो"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "कस्टम लोगो छवि"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "रंग अनुकूलित करें"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "मोबाइल स्क्रीन की चौड़ाई के लिए अनुकूलित विकल्प।"
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "दिनांक"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "तारीख का रंग"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "तारीख से"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "की तारीख"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "दिन घंटे रंग"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "दिन का शीर्षक रंग"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "निर्धारित समय के बिना दिन छुपाए जाएंगे।"
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "सजावट रंग"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "सजावट का रंग"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "चूक"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "चूक"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "डिफ़ॉल्ट आकार"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "डिजाइन के विभिन्न भागों के लिए सीमा त्रिज्या को परिभाषित करें।"
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "पंक्ति को हटाएं"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "अवरोही"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "डिजाइन विकल्प"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "डेस्कटॉप सेटिंग्स"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "डेस्कटॉप आकार"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "लेखक का नाम लिंक अक्षम करें"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "डिफ़ॉल्ट मार्जिन अक्षम करें"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "संपादक टिप्पणी लिंक अक्षम करें"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "विशेष रुप से प्रदर्शित तालिका अक्षम करें"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "अतिथि टिप्पणी लिंक अक्षम करें"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "छवि अक्षम करें"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "आयात/निर्यात अक्षम करें"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "ब्लॉग पोस्ट में चित्रित छवि के लिए लिंक अक्षम करें"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "गैर-संपादक टिप्पणी लिंक अक्षम करें"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "विभाजक अक्षम करें"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "तालिका में उत्पाद, सेवा या पैकेज ऑफ़र प्रदर्शित करें। सर्वोत्तम सौदा निर्धारित करें, रियायती मूल्य दिखाएं और तुलना के लिए महत्वपूर्ण विशेषताएं लिखें।"
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "फिल्टर के आधार पर पदों की सूची प्रदर्शित करता है। उदाहरण के लिए केवल विशिष्ट श्रेणी के पोस्ट।"
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "वर्डप्रेस ब्लॉग पेज पर पोस्ट की पेजिनेटेड सूची प्रदर्शित करता है।"
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "कृपया फ्लोट नंबरों का प्रयोग न करें।"
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "डाउनलोड हो रहा है…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "लेआउट पैकेज यहाँ छोड़ें"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "%1$s ईवेंट कैलेंडर%2$s मुफ़्त प्लग इन के साथ आसानी से ईवेंट कैलेंडर बनाएं और प्रबंधित करें।"
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "विशेष पृष्ठ संपादित करें"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "छवि संपादित करें या अपडेट करें"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "ईमेल फ़ील्ड"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "सक्षम करना"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "छोटा करने योग्य फ़ुटर विगेट्स क्षेत्र सक्षम करें"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "विशेष रुप से प्रदर्शित तालिका सक्षम करें"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "गलती"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "आयोजन"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "दिनों में सहेजी गई कुकीज़ की समाप्ति।"
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "निर्यात %s लेआउट"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "अतिरिक्त बोल्ड (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "अतिरिक्त बोल्ड"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "अतिरिक्त प्रकाश"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "विशेष रुप से प्रदर्शित"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "चुनिंदा छवि लिंक"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "फील्ड लेबल"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "फ़िल्टर विशेष पृष्ठ सूची"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "फिल्टर"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "निश्चित पृष्ठभूमि छवि"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "निश्चित छवि"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "फ़ॉन्ट आकार"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "फ़ॉन्ट आकार इकाई"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "पाद रंग"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "पाद कोड"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "अंतरिक्ष के अंदर जबरदस्ती"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "AitThemes से:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "ऐटथीम्स से: %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "WordPress.org से:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "WordPress.org से: %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "फुल स्टिकी हैडर"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "पूर्ण आकार"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "पूर्ण आकार की चौड़ाई"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "पूर्ण चौड़ाई"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "पूर्ण-चौड़ाई वाला हेडर"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "पूर्ण चौड़ाई का आकार"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "सामान्य सीमा त्रिज्या"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "सामान्य लेआउट"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "डेस्कटॉप के लिए सामान्य विकल्प।"
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "सामान्य सेटिंग्स"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "गूगल विश्लेषिकी"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "गूगल एनालिटिक्स ट्रैकिंग आईडी।"
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "गूगल फ़ॉन्ट"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "ढाल"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "ग्रेडिएंट डिग्री"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "ढाल ओवरले"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "छवि के नीचे ढाल, पृष्ठभूमि में .png छवियों के लिए उपयोगी।"
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "एचटीएमएल टैग"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "आधा लेआउट पेज"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "शीर्षक पृष्ठभूमि"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "हैडर रंग"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "हैडर कलर ओवरले"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "प्रवेशिका प्रतिमा"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "हैडर छवि स्थिति"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "हैडर इमेज रिपीट"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "हैडर छवि का आकार"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "हैडर लेआउट"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "शीर्षक पृष्ठभूमि"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "हैडर कोड"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "शीर्ष लेख पाठ"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "ऊंचाई सेटिंग्स"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "ऊंचाई इकाई"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "डेस्कटॉप पर छिपा हुआ"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "मोबाइल में छिपा हुआ"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "डेस्कटॉप पर पूरे स्टिकी हैडर में छिपा हुआ शीर्षक"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "मोबाइल पर पूरे स्टिकी हैडर में छिपा हुआ शीर्षक"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "साइट शीर्षक छुपाएं"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "लिंक के साथ छुपाएं बटन"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "छूट मूल्य छुपाएं"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "खाली दिन छुपाएं"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "केवल मोबाइल पर छुपाएं"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "साइट का शीर्षक छुपाएं"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "साइट का शीर्षक और टैगलाइन छुपाएं"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "केवल टैगलाइन छुपाएं"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "क्षैतिज ऑफसेट"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "चिह्न रंग"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "यदि सक्षम किया गया है, तो स्टिकी पोस्ट सूचीबद्ध पोस्ट के शीर्ष पर प्रदर्शित होंगे।"
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "छवि"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "छवि ओवरले रंग"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "छवि स्थिति"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "छवि दोहराना"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "छवि का आकार"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "इमेजिस"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "आयात लेआउट"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "आयात और निर्यात लेआउट सेटिंग पृष्ठ अक्षम कर दिए जाएंगे"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "आयात हो गया!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "फ़ाइल से लेआउट आयात करें"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "लेआउट पैकेज का आयात <strong>आपकी सभी सामग्री को हटा</strong> देगा - सभी पोस्ट, पेज, मीडिया, टैग और श्रेणियां।"
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "&quot;उन्हें&quot; इकाई में"
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "जानकारी बार"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "आपकी वेबसाइट पर कुकीज़ अधिसूचना प्रदर्शित करने के लिए इन्फोबार का उपयोग किया जा सकता है। यह आपकी वेबसाइट पर आने वाले सभी नए विज़िटर को प्रदर्शित किया जाता है। वे इसे छिपाने के लिए बटन पर क्लिक कर सकते हैं। फिर इन्फोबार को &quot;कुकी समाप्ति&quot; फ़ील्ड सेट करने के लिए दिनों की संख्या के लिए छुपाया जाता है।"
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "बटन के लिए URL डालें। बटन छिपाने के लिए खाली छोड़ दें।"
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "%1$s से बड़ी संख्या डालें, या डिफ़ॉल्ट मान के लिए खाली छोड़ दें।"
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "%1$s से बड़ी संख्या डालें।"
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "%1$s से छोटी संख्या डालें, या डिफ़ॉल्ट मान के लिए खाली छोड़ दें।"
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "%1$s से छोटी संख्या डालें।"
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "के बाद पंक्ति डालें"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "टेक्स्ट डालें"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "कृपया मान्य नंबर डालें।"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "अपनी Google Analytics ट्रैकिंग आईडी डालें। आपकी वेबसाइट में Google Analytics ट्रैकिंग कोड जोड़ दिया जाएगा।"
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "इनसेट शैडो"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "आवश्यक प्लगिन स्थापित करें"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "प्‍लग इन इंस्‍टॉल और सक्रिय कर रहा है…"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "यह सिटाडेला लेआउट पैकेज नहीं है"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "आइटम उपशीर्षक"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "मद शीर्षक"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "विशाल"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "बड़ा आकार"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "लेआउट निर्यातक"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "लेआउट एक्सपोर्टर फीचर वर्डप्रेस पेज, पोस्ट और सभी सिटाडेला विकल्पों और सेटिंग्स को निर्यात करता है। आप एक सिटाडेला लेआउट बनाने के लिए लेआउट एक्सपोर्टर का उपयोग कर सकते हैं जिसे आप आसानी से किसी अन्य सिटाडेला वेबसाइट पर स्थापित कर सकते हैं।"
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "लेआउट आयातक को PHP ज़िप एक्सटेंशन स्थापित करने की आवश्यकता है। कृपया इसे स्थापित करें या अपने होस्टिंग प्रदाता से संपर्क करें।"
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "लेआउट आयात/निर्यात सेटिंग्स"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "लेआउट"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "लेआउट आयात और निर्यात अक्षम है"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "बाएं"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "बायां संरेखित लोगो"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "बाईं तरफ"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "पत्र अंतराल"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "रोशनी"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "प्रकाश (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "ऊंची लाईन"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "रेखा रंग"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "संपर्क"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "सूची लेआउट"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "स्थान"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "स्थान विवरण"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "स्थान शीर्षक"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "स्थान:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "लोगो फ़ॉन्ट आकार"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "कस्टम हेडर में लोगो इमेज।"
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "लोगो छवि अधिकतम चौड़ाई"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "लोगो स्थान अधिकतम चौड़ाई"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "मुख्य मेन्यू"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "मध्यम"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "मध्यम आकार"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "सदस्यता"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "मेनू बटन रंग"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "न्यूनतम मान 1500px, असीमित चौड़ाई के लिए खाली छोड़ दें।"
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "न्यूनतम ऊंचाई"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "गतिमान"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "मोबाइल सेटिंग्स"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "मोबाइल सेटिंग"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "मोबाइल का आकार"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "मोबाइल चौड़ाई ब्रेकप्वाइंट"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "आधुनिक"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "सोमवार"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "नीचे की ओर"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "बढ़ाना"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "नाम क्षेत्र"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "अगला"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "कोई दोहराना नहीं"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "कोई सीमाएं नहीं"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "कोई दोहराव नहीं"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "कोई परिणाम नहीं मिला।"
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "कोई विशेष पृष्ठ नहीं मिला।"
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "कोई भी नहीं"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "सामान्य (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "नोट: मानक पृष्ठ शीर्षक छिपा दिया जाएगा।"
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "वस्तुओ की संख्या"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "ठीक है"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "उफ़! वह पृष्ठ नहीं मिल रहा है।"
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "नई विंडो में खोलें"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "नए टैब में लिंक खोलें"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "खुला फूटर विगेट क्षेत्र"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "खुलने का समय"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "खुलने का समय सेटिंग"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "आदेश विकल्प"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "द्वारा आदेश"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "मूल"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "ओवरले रंग"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "ओवरले ग्रेडिएंट"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "ओवरले अस्पष्टता"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "PHP ज़िप एक्सटेंशन नहीं मिला"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "पृष्ठ रंग"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "कृपया इस ब्राउज़र विंडो को तब तक बंद न करें जब तक कि लेआउट पैकेज पूरी तरह से आयात न हो जाए।"
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "कृपया समझें कि लेआउट एक्सपोर्टर वर्डप्रेस से सब कुछ निर्यात नहीं करता है, जैसे कि WooCommerce चालान या अन्य तृतीय पक्ष प्लगइन्स से डेटा। माइग्रेशन उद्देश्यों के लिए कई अन्य प्लगइन्स उपलब्ध हैं।"
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "स्थान"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "वेबसाइट पर स्थिति"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "पोस्ट विवरण"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "पदों"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "पोस्ट सेटिंग"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "पूर्वावलोकन केवल कस्टमाइज़र स्क्रीन में प्रदर्शित होता है।"
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "पिछला"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "मूल्य तालिका"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "मूल्य तालिका संरेखण"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "रेडियल ग्रेडिएंट"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "यादृच्छिक रूप से"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "और पढ़ें लिंक"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "सिटाडेला लेआउट का उपयोग करने के लिए तैयार"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "कई अनुकूलन विकल्पों के साथ सिटाडेला के लिए लेआउट और ब्लॉक का उपयोग करने के लिए तैयार"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "हाल ही में सक्रिय थीम %s प्लगइन के साथ संगत नहीं है, इसलिए प्लगइन निष्क्रिय कर दिया गया था।"
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "नियमित"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "छवि हटाएं"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "दोहराना"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "क्षैतिज रूप से दोहराएं"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "लंबवत दोहराएं"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "फ़ील्ड के डिफ़ॉल्ट लेबल को बदलें।"
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "छवि बदलें"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "आवश्यक प्लगइन्स"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "रीसेट"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "उत्तरदायी स्पेसर"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "उत्तरदायी पाठ"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "स्क्रीन की चौड़ाई के तहत लागू उत्तरदायी विकल्प"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "पुन: प्रयोज्य ब्लॉक"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "पुन: प्रयोज्य ब्लॉक सेटिंग्स"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "सही"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "दाईं ओर"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "समायोजन बचाओ"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "विशेष आयु खोजें"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "के लिए खोज परिणाम:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "अपनी वेबसाइट के लिए Google फ़ॉन्ट चुनें"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "लेआउट पैकेज चुनें"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "संरेखण का चयन करें"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "मोबाइल डिज़ाइन पर संरेखण का चयन करें"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "पृष्ठभूमि प्रकार चुनें"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "अपनी वेबसाइट के लिए रंग संयोजन चुनें"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "फ़ॉन्ट वजन चुनें"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "छवि चुने"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "लेआउट का चयन करें"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "वेबसाइट हेडर के लिए लेआउट चुनें"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "अपनी वेबसाइट के लिए लेआउट चुनें"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "चुनिंदा आकार"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "अर्ध-बोल्ड"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "सेवा"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "सेवा छवि"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "सेवा विवरण टेक्स्ट"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "सेवा शीर्षलेख"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "पृष्ठभूमि छवि सेट करें"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "कस्टम छवि सेट करें"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "कस्टम लोगो छवि सेट करें"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "हेडर का रंग बैकग्राउंड इमेज ओवरले के रूप में सेट करें"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "सेट करता है कि पृष्ठ लोड होने के बाद मोबाइल पर डिफ़ॉल्ट रूप से पाद लेख में विजेट खोले या बंद किए जाते हैं या नहीं। लागू होने वाले विजेट सक्षम होने पर लागू होते हैं।"
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "समायोजन"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "सेटिंग्स को सहेजा गया"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "शीर्षलेख में मुख्य मेनू के लिए सेटिंग्स"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "साइट हेडर के लिए सेटिंग्स"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "छाया सेटिंग्स"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "छाया रंग"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "हमेशा दिखाओ"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "लिंक के साथ शो बटन"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "श्रेणियां दिखाएं"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "तारीख दिखाएं"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "विवरण दिखाएं"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "छूट मूल्य दिखाएं"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "चुनिंदा छवि दिखाएं"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "सामग्री पर शीर्षलेख दिखाएं"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "आइकॉन दिखाओ"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "छवि दिखाएं"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "छवि को आइकन के रूप में दिखाएं"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "मेनू में दिखाएं"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "व्यवस्थापक मेनू में पुन: प्रयोज्य ब्लॉक प्रबंधित करने के लिए लिंक दिखाएं"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "स्थान दिखाएं"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "केवल मोबाइल पर दिखाएं"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "अपनी वेबसाइट पर खुलने का समय दिखाएं।"
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "केवल मोबाइल स्क्रीन आकार पर क्लस्टर ब्लॉक दिखाएँ या छिपाएँ।"
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "अनाउंसमेंट बार का पूर्वावलोकन दिखाएं"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "अतिरिक्त पृष्ठभूमि सेटिंग्स के बिना पारदर्शी शीर्षलेख दिखाएं।"
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "वेबसाइट दिखाएं"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "सरल"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "सरल लेआउट"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "सरल सेटिंग्स"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "सरल सेटिंग्स आपको अपने घोषणा बार में सरल टेक्स्ट और बटन दिखाने देती हैं। वर्डप्रेस कस्टमाइज़र के माध्यम से रंगों को अनुकूलित किया जा सकता है।"
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "सरल पाठ शैलियाँ"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "ब्लॉग पोस्ट पृष्ठों के लिए सरलीकृत टाइपोग्राफी शैलियाँ"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "एकल रंग"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "सिंगल कलर ओवरले"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "सामग्री के लिए आकार, डिज़ाइन में उपयोग किए जाने वाले चौड़े और पूर्ण-चौड़ाई वाले लेआउट प्रकार।"
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "प्रारंभ से पदों की संख्या छोड़ें"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "छोटा"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "छोटे आकार का"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "लोगो के आस-पास की जगह"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "मेनू बटन के आसपास की जगह"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "स्पेसर ऊंचाई"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "स्पेसर सेटिंग्स"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "रिक्ति सेटिंग्स"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "विशेष पृष्ठ"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "विशेष पृष्ठ"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "विशेष पृष्ठ"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "साइडबार या कॉलम न होने पर विशेष कंटेनर जो हमेशा पूरी चौड़ाई में होता है। आप वहां अन्य ब्लॉक डाल सकते हैं और कंटेनर पृष्ठभूमि सेट कर सकते हैं।"
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "विशेष पेज अपडेट किया गया।"
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "विशेष पृष्ठ सूची"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "विशेष पृष्ठ सूची नेविगेशन"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "फैलाव त्रिज्या"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "डेस्कटॉप पर स्टिकी हैडर"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "मोबाइल पर स्टिकी हैडर"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "स्टिकी हेडर सेटिंग्स"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "स्टिकी पोस्ट पहले"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "शैलियों"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "उपशीर्षक"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "उपशीर्षक रंग"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "रविवार"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "तालिका उपशीर्षक"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "तालिका शीर्षक"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "टैग विवरण"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "टैग नाम"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "लेआउट डाउनलोड करने में तेहर एक त्रुटि थी"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "मूलपाठ"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "पाठ फ़ॉन्ट"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "पाठ्य संरेखण"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "लिखावट का रंग"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "कस्टम हेडर में टेक्स्ट का रंग।"
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "सूचना पट्टी में प्रदर्शित पाठ। इसमें आपकी शर्तों या गोपनीयता नीति से लिंक करने के लिए URL जैसे HTML स्वरूपण शामिल हो सकते हैं।"
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "घोषणा बार में बटन पर प्रदर्शित टेक्स्ट। बटन छिपाने के लिए खाली छोड़ दें।"
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "बटन पर प्रदर्शित पाठ। यदि कोई टेक्स्ट निर्दिष्ट नहीं है, तो इन्फोबार को बंद करने के लिए X चिह्न का उपयोग किया जाएगा।"
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "घोषणा का पाठ"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "सिटाडेला प्रो को सक्रिय करने के लिए धन्यवाद।"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "%s प्लगइन सक्रिय नहीं किया जा सका। यह वर्तमान सक्रिय विषय के साथ संगत नहीं है।"
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "सिटाडेला लेआउट के लिए इन प्लगइन्स की आवश्यकता होती है। आवश्यक प्लगइन्स स्वचालित रूप से स्थापित और सक्रिय हो जाएंगे। यदि आपके पास प्लगइन्स में से किसी एक तक पहुंच नहीं है, तो कुछ पेज अपूर्ण हो सकते हैं।"
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "सामग्री आयात नहीं की जा सकी."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "लेआउट पैकेज के आकार और कनेक्शन की गति (मुख्य रूप से डेमो छवियों को डाउनलोड करने के कारण) के आधार पर प्रक्रिया 30 सेकंड से 30 मिनट के बीच कहीं भी ले सकती है।"
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "थीम लेआउट"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "प्लगइन्स स्थापित करने में एक त्रुटि हुई"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "मोटी सीमाएं"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "पतला"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "पतली सीमाएं"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "यह सेटिंग परिभाषित करती है कि %1$sThe Event Calendar%2$s प्लगइन में हमारी Citadela शैलियों का उपयोग करना है या प्लगइन की शैलियों का उपयोग करना है।"
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "गुरुवार"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "टाइल"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "क्षैतिज रूप से टाइल"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "लंबवत टाइल"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "शीर्षक"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "शीर्षक रंग"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "शीर्षक फ़ॉन्ट"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "शीर्षक शैली"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "छवि को संपादित करने के लिए, आपको मीडिया अपलोड करने की अनुमति चाहिए।"
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "ऊपर"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "ऊपर"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "बाएं से बाएं"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "दायां शीर्ष"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "ट्रैकिंग आईडी"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "ट्रैकिंग गोपनीयता"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "पारदर्शी हेडर"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "मंगलवार"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "अनाउंसमेंट बार की कार्यक्षमता चालू करें"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "टिप्पणियाँ एक्सटेंशन कार्यक्षमता चालू करें"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "टाइप"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "खोजने के लिए टाइप करें..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "टाइपोग्राफी"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "एक छवि फ़ाइल अपलोड करें या अपनी मीडिया लाइब्रेरी से किसी एक को चुनें।"
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "अपलोड की गई ज़िप फ़ाइल सिटाडेला लेआउट पैकेज नहीं है या यह पुराना असंगत लेआउट पैकेज है। कृपया अपने AitThemes खाते से नवीनतम पैकेज डाउनलोड करें।"
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "अपलोड हो रहा है…"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "संपादक टिप्पणी टेक्स्ट से यूआरएल हटा दिए जाएंगे। योगदानकर्ता और उच्चतर जैसी संपादन पोस्ट क्षमता वाली उपयोगकर्ता भूमिकाओं के लिए लागू।"
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "अतिथि टिप्पणी टेक्स्ट से यूआरएल हटा दिए जाएंगे"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "गैर-संपादक टिप्पणी टेक्स्ट से यूआरएल हटा दिए जाएंगे। सब्सक्राइबर जैसी पोस्ट क्षमता को संपादित किए बिना उपयोगकर्ता भूमिकाओं के लिए लागू।"
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "सिटाडेला शैलियों का प्रयोग करें"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "अपनी वेबसाइट पर इन्फोबार का प्रयोग करें"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "कस्टम हेडर का प्रयोग करें"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "कस्टम चौड़ाई सेटिंग का उपयोग करें"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "डिफ़ॉल्ट फ़ॉन्ट का प्रयोग करें"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "डिफ़ॉल्ट फ़ॉन्ट वजन का प्रयोग करें"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "प्रतिक्रियाशील विकल्पों का उपयोग करें"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "थीम डिज़ाइन से फ़ॉन्ट आकार का उपयोग करना।"
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "थीम डिज़ाइन से लेटर स्पेसिंग का उपयोग करना।"
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "थीम डिज़ाइन से लाइन की ऊँचाई का उपयोग करना।"
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "लंबवत ऑफसेट"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "डेमो देखें"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "लेआउट देखें"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "और देखें"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "मोबाइल पर दृश्यता"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "WP बटन ब्लॉक"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "हम आपका ईमेल रखते हैं ताकि हम अपने उत्पाद और सेवाओं के बारे में आपसे संवाद कर सकें। अधिक जानकारी के लिए कृपया <a href=\"#\">हमारी गोपनीयता नीति</a> देखें।"
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "हम आपका नाम रखते हैं ताकि हम आपके साथ अपने उत्पाद और सेवाओं के बारे में संवाद कर सकें। अधिक जानकारी के लिए कृपया <a href=\"#\">हमारी गोपनीयता नीति</a> देखें।"
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "हम आपकी वेबसाइट का URL रखते हैं ताकि हम अपने उत्पाद और सेवाओं के बारे में आपसे संवाद कर सकें। अधिक जानकारी के लिए कृपया <a href=\"#\">हमारी गोपनीयता नीति</a> देखें।"
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "हम लेआउट पैकेज आयात कर रहे हैं..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "हमने देखा है कि आप PHP का एक पुराना संस्करण चला रहे हैं जो अब समर्थित नहीं है, इसलिए <em>प्लगइन निष्क्रिय कर दिया गया था</em> । <a href='%1$s'>PHP को नवीनतम संस्करण में अपग्रेड</a> करके सुनिश्चित करें कि आपकी साइट तेज़ और सुरक्षित है। %2$s के लिए न्यूनतम आवश्यकता <strong>PHP 5.6.20</strong> है।"
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "हमने देखा है कि आप वर्डप्रेस का पुराना संस्करण चला रहे हैं, इसलिए <em>प्लगइन निष्क्रिय कर दिया गया था</em> । <a href='%1$s'>वर्डप्रेस को नवीनतम संस्करण में अपडेट</a> करके सुनिश्चित करें कि आपकी साइट सुरक्षित और अद्यतित है। %2$s के लिए न्यूनतम आवश्यकता <strong>वर्डप्रेस 5.2</strong> है।"
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "वेबसाइट URL फ़ील्ड"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "चौड़ा"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "चौड़ा आकार"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "चौड़े आकार की चौड़ाई"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "पाद लेख में विजेट क्षेत्र मोबाइल पर खोला या बंद किया जा सकता है।"
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "चौड़ाई सेटिंग्स"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "उन्नत सेटिंग्स के साथ आप अपने घोषणा बार के लिए एचटीएमएल और शैलियों पर पूर्ण नियंत्रण रखते हैं।"
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "आप किसी भी उपलब्ध सिटाडेला लेआउट को आयात कर सकते हैं।"
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "आपकी टिप्पणियों से हमें अपने उत्पादों और सेवाओं को बेहतर बनाने में मदद मिलती है इसलिए हम उन्हें रिकॉर्ड करते रहते हैं। हम भविष्य के संदर्भ के लिए भी टिप्पणी का उपयोग करते हैं। अधिक जानकारी के लिए कृपया <a href=\"#\">हमारी गोपनीयता नीति</a> देखें।"
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "आपकी वर्तमान सामग्री हटा दी जाएगी"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "ज़िप फ़ाइलें"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "टेक्स्ट बटन"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "या"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "और पाठ पढ़ें"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "पंक्ति पाठ..."

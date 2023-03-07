@@ -1,0 +1,69 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/item-extension",
+	"category": "citadela-directory-blocks",
+	"icon": "screenoptions",
+	"attributes": {
+		"layout": {
+		    "type": "string",
+		    "default": "list"
+		},
+		"align": {
+		    "type": "string",
+		    "default": "left"
+		},
+		"list_table_style": {
+		    "type": "boolean",
+		    "default": false
+		},
+		"label_width": {
+		    "type": "number"
+		},
+		"box_width": {
+		    "type": "number",
+		    "default": 200
+		},
+		"fix_box_width": {
+		    "type": "boolean",
+		    "default": false
+		},
+		"title": {
+		    "type": "string",
+		    "default": ""
+		},
+		"hide_empty": {
+		    "type": "boolean",
+		    "default": false
+		},
+		"hide_empty_checkbox": {
+		    "type": "boolean",
+		    "default": false
+		},
+		"show_data": {
+		    "type": "string",
+		    "default": "all"
+		},
+		"selected_inputs": {
+		    "type": "array",
+		    "default": []
+		},
+		"title_color": {
+		    "type": "string",
+		    "default": ""
+		},
+		"lines_color": {
+		    "type": "string",
+		    "default": ""
+		},
+		"labels_color": {
+		    "type": "string",
+		    "default": ""
+		},
+		"values_color": {
+		    "type": "string",
+		    "default": ""
+		}
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

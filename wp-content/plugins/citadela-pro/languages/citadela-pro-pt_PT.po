@@ -1,0 +1,2812 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "%s plugin e incompatibilidade PHP"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "%s plugin e incompatibilidade do WordPress"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "O plugin %s foi desactivado"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%s incompatibilidade de plugin"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(Pode descarregá-los a partir da sua conta AitThemes)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% horizontal"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% vertical"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "Aceitar"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "Adicionar espaço vazio entre blocos que terão um aspecto diferente no ambiente de trabalho e em dispositivos móveis."
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "Texto adicional"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "Texto adicional exibido com o campo. Pode conter formatação HTML, tais como urls para ligar aos seus termos ou política de privacidade."
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "Avançado"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "Configurações avançadas"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "Alinhar Centro de Texto"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "Alinhar texto à esquerda"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "Alinhar o texto à direita"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "Alinhar a secção do logótipo do lado esquerdo"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "Todos"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "Todas as Páginas Especiais"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "Todos os blocos foram movidos para %s plugin."
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "Permite-lhe adicionar facilmente serviços da empresa ao seu sítio web."
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "Permite-lhe inserir texto com definições e fontes personalizadas."
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "Permite-lhe colocar o título da página onde quiser. Por exemplo, depois da imagem de cabeçalho."
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "Barra de Anúncios"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "Barra de anúncios"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "A barra de anúncios permite-lhe apresentar quaisquer anúncios importantes no topo de todas as suas páginas."
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "A barra de anúncios é exibida após a data e hora seleccionadas."
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "A barra de anúncios é exibida até à data e hora seleccionadas."
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "Anonimizar o endereço IP dos visitantes do seu website."
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "Aparência"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "Configurações de aparência para o seu website"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "Aplicado para o tipo simples de barra de anúncios."
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "Informação biográfica do autor"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "Nome do autor"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "A disponibilidade do estilo seleccionado depende da fonte seleccionada para os títulos."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "Gama disponível"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "Sobreposição de imagem de fundo"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "Configurações de fundo"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "Tipo de cor de fundo"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "Gradiente de fundo"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "Imagem de fundo"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "Repetição da imagem de fundo"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "Tamanho da imagem de fundo"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "Posição de fundo"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "Configurações de fundo para o cabeçalho do seu website"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "Cor de fundo da barra"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "Preto"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "Página do Blog"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "Postagens no Blog"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "Raio de borrão"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "Ousado"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "Negrito (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "Definições de fronteira"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "Cor da fronteira"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "Raio de fronteira"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "Opções de raio de fronteira"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "Largura da fronteira"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "Cor da fronteira"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "Largura das fronteiras"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "Em baixo"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "Em baixo"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "Esquerda inferior"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "Em baixo à direita"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "Estrutura da caixa"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "Largura da caixa"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "Apenas menu de hambúrgueres"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "Botão Cor de fundo"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "Botão URL"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "Fundo dos botões"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "Ligação de botões"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "Configuração dos botões"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "Botões Raio de Fronteira"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Auto-play Carrossel activado"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "Modo de laço carrossel activado"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "Categorias"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "Categoria"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "Descrição da categoria"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "Título da categoria"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "Categoria:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "Centro"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "Centro"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "Alterar a etiqueta HTML"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "Alterar ícone"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "Mudar imagem"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "Mudar imagem para resolução da área de trabalho"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "Mudança de imagem para resolução móvel"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Citadela - Páginas Especiais"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Citadela Blocos"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Citadela Definições de conteúdo"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Citadela Meio Layout Configurações"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Citadela Configurações de Cabeçalho"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Blocos de Posts da Citadela"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Citadela Tamanho da imagem do bloco de serviço"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Páginas especiais da Citadela"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "Clássico"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "Clássico"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "Limpar"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "Cluster"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "Bloco de aglomeração"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "Menu comprimir para a tecla"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "Opções de widgets de rodapé rebatíveis"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "Definições de cor"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "Cores"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "O nome do autor do comentário não será ligado à url inserida no campo do Website"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "Comentar campo de texto"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "Comentários A extensão pode ser usada para adicionar texto de ajuda a cada entrada no formulário de Comentário do WordPress."
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "Extensão dos comentários"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "Definições de links de comentários"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "Confirme"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "Conter"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "Conteúdo"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "Tamanho do conteúdo"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "Largura do tamanho do conteúdo"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "Largura do conteúdo"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "Dimensões do conteúdo"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "Expiração dos biscoitos"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "Capa"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "Capa"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "Altura da coluna de cobertura"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "Vista de bloco actual"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "Título da página actual"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "O cabeçalho personalizado está activado. As opções seguintes podem não ter efeito para esta página."
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "O cabeçalho personalizado com logotipo personalizado está activado para esta página. A alteração da imagem do logótipo pode não ser visível em pré-visualização."
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "Título da página personalizada"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "Códigos personalizados"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "Imagem personalizada"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "Logótipo personalizado"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "Imagem de logotipo personalizada"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "Personalizar cores"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "Opções personalizadas para largura de ecrã móvel."
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "Data"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "Cor da data"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "Data de"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "Data para"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "Cor das horas do dia"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "Cor do título do dia"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "Os dias sem tempo definido serão escondidos."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "Cor da Decoração"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "Cor da decoração"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "Predefinição"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "Predefinição"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "Tamanho por defeito"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "Definir o raio de fronteira para diferentes partes do desenho."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "Eliminar fila"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "Descendente"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "Opções de desenho"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "Ambiente de trabalho"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "Definições do ambiente de trabalho"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "Tamanho da área de trabalho"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "Desactivar a ligação nome do autor"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "Desactivar margens por defeito"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "Desactivar ligações para comentários do editor"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "Desactivar tabela em destaque"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "Desactivar ligações para comentários de convidados"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "Desactivar imagem"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "Desactivar a importação/exportação"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "Desactivar link para imagem em destaque no post do blog"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "Desactivar ligações para comentários não editores"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "Desactivar o separador"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "Mostrar ofertas de produtos, serviços ou embalagens na mesa. Definir o melhor negócio, mostrar o preço com desconto e escrever características importantes para comparação."
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "Apresenta lista de postagens com base em filtros. Por exemplo, mensagens apenas de categoria específica."
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "Apresenta lista paginada de mensagens na página do WordPress Blog."
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "Não utilizar números de flutuação, por favor."
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "Descarregamento&#8230;"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "Pacote de layout de gota aqui"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "Criar e gerir facilmente um calendário de eventos com %1$sO Calendário de Eventos%2$s plugin gratuito."
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "Editar Página Especial"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "Editar ou actualizar a imagem"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "Campo de e-mail"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "Habilitar"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "Permitir área de perucas de rodapé dobráveis"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "Habilitar tabela em destaque"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "Erro"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "Eventos"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "Expiração dos cookies guardados em dias."
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "Layout %s de exportação"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "Negrito Extra (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "Extra-ouro"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "Luz extra-leve"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "Destaque"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "Ligação de imagem em destaque"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "Etiqueta de campo"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "Filtrar lista de páginas especiais"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "Filtros"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "Imagem de fundo fixa"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "Imagem fixa"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "Tamanho de letra"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "Unidade de tamanho de letra"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "Cor do rodapé"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "Código do rodapé"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "Forçado dentro do espaço"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "Sexta-feira"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "De AitThemes:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "De AitThemes: %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "A partir de WordPress.org:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "A partir de WordPress.org: %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "Cabeçalho de cola completo"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "Tamanho completo"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "Largura total"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "Largura total"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "Cabeçalho de largura total"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "Tamanho de largura total"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "Raio de Fronteira Geral"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "Layout Geral"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "Opções gerais para o ambiente de trabalho."
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "Definições gerais"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "ID de rastreio do Google Analytics."
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "Fonte do Google"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Grau de Gradiente"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "Sobreposição de gradiente"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "Gradiente sob imagem, útil para imagens .png em fundo."
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "etiqueta HTML"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "Meia página de layout"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "Antecedentes do cabeçalho"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "Cor do cabeçalho"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "Sobreposição da cor do cabeçalho"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "Imagem de cabeçalho"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "Posição da imagem do cabeçalho"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "Repetição da imagem do cabeçalho"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "Tamanho da imagem do cabeçalho"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "Layout do Cabeçalho"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "Fundo do cabeçalho"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "Código de cabeçalho"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "Texto do cabeçalho"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "Definições de Altura"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "Unidade de altura"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "Escondido no ambiente de trabalho"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "Escondido no telemóvel"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "Título oculto em cabeçalho pegajoso completo no ambiente de trabalho"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "Título oculto em cabeçalho pegajoso completo no telemóvel"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "Ocultar título do sítio"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "Esconder botão com link"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "Esconder preço com desconto"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "Ocultar dias vazios"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "Esconder apenas em telemóvel"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "Ocultar o título do sítio"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "Ocultar o título do sítio e o slogan"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "Ocultar apenas o lema"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "Deslocamento horizontal"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "Cor do ícone"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "Se activado, as mensagens adesivas serão afixadas no topo das mensagens listadas."
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "Imagem"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "Sobreposição de cor da imagem"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "Posição da imagem"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "Repetição de imagem"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "Tamanho da imagem"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "Imagens"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "Layout de importação"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "As páginas de configuração do layout de importação e exportação serão desactivadas"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "Importação feita!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "Importar o layout do ficheiro"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "Importação de Pacote de Layout irá <forte>apagar todo o seu conteúdo</strong> - todos os Posts, Páginas, Media, Tags e Categorias."
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "Em \"em\" unidade"
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "Infobar"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "O Infobar pode ser utilizado para exibir notificações de cookies no seu sítio web. É afixado a todos os novos visitantes que chegam ao seu sítio web. Eles podem clicar no botão para o esconder. O Infobar é então escondido durante o número de dias definido no campo \"Cookie expirado\"."
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "Inserir URL para botão. Deixar vazio para esconder o botão."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "Inserir número maior que %1$s, ou deixar em branco para o valor por defeito."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "Inserir número maior do que %1$s."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "Inserir número inferior a %1$s, ou deixar em branco para o valor por defeito."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "Inserir número inferior a %1$s."
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "Inserir fila após"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "Inserir texto"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "Inserir número válido, por favor."
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "Insira o seu ID do Google Analytics Tracking. O código de rastreio do Google Analytics será adicionado ao seu website."
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "Sombra interior"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "Instalar os plugins necessários"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "Instalação e activação de plugins&#8230;"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "Não é o pacote Citadela Layout"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "Item subtítulo"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "Título do artigo"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "Grande"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "Tamanho grande"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "Layout Exporter"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "A funcionalidade Layout Exporter exporta páginas WordPress, posts e todas as opções e configurações da Citadela. Pode usar o Layout Exporter para criar um layout Citadela que pode facilmente instalar noutro site Citadela."
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "O Layout Importador precisa de ter a extensão PHP ZIP instalada. Por favor, instale-a ou contacte o seu fornecedor de alojamento."
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "Configurações de importação/exportação de layouts"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "Paginações"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "A importação e exportação de layouts está desactivada"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "Esquerda"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "Logótipo alinhado à esquerda"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "Lado esquerdo"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "Espaçamento de letras"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "Luz"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "Luz (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "Altura da linha"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "Cor das linhas"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "Ligação"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "Esquema da lista"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "Localização"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "Descrição do local"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "Título do local"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "Localização:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "Tamanho de letra do logótipo"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "Imagem do logotipo no cabeçalho personalizado."
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "Largura máxima da imagem do logótipo"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "Espaço do logótipo largura máxima"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "Médio"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "Tamanho médio"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "Adesão"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "Cor do botão menu"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "Valor mínimo 1500px, deixar vazio para largura ilimitada."
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "Altura mínima"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "Móvel"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "Configurações móveis"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "Configurações móveis"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "Tamanho móvel"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "Ponto de quebra de largura móvel"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "Moderno"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "Segunda-feira"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "Descer"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "Subir"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "Campo de nome"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "Próximo"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "Sem repetição"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "Sem fronteiras"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "Sem repetição"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "Não foram encontrados resultados."
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "Não foram encontradas páginas especiais."
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "Nenhum"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "Normal (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "Nota: o título da página padrão será escondido."
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "Número de artigos"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "OK"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "Oops! Essa página não pode ser encontrada."
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "Abrir em nova janela"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "Abrir link em novo separador"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "Área aberta de perucas de rodapé"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "Horário de abertura"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "Configuração do horário de abertura"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "Opções de encomenda"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "Encomendar por"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "Original"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "Sobreposição de cor"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "Gradiente de sobreposição"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "Sobreposição de opacidade"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "Extensão PHP ZIP não encontrada"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "Cor da página"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "Por favor, não feche esta janela do navegador até que o pacote Layout seja completamente importado."
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "É favor compreender que o Layout Exportador não exporta tudo do WordPress, tais como facturas do WooCommerce ou dados de outros plugins de terceiros. Há muitos outros plugins disponíveis para fins de migração."
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "Posição"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "Posição no website"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "Detalhes do posto"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "Correios"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "Posts de navegação"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "Definições de posts"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "A pré-visualização é apresentada apenas no ecrã do Customizer."
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "Anterior"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "Tabela de preços"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "Alinhamento da tabela de preços"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Gradiente radial"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "Aleatório"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "Ler mais link"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Layouts de Citadela prontos a usar"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "Layouts e blocos prontos a usar para a Citadela com muitas opções de personalização"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "O tema recentemente activado não é compatível com o plugin %s, pelo que o plugin foi desactivado."
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "Regular"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "Remover imagem"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "Repita"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "Repetir horizontalmente"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "Repetir verticalmente"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "Substituir a etiqueta predefinida do campo."
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "Substituir imagem"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "Plugins requeridos"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "Reinicialização"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "Espaçador Responsivo"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "Texto de resposta"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "Opções reactivas aplicadas sob a largura do ecrã"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "Blocos reutilizáveis"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "Configurações de blocos reutilizáveis"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "Certo"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "Lado direito"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "Sábado"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "Guardar definições"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "Pesquisar Idades especiais"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "Resultados da pesquisa por:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "Seleccione Google Font para o seu website"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "Seleccione o pacote Layout"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "Seleccionar alinhamento"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "Seleccionar alinhamento no design móvel"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "Seleccione o tipo de fundo"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "Seleccione combinações de cores para o seu website"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "Seleccionar o peso da fonte"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "Seleccionar imagem"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "Seleccionar layout"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "Seleccionar layout para cabeçalho do website"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "Seleccione o layout do seu sítio web"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "Seleccionar tamanho"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "Semi-bold"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "Serviço"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "Imagem de serviço"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "Texto descritivo do serviço"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "Cabeçalho de serviço"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "Imagem de fundo do cenário"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "Definir imagem personalizada"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "Definir imagem de logotipo personalizada"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "Definir a cor do cabeçalho como sobreposição de imagem de fundo"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "Define se os widgets no rodapé são abertos ou fechados por defeito no telemóvel após o carregamento da página. Aplicável se os widgets dobráveis estiverem activados."
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "Definições"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "Definições guardadas"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "Definições para o menu principal no cabeçalho"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "Definições para o cabeçalho do site"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "Definições de Sombra"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "Cor da sombra"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "Mostrar sempre"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "Mostrar botão com link"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "Mostrar categorias"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "Mostrar data"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "Mostrar descrição"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "Mostrar preço com desconto"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "Mostrar imagem em destaque"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "Mostrar cabeçalho sobre o conteúdo"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "Mostrar ícone"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "Mostrar imagem"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "Mostrar imagem como ícone"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "Mostrar no menu"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "Mostrar link para gerir blocos reutilizáveis no menu admin"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "Mostrar locais"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "Mostrar apenas em telemóvel"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "Mostrar os horários de abertura no seu sítio web."
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "Mostrar ou ocultar Bloco de aglomerado apenas em tamanho de ecrã móvel."
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "Mostrar pré-visualização da Barra de Anúncios"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "Mostrar cabeçalho transparente sem configurações de fundo adicionais."
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "Mostrar website"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "Simples"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "Layout simples"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "Definições simples"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "Definições simples permitem-lhe mostrar texto simples e botão na sua barra de anúncios. As cores podem ser personalizadas através de um personalizador WordPress."
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "Estilos de texto simples"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "Estilos tipográficos simplificados para páginas de posts em blogs"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "Cor única"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "Sobreposição de cor única"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "Tamanhos para os tipos de layout de Conteúdo, Largo e Largura Total utilizados no design."
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "Saltar o número de mensagens desde o início"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "Pequeno"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "Tamanho pequeno"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "Espaço em torno do logótipo"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "Espaço em torno do botão de menu"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "Altura do espaçador em"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Configurações do espaçador"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "Configurações de espaçamento"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Página Especial"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Páginas Especiais"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Páginas Especiais"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "Contentor especial que está sempre em toda a largura se não houver barra lateral ou colunas. Pode inserir aí outros blocos e colocar o fundo do contentor."
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "Página especial actualizada."
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "Lista de páginas especiais"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "Navegação em listas de páginas especiais"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "Raio de propagação"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "Cabeçalho pegajoso no ambiente de trabalho"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "Cabeçalho pegajoso no telemóvel"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "Definições de cabeçalho pegajoso"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "Postes pegajosos primeiro"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "Estilos"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "Cor do subtítulo"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "Domingo"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "Subtítulo da tabela"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "Título da tabela"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "Descrição da etiqueta"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "Nome da etiqueta"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Tehre foi um erro no layout do descarregamento"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "Texto"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "Fonte do texto"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "Alinhamento do texto"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "Cor do texto"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "Cor do texto no cabeçalho personalizado."
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "Texto exibido no Infobar. Pode conter formatação HTML, tais como URLs para ligação aos seus termos ou política de privacidade."
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "Texto exibido no botão na barra de anúncios. Deixar vazio para esconder o botão."
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "Texto exibido no botão. Se nenhum texto for especificado, o sinal X será utilizado para fechar o Infobar."
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "Texto do anúncio"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Obrigado por activar o Citadela Pro."
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "O plugin %s não pôde ser activado. Não é compatível com o tema activo actual."
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "O Citadela Layout requer estes plugins. Os plugins necessários serão instalados e activados automaticamente. No caso de não ter acesso a um dos plugins, algumas páginas poderão estar incompletas."
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "O conteúdo não podia ser importado."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "O processo pode demorar entre 30 segundos a 30 minutos, dependendo do tamanho do pacote Layout e da velocidade de ligação (principalmente devido ao descarregamento de imagens de demonstração)."
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "Layout Temático"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "Houve um erro na instalação de plugins"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "Fronteiras espessas"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "Fino"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "Fronteiras finas"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "Este cenário define se usar os nossos estilos de Citadela em %1$sO Calendário de Eventos%2$s plugin ou usar os estilos do plugin."
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "Telha"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "Tile Horizontally"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "Telha Verticalmente"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "Título"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "Cor do título"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "Títulos Tipo de letra"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "Estilo dos Títulos"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "Para editar a imagem, é necessária autorização para carregar meios de comunicação."
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "Início"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "Início"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "Superior esquerdo"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "Superior direita"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "Identificação de rastreio"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "Seguimento da privacidade"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "Cabeçalho transparente"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "Terça-feira"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "Ligar a funcionalidade da barra de anúncios"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "Ligar funcionalidade de extensão de comentários"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "Tipo"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "Tipo para pesquisa..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "Tipografia"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "Carregue um ficheiro de imagem ou escolha um da sua biblioteca multimédia."
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "O ficheiro ZIP carregado não é um pacote Citadela Layout ou é um antigo pacote Layout incompatível. Por favor descarregue o pacote mais recente da sua conta AitThemes."
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "Uploading&#8230;"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "O texto de comentários do editor será removido. Aplicado para funções de utilizador com capacidade de editar post como Contribuinte e superior."
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "Urls do texto de comentários de convidados será removido"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "O texto de comentários de não editores será removido. Aplicado a funções de utilizador sem capacidade de editar post como Assinante."
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Usar estilos Citadela"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "Use Infobar no seu website"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "Usar cabeçalho personalizado"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "Utilizar configurações personalizadas de largura"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "Usar a fonte por defeito"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "Usar o peso padrão da fonte"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "Utilizar opções reactivas"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "Usando o tamanho da letra do desenho do tema."
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "Usando o espaçamento entre letras a partir do desenho do tema."
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "Usando a altura da linha a partir do desenho do tema."
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "Offset vertical"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "Ver demonstração"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "Ver layouts"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "Ver mais"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "Visibilidade em mobilidade"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "Bloco de Botões WP"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Guardamos o seu e-mail para que possamos comunicar consigo sobre o nosso produto e serviços. Para mais detalhes, consulte por favor <a href=\"#\">nossa política de privacidade</a>."
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Mantemos o seu nome para podermos comunicar consigo sobre o nosso produto e serviços. Para mais pormenores, consulte por favor <a href=\"#\">nossa política de privacidade</a>."
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Mantemos o URL do seu website para que possamos comunicar consigo sobre o nosso produto e serviços. Para mais detalhes, consulte por favor <a href=\"#\">nossa política de privacidade</a>."
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "Estamos a importar o pacote Layout..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Notamos que está a correr uma versão desactualizada do PHP que já não é suportada, portanto <em>o plugin foi desactivado</em>. Certifique-se de que o seu site é rápido e seguro, por <a href='%1$s'>acrescentar o PHP para a versão mais recente</a>. A exigência mínima para %2$s é <forte>PHP 5.6.20</strong>."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Notámos que está a correr uma versão desactualizada do WordPress, portanto <em>o plugin foi desactivado</em>. Certifique-se de que o seu site está seguro e actualizado, por <a href='%1$s'>actualizando o WordPress para a versão mais recente</a>. A exigência mínima para %2$s é <forte>WordPress 5.2</strong>."
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "Campo URL do sítio web"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "Wide"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "Tamanho largo"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "Largura grande"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "A área de Widgets no rodapé pode ser aberta ou fechada em telemóvel."
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "Definições de largura"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "Com configurações avançadas, tem controlo total sobre html e estilos para a sua barra de anúncios."
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "Pode importar qualquer um dos layouts da Citadela disponíveis."
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Os seus comentários ajudam-nos a melhorar os nossos produtos e serviços, pelo que continuamos a registá-los. Utilizamos o comentário também para referência futura. Para mais pormenores, por favor ver <a href=\"#\">nossa política de privacidade</a>."
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "O seu conteúdo actual será eliminado"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "Ficheiros ZIP"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "texto do botão"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "ou"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "ler mais texto"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "texto em linha..."

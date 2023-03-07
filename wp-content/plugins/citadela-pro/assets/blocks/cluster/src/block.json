@@ -1,0 +1,167 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-blocks/custom-container",
+	"category": "citadela-blocks",
+	"icon": "welcome-add-page",
+	"attributes": {
+		"backgroundColor": {
+			"type": "string"
+		},
+		"backgroundImageFixed": {
+			"type": "boolean",
+			"default": false
+		},
+		"sectionsSize": {
+			"type": "string",
+			"default": "content"
+		},
+		"focalPoint": {
+			"type": "object",
+			"default": {
+				"x": 0.5, 
+				"y": 0.5
+			}
+		},
+		"backgroundType": {
+			"type": "string",
+			"default": "none"
+		},
+		"backgroundImage": {
+			"type": "object"
+		},
+		"backgroundOverlayType": {
+			"type": "string",
+			"default": "color"
+		},
+		"backgroundOverlayColor": {
+			"type": "string"
+		},
+		"backgroundOverlayOpacity": {
+			"type": "number",
+			"default": 50
+		},
+		"backgroundOverlayGradient": {
+			"type": "object",
+			"default": {
+				"first": "#dddddd",
+				"second": "#f6f6f6",
+				"degree": 90,
+				"type": "linear"
+			}
+		},
+		"backgroundImageSize": {
+			"type": "string",
+			"default": "cover"
+		},
+		"backgroundImageRepeat": {
+			"type": "string",
+			"default": "no-repeat"
+		},
+		"backgroundGradient": {
+			"type": "object",
+			"default": {
+				"first": "#dddddd",
+				"second": "#f6f6f6",
+				"degree": 90,
+				"type": "linear"
+			}
+		},
+		"borderWidth": {
+			"type": "number",
+			"default": 0
+		},
+		"borderColor": {
+			"type": "string"
+		},
+		"borderRadius": {
+			"type": "number",
+			"default": 0
+		},
+		"boxShadow": {
+			"type": "object"
+		},
+		"mobileVisibility": {
+			"type": "string",
+			"default": "always"			
+		},
+		"heightUnit": {
+			"type": "string",
+			"default": "px"
+		},
+		"heightValue": {
+			"type": "number"
+		},
+		"heightDisableOnMobile": {
+			"type": "boolean",
+			"default": false
+		},
+		"verticalAlignment": {
+			"type": "string",
+			"default": "top"
+		},
+		"useBackgroundImageGradient": {
+			"type": "boolean",
+			"default": false
+		},
+		"backgroundImageColorType": {
+			"type": "string",
+			"default": "color"
+		},
+		"insideSpace": {
+			"type": "string",
+			"default": "none"
+		},
+
+		"useResponsiveOptions": {
+			"type": "boolean",
+			"default": false
+		},
+		"backgroundImageFixedMobile": {
+			"type": "boolean"
+		},
+		"focalPointMobile": {
+			"type": "object"
+		},
+		"backgroundImageMobile": {
+			"type": "object"
+		},
+		"disableBackgroundImageMobile": {
+			"type": "boolean",
+			"default": false
+		},
+		"backgroundImageSizeMobile": {
+			"type": "string"
+		},
+		"breakpointMobile": {
+			"type": "number",
+			"default": 600
+		},
+		"useCustomWidth": {
+			"type": "boolean"
+		},
+		"widthContent": {
+			"type": "number",
+			"default": 768
+		},
+		"widthWide": {
+			"type": "number",
+			"default": 1200
+		},
+		"widthFull": {
+			"type": "number",
+			"default": 1920
+		},
+		"inColumn": {
+			"type": "boolean",
+			"default": false
+		},
+		"coverHeight": {
+			"type": "boolean",
+			"default": false
+		},
+		"zIndex": {
+			"type": "string"
+		}
+	},
+	"editorScript": "citadela-cluster-block"
+}

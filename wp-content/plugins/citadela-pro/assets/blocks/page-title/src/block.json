@@ -1,0 +1,89 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-blocks/page-title",
+	"category": "citadela-blocks",
+	"icon": "editor-insertmore",
+	"attributes": {
+		"align": {
+			"type": "string",
+			"default": "left"
+		},
+		"alignMobile": {
+			"type": "string"
+		},
+
+		"subtitle": {
+			"type": "string"
+		},
+
+		
+		"fontSizeUnit": {
+			"type": "string",
+			"default": "px"
+		},
+		"fontSizeUnitMobile": {
+			"type": "string",
+			"default": "px"
+		},
+		
+		
+		"fontSize": {
+			"type": "number"
+		},
+		"fontSizeMobile": {
+			"type": "number"
+		},
+		
+		
+		"lineHeight": {
+			"type": "number"
+		},
+		
+		"lineHeightMobile": {
+			"type": "number"
+		},
+		
+		
+		"letterSpacing": {
+			"type": "number"
+		},
+		
+
+		"useResponsiveOptions": {
+			"type": "boolean",
+			"default": false
+		},
+		"breakpointMobile": {
+			"type": "number",
+			"default": 600
+		},
+		"googleFont": {
+			"type": "object",
+			"default": {
+				"family": "",
+				"variants": [],
+				"subsets": []
+			}
+		},
+
+		"titleColor": {
+			"type": "string",
+			"default": ""
+		},
+		"subtitleColor": {
+			"type": "string",
+			"default": ""
+		},
+
+		"hideSeparator": {
+			"type": "boolean",
+			"default": false
+		},
+
+		"fontWeight": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"editorScript": "citadela-page-title-block"
+}

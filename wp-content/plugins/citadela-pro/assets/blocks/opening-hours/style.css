@@ -1,0 +1,45 @@
+/*
+*	OPENING HOURS: Citadela Block editor and frontend css
+*/
+
+.citadela-block-opening-hours							{ margin: 1.5em 0; }
+.citadela-block-opening-hours .oh-day > div 			{ box-sizing: border-box; }
+.citadela-block-opening-hours .oh-day p 				{ margin: 0; }
+
+.citadela-block-opening-hours.align-center .oh-label 	{ text-align: center; }
+.citadela-block-opening-hours.align-center .oh-data		{ text-align: center; }
+.citadela-block-opening-hours.align-right .oh-data		{ text-align: right; }
+
+/*** Layout List ***/
+
+.citadela-block-opening-hours.layout-list .oh-day 						{ padding: 8px 0px 8px 0px; border-top: 1px solid #cccccc; position: relative; }
+.citadela-block-opening-hours.layout-list .oh-day:last-child			{ border-bottom: 1px solid #cccccc; }
+
+@media all and (min-width: 400px)
+{
+	.citadela-block-opening-hours.layout-list .oh-day 					{ display: flex; flex-flow: row wrap; padding: 8px 0px 8px 0px; }
+	.citadela-block-opening-hours.layout-list .oh-day .oh-label     	{ flex: 1 1 auto; width: 30%; min-width: 110px; align-self: center;  }
+	.citadela-block-opening-hours.layout-list .oh-day .oh-data  		{ flex: 1 1 auto; width: 70%; }
+
+    .citadela-block-opening-hours.layout-list.align-left .oh-label		{ padding-right: 20px; }
+    .citadela-block-opening-hours.layout-list.align-left .oh-data		{  }
+	.citadela-block-opening-hours.layout-list.align-center .oh-label 	{ text-align: right; padding-right: 20px; width: 50%; }
+	.citadela-block-opening-hours.layout-list.align-center .oh-data		{ text-align: left; padding-left: 20px; width: 50%; }
+	.citadela-block-opening-hours.layout-list.align-right .oh-label		{ padding-right: 20px; } 
+	.citadela-block-opening-hours.layout-list.align-right .oh-data 		{ text-align: right; }	
+}
+
+@media all and (min-width: 600px)
+{
+	.wp-block-column .citadela-block-opening-hours.layout-list .oh-day 							{ display: block; }
+	.wp-block-column .citadela-block-opening-hours.layout-list .oh-day .oh-label 				{ width: 100%; padding: 0; }
+	.wp-block-column .citadela-block-opening-hours.layout-list .oh-day .oh-data 				{ width: 100%; padding: 0; }
+	.wp-block-column .citadela-block-opening-hours.layout-list.align-center .oh-day .oh-label 	{ text-align: center; }
+	.wp-block-column .citadela-block-opening-hours.layout-list.align-center .oh-day .oh-data    { text-align: center; }
+}
+
+
+/*** Layout Box ***/
+
+.citadela-block-opening-hours.layout-box			{ display: flex; margin-left: -8px; margin-right: -8px; flex-flow: row wrap; }
+.citadela-block-opening-hours.layout-box .oh-day 	{ flex: 1 1 200px; border: 1px solid #ccc; margin: 8px; padding: 10px 20px; box-sizing: border-box; }

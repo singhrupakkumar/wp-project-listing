@@ -1,0 +1,685 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: nb\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s tenkte på «%2$s»"
+msgstr[1] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s tema og AIT-plugin-inkompatibilitet"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s-tema og PHP-inkompatibilitet"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s tema og WordPress-versjon inkompatibilitet"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404-siders widget-område"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API-nøkkel"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Legg til flere klasser atskilt med mellomrom."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Legger til Gutenberg-blokker og funksjoner som kart, GPX, blogginnlegg på kart eller abonnementer."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Admin → Citadela-oppføring → Aktivering av plugin"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Administrator → Citadela-tema"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Admin → Innstillinger → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Utseende"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Utseendeinnstillinger for nettstedet ditt"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Arkiver widgets område"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Forfatterarkiv:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Bloggsidewidgets-området"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Kategoriarkiv:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela aktivert"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Citadela Dashboard"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Citadela-oppsett"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Citadela-oppføring"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Citadela-sideinnstillinger"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Innstillinger for Citadela Post"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Citadela Pro-plugin installert."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Citadela-tema"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Citadela-dokumentasjonen inkluderer alt du trenger for å forstå hvordan tema- og premium-plugins fungerer. Den er skrevet for at du og andre brukere skal bli kjent med temaet vårt så raskt som mulig. Dokumentasjonen oppdateres daglig. Inkluderer beskrivelse av nye funksjoner og vanlige spørsmål fra vår støtte."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela er et gratis flerbruks WordPress-tema laget av AitThemes. Du kan bruke den uten restriksjoner på ditt kommersielle eller ikke-kommersielle nettsted."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela er et gratis flerbruks WordPress-tema. Du kan bruke den uten restriksjoner på ditt kommersielle eller ikke-kommersielle nettsted. Våre premium plugins kan imidlertid flytte nettstedet ditt til et helt nytt nivå!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Kommenter <span class=\"screen-reader-text\">%s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "Kommentarer <span class=\"screen-reader-text\">til %s</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Kommentarer <span class=\"screen-reader-text\">til %s</span>"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "Laget med Citadela WordPress Theme av AitThemes"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Egendefinert CSS-klasse"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Kundeservice"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Tilpass farger, fonter og layout. Legger til skreddersydde blokker for Gutenberg WordPress-editor."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Datoarkiv:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "Domene"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Last ned layouter"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Rediger <span class=\"screen-reader-text\">%s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato-kjøpskode"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Feil ved installasjon av plugin"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Feil ved installasjon"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Utløpt medlemskap"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Utforsk Citadela-oppsett"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Rask, lett og brukervennlig flerbrukstema. Utviklet for Blocks og Gutenberg sidebygger. Best for bedrifter, personlige nettsider og blogger."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Bunntekst"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "Bunntekstmeny"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Bunntekst widgets område"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Side i full bredde"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Overskriftsoppsett"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Nyttig dokumentasjon"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Skjul sidetitteldelen"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "Skjul nettstedtittel og slagord"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "Skjul nettstedtittel og slagord på skrivebordet"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Skjul nettstedtittel og slagord på mobil"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Skjul bare slagord"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Hjem widgets område"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Installer Citadela Plugins"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Installer Citadela-plugins"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Installert"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Installerer..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Ugyldig API-nøkkel for dette domenet"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Ugyldig kjøpskode for dette domenet"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ut til at ingenting ble funnet på dette stedet. Kanskje prøve en av linkene nedenfor eller et søk?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ut til at vi ikke finner det du leter etter. Kanskje søk kan hjelpe."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Layoutpakke"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Lære mer"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Venstre sidefeltside"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "plassering"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO Kjøpskode"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Hovedmeny"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Neste"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Ingen"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "En tanke om «%1$s»"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Den siden kan ikke bli funnet."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Pages widgets område"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "Sider:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Tillatelse avslått."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Skriv inn en gyldig API-nøkkel for dette domenet. Du kan konfigurere den i %s."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Vennligst skriv inn en gyldig kjøpskode for dette domenet. Du kan konfigurere den i %s."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Prøv å sjekke produktaktiveringen senere her:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Plugg inn"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "Postet i"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "postet på"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Innlegg widgets område"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Premium Citadela-plugins installert."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Premium funksjon"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Premium-plugin"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Tidligere"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Pro-funksjoner"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Kjøpskode"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "Kjøpskode %1$s er allerede brukt på &quot;%2$s&quot;. Hvis du vil bruke den på denne nettsiden, kan du %3$savregistrere den her%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "Kjøpskoden er allerede brukt"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Klar til bruk Citadela-oppsett"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Klar til bruk, installer Citadela-oppsett med ett klikk for å starte din nye nettside på få minutter."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Fjern plass under overskriften"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Høyre sidefeltside"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Lagre"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Søkeresultater for:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Søkeresultat-widgets-området"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "Innstillinger for sidehode"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Hopp til innholdet"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men ingenting samsvarte med søkeordene dine. Prøv igjen med noen andre søkeord."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Begynn å lese"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Tag-arkiver:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Tagget"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Takk for at du installerte Citadela Theme av AitThemes"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Takk for at du bruker premium Citadela-plugins. Som betalende AitThemes-kunde har du tilgang til vårt støtteforum og dokumentasjon."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "API-nøkkelen for localhost er ikke nødvendig."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Temalig kjøpskode"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Det oppsto en feil under installasjon av plugin."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Denne nettsiden kjører en prøveversjon av Citadela-produkter. Vennligst kjøp et medlemskap for å aktivere nettstedet. %1$sSe tilgjengelige medlemskap%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Opplært støtteteam vil hjelpe deg å begynne å jobbe med nettstedet ditt raskt. Vårt mål er å lære deg hvordan du bruker produktene våre effektivt og på riktig måte. Støttesystemet er fullstendig konfidensielt og lukket, du kan stille alle spørsmål angående temaet vårt du liker. Vær oppmerksom på at vi ikke gjør noen tilpasninger. Det er mange stedsdesignere som gjerne hjelper deg med dine tilpassede ideer."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Besøk Support"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Vi kan ikke bekrefte API-nøkkelen din akkurat nå."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "Vi kan ikke bekrefte kjøpskoden din akkurat nå."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "Vi har også laget premiumversjoner av Citadela som vil flytte nettstedet ditt til et helt nytt nivå."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Vi har lagt merke til at du kjører Citadela-inkompatible AIT-plugins (%s), så vi deaktiverte dem."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Vi har lagt merke til at du kjører en utdatert versjon av PHP som ikke lenger støttes. Sørg for at nettstedet ditt er raskt og sikkert ved <a href='%1$s'>å oppgradere PHP til den nyeste versjonen</a> . Minimumskravet for %2$s er <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Vi har lagt merke til at du kjører en utdatert versjon av WordPress. Sørg for at nettstedet ditt er sikkert ved <a href='%1$s'>å oppdatere WordPress til den nyeste versjonen</a> . Minimumskravet for %2$s er <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "Widgets vises i bunnteksten."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "Widgets vises på 404-siden."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "Widgets vist på butikksiden."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Widgets vist på arkivsider."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "Widgets vises på bloggsiden."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "Widgets vises på hjemmesiden."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Widgets vises på sidene."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "Widgeter som vises på innlegg."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "Widgeter som vises på søkeresultatsiden."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Med våre Citadela WordPress-temaoppsett trenger du ikke ansette en designer for å hjelpe deg med å få nettstedet ditt til å se profesjonelt ut. Våre designere har allerede laget det for deg. Citadela WordPress-oppsett er nøye designet for å passe din virksomhet. Alt du trenger er å endre innholdet for å presentere arbeidet ditt. Det sparer deg for tid og penger."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Woocommerce Shop-widgetområdet"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "Du finner kjøpskode på %1$sEnvato-kontoen din → Nedlastinger%2$s under Last ned-knappen."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "Du kan finne kjøpskoden i %1$sMOJO-kontoen din → Temaer%2$s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Du finner kjøpskoden i kjøpsmailen fra Themely."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Du kan generere API-nøkkel for dette domenet i %1$skontoen%2$s."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Du kan importere hvilken som helst av disse layoutene for å begynne å bygge nettstedet ditt. Layout kan importeres ved hjelp av Citadela Pro-plugin."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Du kan importere hvilken som helst av disse layoutene for å begynne å bygge nettstedet ditt. Layout kan importeres ved hjelp av Citadela Pro-plugin. Layoutpakker finner du i hoved-zip-filen du kan laste ned fra Themeforest."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Du kan teste en fullversjon av premium Citadela-funksjoner gratis."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Du kan teste en fullversjon av premium Citadela-funksjoner gratis. For live nettsted trenger du et aktivt medlemskap og en gyldig API-nøkkel for dette domenet. %1$sSe tilgjengelige medlemskap%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Du har ikke tillatelse til å installere plugins."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Du må angi %1$s for å bruke premium Citadela-funksjoner. Én %1$s lar deg kjøre Citadela på én URL. Det vil også sikre automatiske oppdateringer for temaer og plugins."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "Du trenger dette for å generere API-nøkkelen din"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Medlemskapet ditt er utløpt. Du kan %1$fornye den her%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "av"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "av AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

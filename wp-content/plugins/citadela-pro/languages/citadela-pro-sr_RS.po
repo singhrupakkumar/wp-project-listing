@@ -1,0 +1,2812 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sr\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "%с додатак и ПХП некомпатибилност"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "Некомпатибилност додатка %с и ВордПресс-а"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "Додатак %с је деактивиран"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%с некомпатибилност додатка"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(Можете их преузети са свог АитТхемес налога)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% хоризонтално"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% вертикално"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "Прихвати"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "Додајте празан простор између блокова који ће изгледати другачије на десктопу и на мобилним уређајима."
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "Додатни текст"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "Додатни текст приказан са пољем. Може да садржи ХТМЛ форматирање као што су УРЛ-ови за повезивање са вашим условима или политиком приватности."
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "Напредно"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "Напредна подешавања"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "АитТхемес"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "Поравнај центар текста"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "Поравнај текст лево"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "Поравнај текст удесно"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "Поравнајте део логотипа са леве стране"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "Све"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "Све посебне странице"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "Сви блокови су премештени у додатак %с."
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "Омогућава вам да лако додате услуге компаније на своју веб локацију."
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "Омогућава вам да уметнете текст са прилагођеним подешавањима и фонтом."
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "Омогућава вам да поставите наслов странице где год желите. На пример, после слике заглавља."
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "Бар за најаве"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "Трака са најавама"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "Трака са најавама вам омогућава да све важне најаве прикажете на врху свих ваших страница."
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "Трака са најавама се приказује након изабраног датума и времена."
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "Трака са најавама се приказује до изабраног датума и времена."
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "Анонимизирајте ИП адресу посетилаца ваше веб странице."
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "Изглед"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "Подешавања изгледа за вашу веб локацију"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "Примењено за једноставну врсту траке са најавама."
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "Узлазни"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "Биографски подаци аутора"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "Име аутора"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "Доступност изабраног стила зависи од изабраног фонта за наслове."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "Доступан опсег"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "Преклапање позадинске слике"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "Подешавања позадине"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "Боја позадине"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "Тип боје позадине"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "Градијент позадине"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "Позадинска слика"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "Понављање позадинске слике"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "Величина позадинске слике"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "Положај у позадини"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "Подешавања у позадини за заглавље ваше веб локације"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "Бар боја позадине"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "Црн"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "Блог страница"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "Блог Постс"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "Радијус замућења"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "Одважан"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "Болд (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "Бордер Сеттингс"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "Боја ивице"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "Гранични радијус"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "Опције радијуса границе"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "Ширина ивице"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "Боја ивица"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "Ширина ивица"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "Дно"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "Дно"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "Доњи леви"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "Доле десно"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "Изглед кутије"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "Ширина кутије"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "Само хамбургер мени"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "Дугме Боја позадине"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "УРЛ дугмета"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "Позадина дугмета"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "Веза са дугметом"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "Подешавања дугмета"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "Текст дугмета"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "Радијус ивице дугмади"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "Поништити, отказати"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Аутоматска репродукција вртешке је омогућена"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "Режим вртешке петље је омогућен"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "Категорије"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "Категорија"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "Опис категорије"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "Назив категорије"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "Категорија:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "Центар"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "Центар"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "Промените ХТМЛ ознаку"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "Промени икону"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "Промените слику"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "Промените слику за резолуцију радне површине"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "Промените слику за мобилну резолуцију"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Цитадела - Посебне странице"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Цитадела Блоцкс"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Цитадела Цонтент Сеттингс"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Цитадела Халф Лаиоут Сеттингс"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Цитадела Хеадер Сеттингс"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Цитадела Постс Блоцкс"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Цитадела Про"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Величина слике Цитадела Сервице Блоцк"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Цитадела Специал Пагес"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "Цлассиц"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "Цлассиц"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "Јасно"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "Цлустер"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "Цлустер Блоцк"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "Скупи мени у дугме"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "Опције склопивих виџета у подножју"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "Подешавања боја"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "Боје"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "Име аутора коментара неће бити повезано са УРЛ-ом уметнутим у поље Веб сајт"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "Поље за текст коментара"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "Проширење за коментаре се може користити за додавање текста помоћи сваком поједином уносу у обрасцу за коментаре у ВордПресс-у."
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "Додатак за коментаре"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "Подешавања веза за коментаре"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "Потврди"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "Садржати"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "Садржај"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "Величина садржаја"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "Ширина величине садржаја"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "Ширина садржаја"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "Величине ширине садржаја"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "Истек колачића"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "Цовер"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "Цовер"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "Висина покривне колоне"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "Тренутни приказ блока"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "Наслов тренутне странице"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "Прилагођено заглавље је омогућено. Следеће опције можда неће имати ефекта за ову страницу."
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "Прилагођено заглавље са прилагођеним логотипом је омогућено за ову страницу. Промена слике логотипа можда неће бити видљива у прегледу."
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "Прилагођени наслов странице"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "Прилагођени кодови"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "Прилагођена слика"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "Прилагођени лого"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "Прилагођена слика логотипа"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "Прилагодите боје"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "Прилагођене опције за ширину мобилног екрана."
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "Датум"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "Боја датума"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "Датум од"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "Датум до"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "Боја дневних сати"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "Боја наслова дана"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "Дани без дефинисаног времена биће сакривени."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "Боја декорације"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "Боја декорације"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "Уобичајено"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "Уобичајено"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "Подразумевана величина"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "Дефинишите радијус границе за различите делове дизајна."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "Избриши ред"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "Силазни"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "Опције дизајна"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "Десктоп"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "Подешавања радне површине"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "Величина радне површине"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "Онемогућите везу са именом аутора"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "Онемогући подразумеване маргине"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "Онемогућите везе за коментаре уредника"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "Онемогући истакнуту табелу"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "Онемогућите везе за коментаре гостију"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "Онемогући слику"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "Онемогући увоз/извоз"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "Онемогућите везу до истакнуте слике у посту на блогу"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "Онемогућите везе за коментаре који нису уређивачи"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "Онемогући сепаратор"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "Прикажите понуде производа, услуга или пакета у табели. Поставите најбољу понуду, покажите снижену цену и напишите важне карактеристике за поређење."
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "Приказује листу постова на основу филтера. На пример, постови само из одређене категорије."
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "Приказује пагинирану листу постова на страници ВордПресс блога."
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "Немојте користити флоат бројеве, молим."
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "Преузимање…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "Испустите Лаиоут пакет овде"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "Лако креирајте календар догађаја и управљајте њиме помоћу бесплатног додатка %1$с Календар догађаја %2$с."
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "Уреди посебну страницу"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "Уредите или ажурирајте слику"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "Поље за е-пошту"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "Омогући"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "Омогућите склопиву област ваге за подножје"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "Омогући истакнуту табелу"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "Грешка"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "Догађаји"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "Истек сачуваних колачића у данима."
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "Извези %с распоред"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "Екстра болд (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "Екстра-болд"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "Екстра лаган"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "Изабран"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "Истакнута веза са сликом"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "Ознака поља"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "Филтрирајте листу специјалних страница"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "Филтери"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "Фиксна позадинска слика"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "Фиксна слика"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "Величина фонта"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "Јединица величине фонта"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "Боја подножја"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "Код подножја"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "Присиљен унутар простора"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "петак"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "Од АитТхемес:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "Из АитТхемес: %с"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "Са ВордПресс.орг:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "Са ВордПресс.орг: %с"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "Пуно лепљиво заглавље"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "Пуна величина"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "Ширина пуне величине"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "Пуна ширина"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "Заглавље пуне ширине"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "Величина пуне ширине"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "Општи гранични радијус"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "Општи изглед"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "Опште опције за десктоп."
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "Општа подешавања"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "Гугл анализе"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "ИД праћења Гоогле аналитике."
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "Гоогле фонт"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "Градијент"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Градијентни степен"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "Преклапање градијента"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "Градијент испод слике, користан за .пнг слике у позадини."
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "ХТМЛ ознака"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "Пола странице са изгледом"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "Позадина заглавља"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "Боја заглавља"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "Преклапање боје заглавља"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "Хеадер Имаге"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "Положај слике у заглављу"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "Понављање слике у заглављу"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "Величина слике у заглављу"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "Изглед заглавља"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "Позадина заглавља"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "Код заглавља"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "Текст заглавља"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "Подешавања висине"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "Јединица висине"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "Скривено на радној површини"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "Скривено на мобилном"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "Скривен наслов у пуном лепљивом заглављу на радној површини"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "Скривен наслов у пуном лепљивом заглављу на мобилном телефону"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "Сакриј наслов сајта"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "Сакриј дугме са везом"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "Сакриј цену са попустом"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "Сакриј празне дане"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "Сакриј само на мобилном телефону"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "Сакриј наслов сајта"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "Сакријте наслов и слоган сајта"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "Сакриј само слоган"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "Хоризонтални офсет"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "Боја иконе"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "Ако је омогућено, лепљиви постови ће бити приказани на врху наведених постова."
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "Слика"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "Боја преклапања слике"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "Положај слике"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "Понављање слике"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "Величина слике"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "Слике"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "Импорт Лаиоут"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "Странице са подешавањима изгледа за увоз и извоз ће бити онемогућене"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "Увоз је завршен!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "Увезите изглед из датотеке"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "Увоз пакета Лаиоут ће <strong>избрисати сав ваш садржај</strong> - све постове, странице, медије, ознаке и категорије."
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "У јединици &quot;ем&quot;."
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "Инфобар"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "Инфобар се може користити за приказ обавештења о колачићима на вашој веб страници. Приказује се свим новим посетиоцима који дођу на вашу веб локацију. Они могу да кликну на дугме да га сакрију. Инфобар је тада сакривен на одређени број дана, подеси га у поље „Истек колачића“."
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "Уметни УРЛ за дугме. Оставите празно да бисте сакрили дугме."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "Унесите број већи од %1$с или оставите празно за подразумевану вредност."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "Унесите број већи од %1$с."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "Унесите број мањи од %1$с или оставите празно за подразумевану вредност."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "Унесите број мањи од %1$с."
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "Уметни ред после"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "Уметните текст"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "Унесите важећи број, молим."
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "Унесите ИД за праћење Гоогле аналитике. Код за праћење Гоогле аналитике ће бити додат на вашу веб локацију."
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "Уметнута сенка"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "Инсталирајте потребне додатке"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "Инсталирање и активирање додатака…"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "То није Цитадела Лаиоут пакет"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "Поднаслов ставке"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "Наслов ставке"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "Велики"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "Великих димензија"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "Лаиоут Екпортер"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "Функција Лаиоут Екпортер извози ВордПресс странице, постове и све Цитадела опције и подешавања. Можете користити Лаиоут Екпортер да креирате Цитадела изглед који можете лако да инсталирате на другу веб локацију Цитадела."
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "Лаиоут Импортер треба да има инсталирану ПХП ЗИП екстензију. Инсталирајте га или контактирајте свог хостинг провајдера."
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "Подешавања увоза/извоза распореда"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "Распореди"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "Увоз и извоз распореда су онемогућени"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "Лево"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "Лево поравнање логотипа"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "Лева страна"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "Размак између слова"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "Светлост"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "Светло (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "Висина линија"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "Боја линија"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "Линк"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "Распоред листе"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "Локација"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "Опис локације"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "Наслов локације"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "Локација:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "Величина фонта логотипа"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "Слика логотипа у прилагођеном заглављу."
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "Максимална ширина слике логотипа"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "Максимална ширина простора за логотип"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "Главни мени"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "Средње"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "Средња величина"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "Чланство"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "Боја дугмета менија"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "Минимална вредност 1500пк, оставите празно за неограничену ширину."
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "Минимална висина"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "Мобилни"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "Мобиле Сеттингс"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "Подешавања за мобилне уређаје"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "Величина мобилног телефона"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "Преломна тачка ширине за мобилне уређаје"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "Модеран"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "Понедељак"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "Помери се доле"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "Напредовати"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "Поље за име"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "Следећи"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "Без понављања"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "Нема граница"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "Нема понављања"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "Нема резултата."
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "Нису пронађене посебне странице."
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "Ниједан"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "Нормалан (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "Напомена: стандардни наслов странице ће бити сакривен."
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "Број ставки"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "У реду"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "Упс! Та страница се не може пронаћи."
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "Отвори у новом прозору"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "Отворите везу у новој картици"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "Отворена област са перичицама у подножју"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "Радно време"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "Подешавања радног времена"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "Опције наручивања"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "Наручите по"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "Оригинал"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "Боја преклапања"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "Градијент преклапања"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "Прозирност преклапања"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "ПХП ЗИП екстензија није пронађена"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "Боја странице"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "Молимо вас да не затварате овај прозор прегледача док се пакет Лаиоут не увезе у потпуности."
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "Имајте на уму да Лаиоут Екпортер не извози све из ВордПресс-а, као што су ВооЦоммерце фактуре или подаци из других додатака треће стране. Постоји много других додатака доступних за потребе миграције."
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "Положај"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "Позиција на веб страници"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "Детаљи објаве"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "Постови"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "Навигација постова"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "Подешавања постова"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "Преглед се приказује само на екрану за прилагођавање."
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "Претходна"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "Табела цена"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "Усклађивање табеле цена"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Радијални градијент"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "Рандом"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "Прочитајте више линк"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Спремни за употребу Цитадела распореди"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "Спремни за употребу распореди и блокови за Цитаделу са много опција прилагођавања"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "Недавно активирана тема није компатибилна са додатком %с, стога је додатак деактивиран."
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "Редовно"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "Уклони слику"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "Понављање"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "Поновите хоризонтално"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "Поновите вертикално"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "Замените подразумевану ознаку поља."
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "Замените слику"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "Потребни додаци"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "Ресетовање"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "Респонсиве Спацер"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "Респонсиве Тект"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "Одговарајуће опције се примењују испод ширине екрана"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "Вишекратни блокови"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "Подешавања блокова за вишекратну употребу"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "Јел тако"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "Десна страна"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "субота"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "Сачувај подешавања"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "Тражи Посебни узрасти"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "Резултати претраге за:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "Изаберите Гоогле фонт за своју веб локацију"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "Изаберите Пакет распореда"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "Изаберите поравнање"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "Изаберите поравнање на мобилном дизајну"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "Изаберите тип позадине"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "Изаберите комбинације боја за своју веб локацију"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "Изаберите тежину фонта"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "Изаберите слику"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "Изаберите изглед"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "Изаберите изглед заглавља веб локације"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "Изаберите изглед за своју веб локацију"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "Изаберите величину"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "Семи-болд"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "Услуга"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "Слика услуге"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "Текст описа услуге"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "Заглавље услуге"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "Поставите слику за позадину"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "Поставите прилагођену слику"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "Поставите прилагођену слику логотипа"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "Поставите боју заглавља као преклапање позадинске слике"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "Подешава да ли се виџети у подножју отварају или затварају подразумевано на мобилном уређају након учитавања странице. Применљиво ако су омогућени склопиви виџети."
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "Подешавања"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "Подешавања су сачувана"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "Подешавања за главни мени у заглављу"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "Подешавања за заглавље сајта"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "Подешавања сенке"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "Боја сенке"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "Покажи увек"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "Прикажи дугме са везом"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "Прикажи категорије"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "Прикажи датум"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "Прикажи опис"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "Прикажи цену са попустом"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "Прикажи истакнуту слику"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "Прикажи заглавље преко садржаја"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "Прикажи икону"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "Прикажи слику"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "Прикажи слику као икону"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "Прикажи у менију"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "Прикажи везу за управљање блоковима за вишекратну употребу у администраторском менију"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "Прикажи локације"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "Прикажи само на мобилном телефону"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "Прикажите радно време на својој веб страници."
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "Прикажи или сакриј блок кластера само на величини екрана мобилног телефона."
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "Прикажи преглед траке за најаве"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "Прикажи прозирно заглавље без додатних подешавања позадине."
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "Прикажи веб локацију"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "Симпле"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "Једноставан распоред"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "Једноставна подешавања"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "Једноставна подешавања вам омогућавају да прикажете једноставан текст и дугме на траци са најавама. Боје се могу прилагодити преко ВордПресс алата за прилагођавање."
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "Једноставни стилови текста"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "Поједностављени стилови типографије за странице блогова"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "Једнобојна"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "Преклапање једне боје"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "Величине за типове распореда садржаја, широке и пуне ширине који се користе у дизајну."
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "Прескочи број постова од почетка"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "Мала"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "Мала величина"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "Простор око логотипа"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "Простор око дугмета менија"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "Висина одстојника у"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Подешавања одстојника"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "Подешавања размака"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Посебна страница"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Посебне странице"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Посебне странице"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "Специјални контејнер који је увек у пуној ширини ако нема бочне траке или колона. Можете уметнути тамо друге блокове и поставити позадину контејнера."
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "Посебна страница је ажурирана."
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "Листа посебних страница"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "Навигација листе посебних страница"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "Радијус ширења"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "Лепљиво заглавље на радној површини"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "Лепљиво заглавље на мобилном телефону"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "Подешавања лепљивог заглавља"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "Прво лепљиви постови"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "Стилови"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "Поднаслов"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "Боја титла"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "недеља"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "Поднаслов табеле"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "Наслов табеле"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "Опис ознаке"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "Означи име"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Дошло је до грешке при преузимању изгледа"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "Текст"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "Фонт текста"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "Поравнање текста"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "Боја текста"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "Боја текста у прилагођеном заглављу."
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "Текст приказан на инфотраци. Може да садржи ХТМЛ форматирање као што су УРЛ адресе за повезивање са вашим условима или политиком приватности."
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "Текст приказан на дугмету на траци са најавама. Оставите празно да бисте сакрили дугме."
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "Текст приказан на дугмету. Ако текст није наведен, знак Кс ће се користити за затварање Инфобара."
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "Текст огласа"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Хвала вам што сте активирали Цитадела Про."
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "Додатак %с није могао да се активира. Није компатибилна са тренутно активном темом."
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "Цитадела Лаиоут захтева ове додатке. Потребни додаци ће бити инсталирани и активирани аутоматски. У случају да немате приступ неком од додатака, неке странице могу бити некомплетне."
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "Садржај није могао да се увезе."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "Процес може трајати између 30 секунди и 30 минута у зависности од величине пакета Лаиоут и брзине везе (углавном због преузимања демо слика)."
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "Тхеме Лаиоут"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "Дошло је до грешке при инсталирању додатака"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "Дебеле границе"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "Танак"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "Танке границе"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "Ово подешавање дефинише да ли да се користе наши стилови Цитадела у додатку %1$с Календар догађаја%2$с или да се користе стилови додатка."
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "четвртак"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "Плочица"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "Тиле Хоризонталли"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "Тиле Вертицалли"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "Наслов"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "Боја наслова"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "Фонт наслова"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "Наслови Стил"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "Да бисте уредили слику, потребна вам је дозвола за отпремање медија."
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "Врх"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "Врх"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "Горе лево"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "Горе десно"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "ИД праћења"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "Праћење приватности"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "Транспарентно заглавље"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "уторак"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "уторак"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "Укључите функцију траке за најаве"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "Укључите функцију проширења Коментари"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "Тип"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "Унесите за претрагу..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "Типографија"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "Отпремите датотеку слике или је изаберите из библиотеке медија."
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "Отпремљена ЗИП датотека није Цитадела Лаиоут пакет или је стари некомпатибилни Лаиоут пакет. Преузмите најновији пакет са свог АитТхемес налога."
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "Отпремање…"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "УРЛ-ови из текста коментара уредника ће бити уклоњени. Примењено за корисничке улоге са могућношћу уређивања постова као што је Цонтрибутор и више."
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "УРЛ-ови из текста коментара гостију ће бити уклоњени"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "УРЛ-ови из текста коментара који нису уређивачи биће уклоњени. Примењено за корисничке улоге без могућности уређивања објаве као што је Претплатник."
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Користите стилове Цитадела"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "Користите Инфобар на својој веб локацији"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "Користите прилагођено заглавље"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "Користите прилагођена подешавања ширине"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "Користите подразумевани фонт"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "Користите подразумевану тежину фонта"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "Користите прилагодљиве опције"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "Коришћење величине фонта из дизајна теме."
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "Коришћење размака између слова од дизајна теме."
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "Коришћење висине линије из дизајна теме."
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "Вертикални помак"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "Виев Демо"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "Погледајте распореде"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "Погледај још"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "Видљивост на мобилном уређају"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "ВП Блок дугмета"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Чувамо вашу е-пошту како бисмо могли да комуницирамо са вама о нашим производима и услугама. За више детаља погледајте <a href=\"#\">нашу политику приватности</a> ."
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Чувамо ваше име како бисмо могли да комуницирамо са вама о нашим производима и услугама. За више детаља погледајте <a href=\"#\">нашу политику приватности</a> ."
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Чувамо УРЛ ваше веб странице како бисмо могли да комуницирамо са вама о нашим производима и услугама. За више детаља погледајте <a href=\"#\">нашу политику приватности</a> ."
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "Увозимо пакет Лаиоут..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Приметили смо да користите застарелу верзију ПХП-а која више није подржана, стога <em>је додатак деактивиран</em> . Уверите се да је ваша веб локација брза и безбедна тако што ћете <a href='%1$s'>надоградити ПХП на најновију верзију</a> . Минимални захтев за %2$с је <strong>ПХП 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Приметили смо да користите застарелу верзију ВордПресс-а, па <em>је додатак деактивиран</em> . Уверите се да је ваша веб локација сигурна и ажурирана тако што ћете <a href='%1$s'>ажурирати ВордПресс на најновију верзију</a> . Минимални захтев за %2$с је <strong>ВордПресс 5.2</strong> ."
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "Поље УРЛ адресе веб локације"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "Среда"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "Широко"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "Широка величина"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "Широка ширина величине"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "Подручје виџета у подножју може се отворити или затворити на мобилном телефону."
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "Подешавања ширине"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "Са напредним подешавањима имате потпуну контролу над хтмл-ом и стиловима за траку са најавама."
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "Можете увести било који од доступних изгледа Цитадела."
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Ваши коментари нам помажу да побољшамо наше производе и услуге тако да их стално бележимо. Користимо коментар и за будућу употребу. За више детаља погледајте <a href=\"#\">нашу политику приватности</a> ."
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "Ваш тренутни садржај ће бити избрисан"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "ЗИП датотеке"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "текст дугмета"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "хттпс://ввв.аит-тхемес.цлуб/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "хттпс://ввв.аит-тхемес.цлуб/цитадела-плугинс/цитадела-про/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "или"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "прочитајте више текста"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "текст реда..."

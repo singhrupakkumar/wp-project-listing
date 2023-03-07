@@ -1,0 +1,152 @@
+/*
+	Custom Header css styles template
+	
+	available less vars:
+
+	@customHeaderTextColor
+	@customHeaderOverlayColor
+	@customHeaderBgColor
+	@customHeaderBgImage
+	@customHeaderBgSize
+	@customHeaderBgRepeat
+	@customHeaderBgAttachemnt
+	@customHeaderBgPosition
+	+ all other Citadela less variables
+
+*/
+
+
+body.custom-header
+{
+	/* header over content */
+	
+	&.custom-header-over-content 
+	{
+		.site-header							{  }
+		#content 								{ padding-top: 0; box-shadow: none; }
+		#content .page-title.standard 			{ display: none; }
+		
+		&.modern-theme-layout,
+		&.classic-theme-layout.page-fullwidth,
+		&.half-layout
+		{
+		 	.site-header:not(.is-sticky)	 					{ position: absolute; top: auto; left: 0; width: 100%; z-index: 1010;  }
+		}
+		&.classic-theme-layout.half-layout .site-header:not(.is-sticky)			{ box-shadow: none; }	
+		
+		@media (min-width: 1025px)
+		{
+			&.modern-theme-layout.left-sidebar .site-header:not(.is-sticky) 	{ width: 75%; left: auto; right: 0; }
+			&.modern-theme-layout.right-sidebar .site-header:not(.is-sticky) 	{ width: 75%; }
+		}	
+		@media (min-width: 1267px)
+		{
+			&.modern-theme-layout.left-sidebar .site-header:not(.is-sticky),
+			&.modern-theme-layout.right-sidebar .site-header:not(.is-sticky) 	{ width: calc(~"100% - 300px"); }
+		}
+		@media (min-width: 1661px)
+		{
+			&.modern-theme-layout.left-sidebar .site-header:not(.is-sticky),
+			&.modern-theme-layout.right-sidebar .site-header:not(.is-sticky) 	{ width: calc(~"100% - 380px"); }
+		}
+		@media (max-width: 1024px)
+		{
+			&.modern-theme-layout.left-sidebar,	
+			&.classic-theme-layout.left-sidebar
+			{
+				#content						{ display: flex; flex-direction: column; }
+				#content #primary     			{ order: 1; }
+				#content #secondary    			{ order: 2; width: 100%; }
+			}
+		}
+		
+		&.header-scrolled
+		{
+			.sticky-header-wrapper { height: 0 !important; } 
+		}
+	}
+	
+	
+	/* header text color */
+	
+	.textColor() when (iscolor(@customHeaderTextColor))			{ color: @customHeaderTextColor; }
+	.textColorFade() when (iscolor(@customHeaderTextColor))		{ color: fade(@customHeaderTextColor, 70%); }
+	
+	.site-header:not(.is-sticky)									{ .textColor(); }
+	.site-header:not(.is-sticky) .site-branding .site-title a		{ .textColor(); }
+	.site-header:not(.is-sticky) .site-branding .site-description	{ .textColorFade(); }
+	
+	&:not(.responsive-menu) .site-header:not(.is-sticky)
+	{
+		.main-navigation
+		{
+			.citadela-menu-container > ul > li > a				{ .textColorFade(); }
+			.citadela-menu-container > ul > li:hover > a,
+			.citadela-menu-container > ul > li > a:focus,
+			.citadela-menu-container > ul > li.opened > a		{ .textColor(); }
+	
+			.citadela-menu-container > ul > li
+			{
+				&.current-menu-item > a,
+				&.current-menu-parent > a						{ .textColor(); }
+			}
+		}
+	}
+	
+	
+	/* header bg image */
+
+    .bgHeaderOverlay() when (iscolor(@customHeaderOverlayColor)) 		{ background-color:  @customHeaderOverlayColor; display: block; content: ""; position: absolute; top: 0; left: 0; right: 0; bottom: 0; }
+    .bgHeaderAttachPosition() when (@customHeaderBgAttachemnt = fixed) 	{ background-position: center !important; }
+	.bgHeaderImage() when (isurl(@customHeaderBgImage)) 	
+	{ 
+		&																{ background-image: @customHeaderBgImage;  background-position: @customHeaderBgPosition; background-attachment: @customHeaderBgAttachemnt; .bgHeaderAttachPosition(); background-size: @customHeaderBgSize; background-repeat: @customHeaderBgRepeat; } 
+		&:before														{ .bgHeaderOverlay(); }
+	}
+	
+	.site-header:not(.is-sticky) 	{ background-image: none; .bgHeaderImage(); } 		/* show custom bg image */
+
+	
+	/* header bg color */
+	
+	.bgHeaderColor() when (iscolor(@customHeaderBgColor))   	{ background-color: @customHeaderBgColor; }
+	.bgHeaderMenu() when (iscolor(@customHeaderBgColor))		{ background: darken(fade(@customHeaderBgColor, 75%), 3%); }
+	
+	.site-header:not(.is-sticky) 								{ .bgHeaderColor(); }
+	
+	&.center-header-layout:not(.responsive-menu) .site-header:not(.is-sticky) .main-navigation
+	{
+		.citadela-menu-container								{ .bgHeaderMenu(); }
+	}
+	
+	
+	/* transparent header */
+	
+	.textColorBckFade() when (iscolor(@customHeaderTextColor))	{ background: darken(fade(@customHeaderTextColor, 10%), 3%); }
+	
+	&.custom-header-transparent-bg 
+	{
+		.site-header:not(.is-sticky)							{ background: none; }
+		.site-header:not(.is-sticky):before						{ display: none !important; }
+		&.center-header-layout:not(.responsive-menu) .site-header:not(.is-sticky) .main-navigation
+		{
+			.citadela-menu-container							{ .textColorBckFade(); }
+		}
+	}
+	
+	/* responsive buttons on mobile, not scrolled */
+	
+	.borderHeaderColor(@fade: 100%) when (iscolor(@customHeaderTextColor))	{ border-color: fade(@customHeaderTextColor, @fade); }
+	
+	&.mobile-screen-width.responsive-menu:not(.header-scrolled)
+	{
+	 	.site-header:not(.is-sticky) .main-navigation .menu-item-wrapper > a	{ color: @customHeaderTextColor; }
+		.site-header:not(.is-sticky) .citadela-woocommerce-minicart:not(.opened) .cart-header > .cart-icon	{ color: @customHeaderTextColor; }
+		
+		@media all and (min-width: 300px)
+		{
+			.site-header:not(.is-sticky).logo-align-left-mobile .citadela-woocommerce-minicart:not(.opened):before	{ .borderHeaderColor(10%); }
+		}
+	}
+}
+

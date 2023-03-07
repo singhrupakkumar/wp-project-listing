@@ -1,0 +1,83 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-pro/blog-posts",
+	"category": "citadela-posts-blocks",
+	"icon": "text",
+	"attributes": {
+		"layout": {
+            "type": "string",
+            "default": "simple"
+        },
+        "size": {
+            "type": "string",
+            "default": "medium"
+        },
+        "showFeaturedImage": {
+            "type": "boolean",
+            "default": true
+        },
+        "showDate": {
+            "type": "boolean",
+            "default": true
+        },
+        "showDescription": {
+            "type": "boolean",
+            "default": true
+        },
+        "showCategories": {
+            "type": "boolean",
+            "default": true
+        },
+        "showLocations": {
+            "type": "boolean",
+            "default": false
+        },
+        "postsOrderBy": {
+            "type": "string",
+            "default": "date"
+        },
+        "postsOrder": {
+            "type": "string",
+            "default": "DESC"
+        },
+        "stickyPostsFirst": {
+            "type": "boolean",
+            "default": true
+        },
+        "borderWidth": {
+            "type": "string",
+            "default": "none"
+        },
+        "borderColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "textColor": {
+            "type": "string",
+            "default": ""
+        },
+        "decorColor": {
+            "type": "string",
+            "default": ""
+        },
+        "dateColor": {
+            "type": "string",
+            "default": ""
+        },
+        "skipStartPosts": {
+            "type": "number",
+            "default": 0
+        }
+	},
+	"example": {
+        "attributes": {
+            "layout": "box",
+            "size": "small"
+        }
+    },
+	"editorScript": "citadela-blog-posts-block"
+}

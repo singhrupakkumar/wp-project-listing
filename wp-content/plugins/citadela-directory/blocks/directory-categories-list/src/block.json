@@ -1,0 +1,70 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/directory-categories-list",
+	"category": "citadela-directory-blocks",
+	"icon": "category",
+	"attributes": {
+		"category": {
+			"type": "string",
+			"default": "0"
+		},
+		"title": {
+			"type": "string",
+			"default": ""
+		},
+		"layout": {
+			"type": "string",
+			"default": "box"
+		},
+		"size": {
+			"type": "string",
+			"default": "large"
+		},
+		"showCategoryIcon": {
+			"type": "boolean",
+			"default": true
+		},
+		"showCategoryDescription": {
+			"type": "boolean",
+			"default": true
+		},
+		"onlyFeatured": {
+			"type": "boolean",
+			"default": false
+		},
+		"useCarousel": {
+			"type": "boolean",
+			"default": false
+		},
+		"carouselNavigation": {
+			"type": "boolean",
+			"default": true
+		},
+		"carouselPagination": {
+			"type": "boolean",
+			"default": true
+		},
+		"carouselAutoplay": {
+			"type": "boolean",
+			"default": false
+		},
+        "carouselAutoHeight": {
+            "type": "boolean",
+            "default": false
+        },
+		"carouselAutoplayDelay": {
+			"type": "number",
+			"default": 5
+		},
+		"carouselLoop": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"example": {
+		"attributes": {
+			"size": "small"
+		}
+	},
+	"editorScript": "citadela-directory-blocks"
+}

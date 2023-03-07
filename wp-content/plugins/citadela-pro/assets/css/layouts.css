@@ -1,0 +1,184 @@
+.wrap .hidden { display: none; }
+.wrap .block { display: block; }
+.wrap .flex { display: flex; }
+.wrap .items-center { align-items: center; }
+.wrap .justify-center { justify-content: center; }
+.wrap .m-auto { margin: auto; }
+.wrap .w-full { width: 100%; }
+.wrap .text-center { text-align: center; }
+.wrap .text-gray-600 { color: #718096; }
+.wrap .text-gray-700 { color: #4a5568; }
+.wrap .text-gray-800 { color: #2d3748; }
+.wrap .text-red-700 { color: #c53030; }
+.wrap .bg-red-200 { background-color: #fed7d7; }
+
+#citadela-layouts-progress {
+	min-height: calc(100vh - 32px - 100px - 65px); /* adminbar - header with tabs - footer with margin */
+}
+
+@media screen and (max-width: 782px) {
+	#citadela-layouts-progress {
+		padding: 34px 0;
+		min-height: calc(100vh - 46px - 100px - 168px);  /* adminbar - header with tabs - footer with padding */
+	}
+}
+
+#uploader-selector div+div,
+#uploader-progress div+div,
+#import-requirements-install-progress div+div,
+#uploader-error div+div {
+	margin-top:1rem;
+}
+
+#uploader-progress progress,
+#import-requirements-install-progress progress {
+	width: 80%;
+	border:none;
+	background: #fff;
+	box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+	height: 20px;
+}
+
+#uploader-error-msg ul,
+#import-confirmation-requirements ul,
+#import-requirements-install-error-msg ul {
+	list-style: disc;
+	padding-left: 2rem;
+}
+
+.import-card, .upload-card {
+	max-width: 600px;
+	width: 600px;
+	padding: 3rem 2.5rem;
+	background: #fff;
+	box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.upload-card {
+    border: 4px dashed #b4b9be;
+    background: transparent;
+}
+.drag-over .upload-card {
+	border-color: #9227c5;
+}
+
+.import-card h1, .upload-card h3 {
+	margin-top:0;
+	padding: 0;
+}
+
+.import-card #import-status {
+	margin: 1.5rem 15% 0 15%;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+
+#import-cancel.button,
+#import-cancel-requirements.button {
+	margin-left: 0.5rem;
+}
+
+.import-indicator #indicator-icon-done,
+.import-indicator #indicator-icon-dieded {
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	line-height: 1;
+	font-size: 32px;
+	-webkit-animation: ppap 1s;
+	animation: ppap 1s ;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+#indicator-icon-idle {
+	opacity: 0.3;
+}
+
+
+.import-indicator.idle .indicator-label {
+	opacity: 0.7;
+}
+
+.import-indicator.dieded .indicator-label {
+	color: #c53030;
+}
+
+.import-indicator.wip .indicator-label {
+	color: #9227c5;
+	font-weight: bold;
+}
+
+.import-indicator.done .indicator-label {
+	font-weight: bold;
+}
+
+/* did he dieded? */
+.import-indicator.dieded .indicator-label {
+	color: #c53030;
+}
+
+
+#import-complete .button .dashicons {
+	line-height: inherit;
+}
+
+#import-error {
+	display: none;
+	margin-top: 1rem;
+	padding: 0.5rem;
+}
+
+
+@-webkit-keyframes ppap {
+	from {
+		opacity: 0;
+		-webkit-transform: scale(0.1) rotate(30deg);
+		transform: scale(0.1) rotate(30deg);
+		-webkit-transform-origin: center bottom;
+		transform-origin: center bottom;
+	}
+
+	50% {
+		-webkit-transform: rotate(-10deg);
+		transform: rotate(-10deg);
+	}
+
+	70% {
+		-webkit-transform: rotate(3deg);
+		transform: rotate(3deg);
+	}
+
+	to {
+		opacity: 1;
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+}
+
+@keyframes ppap {
+	from {
+		opacity: 0;
+		-webkit-transform: scale(0.1) rotate(30deg);
+		transform: scale(0.1) rotate(30deg);
+		-webkit-transform-origin: center bottom;
+		transform-origin: center bottom;
+	}
+
+	50% {
+		-webkit-transform: rotate(-10deg);
+		transform: rotate(-10deg);
+	}
+
+	70% {
+		-webkit-transform: rotate(3deg);
+		transform: rotate(3deg);
+	}
+
+	to {
+		opacity: 1;
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+}

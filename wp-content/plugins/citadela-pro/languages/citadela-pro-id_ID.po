@@ -1,0 +1,2811 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: id\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "Plugin %s dan ketidakcocokan PHP"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "Plugin %s dan WordPress tidak kompatibel"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "Plugin %s telah dinonaktifkan"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "%s ketidakcocokan plugin"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(Anda dapat mengunduhnya dari akun AitThemes Anda)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% mendatar"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% vertikal"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "Menerima"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "Tambahkan ruang kosong di antara blok yang akan terlihat berbeda di desktop dan di perangkat seluler."
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "Teks tambahan"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "Teks tambahan ditampilkan dengan bidang. Ini dapat berisi pemformatan HTML seperti url untuk ditautkan ke persyaratan atau kebijakan privasi Anda."
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "Canggih"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "Pengaturan lanjutan"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitTema"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "Ratakan Pusat Teks"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "Ratakan Teks Kiri"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "Ratakan Teks ke Kanan"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "Sejajarkan bagian logo ke sisi kiri"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "Semua"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "Semua Halaman Khusus"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "Semua blok dipindahkan ke plugin %s."
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "Memungkinkan Anda menambahkan layanan perusahaan ke situs web Anda dengan mudah."
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "Memungkinkan Anda menyisipkan teks dengan pengaturan dan font khusus."
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "Memungkinkan Anda menempatkan judul halaman di mana pun Anda suka. Misalnya setelah gambar header."
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "Bar Pengumuman"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "Bilah pengumuman"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "Bilah pengumuman memungkinkan Anda menampilkan pengumuman penting di bagian atas semua halaman Anda."
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "Bilah pengumuman ditampilkan setelah tanggal dan waktu yang dipilih."
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "Bilah pengumuman ditampilkan hingga tanggal dan waktu yang dipilih."
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "Anonimkan alamat IP pengunjung situs web Anda."
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "Penampilan"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "Pengaturan tampilan untuk situs web Anda"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "Diterapkan untuk jenis bilah Pengumuman Sederhana."
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "naik"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "Info biografi penulis"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "Nama penulis"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "Ketersediaan gaya yang dipilih tergantung pada font yang dipilih untuk judul."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "Kisaran yang tersedia"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "Hamparan Gambar Latar Belakang"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "Pengaturan Latar Belakang"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "Warna latar belakang"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "Jenis warna latar belakang"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "Gradien latar belakang"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "Gambar latar belakang"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "Pengulangan gambar latar belakang"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "Ukuran gambar latar belakang"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "Posisi latar belakang"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "Pengaturan latar belakang untuk tajuk situs web Anda"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "Warna Latar Belakang Batang"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "Hitam"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "Halaman Blog"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "Postingan Blog"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "radius kabur"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "Berani"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "Tebal (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "Pengaturan Perbatasan"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "Warna perbatasan"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "radius perbatasan"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "Opsi radius perbatasan"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "Lebar batas"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "Warna perbatasan"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "Lebar perbatasan"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "Bawah"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "Bawah"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "Kiri bawah"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "Kanan bawah"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "Tata letak kotak"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "Lebar kotak"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "Hanya menu burger"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "Warna latar tombol"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "URL tombol"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "Latar belakang tombol"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "Tautan tombol"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "Pengaturan tombol"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "Teks tombol"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "Radius Perbatasan Tombol"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Putar otomatis carousel diaktifkan"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "Mode lingkaran korsel diaktifkan"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "Kategori"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "Kategori"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "Deskripsi kategori"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "Judul kategori"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "Kategori:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "Tengah"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "Tengah"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "Ubah tag HTML"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "Ubah ikon"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "Ganti gambar"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "Ubah gambar untuk resolusi desktop"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "Ubah gambar untuk resolusi seluler"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Citadela - Halaman Khusus"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Blok Citadela"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Pengaturan Konten Citadela"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Pengaturan Tata Letak Setengah Citadela"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Pengaturan Tajuk Citadela"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Blok Pos Citadela"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Ukuran gambar Blok Layanan Citadela"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Halaman Khusus Citadela"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "Klasik"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "Klasik"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "Jernih"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "Gugus"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "Blok Cluster"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "Ciutkan menu ke tombol"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "Opsi widget footer yang dapat dilipat"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "Pengaturan warna"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "warna"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "Nama penulis komentar tidak akan ditautkan ke url yang dimasukkan di bidang Situs Web"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "kolom teks komentar"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "Ekstensi Komentar dapat digunakan untuk menambahkan teks bantuan ke setiap masukan dalam formulir Komentar WordPress."
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "Ekstensi komentar"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "Pengaturan tautan komentar"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "Mengonfirmasi"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "Berisi"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "Isi"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "Ukuran konten"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "Lebar ukuran konten"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "Lebar konten"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "Ukuran lebar konten"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "Kedaluwarsa cookie"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "Menutupi"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "Menutupi"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "Tinggi kolom penutup"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "Tampilan blok saat ini"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "Judul halaman saat ini"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "Header Kustom diaktifkan. Opsi berikut mungkin tidak berpengaruh untuk halaman ini."
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "Header Kustom dengan Logo Kustom diaktifkan untuk halaman ini. Perubahan gambar logo mungkin tidak terlihat di pratinjau."
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "Judul Halaman Kustom"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "Kode khusus"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "Gambar khusus"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "logo kustom"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "Gambar logo khusus"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "Sesuaikan warna"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "Opsi yang disesuaikan untuk lebar layar ponsel."
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "Tanggal"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "Warna tanggal"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "Tanggal dari"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "Tanggal ke"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "Warna jam siang"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "Warna judul hari"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "Hari tanpa waktu yang ditentukan akan disembunyikan."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "Warna Dekorasi"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "Warna dekorasi"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "Bawaan"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "Bawaan"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "Ukuran bawaan"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "Tentukan radius batas untuk bagian desain yang berbeda."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "Hapus baris"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "Menurun"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "Pilihan Desain"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "Desktop"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "Pengaturan desktop"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "Ukuran desktop"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "Nonaktifkan tautan nama penulis"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "Nonaktifkan margin default"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "Nonaktifkan tautan komentar editor"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "Nonaktifkan tabel unggulan"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "Nonaktifkan tautan komentar tamu"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "Nonaktifkan gambar"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "Nonaktifkan impor/ekspor"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "Nonaktifkan tautan ke gambar unggulan di posting blog"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "Nonaktifkan tautan komentar non-editor"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "Nonaktifkan pemisah"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "Tampilkan penawaran produk, layanan, atau paket dalam tabel. Tetapkan kesepakatan terbaik, tunjukkan harga diskon dan tulis fitur penting untuk perbandingan."
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "Menampilkan daftar posting berdasarkan filter. Misalnya posting hanya dari kategori tertentu."
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "Menampilkan daftar posting paginasi di halaman Blog WordPress."
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "Tolong jangan gunakan angka float."
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "Mengunduh…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "Jatuhkan paket Tata Letak di sini"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "Buat dan kelola kalender acara dengan mudah dengan plugin gratis %1$sKalender Acara%2$s."
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "Sunting Halaman Khusus"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "Edit atau perbarui gambar"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "bidang email"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "Memungkinkan"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "Aktifkan area wig footer yang dapat dilipat"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "Aktifkan tabel unggulan"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "Kesalahan"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "Acara"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "Kedaluwarsa cookie yang disimpan dalam beberapa hari."
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "Ekspor %s Tata Letak"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "Ekstra Tebal (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "Ekstra tebal"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "Ekstra-ringan"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "Unggulan"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "Tautan gambar unggulan"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "Label bidang"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "Filter daftar halaman khusus"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "Filter"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "Memperbaiki gambar latar belakang"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "Gambar tetap"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "Ukuran huruf"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "Satuan ukuran font"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "Warna Kaki"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "Kode footer"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "Terpaksa di dalam ruang"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "Jumat"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "Dari AitThemes:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "Dari AitThemes: %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "Dari WordPress.org:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "Dari WordPress.org: %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "Header Lengket Penuh"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "Ukuran penuh"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "Lebar ukuran penuh"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "Lebar penuh"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "Tajuk lebar penuh"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "Ukuran lebar penuh"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "Radius Perbatasan Umum"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "Tata Letak Umum"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "Opsi umum untuk desktop."
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "Pengaturan Umum"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "ID pelacakan Google Analytics."
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "font Google"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "gradien"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Gelar gradien"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "Hamparan gradien"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "Gradien di bawah gambar, berguna untuk gambar .png di latar belakang."
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "tag HTML"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "Setengah halaman tata letak"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "Latar Belakang Tajuk"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "Warna Tajuk"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "Hamparan Warna Tajuk"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "Gambar Tajuk"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "Posisi Gambar Header"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "Pengulangan Gambar Header"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "Ukuran Gambar Tajuk"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "Tata Letak Tajuk"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "Latar belakang tajuk"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "Kode tajuk"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "Teks tajuk"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "Pengaturan Tinggi"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "Satuan tinggi"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "Tersembunyi di desktop"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "Tersembunyi di ponsel"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "Judul tersembunyi di header lengket penuh di desktop"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "Judul tersembunyi dalam header lengket penuh di ponsel"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "Sembunyikan judul Situs"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "Sembunyikan tombol dengan tautan"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "Sembunyikan harga diskon"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "Sembunyikan hari kosong"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "Sembunyikan hanya di ponsel"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "Sembunyikan judul situs"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "Sembunyikan judul situs dan tagline"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "Sembunyikan tagline saja"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "Offset horisontal"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "Warna ikon"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "Jika diaktifkan, postingan tempel akan ditampilkan di bagian atas postingan yang terdaftar."
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "Gambar"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "Warna hamparan gambar"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "Posisi gambar"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "Pengulangan gambar"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "Ukuran gambar"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "Gambar-gambar"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "Tata Letak Impor"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "Impor dan ekspor halaman pengaturan tata letak akan dinonaktifkan"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "Impor selesai!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "Impor tata letak dari file"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "Impor paket Layout akan <strong>menghapus semua konten Anda</strong> - semua Posting, Halaman, Media, Tag, dan Kategori."
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "Dalam unit &quot;em&quot;"
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "bilah info"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "Infobar dapat digunakan untuk menampilkan pemberitahuan cookie di situs web Anda. Ini ditampilkan kepada semua pengunjung baru yang datang ke situs web Anda. Mereka dapat mengklik tombol untuk menyembunyikannya. Infobar kemudian disembunyikan selama beberapa hari, setel bidang &quot;Kedaluwarsa cookie&quot;."
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "Masukkan URL untuk tombol. Biarkan kosong untuk menyembunyikan tombol."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "Masukkan angka yang lebih besar dari %1$s, atau biarkan kosong untuk nilai default."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "Masukkan angka yang lebih besar dari %1$s."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "Masukkan angka yang lebih kecil dari %1$s, atau biarkan kosong untuk nilai default."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "Masukkan angka yang lebih kecil dari %1$s."
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "Sisipkan baris setelah"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "Sisipkan teks"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "Masukkan nomor yang valid, silakan."
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "Masukkan ID Pelacakan Google Analytics Anda. Kode pelacakan Google Analytics akan ditambahkan ke situs web Anda."
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "bayangan sisipan"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "Instal plugin yang diperlukan"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "Memasang dan mengaktifkan plugin…"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "Ini bukan paket Tata Letak Citadela"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "Sub judul barang"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "Nama barang"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "Besar"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "Ukuran besar"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "Eksportir Tata Letak"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "Fitur Layout Exporter mengekspor halaman WordPress, posting, dan semua opsi dan pengaturan Citadela. Anda dapat menggunakan Layout Exporter untuk membuat tata letak Citadela yang dapat Anda instal dengan mudah ke situs web Citadela lainnya."
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "Layout Importer harus menginstal ekstensi PHP ZIP. Silakan instal atau hubungi penyedia hosting Anda."
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "Tata letak pengaturan impor/ekspor"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "Tata letak"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "Impor dan ekspor tata letak dinonaktifkan"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "Kiri"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "Logo rata kiri"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "Sisi kiri"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "Spasi huruf"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "Lampu"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "Cahaya (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "Tinggi garis"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "Warna garis"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "Tautan"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "Tata letak daftar"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "Lokasi"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "Deskripsi lokasi"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "Judul lokasi"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "Lokasi:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "Ukuran font logo"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "Gambar logo di header khusus."
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "Lebar maksimum gambar logo"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "Lebar maksimum ruang logo"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "Menu utama"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "Sedang"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "Ukuran sedang"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "Keanggotaan"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "Warna tombol menu"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "Nilai minimum 1500px, biarkan kosong untuk lebar tak terbatas."
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "Tinggi minimum"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "Seluler"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "Pengaturan Seluler"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "Pengaturan seluler"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "Ukuran ponsel"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "Breakpoint lebar seluler"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "Modern"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "Senin"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "Turunkan"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "Naik"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "bidang nama"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "Lanjut"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "Tidak Ada Pengulangan"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "Tidak ada batas"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "Tidak ada pengulangan"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "Tidak ada hasil yang ditemukan."
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "Tidak ada halaman khusus yang ditemukan."
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "Tidak ada"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "Biasa (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "Catatan: judul halaman standar akan disembunyikan."
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "Jumlah item"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "Oke"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "Ups! Halaman itu tidak dapat ditemukan."
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "Buka di jendela baru"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "Buka tautan di tab baru"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "Area wig footer terbuka"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "Jam buka"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "Pengaturan Jam Buka"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "Opsi Pemesanan"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "Dipesan oleh"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "Asli"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "Warna overlay"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "Gradien overlay"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "Opasitas hamparan"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "Ekstensi ZIP PHP tidak ditemukan"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "Warna Halaman"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "Harap jangan tutup jendela browser ini sampai paket Layout diimpor sepenuhnya."
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "Harap dipahami bahwa Layout Exporter tidak mengekspor semuanya dari WordPress, seperti faktur WooCommerce atau data dari plugin pihak ketiga lainnya. Ada banyak plugin lain yang tersedia untuk tujuan migrasi."
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "Posisi"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "Posisi di situs web"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "Detail Posting"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "Postingan"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "Navigasi postingan"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "Pengaturan posting"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "Pratinjau hanya ditampilkan di layar Penyesuai."
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "Tabel Harga"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "Penyelarasan tabel harga"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Gradien radial"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "Acak"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "Baca selengkapnya tautan"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Tata letak Citadela siap digunakan"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "Tata letak dan blok siap pakai untuk Citadela dengan banyak opsi penyesuaian"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "Tema yang baru saja diaktifkan tidak kompatibel dengan plugin %s, oleh karena itu plugin dinonaktifkan."
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "Reguler"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "Hapus gambar"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "Ulang"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "Ulangi secara horizontal"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "Ulangi secara vertikal"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "Ganti label default bidang."
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "Ganti gambar"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "Plugin yang diperlukan"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "Mengatur ulang"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "Spacer Responsif"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "Teks Responsif"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "Opsi responsif diterapkan di bawah lebar layar"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "Blok yang dapat digunakan kembali"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "Pengaturan blok yang dapat digunakan kembali"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "Benar"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "Sisi kanan"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "Cari usia khusus"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "Hasil pencarian:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "Pilih Google Font untuk situs web Anda"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "Pilih paket Tata Letak"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "Pilih perataan"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "Pilih perataan pada desain seluler"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "Pilih jenis latar belakang"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "Pilih kombinasi warna untuk situs web Anda"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "Pilih berat font"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "Pilih gambar"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "Pilih tata letak"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "Pilih tata letak untuk tajuk situs web"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "Pilih tata letak untuk situs web Anda"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "Pilih ukuran"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "Semi-tebal"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "Melayani"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "Gambar Layanan"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "Teks deskripsi layanan"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "Judul layanan"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "Setel gambar latar belakang"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "Setel gambar khusus"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "Setel gambar logo khusus"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "Setel warna tajuk sebagai hamparan gambar latar belakang"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "Menyetel jika widget di footer dibuka atau ditutup secara default di ponsel setelah halaman dimuat. Berlaku jika widget yang dapat dilipat diaktifkan."
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "Pengaturan Disimpan"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "Pengaturan untuk menu utama di header"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "Pengaturan untuk tajuk situs"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "Pengaturan Bayangan"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "Warna bayangan"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "Tunjukkan selalu"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "Tampilkan tombol dengan tautan"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "Tampilkan kategori"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "Tampilkan tanggal"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "Tampilkan deskripsi"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "Tampilkan harga diskon"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "Tampilkan gambar unggulan"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "Tampilkan tajuk di atas konten"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "Tampilkan ikon"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "Tampilkan gambar"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "Tampilkan gambar sebagai ikon"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "Tampilkan di menu"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "Tampilkan tautan untuk mengelola blok yang dapat digunakan kembali di menu admin"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "Tampilkan lokasi"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "Tampilkan hanya di ponsel"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "Tampilkan jam buka di situs web Anda."
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "Tampilkan atau sembunyikan blok Cluster hanya pada ukuran layar seluler."
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "Tampilkan pratinjau Bilah Pengumuman"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "Tampilkan header transparan tanpa pengaturan latar belakang tambahan."
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "Tampilkan situs web"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "Sederhana"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "Tata letak sederhana"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "Pengaturan sederhana"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "Pengaturan sederhana memungkinkan Anda menampilkan teks dan tombol sederhana di bilah pengumuman. Warna dapat disesuaikan melalui penyesuai WordPress."
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "Gaya teks sederhana"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "Gaya tipografi yang disederhanakan untuk halaman posting blog"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "Warna tunggal"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "Hamparan warna tunggal"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "Ukuran untuk jenis tata letak Konten, Lebar, dan Lebar Penuh yang digunakan dalam desain."
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "Lewati jumlah posting dari awal"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "Kecil"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "Ukuran kecil"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "Ruang di sekitar logo"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "Spasi di sekitar tombol menu"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "Tinggi pengatur jarak dalam"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Pengaturan pengatur jarak"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "Pengaturan Spasi"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Halaman Khusus"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Halaman Khusus"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Halaman Khusus"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "Wadah khusus yang selalu lebar penuh jika tidak ada sidebar atau kolom. Anda dapat memasukkan blok lain di sana dan mengatur latar belakang wadah."
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "Halaman khusus diperbarui."
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "Daftar halaman khusus"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "Navigasi daftar halaman khusus"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "Menyebar radius"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "Header lengket di desktop"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "Header lengket di ponsel"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "Pengaturan tajuk lengket"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "Postingan lengket dulu"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "Gaya"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "Subjudul"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "Warna subjudul"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "Minggu"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "Subjudul tabel"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "Judul tabel"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "Deskripsi tag"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "Nama tag"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Terjadi kesalahan saat mengunduh tata letak"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "Teks"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "Font Teks"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "Perataan teks"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "Warna teks"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "Warna teks di header khusus."
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "Teks ditampilkan di Infobar. Ini dapat berisi pemformatan HTML seperti URL untuk ditautkan ke persyaratan atau kebijakan privasi Anda."
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "Teks ditampilkan pada tombol di bilah pengumuman. Biarkan kosong untuk menyembunyikan tombol."
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "Teks yang ditampilkan pada tombol. Jika tidak ada teks yang ditentukan, tanda X akan digunakan untuk menutup Infobar."
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "Teks pengumuman"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Terima kasih telah mengaktifkan Citadela Pro."
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "Plugin %s tidak dapat diaktifkan. Ini tidak kompatibel dengan tema aktif saat ini."
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "Tata Letak Citadela membutuhkan plugin ini. Plugin yang diperlukan akan diinstal dan diaktifkan secara otomatis. Jika Anda tidak memiliki akses ke salah satu plugin, beberapa halaman mungkin tidak lengkap."
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "Konten tidak dapat diimpor."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "Prosesnya bisa memakan waktu antara 30 detik hingga 30 menit tergantung pada ukuran paket Tata Letak dan kecepatan koneksi (terutama karena mengunduh gambar demo)."
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "Tata Letak Tema"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "Terjadi kesalahan saat memasang plugin"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "Batas tebal"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "Tipis"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "Batas tipis"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "Pengaturan ini menentukan apakah akan menggunakan gaya Citadela kami di plugin %1$sKalender Acara%2$s atau menggunakan gaya plugin."
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "Kamis"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "Ubin"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "Ubin Secara Horizontal"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "Ubin Vertikal"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "Judul"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "Warna judul"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "Judul Font"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "Gaya Judul"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "Untuk mengedit gambar, Anda memerlukan izin untuk mengunggah media."
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "Atas"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "Atas"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "Kiri Atas"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "Kanan atas"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "ID Pelacakan"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "Melacak privasi"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "Header transparan"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "Selasa"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "Aktifkan fungsionalitas bilah Pengumuman"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "Aktifkan fungsi ekstensi Komentar"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "Jenis"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "Ketik untuk pencarian..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "Tipografi"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "Unggah file gambar atau pilih salah satu dari perpustakaan media Anda."
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "File ZIP yang diunggah bukan paket Citadela Layout atau paket Layout lama yang tidak kompatibel. Silakan unduh paket terbaru dari akun AitThemes Anda."
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "Mengunggah…"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "Url dari teks komentar editor akan dihapus. Diterapkan untuk peran pengguna dengan kemampuan edit posting seperti Kontributor dan lebih tinggi."
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "Url dari teks komentar tamu akan dihapus"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "Url dari teks komentar non-editor akan dihapus. Diterapkan untuk peran pengguna tanpa kemampuan mengedit posting seperti Pelanggan."
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Gunakan gaya Citadela"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "Gunakan Infobar di situs web Anda"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "Gunakan tajuk khusus"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "Gunakan pengaturan lebar khusus"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "Gunakan font default"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "Gunakan bobot font default"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "Gunakan opsi responsif"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "Menggunakan ukuran font dari desain tema."
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "Menggunakan spasi huruf dari desain tema."
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "Menggunakan tinggi garis dari desain tema."
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "Offset vertikal"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "Lihat tata letak"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "Lihat lebih banyak"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "Visibilitas di ponsel"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "Blok Tombol WP"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Kami menyimpan email Anda sehingga kami dapat berkomunikasi dengan Anda tentang produk dan layanan kami. Untuk perincian lebih lanjut, silakan lihat <a href=\"#\">kebijakan privasi kami</a> ."
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Kami menyimpan nama Anda sehingga kami dapat berkomunikasi dengan Anda tentang produk dan layanan kami. Untuk perincian lebih lanjut, silakan lihat <a href=\"#\">kebijakan privasi kami</a> ."
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Kami menyimpan URL situs web Anda sehingga kami dapat berkomunikasi dengan Anda tentang produk dan layanan kami. Untuk perincian lebih lanjut, silakan lihat <a href=\"#\">kebijakan privasi kami</a> ."
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "Kami mengimpor paket Layout..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Kami melihat bahwa Anda menjalankan versi PHP lama yang tidak lagi didukung, oleh karena itu <em>plugin dinonaktifkan</em> . Pastikan situs Anda cepat dan aman, dengan <a href='%1$s'>mengupgrade PHP ke versi terbaru</a> . Persyaratan minimal untuk %2$s adalah <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Kami melihat Anda menjalankan versi WordPress yang sudah ketinggalan zaman, oleh karena itu <em>plugin dinonaktifkan</em> . Pastikan situs Anda aman dan mutakhir, dengan <a href='%1$s'>memperbarui WordPress ke versi terbaru</a> . Persyaratan minimal untuk %2$s adalah <strong>WordPress 5.2</strong> ."
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "Bidang URL situs web"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "Lebar"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "Ukuran lebar"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "Lebar ukuran lebar"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "Area widget di footer dapat dibuka atau ditutup di ponsel."
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "Pengaturan Lebar"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "Dengan pengaturan lanjutan, Anda memiliki kontrol penuh atas html dan gaya untuk bilah pengumuman Anda."
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "Anda dapat mengimpor salah satu Tata Letak Citadela yang tersedia."
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Komentar Anda membantu kami untuk meningkatkan produk dan layanan kami sehingga kami terus merekamnya. Kami menggunakan komentar juga untuk referensi di masa mendatang. Untuk perincian lebih lanjut, silakan lihat <a href=\"#\">kebijakan privasi kami</a> ."
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "Konten Anda saat ini akan dihapus"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "file ZIP"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "teks tombol"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "atau"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "baca lebih banyak teks"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "teks baris..."

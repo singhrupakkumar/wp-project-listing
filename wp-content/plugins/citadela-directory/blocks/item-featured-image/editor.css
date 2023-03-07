@@ -1,0 +1,42 @@
+/*
+*	ITEM FEATURED IMAGE: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-block-item-featured-image .ft-image-thumb					{ text-align: center; }
+.ctdl-block-item-featured-image.align-center .ft-image-thumb	{ text-align: center; }
+.ctdl-block-item-featured-image.align-left .ft-image-thumb		{ text-align: left; }
+.ctdl-block-item-featured-image.align-right .ft-image-thumb		{ text-align: right; }
+
+.ctdl-block-item-featured-image .ft-image-thumb			{ margin-top: 14px;  background-color: rgba(200,200,200,0.2); }
+.ctdl-block-item-featured-image .ft-image				{ display: inline-block; width: 100%; max-width: 100%; height: 15vw; min-height: 220px; text-align: center; background-color: rgba(200,200,200,0.5); position: relative; color: #ffffff; vertical-align: top; }
+.ctdl-block-item-featured-image .ft-image:before        { content: "\f03e"; font-size: 100px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 400; }
+
+.ctdl-block-item-featured-image.size-large .ft-image				{ width: 94%; max-width: 1024px; height: 15vw; min-height: 200px; margin-top: 3%; margin-bottom: 3%; }
+.ctdl-block-item-featured-image.size-medium .ft-image				{ width: 80%; max-width: 300px; height: 14vw; min-height: 175px; margin-top: 3%; margin-bottom: 3%; }
+.ctdl-block-item-featured-image.size-medium .ft-image:before		{ font-size: 80px; }
+.ctdl-block-item-featured-image.size-thumbnail .ft-image			{ width: 50%; max-width: 150px; height: 10vw; min-height: 150px; margin-top: 3%; margin-bottom: 3%; }
+.ctdl-block-item-featured-image.size-thumbnail .ft-image:before		{ font-size: 60px; }
+.ctdl-block-item-featured-image.size-citadela_service .ft-image     { width: 480px; max-width: 94%; height: 15vw; min-height: 200px; margin-top: 3%; margin-bottom: 3%; }
+
+.wp-block-column > .wp-block[data-type="citadela-directory/item-featured-image"][data-cover-height="true"]:first-child:last-child:not(.is-selected)		{ height: calc(100% - 56px); } /*** space for column paddings ***/
+.wp-block-column > .wp-block[data-type="citadela-directory/item-featured-image"][data-cover-height="true"]:first-child:nth-last-child(2).is-selected,
+.wp-block-column.is-selected > .wp-block[data-type="citadela-directory/item-featured-image"][data-cover-height="true"]:first-child:nth-last-child(2)	{ height: calc(100% - 85px); } /*** space for div.block-list-appender ***/
+
+.ctdl-block-item-featured-image.cover-height							{ height: 100%; position: relative; padding: 0; }
+.ctdl-block-item-featured-image.cover-height .ctdl-blockcard-title    	{ position: absolute; top: 0; left: 0; right: 0; z-index: 10; margin: 0; }
+.ctdl-block-item-featured-image.cover-height .ft-image-thumb,
+.ctdl-block-item-featured-image.cover-height .ft-image,
+.ctdl-block-item-featured-image.cover-height .ft-image a,
+.ctdl-block-item-featured-image.cover-height .ft-image img				{ width: 100%; height: 100%; margin: 0; max-width: none; }
+.ctdl-block-item-featured-image.cover-height .ft-image:before			{ top: calc(50% + 30px); }
+
+.ctdl-block-item-featured-image[class*='position-'] .ft-image:after		{ content: "\f35b"; font-family: 'Font Awesome 5 Free'; font-weight: 400; font-size: 26px; display: block; width: 28px; height: 28px; text-align: center; line-height: 28px; position: absolute; }
+.ctdl-block-item-featured-image.position-top-right .ft-image:after      { top: 5px; right: 5px; transform: rotate(45deg); }
+.ctdl-block-item-featured-image.position-top-center .ft-image:after     { top: 5px; left: 50%; margin-left: -14px; transform: rotate(0deg); }
+.ctdl-block-item-featured-image.position-top-left .ft-image:after       { top: 5px; left: 5px; transform: rotate(-45deg); }
+.ctdl-block-item-featured-image.position-center-right .ft-image:after   { top: 50%; margin-top: -14px; right: 5px; transform: rotate(90deg); }
+.ctdl-block-item-featured-image.position-center-center .ft-image:after	{ display: none; }
+.ctdl-block-item-featured-image.position-center-left .ft-image:after    { top: 50%; margin-top: -14px; left: 5px; transform: rotate(-90deg); }
+.ctdl-block-item-featured-image.position-bottom-right .ft-image:after   { bottom: 5px; right: 5px; transform: rotate(135deg); }
+.ctdl-block-item-featured-image.position-bottom-center .ft-image:after  { bottom: 5px; left: 50%; margin-left: -14px; transform: rotate(180deg); }
+.ctdl-block-item-featured-image.position-bottom-left .ft-image:after    { bottom: 5px; left: 5px; transform: rotate(-135deg); }

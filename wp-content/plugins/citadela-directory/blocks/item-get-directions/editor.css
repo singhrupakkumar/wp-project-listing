@@ -1,0 +1,8 @@
+/*
+*	ITEM GET DIRECTIONS: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-item-get-directions .button-wrapper 						{ display: inline-block; max-width: 100%; height: auto; text-align: center; white-space: normal; box-sizing: border-box; vertical-align: top; }
+.ctdl-item-get-directions:not(.text-style) .button-wrapper  		{ background: #cccccc; color: #ffffff; border-radius: 4px; line-height: 1.3; }
+.ctdl-item-get-directions.small-button-style .button-wrapper  	{ padding: 6px 20px; font-size: 14px; }
+.ctdl-item-get-directions.large-button-style .button-wrapper 	{ padding: 12px 30px; font-size: 18px; }

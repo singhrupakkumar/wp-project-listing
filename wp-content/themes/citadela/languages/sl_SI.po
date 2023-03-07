@@ -1,0 +1,687 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sl\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s razmišljanje o »%2$s«"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "Nezdružljivost teme %s in vtičnikov AIT"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "Nezdružljivost teme %s in PHP"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "Nezdružljivost teme %s in različice WordPress"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "Območje pripomočkov 404 strani"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API ključ"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Dodajte več razredov, ločenih s presledkom."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Doda seznam Gutenbergovih blokov in funkcij, kot so zemljevid, GPX, objave v blogih na zemljevidu ali naročnine."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Skrbnik → Seznam Citadela → Aktivacija vtičnika"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Skrbnik → Tema Citadela"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Skrbnik → Nastavitve → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Videz"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Nastavitve videza za vaše spletno mesto"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Območje gradnikov za arhive"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Avtorski arhiv:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Območje pripomočkov na spletni strani"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Arhiv kategorij:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela je aktivirana"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Nadzorna plošča Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Postavitve Citadele"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Seznam Citadele"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Nastavitve strani Citadela"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Citadela Post Settings"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Vtičnik Citadela Pro je nameščen."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Tema Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Dokumentacija Citadele vključuje vse, kar potrebujete za razumevanje delovanja tem in vrhunskih vtičnikov. Napisano je za vas in druge uporabnike, da čim hitreje spoznate našo temo. Dokumentacija se dnevno posodablja. Vključuje opis novih funkcij in pogosta vprašanja naše podpore."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela je brezplačna večnamenska tema WordPress, ki jo je ustvaril AitThemes. Uporabljate ga lahko brez kakršnih koli omejitev na svojem komercialnem ali nekomercialnem spletnem mestu."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela je brezplačna večnamenska tema WordPress. Uporabljate ga lahko brez kakršnih koli omejitev na svojem komercialnem ali nekomercialnem spletnem mestu. Vendar pa lahko naši vrhunski vtičniki vaše spletno mesto premaknejo na povsem novo raven!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Komentiraj <span class=\"screen-reader-text\">%s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Komentarji so zaprti."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "Komentarji <span class=\"screen-reader-text\">na %s</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Komentarji <span class=\"screen-reader-text\">na %s</span>"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "Ustvarjeno s temo Citadela WordPress s strani AitThemes"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Razred CSS po meri"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Pomoč strankam"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Prilagodite barve, pisave in postavitev. Dodaja prilagojene bloke za urejevalnik Gutenberg WordPress."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Datumski arhiv:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "domena"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Prenesite postavitve"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Uredi <span class=\"screen-reader-text\">%s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato koda za nakup"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Napaka pri namestitvi vtičnika"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Napaka pri namestitvi"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Članstvo je poteklo"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Raziščite postavitve Citadela"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Hitra, lahka in enostavna za uporabo večnamenska tema. Razvito za bloke in graditelj strani Gutenberg. Najboljše za poslovna, osebna spletna mesta in bloge."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Besedilo v nogi"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "Meni v nogi"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Območje pripomočkov v nogi"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Stran polne širine"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Postavitev glave"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Koristna dokumentacija"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Skrij razdelek z naslovi strani"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "Skrij naslov in slogan spletnega mesta"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "Skrij naslov in slogan spletnega mesta na namizju"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Skrij naslov in slogan spletnega mesta v mobilni napravi"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Skrij samo slogan"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Območje domačih pripomočkov"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Namestite vtičnike Citadela"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Namestite vtičnike Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Nameščeno"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Namestitev ..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Neveljaven ključ API za to domeno"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Neveljavna koda nakupa za to domeno"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Videti je, da na tej lokaciji ni bilo nič najdenega. Mogoče poskusite katero od spodnjih povezav ali iskanje?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Zdi se, da ne najdemo tistega, kar iščete. Morda lahko iskanje pomaga."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Paket postavitve"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Nauči se več"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Stran na levi stranski vrstici"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "Lokacija"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO Koda za nakup"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Glavni meni"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Naslednji"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Nobena"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Nič ni bilo najdeno"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Ena misel o »%1$s«"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Te strani ni mogoče najti."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Območje pripomočkov strani"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "Strani:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Dovoljenje zavrnjeno."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Vnesite veljaven ključ API za to domeno. Konfigurirate ga lahko v %s."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Vnesite veljavno nakupno kodo za to domeno. Konfigurirate ga lahko v %s."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Prosimo, poskusite pozneje preveriti aktivacijo izdelka tukaj:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Vključiti"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "Objavljeno v"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "Objavljeno na"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Območje pripomočkov za objave"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Vtičniki Premium Citadela so nameščeni."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Premium funkcija"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Premium vtičnik"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Prejšnji"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Pro funkcije"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Koda nakupa"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "Nakupna koda %1$s je že uporabljena na »%2$s«. Če ga želite uporabiti na tem spletnem mestu, ga lahko %3$sodjavite tukaj%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "Koda nakupa je že uporabljena"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ste pripravljeni objaviti svojo prvo objavo? <a href=\"%1$s\">Začnite tukaj</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Pripravljene za uporabo Citadela postavitve"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Za uporabo pripravljene postavitve Citadela z enim klikom namestite in v nekaj minutah zaženete novo spletno mesto."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Odstranite prostor pod glavo"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Desna stranska stran"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Shrani"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Rezultati iskanja:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Območje pripomočkov z rezultati iskanja"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "Nastavitve za glavo spletnega mesta"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Preskoči na vsebino"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Žal se nič ne ujema z vašimi iskalnimi izrazi. Poskusite znova z različnimi ključnimi besedami."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Začnite brati"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Arhiv oznak:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Označeno"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Hvala, ker ste namestili temo Citadela podjetja AitThemes"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Hvala, ker uporabljate vrhunske vtičnike Citadela. Kot plačilna stranka AitThemes imate dostop do našega foruma za podporo in dokumentacije."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "Ključ API za localhost ni potreben."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Themely Nakupna koda"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Pri nameščanju vtičnika je prišlo do napake."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Na tej spletni strani se izvaja preizkusna različica izdelkov Citadela. Za aktiviranje spletne strani kupite članstvo. %1$sOgled razpoložljivih članstev%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Usposobljena ekipa za podporo vam bo pomagala, da hitro začnete delati na vaši spletni strani. Naš cilj je, da vas naučimo, kako učinkovito in na pravi način uporabljati naše izdelke. Podporni sistem je popolnoma zaupen in zaprt, tam lahko postavite kakršna koli vprašanja v zvezi z našo temo, ki vam je všeč. Upoštevajte, da ne izvajamo nobenih prilagoditev. Obstaja veliko oblikovalcev lokacij, ki vam bodo z veseljem pomagali z vašimi idejami po meri."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Obiščite podporo"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Trenutno ne moremo preveriti vašega ključa API."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "Vaše kode nakupa trenutno ne moremo preveriti."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "Ustvarili smo tudi premium različice Citadele, ki bodo vaše spletno mesto premaknile na povsem novo raven."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Opazili smo, da uporabljate Citadela nezdružljive vtičnike AIT (%s), zato smo jih deaktivirali."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Opazili smo, da uporabljate zastarelo različico PHP, ki ni več podprta. Poskrbite, da bo vaše spletno mesto hitro in varno, tako da <a href='%1$s'>nadgradite PHP na najnovejšo različico</a> . Minimalna zahteva za %2$s je <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Opazili smo, da uporabljate zastarelo različico WordPressa. Prepričajte se, da je vaše spletno mesto varno, tako da <a href='%1$s'>posodobite WordPress na najnovejšo različico</a> . Minimalna zahteva za %2$s je <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "Pripomočki, prikazani v nogi."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "Pripomočki prikazani na strani 404."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "Pripomočki, prikazani na strani Trgovina."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Pripomočki, prikazani na arhivskih straneh."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "Pripomočki, prikazani na spletni strani."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "Pripomočki, prikazani na domači strani."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Pripomočki, prikazani na straneh."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "Pripomočki, prikazani na objavah."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "Pripomočki, prikazani na strani z rezultati iskanja."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Z našimi postavitvami tem Citadela WordPress vam ni treba najeti oblikovalca, ki bi vam pomagal narediti vaše spletno mesto videti profesionalno. Naši oblikovalci so to že naredili za vas. Citadela WordPress postavitve so skrbno oblikovane tako, da ustrezajo vašemu podjetju. Vse kar potrebujete je, da spremenite vsebino, da predstavite svoje delo. To vam prihrani čas in denar."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Območje pripomočkov Woocommerce Shop"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "Kodo za nakup najdete v svojem %1$sEnvato računu → Prenosi%2$s pod gumbom Prenesi."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "Kodo za nakup najdete v svojem računu %1$sMOJO → Teme%2$s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Kodo za nakup najdete v e-pošti o nakupu od Themely."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Ključ API za to domeno lahko ustvarite v svojem računu %1$saccount%2$s."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Lahko uvozite katero koli od teh postavitev, da začnete graditi svoje spletno mesto. Postavitev je mogoče uvoziti s pomočjo vtičnika Citadela Pro."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Lahko uvozite katero koli od teh postavitev, da začnete graditi svoje spletno mesto. Postavitev je mogoče uvoziti s pomočjo vtičnika Citadela Pro. Pakete postavitve najdete v glavni datoteki zip, ki jo lahko prenesete iz Themeforest."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Brezplačno lahko preizkusite celotno različico vrhunskih funkcij Citadela."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Brezplačno lahko preizkusite celotno različico vrhunskih funkcij Citadela. Za spletno mesto v živo potrebujete aktivno članstvo in veljaven ključ API za to domeno. %1$sOglejte si razpoložljiva članstva%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Nimate dovoljenja za namestitev vtičnikov."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Če želite uporabljati vrhunske funkcije Citadele, morate vnesti %1$s. En %1$s vam bo omogočil zagon Citadele na enem URL-ju. Zagotovil bo tudi samodejne posodobitve tem in vtičnikov."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "To boste potrebovali za ustvarjanje ključa API"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Vaše članstvo je poteklo. Lahko %1$podaljšate tukaj%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "od"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "avtorja AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

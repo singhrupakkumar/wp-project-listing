@@ -1,0 +1,9 @@
+/*
+*	CUSTOM PAGE TITLE: Citadela Block editor and frontend css
+*/
+.citadela-block-page-title.loading 				{ display: none; }
+.citadela-block-page-title.align-left			{ text-align: left; }
+.citadela-block-page-title.align-center			{ text-align: center; }
+.citadela-block-page-title.align-right			{ text-align: right; }
+
+.citadela-block-page-title .page-title .entry-subtitle .ctdl-subtitle a		{ color: currentColor; }

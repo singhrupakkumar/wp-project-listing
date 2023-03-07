@@ -1,0 +1,18 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/directory-sublocations-list",
+	"category": "citadela-directory-blocks",
+	"icon": "admin-site-alt3",
+	"attributes": {
+		"onlyFeatured": {
+            "type": "boolean",
+            "default": false
+        }
+	},
+	"example": {
+		"attributes": {
+			"size": "small"
+		}
+	},
+	"editorScript": "citadela-directory-blocks"
+}

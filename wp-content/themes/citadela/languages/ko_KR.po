@@ -1,0 +1,684 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ko\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s이(가) &quot;%2$s&quot;에 대해 생각했습니다."
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s 테마 및 AIT 플러그인 비호환성"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s 테마 및 PHP 비호환성"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s 테마 및 WordPress 버전 비호환성"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 페이지 위젯 영역"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API 키"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "공백으로 구분된 클래스를 더 추가합니다."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "지도, GPX, 지도의 블로그 게시물 또는 구독과 같은 구텐베르크 블록 및 기능 목록을 추가합니다."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "관리자 → Citadela 목록 → 플러그인 활성화"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "관리자 → Citadela 테마"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "관리자 → 설정 → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "아이트테마"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "모습"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "웹사이트의 모양 설정"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "아카이브 위젯 영역"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "저자 아카이브:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "블로그 페이지 위젯 영역"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "카테고리 아카이브:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "시타델라"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "시타델라 활성화"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "시타델라 대시보드"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "시타델라 레이아웃"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "시타델라 목록"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "시타델라 페이지 설정"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "시타델라 포스트 설정"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "시타델라 프로"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Citadela Pro 플러그인이 설치되었습니다."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "시타델라 테마"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Citadela 문서에는 테마 및 프리미엄 플러그인이 작동하는 방식을 이해하는 데 필요한 모든 것이 포함되어 있습니다. 귀하와 다른 사용자가 가능한 한 빨리 테마를 알 수 있도록 작성되었습니다. 문서는 매일 업데이트됩니다. 새로운 기능에 대한 설명과 지원팀에서 자주 묻는 질문이 포함되어 있습니다."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela는 AitThemes에서 만든 무료 다목적 WordPress 테마입니다. 상업적 또는 비상업적 웹사이트에서 제한 없이 사용할 수 있습니다."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela는 무료 다목적 WordPress 테마입니다. 상업적 또는 비상업적 웹사이트에서 제한 없이 사용할 수 있습니다. 그러나 프리미엄 플러그인을 사용하면 웹사이트를 완전히 새로운 수준으로 끌어올릴 수 있습니다!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "<span class=\"screen-reader-text\">%s에 대한</span> 댓글"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "댓글이 닫혔습니다."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "<span class=\"screen-reader-text\">%s에 대한</span> 댓글"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s에 대한</span> 댓글"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "AitThemes의 Citadela WordPress 테마로 제작"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "사용자 정의 CSS 클래스"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "고객 지원"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "색상, 글꼴 및 레이아웃을 사용자 정의합니다. Gutenberg WordPress 편집기용 맞춤형 블록을 추가합니다."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "날짜 아카이브:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "도메인"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "레이아웃 다운로드"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> 수정"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato 구매 코드"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "플러그인 설치 오류"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "설치 오류"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "만료된 회원"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Citadela 레이아웃 살펴보기"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "빠르고 가볍고 사용하기 쉬운 다목적 테마. Blocks 및 Gutenberg 페이지 빌더용으로 개발되었습니다. 비즈니스, 개인 웹 및 블로그에 가장 적합합니다."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "바닥글 텍스트"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "바닥글 메뉴"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "바닥글 위젯 영역"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "전각 페이지"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "헤더 레이아웃"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "유용한 문서"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "페이지 제목 섹션 숨기기"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "사이트 제목 및 태그라인 숨기기"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "데스크탑에서 사이트 제목 및 태그라인 숨기기"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "모바일에서 사이트 제목 및 태그라인 숨기기"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "태그라인만 숨기기"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "홈 위젯 영역"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Citadela 플러그인 설치"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Citadela 플러그인 설치"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "설치됨"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "설치 중..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "이 도메인에 대한 잘못된 API 키"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "이 도메인에 대한 잘못된 구매 코드"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "이 위치에서 아무것도 발견되지 않은 것 같습니다. 아래 링크 중 하나를 시도하거나 검색을 시도하시겠습니까?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "당신이 찾고 있는 것을 찾을 수 없는 것 같습니다. 아마도 검색이 도움이 될 것입니다."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "레이아웃 팩"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "더 알아보기"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "왼쪽 사이드바 페이지"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "위치"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO 구매 코드"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "메인 메뉴"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "다음"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "없음"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "아무것도 찾을 수 없음"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "&quot;%1$s&quot;에 대한 한 가지 생각"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "앗! 해당 페이지를 찾을 수 없습니다."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "페이지 위젯 영역"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "페이지:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "권한이 거부되었습니다."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "이 도메인에 유효한 API 키를 입력하십시오. %s에서 구성할 수 있습니다."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "이 도메인에 대한 유효한 구매 코드를 입력하십시오. %s에서 구성할 수 있습니다."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "나중에 여기에서 제품 활성화를 확인하십시오."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "플러그인"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "에 게시 됨"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "게시일"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "게시물 위젯 영역"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "프리미엄 Citadela 플러그인이 설치되었습니다."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "프리미엄 기능"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "프리미엄 플러그인"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "이전의"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "프로 기능"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "구매 코드"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "구매 코드 %1$s은(는) &quot;%2$s&quot;에서 이미 사용 중입니다. 이 웹사이트에서 사용하려면 %3$s여기에서 등록을 취소%4$s할 수 있습니다."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "구매 코드는 이미 사용 중입니다."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 게시물을 게시할 준비가 되셨습니까? <a href=\"%1$s\">여기에서 시작하세요</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Citadela 레이아웃을 사용할 준비가 되었습니다."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "클릭 한 번으로 바로 사용할 수 있는 Citadela 레이아웃을 설치하면 몇 분 안에 새 웹사이트를 시작할 수 있습니다."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "헤더 아래 공백 제거"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "오른쪽 사이드바 페이지"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "구하다"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "에 대한 검색 결과:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "검색 결과 위젯 영역"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "사이트 헤더 설정"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송합니다. 검색어와 일치하는 항목이 없습니다. 다른 키워드로 다시 시도하십시오."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "읽기 시작"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "태그 아카이브:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "태그가 지정된"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "AitThemes의 Citadela 테마를 설치해 주셔서 감사합니다."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "프리미엄 Citadela 플러그인을 사용해 주셔서 감사합니다. 유료 AitThemes 고객은 지원 포럼 및 문서에 액세스할 수 있습니다."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "localhost용 API 키는 필요하지 않습니다."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "테마 구매 코드"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "플러그인을 설치하는 동안 오류가 발생했습니다."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "이 웹사이트는 Citadela 제품의 평가판을 실행하고 있습니다. 웹사이트를 활성화하려면 멤버십을 구매하세요. %1$s사용 가능한 멤버십 보기%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "숙련된 지원 팀이 웹사이트 작업을 빠르게 시작할 수 있도록 도와드립니다. 우리의 목표는 제품을 효율적이고 올바른 방법으로 사용하는 방법을 가르치는 것입니다. 지원 시스템은 완전히 기밀이며 폐쇄적입니다. 원하는 주제에 대해 질문할 수 있습니다. 사용자 정의 작업을 수행하지 않음을 유의하십시오. 맞춤형 아이디어를 기꺼이 도와줄 로케이션 디자이너가 많이 있습니다."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "지원 방문"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "지금은 API 키를 확인할 수 없습니다."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "지금은 구매 코드를 확인할 수 없습니다."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "또한 웹사이트를 완전히 새로운 차원으로 끌어올릴 프리미엄 버전의 Citadela도 만들었습니다."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Citadela와 호환되지 않는 AIT 플러그인(%s)을 실행 중인 것으로 확인되어 비활성화했습니다."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "더 이상 지원되지 않는 오래된 버전의 PHP를 실행하고 있는 것으로 나타났습니다. <a href='%1$s'>PHP를 최신 버전으로 업그레이드</a> 하여 사이트가 빠르고 안전한지 확인하십시오. %2$s에 대한 최소 요구 사항은 <strong>PHP 5.6.20</strong> 입니다."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "오래된 버전의 WordPress를 실행하고 있는 것으로 나타났습니다. <a href='%1$s'>WordPress를 최신 버전으로 업데이트</a> 하여 사이트가 안전한지 확인하세요. %2$s에 대한 최소 요구 사항은 <strong>WordPress 5.2</strong> 입니다."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "바닥글에 표시되는 위젯입니다."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "404 페이지에 위젯이 표시됩니다."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "쇼핑 페이지에 표시되는 위젯."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "아카이브 페이지에 표시되는 위젯."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "블로그 페이지에 표시되는 위젯."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "홈 페이지에 표시되는 위젯."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "페이지에 표시되는 위젯."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "게시물에 표시되는 위젯."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "검색 결과 페이지에 표시되는 위젯."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Citadela WordPress 테마 레이아웃을 사용하면 웹사이트를 전문적으로 보이게 하기 위해 디자이너를 고용할 필요가 없습니다. 우리 디자이너는 이미 당신을 위해 그것을 만들었습니다. Citadela WordPress 레이아웃은 귀하의 비즈니스에 맞게 신중하게 설계되었습니다. 콘텐츠를 변경하여 작업을 표시하기만 하면 됩니다. 시간과 비용을 절약할 수 있습니다."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Woocommerce Shop 위젯 영역"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "구매 코드는 %1$sEnvato 계정 → 다운로드 버튼 아래 다운로드%2$s에서 찾을 수 있습니다."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "구매 코드는 %1$sMOJO 계정 → Themes%2$s에서 찾을 수 있습니다."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Themely의 구매 이메일에서 구매 코드를 찾을 수 있습니다."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "%1$saccount%2$s에서 이 도메인에 대한 API 키를 생성할 수 있습니다."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "이러한 레이아웃을 가져와 웹사이트 구축을 시작할 수 있습니다. Citadela Pro 플러그인을 사용하여 레이아웃을 가져올 수 있습니다."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "이러한 레이아웃을 가져와 웹사이트 구축을 시작할 수 있습니다. Citadela Pro 플러그인을 사용하여 레이아웃을 가져올 수 있습니다. 레이아웃 패키지는 Themeforest에서 다운로드할 수 있는 기본 zip 파일에서 찾을 수 있습니다."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "프리미엄 Citadela 기능의 전체 버전을 무료로 테스트할 수 있습니다."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "프리미엄 Citadela 기능의 전체 버전을 무료로 테스트할 수 있습니다. 라이브 웹사이트의 경우 활성 멤버십과 이 도메인에 대한 유효한 API 키가 필요합니다. %1$s사용 가능한 멤버십 보기%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "플러그인을 설치할 권한이 없습니다."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "프리미엄 Citadela 기능을 사용하려면 %1$s를 입력해야 합니다. 하나의 %1$s로 하나의 URL에서 Citadela를 실행할 수 있습니다. 또한 테마 및 플러그인에 대한 자동 업데이트를 보장합니다."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "API 키를 생성하려면 이것이 필요합니다."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "귀하의 멤버십이 만료되었습니다. 여기에서 %1$갱신할 수 있습니다.%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "~에 의해"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "by AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

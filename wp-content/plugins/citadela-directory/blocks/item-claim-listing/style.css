@@ -1,0 +1,51 @@
+/*
+*	ITEM CLAIM LISTING: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-claim-listing 								{ margin-bottom: 1.5rem; position: relative; }
+.ctdl-item-claim-listing h2								{ margin-top: 0; }
+.ctdl-item-claim-listing h2:before,
+.ctdl-item-claim-listing h2:after						{ display: none; }
+.ctdl-item-claim-listing > .claim-listing-button		{ margin-bottom: 1em; }  
+
+.ctdl-item-claim-listing .claim-listing-form,
+.ctdl-item-claim-listing .claim-listing-notification    { padding: 40px; border: 1px solid #cccccc; position: relative; z-index: 0; }
+.ctdl-item-claim-listing .claim-listing-notification	{ padding-top: 20px; padding-bottom: 20px; }
+
+.ctdl-item-claim-listing.align-left 						{ text-align: left; }
+.ctdl-item-claim-listing.align-center 						{ text-align: center; }
+.ctdl-item-claim-listing.align-right 						{ text-align: right; }
+.ctdl-item-claim-listing.align-right .claim-listing-form    { text-align: left; }
+
+.ctdl-item-claim-listing .claim-listing-button > button							{ cursor: pointer; display: inline-block; max-width: 100%; height: auto; text-align: center; white-space: normal; box-sizing: border-box; vertical-align: top; }
+.ctdl-item-claim-listing:not(.text-style) .claim-listing-button > button 		{ background: #000000; color: #ffffff; border-radius: 4px; line-height: 1.3; }
+.ctdl-item-claim-listing.small-button-style > .claim-listing-button > button 	{ padding: 6px 20px; font-size: 14px; }
+.ctdl-item-claim-listing.large-button-style > .claim-listing-button > button 	{ padding: 12px 30px; font-size: 18px; }
+
+.ctdl-item-claim-listing .input-container:not(.claim-listing-button)		{ margin-bottom: 0.5em;}
+.ctdl-item-claim-listing .input-container.email label						{ display: none; }
+.ctdl-item-claim-listing .input-container.username label					{ display: none; }
+.ctdl-item-claim-listing .input-container.terms								{ margin-top: 1em; }
+.ctdl-item-claim-listing .input-container.terms input[type="checkbox"]		{ vertical-align: middle; margin-top: -0.05em; margin-right: 0.3em; }
+.ctdl-item-claim-listing .input-container.terms label						{ font-size: 0.85em; }
+.ctdl-item-claim-listing .input-container.terms.has-error label				{ color: #ff0000; }
+
+.ctdl-item-claim-listing .input-container:not(.claim-listing-button) input[type="text"],
+.ctdl-item-claim-listing .input-container:not(.claim-listing-button) input[type="email"]				{ box-sizing: border-box; width: 100%; max-width: 460px; padding: 5px 10px; }
+.ctdl-item-claim-listing .input-container.has-error:not(.claim-listing-button) input[type="text"],
+.ctdl-item-claim-listing .input-container.has-error:not(.claim-listing-button) input[type="email"]		{ border-color: #ff0000; }
+.ctdl-item-claim-listing.align-center .input-container:not(.claim-listing-button) input[type="text"],
+.ctdl-item-claim-listing.align-center .input-container:not(.claim-listing-button) input[type="email"] 	{ text-align: center; }
+.ctdl-item-claim-listing .input-container.claim-listing-button											{ margin-top: 1.5em; }
+.ctdl-item-claim-listing .input-container.claim-listing-button > button									{ padding: 12px 30px; font-size: 18px; }
+
+.ctdl-item-claim-listing.opened > .claim-listing-button						{ position: absolute; top: 0; right: 0; padding: 10px; z-index: 20; }
+.ctdl-item-claim-listing.opened > .claim-listing-button:before				{ content: "\f00d"; font-family: "Font Awesome 5 Free"; font-weight: 900; display: block; width: 40px; height: 40px; line-height: 40px; font-size: 20px; position: absolute; top: 10px; right: 10px; text-align: center; }
+.ctdl-item-claim-listing.opened > .claim-listing-button .claim-listing-btn  { font-size: 0; text-indent: -9999px; overflow: hidden; width: 40px; height: 40px; .borderbox(); display: block; padding: 0; position: relative; z-index: 10; opacity: 0; }
+
+.ctdl-item-claim-listing .input-container.claim-listing-button button       { vertical-align: middle; }
+.ctdl-item-claim-listing .input-container.claim-listing-button i			{ vertical-align: middle; margin-left: 0.5em; }
+
+.ctdl-item-claim-listing .citadela-block-form .claim-listing-user	{ display: block; }
+.ctdl-item-claim-listing .data-messages .msg						{ margin-top: 1em; }
+.ctdl-item-claim-listing .data-messages p							{ margin: 0; }

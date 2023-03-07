@@ -1,0 +1,74 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/item-contact-form",
+	"category": "citadela-directory-blocks",
+	"icon": "editor-table",
+	"attributes": {
+		"emailFromName": {
+		    "type": "string",
+		    "default": ""
+		},
+		"emailFromAddress": {
+		    "type": "string",
+		    "default": ""
+		},
+		"emailMessage": {
+		    "type": "string",
+		    "default": "{user-name} with email {user-email} wrote the following message: {user-message}"
+		},
+		"labelName": {
+		    "type": "string",
+		    "default": "Your Name"
+		},
+		"labelEmail": {
+		    "type": "string",
+		    "default": "Your Email"
+		},
+		"labelSubject": {
+		    "type": "string",
+		    "default": "Subject of message"
+		},
+		"labelMessage": {
+		    "type": "string",
+		    "default": "Your message..."
+		},
+		"labelSendButton": {
+		    "type": "string",
+		    "default": "Send message"
+		},
+		"helpName": {
+		    "type": "string",
+		    "default": ""
+		},
+		"helpEmail": {
+		    "type": "string",
+		    "default": ""
+		},
+		"helpSubject": {
+		    "type": "string",
+		    "default": ""
+		},
+		"helpMessage": {
+		    "type": "string",
+		    "default": ""
+		},
+		"notificationSuccess": {
+		    "type": "string",
+		    "default": "Thank you for your message!"
+		},
+		"notificationValidationError": {
+		    "type": "string",
+		    "default": "Input fields contain invalid values, check the form again, please."
+		},
+		"notificationServerError": {
+		    "type": "string",
+		    "default": "Server encountered an error. If problem persists, contact website administrator, please."
+		},
+		"title": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

@@ -1,0 +1,832 @@
+# Copyright (C) 2020 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Citadela Pro 2.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-10T15:47:18+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: citadela-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Customize Citadela colors, fonts and layout"
+msgstr ""
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:38
+#: plugin/Customize.php:177
+msgid "Announcements Bar"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:56
+#: plugin/Infobar/Settings.php:55
+msgid "Enable?"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Enable Announcements bar"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:109
+msgid "Customize colors"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+msgid "Button text"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr ""
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr ""
+
+#: plugin/Blocks/Feature.php:35
+msgid "Citadela Pro Blocks"
+msgstr ""
+
+#: plugin/Blocks/Feature.php:40
+msgid "Citadela Posts Blocks"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:39
+msgid "Comments extension"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:54
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:59
+msgid "Enable Comments extension"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:63
+msgid "Name field"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:66
+#: plugin/Comments_Extension/Settings.php:92
+#: plugin/Comments_Extension/Settings.php:118
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Field label"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:70
+#: plugin/Comments_Extension/Settings.php:96
+#: plugin/Comments_Extension/Settings.php:122
+#: plugin/Comments_Extension/Settings.php:148
+msgid "Replace default label of the field."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:77
+#: plugin/Comments_Extension/Settings.php:103
+#: plugin/Comments_Extension/Settings.php:129
+#: plugin/Comments_Extension/Settings.php:155
+msgid "Additional text"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:81
+#: plugin/Comments_Extension/Settings.php:107
+#: plugin/Comments_Extension/Settings.php:133
+#: plugin/Comments_Extension/Settings.php:159
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:89
+msgid "Email field"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:115
+msgid "Website URL field"
+msgstr ""
+
+#: plugin/Comments_Extension/Settings.php:141
+msgid "Comment text field"
+msgstr ""
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr ""
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr ""
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr ""
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr ""
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:80
+#: plugin/Compatibility.php:98
+msgid "%s plugin incompatibility"
+msgstr ""
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:82
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr ""
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:100
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr ""
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr ""
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr ""
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr ""
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr ""
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr ""
+
+#: plugin/Customize.php:164
+msgid "Appearance"
+msgstr ""
+
+#: plugin/Customize.php:165
+msgid "Appearance settings for your website"
+msgstr ""
+
+#: plugin/Customize.php:171
+msgid "General Layout"
+msgstr ""
+
+#: plugin/Customize.php:172
+#: plugin/Customize.php:306
+msgid "Select layout for your website"
+msgstr ""
+
+#: plugin/Customize.php:183
+msgid "Header Background"
+msgstr ""
+
+#: plugin/Customize.php:184
+msgid "Background settings for your website header"
+msgstr ""
+
+#: plugin/Customize.php:189
+msgid "Colors"
+msgstr ""
+
+#: plugin/Customize.php:190
+msgid "Select color combinations for your website"
+msgstr ""
+
+#: plugin/Customize.php:195
+msgid "Typography"
+msgstr ""
+
+#: plugin/Customize.php:196
+msgid "Select Google Font for your website"
+msgstr ""
+
+#: plugin/Customize.php:205
+msgid "Decoration Color"
+msgstr ""
+
+#: plugin/Customize.php:214
+msgid "Header Color"
+msgstr ""
+
+#: plugin/Customize.php:223
+msgid "Header Color Overlay"
+msgstr ""
+
+#: plugin/Customize.php:224
+msgid "Set header color as background image overlay"
+msgstr ""
+
+#: plugin/Customize.php:232
+msgid "Page Color"
+msgstr ""
+
+#: plugin/Customize.php:241
+msgid "Footer Color"
+msgstr ""
+
+#: plugin/Customize.php:252
+msgid "Show preview of Announcement Bar"
+msgstr ""
+
+#: plugin/Customize.php:253
+msgid "Preview is displayed only in Customizer screen."
+msgstr ""
+
+#: plugin/Customize.php:261
+msgid "Bar Background color"
+msgstr ""
+
+#: plugin/Customize.php:262
+#: plugin/Customize.php:271
+msgid "Applied for Simple type of Announcements bar."
+msgstr ""
+
+#: plugin/Customize.php:270
+msgid "Button Background color"
+msgstr ""
+
+#: plugin/Customize.php:281
+msgid "Text Font"
+msgstr ""
+
+#: plugin/Customize.php:292
+msgid "Titles Font"
+msgstr ""
+
+#: plugin/Customize.php:305
+msgid "Theme Layout"
+msgstr ""
+
+#: plugin/Customize.php:315
+msgid "Header Layout"
+msgstr ""
+
+#: plugin/Customize.php:316
+msgid "Select layout for website header"
+msgstr ""
+
+#: plugin/Customize.php:325
+msgid "Theme Design"
+msgstr ""
+
+#: plugin/Customize.php:326
+msgid "Select design for your website"
+msgstr ""
+
+#: plugin/Customize.php:337
+msgid "Header Image"
+msgstr ""
+
+#: plugin/Customize.php:346
+msgid "Header Image Repeat"
+msgstr ""
+
+#: plugin/Customize.php:353
+msgid "No Repeat"
+msgstr ""
+
+#: plugin/Customize.php:354
+msgid "Tile"
+msgstr ""
+
+#: plugin/Customize.php:355
+msgid "Tile Horizontally"
+msgstr ""
+
+#: plugin/Customize.php:356
+msgid "Tile Vertically"
+msgstr ""
+
+#: plugin/Customize.php:362
+msgid "Header Image Size"
+msgstr ""
+
+#: plugin/Customize.php:369
+msgid "Original"
+msgstr ""
+
+#: plugin/Customize.php:370
+msgid "Cover"
+msgstr ""
+
+#: plugin/Customize.php:371
+msgid "Contain"
+msgstr ""
+
+#: plugin/Customize.php:377
+msgid "Header Image Position"
+msgstr ""
+
+#: plugin/Customize.php:384
+msgid "Top Left"
+msgstr ""
+
+#: plugin/Customize.php:385
+msgid "Top"
+msgstr ""
+
+#: plugin/Customize.php:386
+msgid "Top Right"
+msgstr ""
+
+#: plugin/Customize.php:387
+msgid "Left"
+msgstr ""
+
+#: plugin/Customize.php:388
+msgid "Center"
+msgstr ""
+
+#: plugin/Customize.php:389
+msgid "Right"
+msgstr ""
+
+#: plugin/Customize.php:390
+msgid "Bottom Left"
+msgstr ""
+
+#: plugin/Customize.php:391
+msgid "Bottom"
+msgstr ""
+
+#: plugin/Customize.php:392
+msgid "Bottom Right"
+msgstr ""
+
+#: plugin/Customize.php:398
+msgid "Fixed background image"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:17
+msgid "We are using Cookies to improve your experience. <a href=\"#\">Read more here</a>"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr ""
+
+#: plugin/Infobar/Settings.php:58
+msgid "Enable Infobar"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr ""
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr ""
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr ""
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr ""
+
+#: plugin/Integrations/Settings.php:33
+msgid "Integrations"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:56
+msgid "Google Analytics"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:56
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr ""
+
+#: plugin/Integrations/Settings.php:58
+msgid "Tracking ID"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:61
+msgid "Google Analytics tracking ID."
+msgstr ""
+
+#: plugin/Integrations/Settings.php:70
+msgid "Tracking privacy"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:73
+msgid "Anonymize IP"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:75
+msgid "Anonymize IP address of your website visitors."
+msgstr ""
+
+#: plugin/Integrations/Settings.php:80
+msgid "Custom JavaScript codes"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:82
+msgid "Header JavaScript"
+msgstr ""
+
+#: plugin/Integrations/Settings.php:95
+msgid "Footer JavaScript"
+msgstr ""
+
+#: plugin/Layouts/Settings.php:27
+msgid "Layout Import"
+msgstr ""
+
+#: plugin/Layouts/Settings.php:42
+msgid "ZIP files"
+msgstr ""
+
+#: plugin/Layouts/Upload_And_Import.php:107
+msgid "The content could not be imported."
+msgstr ""
+
+#: plugin/Layouts/Upload_And_Import.php:209
+msgid "It's not Citadela Layout package"
+msgstr ""
+
+#: plugin/Layouts/Upload_And_Import.php:210
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr ""
+
+#: plugin/Layouts/Upload_And_Import.php:239
+msgid "Install required plugins"
+msgstr ""
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Upload_And_Import.php:245
+msgid "From AitThemes: %s"
+msgstr ""
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Upload_And_Import.php:246
+msgid "(You can download them from your AitThemes account)"
+msgstr ""
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Upload_And_Import.php:251
+msgid "From WordPress.org: %s"
+msgstr ""
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:34
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:35
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:36
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:37
+msgid "Edit Special Page"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:38
+msgid "All Special Pages"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:39
+msgid "Search Special ages"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:40
+msgid "No special pages found."
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:41
+msgid "Filter special pages list"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:42
+msgid "Special pages list navigation"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:43
+msgid "Special pages list"
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:44
+msgid "Special page updated."
+msgstr ""
+
+#: plugin/Special_Pages/Feature.php:102
+#: plugin/Special_Pages/Feature.php:103
+msgid "Citadela Special Pages"
+msgstr ""
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr ""
+
+#: templates/layouts/settings.php:15
+msgid "Drop Layout package here"
+msgstr ""
+
+#: templates/layouts/settings.php:16
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr ""
+
+#: templates/layouts/settings.php:17
+msgid "Select Layout package"
+msgstr ""
+
+#: templates/layouts/settings.php:20
+msgid "Uploading&#8230;"
+msgstr ""
+
+#: templates/layouts/settings.php:26
+msgid "OK"
+msgstr ""
+
+#: templates/layouts/settings.php:35
+msgid "Your current content will be deleted"
+msgstr ""
+
+#: templates/layouts/settings.php:36
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr ""
+
+#: templates/layouts/settings.php:38
+msgid "Confirm"
+msgstr ""
+
+#: templates/layouts/settings.php:39
+msgid "Cancel"
+msgstr ""
+
+#: templates/layouts/settings.php:48
+msgid "We're importing Layout package..."
+msgstr ""
+
+#: templates/layouts/settings.php:49
+msgid "The process can take anywhere between 30 seconds to 5 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr ""
+
+#: templates/layouts/settings.php:50
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr ""
+
+#: templates/layouts/settings.php:62
+msgid "Content"
+msgstr ""
+
+#: templates/layouts/settings.php:66
+msgid "Settings"
+msgstr ""
+
+#: templates/layouts/settings.php:70
+msgid "Images"
+msgstr ""
+
+#: templates/layouts/settings.php:82
+msgid "Import done!"
+msgstr ""
+
+#: templates/layouts/settings.php:83
+msgid "Show website"
+msgstr ""
+
+#: templates/special-pages/pagination.php:4
+msgid "Previous"
+msgstr ""
+
+#: templates/special-pages/pagination.php:5
+msgid "Next"
+msgstr ""
+
+#: templates/special-pages/pagination.php:8
+#: templates/special-pages/pagination.php:12
+msgid "Posts navigation"
+msgstr ""
+
+#: templates/special-pages/post-article.php:48
+msgid "View more"
+msgstr ""
+
+#: templates/special-pages/post-article.php:55
+msgid "Categories"
+msgstr ""
+
+#: assets/blocks/blog-posts/src/index.js:13
+msgid "Blog Posts"
+msgstr ""
+
+#: assets/blocks/blog-posts/src/index.js:14
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr ""
+
+#: assets/blocks/blog-posts/src/index.js:43
+#: assets/blocks/posts/src/edit.js:80
+msgid "Post Details"
+msgstr ""
+
+#: assets/blocks/blog-posts/src/index.js:47
+#: assets/blocks/posts/src/edit.js:84
+msgid "Show featured image"
+msgstr ""
+
+#: assets/blocks/blog-posts/src/index.js:52
+#: assets/blocks/posts/src/edit.js:89
+msgid "Show description"
+msgstr ""
+
+#: assets/blocks/blog-posts/src/index.js:57
+#: assets/blocks/posts/src/edit.js:94
+msgid "Show categories"
+msgstr ""
+
+#: assets/blocks/components/toolbar-layout.js:44
+msgid "Simple layout"
+msgstr ""
+
+#: assets/blocks/components/toolbar-layout.js:50
+msgid "List layout"
+msgstr ""
+
+#: assets/blocks/components/toolbar-layout.js:56
+msgid "Box layout"
+msgstr ""
+
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/components/toolbar-size.js:29
+msgid "Select layout"
+msgstr ""
+
+#: assets/blocks/components/toolbar-size.js:33
+msgid "Small size"
+msgstr ""
+
+#: assets/blocks/components/toolbar-size.js:39
+msgid "Medium size"
+msgstr ""
+
+#: assets/blocks/components/toolbar-size.js:45
+msgid "Large size"
+msgstr ""
+
+#: assets/blocks/posts/src/edit.js:59
+msgid "Filters"
+msgstr ""
+
+#: assets/blocks/posts/src/edit.js:64
+msgid "Category"
+msgstr ""
+
+#: assets/blocks/posts/src/edit.js:65
+msgid "All"
+msgstr ""
+
+#: assets/blocks/posts/src/edit.js:70
+msgid "Number of items"
+msgstr ""
+
+#: assets/blocks/posts/src/index.js:9
+msgid "Posts"
+msgstr ""
+
+#: assets/blocks/posts/src/index.js:10
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr ""

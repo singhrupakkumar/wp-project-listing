@@ -1,0 +1,21 @@
+.citadela-block-price-table									{ margin-bottom: 2em; }
+.citadela-block-price-table .price-table-content			{ background: #ffffff; border: 1px solid #cccccc; max-width: 460px; margin: 0 auto; }
+.citadela-block-price-table .price-table-header 			{ background: #666666; color: #ffffff; padding: 20px; }
+.citadela-block-price-table .price-table-header h3			{ font-size: 2em; color: inherit; margin: 0; }
+.citadela-block-price-table .price-table-header p			{ margin: 0; }
+.citadela-block-price-table .featured-text						{ position: relative; padding-bottom: 0.7em; margin: 0.5em 0 0.7em 0; }
+.citadela-block-price-table .featured-text:before				{ content: ""; width: 30px; position: absolute; left: 50%; bottom: 0; margin-left: -15px; border-bottom: 1px solid currentColor; }
+.citadela-block-price-table.align-right .featured-text:before   { left: auto; right: 0; margin-left: 0; }
+.citadela-block-price-table.align-left .featured-text:before   	{ left: 0; right: auto; margin-left: 0; }
+
+.citadela-block-price-table .price-part 					{ margin: 0.6em 0 0 0;  font-size: 30px; }
+.citadela-block-price-table .price-part .old-price 			{ text-decoration: line-through; display: inline-block; vertical-align: top; font-size: 0.55em; margin: 0.4em 0 0 0.5em; }
+.citadela-block-price-table .price-table-body 				{ padding: 20px; }
+.citadela-block-price-table .row-text                       { border-bottom: 1px solid #cccccc; padding-bottom: 0.5em; margin-bottom: 0.5em; }
+.citadela-block-price-table .row-text.empty-row:before		{ content: "x"; visibility: hidden; }
+
+.citadela-block-price-table .button-part					{ margin-top: 1.5em; }
+.citadela-block-price-table .button-part .readmore-button	{ display: inline-block; vertical-align: top; max-width: 100%; background: #000000; color: #ffffff; padding: 5px 20px; border-radius: 20px; text-decoration: none; }
+
+.citadela-block-price-table.align-center      					{ text-align: center; }
+.citadela-block-price-table.align-right      					{ text-align: right; }

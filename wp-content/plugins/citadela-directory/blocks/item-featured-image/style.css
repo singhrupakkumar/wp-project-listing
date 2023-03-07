@@ -1,0 +1,34 @@
+/*
+*	ITEM FEATURED IMAGE: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-featured-image .ft-image							{ position: relative; }
+.ctdl-item-featured-image .ft-image a						{ display: inline-block; vertical-align: top; }
+
+.ctdl-item-featured-image.loading 							{ display: none; }
+.ctdl-item-featured-image .ft-image-thumb					{ text-align: center; position: relative; }
+.ctdl-item-featured-image.align-center .ft-image-thumb		{ text-align: center; }
+.ctdl-item-featured-image.align-left .ft-image-thumb		{ text-align: left; }
+.ctdl-item-featured-image.align-right .ft-image-thumb		{ text-align: right; }
+
+.ctdl-item-featured-image.custom-height img					{ object-fit: cover; }
+.ctdl-item-featured-image.position-top-right img			{ object-position: top right; }
+.ctdl-item-featured-image.position-top-center img			{ object-position: top center; }
+.ctdl-item-featured-image.position-top-left img				{ object-position: top left; }
+.ctdl-item-featured-image.position-center-right img			{ object-position: center right; }
+.ctdl-item-featured-image.position-center-center img		{ object-position: center center; }
+.ctdl-item-featured-image.position-center-left img			{ object-position: center left; }
+.ctdl-item-featured-image.position-bottom-right img			{ object-position: bottom right; }
+.ctdl-item-featured-image.position-bottom-center img		{ object-position: bottom center; }
+.ctdl-item-featured-image.position-bottom-left img			{ object-position: bottom left; }
+
+.ctdl-item-featured-image.cover-height								{ width: 100%; }
+.ctdl-item-featured-image.cover-height img							{ object-fit: cover; }
+.ctdl-item-featured-image.cover-height:first-child:last-child		{ height: 100%; }
+.ctdl-item-featured-image.cover-height:first-child:last-child img	{ display: block; position: absolute; top: 0; left: 0; }
+.ctdl-item-featured-image.cover-height .ft-image-thumb,
+.ctdl-item-featured-image.cover-height .ft-image,
+.ctdl-item-featured-image.cover-height .ft-image a,
+.ctdl-item-featured-image.cover-height .ft-image img				{ width: 100%; height: 100%; }
+
+.ctdl-item-featured-image.cover-height .ft-image-caption			{ position: absolute; background: rgba(0,0,0,0.3); color: #ffffff; bottom: 0; left: 0; right: 0; }

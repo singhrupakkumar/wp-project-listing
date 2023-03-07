@@ -1,0 +1,30 @@
+/*
+*	DEFAULT SEARCH RESULTS: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-default-search-results article					{ margin: 14px 0px; }
+.ctdl-default-search-results .item-content				{ border: 1px solid rgba(200,200,200,0.5); padding: 10px; background: rgba(200,200,200,0.2); }
+.ctdl-default-search-results .item-thumbnail			{ background-color: rgba(200,200,200,0.7); text-align: center; position: relative; color: #ffffff;  }
+.ctdl-default-search-results .item-thumbnail:before		{ content: "\f03e"; font-size: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 400; }
+.ctdl-default-search-results .item-text					{ padding: 0; margin-top: 0.8em; }
+.ctdl-default-search-results .item-title .post-title	{ font-size: 1em; height: 0.8em; max-width: 65%; background-color: rgba(200,200,200,0.7); }
+.ctdl-default-search-results .item-description							{ font-size: 0.5em; margin-top: 1em; }
+.ctdl-default-search-results .item-description span.line				{ width: auto !important; display: block; margin-right: 0; }
+.ctdl-default-search-results .item-description span.line:last-child		{ width: 60% !important; }
+
+.ctdl-default-search-results.layout-list.show-item-date .item-date									{ height: 1em; width: 60px;  background-color: rgba(200,200,200,0.7); }
+.ctdl-default-search-results.layout-list.show-item-date .item-description span.line:first-of-type	{ margin-left: 65px; }
+.ctdl-default-search-results.layout-list.show-item-date .item-description .item-date				{ float: left; }
+
+.ctdl-default-search-results .item-footer				{ margin-top: 1em; padding-top: 1em; border-top: 1px solid rgba(200,200,200,0.5); }
+.ctdl-default-search-results .item-data 				{ display: flex; flex-flow: wrap; padding: 0px; max-width: 40%; border: none; margin: 0 !important; }
+.ctdl-default-search-results .item-data .label			{ flex: 0 1 auto; width: 40px; height: 10px; margin-right: 5px; background-color: rgba(200,200,200,0.7); }
+.ctdl-default-search-results .item-data .label:after	{ display: none; }
+.ctdl-default-search-results .item-data .values			{ flex: 1 1 auto; height: 10px; background-color: rgba(200,200,200,0.5); }
+
+.ctdl-default-search-results:not(.show-item-featured-image) .item-thumbnail			{ display: none; }
+.ctdl-default-search-results:not(.show-item-description) .item-text					{ display: none; }
+.ctdl-default-search-results:not(.show-item-locations) .item-data.location			{ display: none; }
+.ctdl-default-search-results:not(.show-item-categories) .item-data.categories		{ display: none; }
+
+

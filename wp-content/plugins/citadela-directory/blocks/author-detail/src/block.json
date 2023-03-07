@@ -1,0 +1,26 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/author-detail",
+	"category": "citadela-directory-blocks",
+	"icon": "admin-users",
+	"attributes": {
+		"showCover": {
+            "type": "boolean",
+            "default": true
+        },
+		"showIcon": {
+            "type": "boolean",
+            "default": true
+        },
+		"showDescription": {
+            "type": "boolean",
+            "default": true
+        },
+		"showPostsNumber": {
+            "type": "boolean",
+            "default": true
+        }
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

@@ -1,0 +1,31 @@
+/*
+*	ITEM GALLERY: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-gallery.layout-default .citadela-block-articles-wrap						{ display: flex; flex-flow: row wrap; justify-content: flex-start; margin: 0px -8px; }
+.ctdl-item-gallery.layout-default article											{ flex: 1 1 auto; display: flex; flex-direction: column; padding: 8px; box-sizing: border-box; margin-bottom: 0em; }
+
+.ctdl-item-gallery.layout-default.image-vertical-align-top article					{ justify-content: flex-start; }
+.ctdl-item-gallery.layout-default.image-vertical-align-center article				{ justify-content: center; align-self: center; }
+.ctdl-item-gallery.layout-default.image-vertical-align-bottom article				{ justify-content: flex-end; margin-top: auto; }
+
+.ctdl-item-gallery.layout-default .item-thumbnail 									{ position: relative; }
+.ctdl-item-gallery.layout-default .item-thumbnail a 								{ display: block; text-decoration: none; color: currentColor; }
+.ctdl-item-gallery.layout-default .item-thumbnail img								{ width: 100%; object-fit: cover; vertical-align: top; }
+
+.ctdl-item-gallery.layout-default.custom-image-height .item-thumbnail img			{ max-height: none !important; }
+
+.ctdl-item-gallery.layout-default.image-position-top-right .item-thumbnail img		{ object-position: top right; }
+.ctdl-item-gallery.layout-default.image-position-top-center .item-thumbnail img		{ object-position: top center; }
+.ctdl-item-gallery.layout-default.image-position-top-left .item-thumbnail img		{ object-position: top left; }			
+.ctdl-item-gallery.layout-default.image-position-center-right .item-thumbnail img	{ object-position: center right; }
+.ctdl-item-gallery.layout-default.image-position-center-center .item-thumbnail img	{ object-position: center center; }
+.ctdl-item-gallery.layout-default.image-position-center-left .item-thumbnail img	{ object-position: center left; }
+.ctdl-item-gallery.layout-default.image-position-bottom-right .item-thumbnail img	{ object-position: bottom right; }
+.ctdl-item-gallery.layout-default.image-position-bottom-center .item-thumbnail img	{ object-position: bottom center; }
+.ctdl-item-gallery.layout-default.image-position-bottom-left .item-thumbnail img	{ object-position: bottom left; }
+
+.ctdl-item-gallery.layout-default .item-content .item-thumbnail .caption								{ font-size: 0.8em; padding: 5px 0px; }
+.ctdl-item-gallery.layout-default.caption-under-image .item-content .item-thumbnail .caption			{ padding-bottom: 0; }
+.ctdl-item-gallery.layout-default.caption-inside-image .item-content .item-thumbnail .caption 			{ opacity: 0; color: #ffffff; position: absolute; bottom: 0; left: 0; width: 100%; max-height: 100%; overflow: auto; background: linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 70%,transparent); padding: 20px 10px 10px 10px; box-sizing: border-box; transition: all 0.3s; text-align: center; font-weight: bolder; }
+.ctdl-item-gallery.layout-default.caption-inside-image .item-content .item-thumbnail a:hover .caption   { opacity: 1; }

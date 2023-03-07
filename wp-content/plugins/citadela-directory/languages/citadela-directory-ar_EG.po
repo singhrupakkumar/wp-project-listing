@@ -1,0 +1,4988 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Listing plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar_EG\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:38:16+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:38:16+00:00\n"
+"Project-Id-Version: Citadela Listing 5.7.15\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-directory\n"
+"X-Domain: citadela-directory\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title, 3: &ldquo; left quote, 4: &rdquo; right quote
+#: plugin/cpt/item/templates/parts/item-reviews.php:36
+msgctxt "count of reviews title"
+msgid "%1$s review for &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s reviews for &ldquo;%2$s&rdquo;"
+msgstr[0] "مراجعة٪ 1 $ s لـ “٪ 2 $ s”"
+msgstr[1] ""
+
+#. translators: %s plugin's name
+#: plugin/migration/Migration/Admin_Notices.php:49
+msgid "%s has finished migration. All items, categories and locations from your previous AIT directory theme are now available for use with Citadela Listing plugin."
+msgstr "انتهى٪ s من الترحيل. جميع العناصر والفئات والمواقع من سمة دليل AIT السابقة متاحة الآن للاستخدام مع المكون الإضافي Citadela List."
+
+#. translators: %s plugin's name
+#: plugin/migration/Migration/Admin_Notices.php:66
+msgid "%s is automatically migrating all items, categories and locations from your previous AIT directory theme in the background. Migration process may take several minutes. We will let you know when the migration is finished. You can continue to use WordPress as usual."
+msgstr "يقوم٪ s تلقائيًا بترحيل جميع العناصر والفئات والمواقع من سمة دليل AIT السابقة في الخلفية. قد تستغرق عملية الترحيل عدة دقائق. سنخبرك عند انتهاء الترحيل. يمكنك الاستمرار في استخدام WordPress كالمعتاد."
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "المكون الإضافي٪ s وعدم توافق PHP"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:60
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "المكون الإضافي٪ s وعدم توافق WordPress"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:83
+#: plugin/includes/CitadelaDirectoryCompatibility.php:101
+msgid "%s plugin incompatibility"
+msgstr "عدم توافق المكون الإضافي٪ s"
+
+#. translators: %s plugin's name
+#: plugin/compatibility.php:14
+msgid "%s plugin is active"
+msgstr "المكون الإضافي٪ s نشط"
+
+#. translators: %s: reviews count.
+#: plugin/cpt/item/templates/parts/item-rating.php:15
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "مراجعة٪ s"
+msgstr[1] ""
+
+#: blocks/build/index.js:9107
+#: blocks/directory-search-form/src/inspector-controls.js:128
+msgid "0.1"
+msgstr "0.1"
+
+#: blocks/build/index.js:9104
+#: blocks/directory-search-form/src/inspector-controls.js:127
+msgid "1"
+msgstr "1"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:65
+#: plugin/includes/CitadelaDirectorySpecialPages.php:69
+msgid "404 Page"
+msgstr "404 صفحة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:43
+msgid "API Key"
+msgstr "مفتاح API"
+
+#: plugin/claim-listing/ClaimListing.php:239
+msgid "Actions:"
+msgstr "أجراءات:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:31
+msgctxt "Item"
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:98
+msgid "Add New Category"
+msgstr "إضافة فئة جديدة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:32
+msgid "Add New Item"
+msgstr "أضف أداة جديدة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:132
+#: plugin/cpt/post/CitadelaPost.php:68
+msgid "Add New Location"
+msgstr "إضافة موقع جديد"
+
+#: plugin/controls/butterbean/templates/control-citadela_gallery.php:52
+msgid "Add images to gallery"
+msgstr "أضف الصور إلى المعرض"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:25
+#: plugin/controls/inputs/CitadelaMapControl.php:13
+#: plugin/cpt/item/templates/parts/item-container.php:169
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:22
+msgid "Address"
+msgstr "تبوك"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:207
+#: plugin/cpt/post/CitadelaPostMetabox.php:11
+#: plugin/cpt/user/CitadelaUserMetabox.php:11
+msgid "Address and Location"
+msgstr "العنوان والموقع"
+
+#: plugin/subscriptions/Feature.php:122
+msgid "Address and location"
+msgstr "العنوان والموقع"
+
+#: blocks/build/index.js:9044
+#: blocks/directory-search-form/src/inspector-controls.js:69
+msgid "Advanced Filters block displayed within search form"
+msgstr "يتم عرض كتلة عوامل التصفية المتقدمة في نموذج البحث"
+
+#: blocks/build/index.js:5782
+msgid "Advanced Header Design"
+msgstr "تصميم رأس متقدم"
+
+#: blocks/build/index.js:5709
+msgid "Advanced header"
+msgstr "رأس متقدم"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: blocks/build/index.js:5636
+#: blocks/build/index.js:8809
+#: blocks/build/index.js:11911
+#: blocks/build/index.js:13332
+#: blocks/build/index.js:13842
+#: blocks/build/index.js:15161
+#: blocks/build/index.js:15339
+#: blocks/build/index.js:16255
+#: blocks/directory-search-form/src/index.js:118
+#: blocks/item-claim-listing/src/index.js:37
+#: blocks/item-extension/src/edit.js:137
+#: blocks/item-featured-image/src/edit.js:169
+#: blocks/item-get-directions/src/index.js:36
+#: blocks/item-gpx-download/src/index.js:36
+#: blocks/posts-search-form/src/index.js:117
+msgid "Align Center"
+msgstr "مركز المحاذاة"
+
+#: blocks/build/index.js:8813
+#: blocks/build/index.js:16259
+#: blocks/directory-search-form/src/index.js:122
+#: blocks/posts-search-form/src/index.js:121
+msgid "Align Justify"
+msgstr "محاذاة ضبط"
+
+#: blocks/build/index.js:5635
+#: blocks/build/index.js:8808
+#: blocks/build/index.js:11910
+#: blocks/build/index.js:13331
+#: blocks/build/index.js:13841
+#: blocks/build/index.js:15160
+#: blocks/build/index.js:15338
+#: blocks/build/index.js:16254
+#: blocks/directory-search-form/src/index.js:117
+#: blocks/item-claim-listing/src/index.js:36
+#: blocks/item-extension/src/edit.js:136
+#: blocks/item-featured-image/src/edit.js:168
+#: blocks/item-get-directions/src/index.js:35
+#: blocks/item-gpx-download/src/index.js:35
+#: blocks/posts-search-form/src/index.js:116
+msgid "Align Left"
+msgstr "محاذاة لليسار"
+
+#: blocks/build/index.js:5637
+#: blocks/build/index.js:8810
+#: blocks/build/index.js:11912
+#: blocks/build/index.js:13333
+#: blocks/build/index.js:13843
+#: blocks/build/index.js:15162
+#: blocks/build/index.js:15340
+#: blocks/build/index.js:16256
+#: blocks/directory-search-form/src/index.js:119
+#: blocks/item-claim-listing/src/index.js:38
+#: blocks/item-extension/src/edit.js:138
+#: blocks/item-featured-image/src/edit.js:170
+#: blocks/item-get-directions/src/index.js:37
+#: blocks/item-gpx-download/src/index.js:37
+#: blocks/posts-search-form/src/index.js:118
+msgid "Align Right"
+msgstr "محاذاة اليمين"
+
+#: blocks/build/index.js:4600
+#: blocks/components/toolbar-alignment.js:19
+msgid "Align Text Center"
+msgstr "محاذاة مركز النص"
+
+#: blocks/build/index.js:4604
+#: blocks/components/toolbar-alignment.js:21
+msgid "Align Text Justify"
+msgstr "محاذاة ضبط النص"
+
+#: blocks/build/index.js:4598
+#: blocks/components/toolbar-alignment.js:18
+msgid "Align Text Left"
+msgstr "محاذاة النص إلى اليسار"
+
+#: blocks/build/index.js:4602
+#: blocks/components/toolbar-alignment.js:20
+msgid "Align Text Right"
+msgstr "محاذاة النص إلى اليمين"
+
+#: blocks/build/index.js:11920
+#: blocks/build/index.js:15170
+#: blocks/build/index.js:15348
+#: blocks/item-claim-listing/src/index.js:53
+#: blocks/item-get-directions/src/index.js:53
+#: blocks/item-gpx-download/src/index.js:52
+msgid "Alignment"
+msgstr "محاذاة"
+
+#: blocks/build/index.js:6680
+#: blocks/build/index.js:6690
+#: blocks/build/index.js:7467
+#: blocks/build/index.js:7477
+#: blocks/build/index.js:15800
+#: blocks/build/index.js:15810
+#: blocks/directory-google-map/src/edit.js:198
+#: blocks/directory-google-map/src/edit.js:205
+#: blocks/directory-items-list/src/edit.js:330
+#: blocks/directory-items-list/src/edit.js:337
+#: blocks/posts-map/src/edit.js:149
+#: blocks/posts-map/src/edit.js:156
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1276
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1284
+#: plugin/assets/citadela/half-layout-map/editor.js:78
+#: plugin/assets/citadela/half-layout-map/editor.js:87
+msgid "All"
+msgstr "الجميع"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:92
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:39
+msgid "All Items"
+msgstr "كل الاشياء"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:126
+#: plugin/cpt/post/CitadelaPost.php:62
+msgid "All Locations"
+msgstr "جميع المواقع"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:134
+msgid "All Special Pages"
+msgstr "كافة الصفحات الخاصة"
+
+#: plugin/migration/Migration/Admin_Notices.php:33
+msgid "All automatically migrated items, categories and locations were deleted from your database. New migration process started."
+msgstr "تم حذف جميع العناصر والفئات والمواقع التي تم ترحيلها تلقائيًا من قاعدة البيانات الخاصة بك. بدأت عملية الهجرة الجديدة."
+
+#: blocks/build/index.js:5659
+msgid "All filters"
+msgstr "كل المرشحات"
+
+#: blocks/build/index.js:13355
+#: blocks/item-extension/src/edit.js:169
+msgid "All inputs"
+msgstr "كل المدخلات"
+
+#: plugin/subscriptions/Feature.php:105
+msgid "Allow the customer to manage comments for Citadela items."
+msgstr "اسمح للعميل بإدارة التعليقات لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:111
+msgid "Allow the customer to manage reviews for Citadela items."
+msgstr "اسمح للعميل بإدارة المراجعات لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:69
+msgid "Allow the customer to set catogories for Citadela items."
+msgstr "اسمح للعميل بتعيين catogories لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:75
+msgid "Allow the customer to set locations for Citadela items."
+msgstr "اسمح للعميل بتعيين مواقع لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:147
+msgid "Allow the customer to set the Featured Category for Citadela items."
+msgstr "اسمح للعميل بتعيين الفئة المميزة لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:153
+msgid "Allow the customer to set the GPX track file for Citadela items."
+msgstr "اسمح للعميل بتعيين ملف مسار GPX لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:159
+msgid "Allow the customer to set the Item Extension options for Citadela items."
+msgstr "اسمح للعميل بتعيين خيارات امتداد العنصر لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:123
+msgid "Allow the customer to set the address and location for Citadela items."
+msgstr "اسمح للعميل بتعيين العنوان والموقع لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:129
+msgid "Allow the customer to set the contact for Citadela items."
+msgstr "اسمح للعميل بتعيين جهة الاتصال لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:81
+msgid "Allow the customer to set the content for Citadela items."
+msgstr "اسمح للعميل بتعيين المحتوى لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:93
+msgid "Allow the customer to set the excerpt for Citadela items."
+msgstr "اسمح للعميل بتعيين مقتطف لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:87
+msgid "Allow the customer to set the featured image for Citadela items."
+msgstr "اسمح للعميل بتعيين الصورة المميزة لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:117
+msgid "Allow the customer to set the general options for Citadela items."
+msgstr "اسمح للعميل بتعيين الخيارات العامة لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:141
+msgid "Allow the customer to set the images gallery for Citadela items."
+msgstr "اسمح للعميل بتعيين معرض الصور لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:135
+msgid "Allow the customer to set the opening hours for Citadela items."
+msgstr "اسمح للعميل بتعيين ساعات العمل لعناصر Citadela."
+
+#: plugin/subscriptions/Feature.php:99
+msgid "Allow the customer to set the page attributes for Citadela items."
+msgstr "اسمح للعميل بتعيين سمات الصفحة لعناصر Citadela."
+
+#: blocks/build/index.js:12074
+#: blocks/item-claim-listing/src/index.js:195
+msgid "Already claimed"
+msgstr "ادعى بالفعل"
+
+#: blocks/build/index.js:11109
+#: blocks/directory-similar-items/src/edit.js:619
+msgid "Already opened Item Post will be used as reference post."
+msgstr "سيتم استخدام منشور العنصر الذي تم فتحه بالفعل كمنشور مرجعي."
+
+#: blocks/build/index.js:8566
+#: blocks/directory-membership-content/src/edit.js:25
+msgid "Any active subscription"
+msgstr "أي اشتراك نشط"
+
+#: blocks/automatic-directory-google-map/src/edit.js:240
+#: blocks/automatic-directory-google-map/src/edit.js:262
+#: blocks/automatic-posts-map/src/edit.js:167
+#: blocks/automatic-posts-map/src/edit.js:187
+#: blocks/build/index.js:1275
+#: blocks/build/index.js:1300
+#: blocks/build/index.js:1830
+#: blocks/build/index.js:1855
+#: blocks/build/index.js:6739
+#: blocks/build/index.js:6764
+#: blocks/build/index.js:15851
+#: blocks/build/index.js:15876
+#: blocks/directory-google-map/src/edit.js:253
+#: blocks/directory-google-map/src/edit.js:273
+#: blocks/posts-map/src/edit.js:198
+#: blocks/posts-map/src/edit.js:218
+msgid "Appearance"
+msgstr "مظهر"
+
+#: plugin/claim-listing/ClaimListing.php:61
+msgid "Approve"
+msgstr "يوافق"
+
+#: plugin/claim-listing/ClaimListing.php:239
+msgid "Approve claim"
+msgstr "الموافقة على المطالبة"
+
+#: plugin/claim-listing/ClaimListing.php:67
+msgid "Approved"
+msgstr "وافق"
+
+#: plugin/cpt/item/templates/parts/archive-item-page-title.php:8
+msgid "Archives: "
+msgstr "أرشيف:"
+
+#: plugin/claim-listing/ClaimListing.php:62
+#: plugin/claim-listing/ClaimListing.php:69
+msgid "Are you sure you want to decline this claim?"
+msgstr "هل أنت متأكد أنك تريد رفض هذه المطالبة؟"
+
+#: blocks/authors-list/src/edit.js:223
+#: blocks/build/index.js:626
+#: blocks/build/index.js:7609
+#: blocks/build/index.js:9787
+#: blocks/build/index.js:10900
+#: blocks/build/index.js:16876
+#: blocks/directory-items-list/src/edit.js:439
+#: blocks/directory-search-results/src/edit.js:283
+#: blocks/directory-similar-items/src/edit.js:411
+#: blocks/posts-search-results/src/index.js:176
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: plugin/subscriptions/Feature.php:98
+msgid "Attributes"
+msgstr "صفات"
+
+#: blocks/author-detail/src/edit.js:41
+#: blocks/authors-list/src/edit.js:156
+#: blocks/build/index.js:185
+#: blocks/build/index.js:538
+msgid "Author Details"
+msgstr "تفاصيل المؤلف"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:377
+msgid "Author archives: "
+msgstr "أرشيفات المؤلف:"
+
+#: blocks/author-detail/src/edit.js:98
+#: blocks/build/index.js:254
+msgid "Author biographical info"
+msgstr "معلومات السيرة الذاتية للمؤلف"
+
+#: blocks/author-detail/src/edit.js:92
+#: blocks/build/index.js:250
+msgid "Author name"
+msgstr "اسم المؤلف"
+
+#: blocks/authors-list/src/edit.js:378
+#: blocks/build/index.js:791
+msgid "Authors to display"
+msgstr "عرض الكتاب"
+
+#: blocks/automatic-directory-google-map/src/index.js:11
+#: blocks/build/index.js:1532
+msgid "Automatic Listing Map"
+msgstr "خريطة قائمة تلقائية"
+
+#: blocks/automatic-posts-map/src/index.js:11
+#: blocks/build/index.js:2087
+msgid "Automatic Listing Map (for posts)"
+msgstr "خريطة قائمة تلقائية (للمشاركات)"
+
+#: blocks/build/index.js:3627
+#: blocks/components/panel-carousel.js:65
+msgid "Automatic height"
+msgstr "ارتفاع تلقائي"
+
+#: blocks/build/index.js:3633
+#: blocks/components/panel-carousel.js:70
+msgid "Autoplay"
+msgstr "تشغيل تلقائي"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:164
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:191
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:219
+#: blocks/build/index.js:9156
+#: blocks/build/index.js:16444
+#: blocks/directory-search-form/src/inspector-controls.js:175
+#: blocks/posts-search-form/src/inspector-controls.js:63
+msgid "Background"
+msgstr "خلفية"
+
+#: plugin/settings/CitadelaDirectorySettings.php:751
+#: blocks/authors-list/src/edit.js:278
+#: blocks/build/index.js:678
+#: blocks/build/index.js:5795
+#: blocks/build/index.js:7657
+#: blocks/build/index.js:9209
+#: blocks/build/index.js:9338
+#: blocks/build/index.js:9911
+#: blocks/build/index.js:10948
+#: blocks/build/index.js:16497
+#: blocks/build/index.js:16626
+#: blocks/build/index.js:16972
+#: blocks/directory-items-list/src/edit.js:488
+#: blocks/directory-search-form/src/inspector-controls.js:218
+#: blocks/directory-search-form/src/inspector-controls.js:346
+#: blocks/directory-search-results/src/edit.js:389
+#: blocks/directory-similar-items/src/edit.js:460
+#: blocks/posts-search-form/src/inspector-controls.js:106
+#: blocks/posts-search-form/src/inspector-controls.js:237
+#: blocks/posts-search-results/src/index.js:265
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: plugin/settings/CitadelaDirectorySettings.php:773
+msgid "Background image"
+msgstr "الصورة الخلفية"
+
+#: blocks/build/index.js:9165
+#: blocks/build/index.js:16453
+#: blocks/directory-search-form/src/inspector-controls.js:180
+#: blocks/posts-search-form/src/inspector-controls.js:68
+msgid "Background on collapsed form"
+msgstr "خلفية عن النموذج المطوي"
+
+#: blocks/build/index.js:9152
+#: blocks/build/index.js:16440
+#: blocks/directory-search-form/src/inspector-controls.js:170
+#: blocks/posts-search-form/src/inspector-controls.js:58
+msgid "Background settings"
+msgstr "إعدادات الخلفية"
+
+#: blocks/build/index.js:9194
+#: blocks/build/index.js:16482
+#: blocks/directory-search-form/src/inspector-controls.js:206
+#: blocks/posts-search-form/src/inspector-controls.js:94
+msgid "Background type"
+msgstr "نوع الخلفية"
+
+#: blocks/build/index.js:9174
+#: blocks/build/index.js:16462
+#: blocks/directory-search-form/src/inspector-controls.js:189
+#: blocks/posts-search-form/src/inspector-controls.js:77
+msgid "Blur background"
+msgstr "طمس الخلفية"
+
+#: blocks/build/index.js:2238
+#: blocks/build/index.js:9182
+#: blocks/build/index.js:16470
+#: blocks/components/box-shadow-control.js:80
+#: blocks/directory-search-form/src/inspector-controls.js:195
+#: blocks/posts-search-form/src/inspector-controls.js:83
+msgid "Blur radius"
+msgstr "نصف قطر التمويه"
+
+#: blocks/build/index.js:5868
+msgid "Border around filter group"
+msgstr "الحدود حول مجموعة التصفية"
+
+#: blocks/build/index.js:5822
+msgid "Border around heading"
+msgstr "الحدود حول العنوان"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:250
+#: blocks/build/index.js:5804
+#: blocks/build/index.js:9282
+#: blocks/build/index.js:16570
+#: blocks/directory-search-form/src/inspector-controls.js:296
+#: blocks/posts-search-form/src/inspector-controls.js:186
+msgid "Border color"
+msgstr "لون الحدود"
+
+#: blocks/build/index.js:9291
+#: blocks/build/index.js:11963
+#: blocks/build/index.js:15216
+#: blocks/build/index.js:15394
+#: blocks/build/index.js:16579
+#: blocks/directory-search-form/src/inspector-controls.js:304
+#: blocks/item-claim-listing/src/index.js:88
+#: blocks/item-get-directions/src/index.js:89
+#: blocks/item-gpx-download/src/index.js:88
+#: blocks/posts-search-form/src/inspector-controls.js:194
+msgid "Border radius"
+msgstr "نصف قطر الحدود"
+
+#: blocks/build/index.js:9260
+#: blocks/build/index.js:16548
+#: blocks/directory-search-form/src/inspector-controls.js:278
+#: blocks/posts-search-form/src/inspector-controls.js:168
+msgid "Border settings"
+msgstr "إعدادات الحدود"
+
+#: blocks/build/index.js:5813
+msgid "Border style"
+msgstr "نمط الحدود"
+
+#: blocks/build/index.js:9264
+#: blocks/build/index.js:16552
+#: blocks/directory-search-form/src/inspector-controls.js:283
+#: blocks/posts-search-form/src/inspector-controls.js:173
+msgid "Border width"
+msgstr "عرض الحدود"
+
+#: blocks/authors-list/src/edit.js:284
+#: blocks/build/index.js:686
+#: blocks/build/index.js:7665
+#: blocks/build/index.js:9919
+#: blocks/build/index.js:10956
+#: blocks/build/index.js:16980
+#: blocks/directory-items-list/src/edit.js:494
+#: blocks/directory-search-results/src/edit.js:395
+#: blocks/directory-similar-items/src/edit.js:466
+#: blocks/posts-search-results/src/index.js:271
+msgid "Borders color"
+msgstr "لون الحدود"
+
+#: blocks/authors-list/src/edit.js:290
+#: blocks/build/index.js:694
+#: blocks/build/index.js:7682
+#: blocks/build/index.js:9936
+#: blocks/build/index.js:10973
+#: blocks/build/index.js:16988
+#: blocks/directory-items-list/src/edit.js:509
+#: blocks/directory-search-results/src/edit.js:409
+#: blocks/directory-similar-items/src/edit.js:481
+#: blocks/posts-search-results/src/index.js:277
+msgid "Borders width"
+msgstr "عرض الحدود"
+
+#: plugin/settings/CitadelaDirectorySettings.php:851
+#: blocks/build/index.js:7296
+#: blocks/build/index.js:7366
+#: blocks/build/index.js:9596
+#: blocks/build/index.js:9666
+#: blocks/build/index.js:10573
+#: blocks/build/index.js:10643
+#: blocks/build/index.js:13914
+#: blocks/build/index.js:14524
+#: blocks/build/index.js:14594
+#: blocks/build/index.js:14688
+#: blocks/directory-items-list/src/edit.js:175
+#: blocks/directory-items-list/src/edit.js:223
+#: blocks/directory-search-results/src/edit.js:117
+#: blocks/directory-search-results/src/edit.js:165
+#: blocks/directory-similar-items/src/edit.js:139
+#: blocks/directory-similar-items/src/edit.js:187
+#: blocks/item-featured-image/src/edit.js:230
+#: blocks/item-gallery/src/edit.js:108
+#: blocks/item-gallery/src/edit.js:156
+#: blocks/item-gallery/src/edit.js:239
+msgid "Bottom"
+msgstr "الأسفل"
+
+#: plugin/settings/CitadelaDirectorySettings.php:850
+#: blocks/build/index.js:7293
+#: blocks/build/index.js:7363
+#: blocks/build/index.js:9593
+#: blocks/build/index.js:9663
+#: blocks/build/index.js:10570
+#: blocks/build/index.js:10640
+#: blocks/build/index.js:13911
+#: blocks/build/index.js:14521
+#: blocks/build/index.js:14591
+#: blocks/directory-items-list/src/edit.js:174
+#: blocks/directory-items-list/src/edit.js:222
+#: blocks/directory-search-results/src/edit.js:116
+#: blocks/directory-search-results/src/edit.js:164
+#: blocks/directory-similar-items/src/edit.js:138
+#: blocks/directory-similar-items/src/edit.js:186
+#: blocks/item-featured-image/src/edit.js:229
+#: blocks/item-gallery/src/edit.js:107
+#: blocks/item-gallery/src/edit.js:155
+msgid "Bottom left"
+msgstr "أسفل اليسار"
+
+#: plugin/settings/CitadelaDirectorySettings.php:852
+#: blocks/build/index.js:7299
+#: blocks/build/index.js:7369
+#: blocks/build/index.js:9599
+#: blocks/build/index.js:9669
+#: blocks/build/index.js:10576
+#: blocks/build/index.js:10646
+#: blocks/build/index.js:13917
+#: blocks/build/index.js:14527
+#: blocks/build/index.js:14597
+#: blocks/directory-items-list/src/edit.js:176
+#: blocks/directory-items-list/src/edit.js:224
+#: blocks/directory-search-results/src/edit.js:118
+#: blocks/directory-search-results/src/edit.js:166
+#: blocks/directory-similar-items/src/edit.js:140
+#: blocks/directory-similar-items/src/edit.js:188
+#: blocks/item-featured-image/src/edit.js:231
+#: blocks/item-gallery/src/edit.js:109
+#: blocks/item-gallery/src/edit.js:157
+msgid "Bottom right"
+msgstr "أسفل اليمين"
+
+#: blocks/build/index.js:4818
+#: blocks/components/toolbar-layout.js:65
+msgid "Box layout"
+msgstr "تخطيط الصندوق"
+
+#: blocks/build/index.js:5744
+#: blocks/build/index.js:13422
+#: blocks/item-extension/src/edit.js:231
+msgid "Box width"
+msgstr "عرض الصندوق"
+
+#: blocks/build/index.js:5895
+#: blocks/build/index.js:11954
+#: blocks/build/index.js:15207
+#: blocks/build/index.js:15385
+#: blocks/item-claim-listing/src/index.js:82
+#: blocks/item-get-directions/src/index.js:83
+#: blocks/item-gpx-download/src/index.js:82
+msgid "Button background color"
+msgstr "لون خلفية الزر"
+
+#: blocks/build/index.js:5904
+msgid "Button border radius"
+msgstr "نصف قطر حد الزر"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:132
+msgid "Button color"
+msgstr "لون الزر"
+
+#: blocks/build/index.js:9334
+#: blocks/build/index.js:16622
+#: blocks/directory-search-form/src/inspector-controls.js:341
+#: blocks/posts-search-form/src/inspector-controls.js:232
+msgid "Button settings"
+msgstr "إعدادات الزر"
+
+#: blocks/build/index.js:5766
+msgid "Button style"
+msgstr "نمط الزر"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:140
+#: blocks/build/index.js:5885
+msgid "Button text color"
+msgstr "لون نص الزر"
+
+#: blocks/build/index.js:11916
+#: blocks/item-claim-listing/src/index.js:48
+msgid "Buttons"
+msgstr "أزرار"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:78
+msgid "Cancel"
+msgstr "يلغي"
+
+#: plugin/claim-listing/ClaimListing.php:164
+msgid "Captcha check failed!"
+msgstr "فشل التحقق من كلمة التحقق!"
+
+#: plugin/controls/butterbean/templates/control-citadela_gallery.php:23
+#: plugin/controls/butterbean/templates/control-citadela_gallery.php:39
+msgid "Caption text"
+msgstr "نص التسمية التوضيحية"
+
+#: blocks/build/index.js:3599
+#: blocks/components/panel-carousel.js:35
+msgid "Carousel Options"
+msgstr "خيارات الرف الدائري"
+
+#: blocks/build/index.js:4348
+#: blocks/components/state-icons.js:27
+msgid "Carousel autoplay enabled"
+msgstr "تم تفعيل التشغيل التلقائي للعرض الدائري"
+
+#: blocks/authors-list/src/edit.js:303
+#: blocks/build/index.js:712
+#: blocks/build/index.js:7700
+#: blocks/build/index.js:10991
+#: blocks/build/index.js:14766
+#: blocks/directory-items-list/src/edit.js:524
+#: blocks/directory-similar-items/src/edit.js:496
+#: blocks/item-gallery/src/edit.js:316
+msgid "Carousel decoration color"
+msgstr "لون زخرفة دائري"
+
+#: blocks/build/index.js:4342
+#: blocks/components/state-icons.js:20
+msgid "Carousel loop mode enabled"
+msgstr "تم تفعيل وضع حلقة الرف الدائري"
+
+#: plugin/cpt/item/templates/parts/item-container.php:183
+#: plugin/cpt/post/templates/parts/post-container.php:125
+#: plugin/parts/default-search-results-content.php:113
+#: plugin/subscriptions/Feature.php:68
+msgid "Categories"
+msgstr "فئات"
+
+#: blocks/build/index.js:6177
+#: blocks/build/index.js:6679
+#: blocks/build/index.js:7466
+#: blocks/build/index.js:15799
+#: blocks/common-scripts/search-forms-initializer.js:374
+#: blocks/directory-categories-list/src/edit.js:93
+#: blocks/directory-google-map/src/edit.js:197
+#: blocks/directory-items-list/src/edit.js:329
+#: blocks/posts-map/src/edit.js:148
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1275
+#: plugin/assets/citadela/half-layout-map/editor.js:77
+msgid "Category"
+msgstr "فئة"
+
+#: blocks/build/index.js:6195
+#: blocks/directory-categories-list/src/edit.js:108
+msgid "Category Details"
+msgstr "تفاصيل الفئة"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:319
+msgid "Category archives: "
+msgstr "فئة المحفوظات:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:171
+#: plugin/cpt/post/CitadelaPost.php:26
+msgid "Category color"
+msgstr "لون الفئة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:172
+#: plugin/cpt/post/CitadelaPost.php:27
+msgid "Category decoration color"
+msgstr "فئة لون الديكور"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:164
+#: plugin/cpt/post/CitadelaPost.php:19
+msgid "Category icon"
+msgstr "رمز الفئة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:848
+#: blocks/build/index.js:7287
+#: blocks/build/index.js:7357
+#: blocks/build/index.js:9587
+#: blocks/build/index.js:9657
+#: blocks/build/index.js:10564
+#: blocks/build/index.js:10634
+#: blocks/build/index.js:13905
+#: blocks/build/index.js:14515
+#: blocks/build/index.js:14585
+#: blocks/build/index.js:14685
+#: blocks/directory-items-list/src/edit.js:172
+#: blocks/directory-items-list/src/edit.js:220
+#: blocks/directory-search-results/src/edit.js:114
+#: blocks/directory-search-results/src/edit.js:162
+#: blocks/directory-similar-items/src/edit.js:136
+#: blocks/directory-similar-items/src/edit.js:184
+#: blocks/item-featured-image/src/edit.js:227
+#: blocks/item-gallery/src/edit.js:105
+#: blocks/item-gallery/src/edit.js:153
+#: blocks/item-gallery/src/edit.js:238
+msgid "Center"
+msgstr "مركز"
+
+#: plugin/settings/CitadelaDirectorySettings.php:847
+msgid "Center left"
+msgstr "يسار الوسط"
+
+#: plugin/settings/CitadelaDirectorySettings.php:849
+msgid "Center right"
+msgstr "يمين الوسط"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:25
+msgid "Change GPX track"
+msgstr "تغيير مسار GPX"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:438
+msgid "Checkbox"
+msgstr "خانة اختيار"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:286
+msgid "Choices for selected input type. Insert one choise per line, divide saved input value and text displayed in input using colon."
+msgstr "اختيارات لنوع الإدخال المحدد. أدخل اختيارًا واحدًا في كل سطر ، وقم بتقسيم قيمة الإدخال المحفوظة والنص المعروض في الإدخال باستخدام النقطتين."
+
+#: plugin/cpt/item/CitadelaItemMetabox.php:149
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:165
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:266
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:568
+msgid "Choose option"
+msgstr "إختر خيارا"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:113
+msgid "Citadela - Special Pages"
+msgstr "Citadela - صفحات خاصة"
+
+#. translators: %s plugin's name
+#: plugin/compatibility.php:14
+msgid "Citadela Directory Lite"
+msgstr "Citadela Directory Lite"
+
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1483
+#: plugin/assets/citadela/half-layout-map/editor.js:325
+msgid "Citadela Half Layout Map Settings"
+msgstr "إعدادات خريطة نصف تخطيط Citadela"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:168
+#: plugin/assets/citadela/item-page-layout/editor.js:77
+msgid "Citadela Item Page Layout"
+msgstr "تخطيط صفحة عنصر Citadela"
+
+#. Plugin Name of the plugin
+#: plugin/events/Events.php:14
+#: plugin/events/Events.php:34
+#: plugin/settings/CitadelaDirectorySettings.php:54
+#: plugin/settings/CitadelaDirectorySettings.php:55
+#: plugin/settings/CitadelaDirectorySettings.php:67
+#: plugin/settings/CitadelaDirectorySettings.php:68
+msgid "Citadela Listing"
+msgstr "قائمة Citadela"
+
+#: blocks/build/index.js:5973
+#: blocks/build/index.js:13518
+#: blocks/item-extension/src/edit.js:367
+msgid "Citadela Listing > Item Extension"
+msgstr "قائمة Citadela&gt; امتداد العنصر"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:466
+msgid "Citadela Listing Blocks"
+msgstr "كتل قائمة Citadela"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:471
+msgid "Citadela Posts Blocks"
+msgstr "كتل مشاركات Citadela"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:195
+#: plugin/includes/CitadelaDirectorySpecialPages.php:196
+msgid "Citadela Special Pages"
+msgstr "صفحات Citadela الخاصة"
+
+#: plugin/subscriptions/Feature.php:273
+msgid "Citadela Subscription"
+msgstr "اشتراك Citadela"
+
+#: plugin/settings/CitadelaDirectorySettings.php:265
+#: plugin/settings/CitadelaDirectorySettings.php:266
+#: blocks/build/index.js:12106
+#: blocks/item-claim-listing/src/index.js:237
+msgid "Claim Listing"
+msgstr "قائمة المطالبة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:56
+msgid "Claim Listing Request"
+msgstr "طلب ادراج المطالبة"
+
+#: blocks/item-claim-listing/ItemClaimListing.php:68
+msgid "Claim as:"
+msgstr "المطالبة باسم:"
+
+#: plugin/claim-listing/ClaimListing.php:34
+msgid "Claim listing has been approved"
+msgstr "تمت الموافقة على قائمة المطالبة"
+
+#: plugin/claim-listing/ClaimListing.php:34
+msgid "Claim listing has been declined"
+msgstr "تم رفض قائمة المطالبة"
+
+#: plugin/claim-listing/ClaimListing.php:40
+msgid "Claim status"
+msgstr "حالة المطالبة"
+
+#: plugin/claim-listing/ClaimListing.php:60
+msgid "Claimed by"
+msgstr "بواسطة"
+
+#: blocks/build/index.js:2414
+#: blocks/components/custom-color-control.js:63
+#: plugin/assets/citadela/half-layout-map/build/editor.js:235
+msgid "Clear"
+msgstr "صافي"
+
+#: plugin/migration/Migration/Settings_Tab.php:31
+msgid "Clicking on button below will restart migration process. All automatically migrated items, categories and locations will be deleted. All manually created items, categories and locations will not be deleted. Migration process will start automatically after that."
+msgstr "سيؤدي النقر فوق الزر أدناه إلى إعادة تشغيل عملية الترحيل. سيتم حذف جميع العناصر والفئات والمواقع التي تم ترحيلها تلقائيًا. لن يتم حذف جميع العناصر والفئات والمواقع التي تم إنشاؤها يدويًا. ستبدأ عملية الترحيل تلقائيًا بعد ذلك."
+
+#: blocks/build/index.js:5727
+msgid "Closed on mobile"
+msgstr "مغلق على الهاتف المحمول"
+
+#: blocks/automatic-directory-google-map/src/edit.js:227
+#: blocks/automatic-posts-map/src/edit.js:155
+#: blocks/build/index.js:1262
+#: blocks/build/index.js:1817
+#: blocks/build/index.js:6726
+#: blocks/build/index.js:15838
+#: blocks/directory-google-map/src/edit.js:240
+#: blocks/posts-map/src/edit.js:186
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1368
+#: plugin/assets/citadela/half-layout-map/editor.js:204
+msgid "Cluster radius in px"
+msgstr "نصف قطر الكتلة بالبكسل"
+
+#: blocks/automatic-directory-google-map/src/edit.js:228
+#: blocks/automatic-posts-map/src/edit.js:156
+#: blocks/build/index.js:1263
+#: blocks/build/index.js:1818
+#: blocks/build/index.js:6727
+#: blocks/build/index.js:15839
+#: blocks/directory-google-map/src/edit.js:241
+#: blocks/posts-map/src/edit.js:187
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1369
+#: plugin/assets/citadela/half-layout-map/editor.js:205
+msgid "Clusters are disabled."
+msgstr "الكتل معطلة."
+
+#: blocks/build/index.js:5710
+msgid "Collapsible filters section."
+msgstr "قسم المرشحات القابلة للطي."
+
+#: plugin/cpt/item/CitadelaItem.php:363
+#: plugin/subscriptions/Feature.php:104
+msgid "Comments"
+msgstr "تعليقات"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:211
+#: plugin/subscriptions/Feature.php:128
+msgid "Contact"
+msgstr "اتصال"
+
+#: plugin/subscriptions/Feature.php:80
+msgid "Content"
+msgstr "محتوى"
+
+#: blocks/build/index.js:8577
+#: blocks/directory-membership-content/src/edit.js:39
+msgid "Content visible for:"
+msgstr "المحتوى مرئي لـ:"
+
+#: blocks/automatic-directory-google-map/src/edit.js:253
+#: blocks/automatic-posts-map/src/edit.js:179
+#: blocks/build/index.js:1289
+#: blocks/build/index.js:1844
+#: blocks/build/index.js:6753
+#: blocks/build/index.js:15865
+#: blocks/directory-google-map/src/edit.js:265
+#: blocks/posts-map/src/edit.js:210
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1387
+#: plugin/assets/citadela/half-layout-map/editor.js:229
+msgid "Copy and paste the JSON from this website:"
+msgstr "انسخ والصق JSON من موقع الويب هذا:"
+
+#: plugin/controls/butterbean/templates/control-citadela_map.php:102
+#: plugin/controls/inputs/CitadelaMapControl.php:122
+msgid "Couldn't find location, try different address."
+msgstr "تعذر العثور على الموقع ، جرب عنوانًا مختلفًا."
+
+#: plugin/settings/CitadelaDirectorySettings.php:907
+msgid "Cover"
+msgstr "التغطية"
+
+#: blocks/automatic-directory-google-map/src/edit.js:210
+#: blocks/automatic-posts-map/src/edit.js:138
+#: blocks/build/index.js:1246
+#: blocks/build/index.js:1801
+#: blocks/build/index.js:6710
+#: blocks/build/index.js:13769
+#: blocks/build/index.js:13792
+#: blocks/build/index.js:15822
+#: blocks/directory-google-map/src/edit.js:223
+#: blocks/item-featured-image/src/edit.js:92
+#: blocks/item-featured-image/src/edit.js:116
+#: blocks/posts-map/src/edit.js:169
+msgid "Cover column height"
+msgstr "ارتفاع عمود الغطاء"
+
+#: plugin/cpt/user/CitadelaUser.php:12
+#: plugin/cpt/user/CitadelaUser.php:43
+msgid "Cover image"
+msgstr "صورة الغلاف"
+
+#: blocks/build/index.js:4354
+#: blocks/build/index.js:4362
+#: blocks/components/state-icons.js:36
+#: blocks/components/state-icons.js:43
+msgid "Current block view"
+msgstr "عرض الكتلة الحالي"
+
+#: blocks/automatic-directory-google-map/src/edit.js:14
+#: blocks/automatic-posts-map/src/edit.js:13
+#: blocks/build/index.js:1016
+#: blocks/build/index.js:1643
+#: blocks/build/index.js:6461
+#: blocks/build/index.js:7260
+#: blocks/build/index.js:7330
+#: blocks/build/index.js:9560
+#: blocks/build/index.js:9630
+#: blocks/build/index.js:10537
+#: blocks/build/index.js:10607
+#: blocks/build/index.js:14488
+#: blocks/build/index.js:14558
+#: blocks/build/index.js:15634
+#: blocks/directory-google-map/src/edit.js:17
+#: blocks/directory-items-list/src/edit.js:157
+#: blocks/directory-items-list/src/edit.js:205
+#: blocks/directory-search-results/src/edit.js:99
+#: blocks/directory-search-results/src/edit.js:147
+#: blocks/directory-similar-items/src/edit.js:121
+#: blocks/directory-similar-items/src/edit.js:169
+#: blocks/item-gallery/src/edit.js:90
+#: blocks/item-gallery/src/edit.js:138
+#: blocks/posts-map/src/edit.js:14
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1257
+#: plugin/assets/citadela/half-layout-map/editor.js:56
+msgid "Custom"
+msgstr "العادة"
+
+#: blocks/automatic-directory-google-map/src/edit.js:204
+#: blocks/automatic-posts-map/src/edit.js:132
+#: blocks/build/index.js:1242
+#: blocks/build/index.js:1797
+#: blocks/build/index.js:6706
+#: blocks/build/index.js:13868
+#: blocks/build/index.js:15818
+#: blocks/directory-google-map/src/edit.js:217
+#: blocks/item-featured-image/src/edit.js:198
+#: blocks/posts-map/src/edit.js:163
+msgid "Custom Height Settings"
+msgstr "إعدادات الارتفاع المخصصة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:94
+msgid "Custom inputs"
+msgstr "مدخلات مخصصة"
+
+#: blocks/build/index.js:9317
+#: blocks/build/index.js:16605
+#: blocks/directory-search-form/src/inspector-controls.js:326
+#: blocks/posts-search-form/src/inspector-controls.js:216
+msgid "Custom shadow"
+msgstr "ظل مخصص"
+
+#: blocks/build/index.js:4232
+#: blocks/components/responsive-options-tabs.js:20
+msgid "Customized options for mobile screen width."
+msgstr "خيارات مخصصة لعرض شاشة الجوال."
+
+#: blocks/automatic-directory-google-map/src/edit.js:273
+#: blocks/automatic-posts-map/src/edit.js:198
+#: blocks/build/index.js:1316
+#: blocks/build/index.js:1871
+#: blocks/build/index.js:6780
+#: blocks/build/index.js:15892
+#: blocks/directory-google-map/src/edit.js:284
+#: blocks/posts-map/src/edit.js:229
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1408
+#: plugin/assets/citadela/half-layout-map/editor.js:248
+msgid "Dark"
+msgstr "مظلم"
+
+#: plugin/settings/CitadelaDirectorySettings.php:279
+#: plugin/settings/CitadelaDirectorySettings.php:280
+msgid "Data migration"
+msgstr "ترحيل البيانات"
+
+#: blocks/build/index.js:13384
+#: blocks/item-extension/src/edit.js:196
+msgid "Data of inputs with no value will not be displayed."
+msgstr "لن يتم عرض بيانات المدخلات التي ليس لها قيمة."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:437
+#: blocks/build/index.js:7586
+#: blocks/build/index.js:9764
+#: blocks/build/index.js:10874
+#: blocks/build/index.js:16856
+#: blocks/directory-items-list/src/edit.js:423
+#: blocks/directory-search-results/src/edit.js:267
+#: blocks/directory-similar-items/src/edit.js:396
+#: blocks/posts-search-results/src/index.js:161
+msgid "Date"
+msgstr "تاريخ"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:360
+msgid "Date archives: "
+msgstr "أرشيفات التاريخ:"
+
+#: blocks/build/index.js:16946
+#: blocks/posts-search-results/src/index.js:239
+msgid "Date color"
+msgstr "لون التاريخ"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:294
+msgid "Decide if email address is visible for visitors"
+msgstr "قرر ما إذا كان عنوان البريد الإلكتروني مرئيًا للزوار"
+
+#: plugin/claim-listing/ClaimListing.php:62
+#: plugin/claim-listing/ClaimListing.php:69
+msgid "Decline"
+msgstr "انخفاض"
+
+#: plugin/claim-listing/ClaimListing.php:239
+msgid "Decline claim"
+msgstr "رفض المطالبة"
+
+#: blocks/authors-list/src/edit.js:241
+#: blocks/build/index.js:639
+#: blocks/build/index.js:7631
+#: blocks/build/index.js:9885
+#: blocks/build/index.js:10922
+#: blocks/build/index.js:16933
+#: blocks/directory-items-list/src/edit.js:463
+#: blocks/directory-search-results/src/edit.js:365
+#: blocks/directory-similar-items/src/edit.js:435
+#: blocks/posts-search-results/src/index.js:226
+msgid "Decoration color"
+msgstr "لون الديكور"
+
+#: blocks/automatic-directory-google-map/src/edit.js:270
+#: blocks/automatic-posts-map/src/edit.js:195
+#: blocks/build/index.js:1307
+#: blocks/build/index.js:1862
+#: blocks/build/index.js:6771
+#: blocks/build/index.js:7257
+#: blocks/build/index.js:7327
+#: blocks/build/index.js:7719
+#: blocks/build/index.js:9557
+#: blocks/build/index.js:9627
+#: blocks/build/index.js:9960
+#: blocks/build/index.js:10534
+#: blocks/build/index.js:10604
+#: blocks/build/index.js:11010
+#: blocks/build/index.js:14485
+#: blocks/build/index.js:14555
+#: blocks/build/index.js:14671
+#: blocks/build/index.js:15883
+#: blocks/directory-google-map/src/edit.js:281
+#: blocks/directory-items-list/src/edit.js:156
+#: blocks/directory-items-list/src/edit.js:204
+#: blocks/directory-items-list/src/edit.js:550
+#: blocks/directory-search-results/src/edit.js:98
+#: blocks/directory-search-results/src/edit.js:146
+#: blocks/directory-search-results/src/edit.js:432
+#: blocks/directory-similar-items/src/edit.js:120
+#: blocks/directory-similar-items/src/edit.js:168
+#: blocks/directory-similar-items/src/edit.js:521
+#: blocks/item-gallery/src/edit.js:89
+#: blocks/item-gallery/src/edit.js:137
+#: blocks/item-gallery/src/edit.js:229
+#: blocks/posts-map/src/edit.js:226
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1399
+#: plugin/assets/citadela/half-layout-map/editor.js:245
+msgid "Default"
+msgstr "تقصير"
+
+#: blocks/build/index.js:14644
+#: blocks/item-gallery/src/edit.js:211
+msgid "Default Layout Options"
+msgstr "خيارات التخطيط الافتراضية"
+
+#: blocks/build/index.js:5031
+#: blocks/default-search-results/src/index.js:11
+msgid "Default Search Results"
+msgstr "نتائج البحث الافتراضية"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:61
+#: plugin/includes/CitadelaDirectorySpecialPages.php:65
+msgid "Default Search Results Page"
+msgstr "صفحة نتائج البحث الافتراضية"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:268
+msgid "Default selection text, displayed as first option in selection. "
+msgstr "نص التحديد الافتراضي ، يتم عرضه كخيار أول في التحديد."
+
+#: blocks/build/index.js:9314
+#: blocks/build/index.js:16602
+#: blocks/directory-search-form/src/inspector-controls.js:325
+#: blocks/posts-search-form/src/inspector-controls.js:215
+msgid "Default shadow"
+msgstr "الظل الافتراضي"
+
+#: plugin/settings/CitadelaDirectorySettings.php:910
+msgid "Default size"
+msgstr "حجم افتراضى"
+
+#: blocks/build/index.js:3639
+#: blocks/components/panel-carousel.js:76
+msgid "Delay between slides"
+msgstr "تأخير بين الشرائح"
+
+#: blocks/authors-list/src/edit.js:222
+#: blocks/build/index.js:623
+#: blocks/build/index.js:7606
+#: blocks/build/index.js:9784
+#: blocks/build/index.js:10897
+#: blocks/build/index.js:16873
+#: blocks/directory-items-list/src/edit.js:438
+#: blocks/directory-search-results/src/edit.js:282
+#: blocks/directory-similar-items/src/edit.js:410
+#: blocks/posts-search-results/src/index.js:175
+msgid "Descending"
+msgstr "تنازلي"
+
+#: blocks/build/index.js:11993
+#: blocks/item-claim-listing/src/index.js:118
+msgid "Description"
+msgstr "وصف"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:247
+msgid "Description text that appear on edit page with new input."
+msgstr "نص الوصف الذي يظهر في صفحة التحرير بإدخال جديد."
+
+#: blocks/authors-list/src/edit.js:236
+#: blocks/build/index.js:635
+#: blocks/build/index.js:7627
+#: blocks/build/index.js:9881
+#: blocks/build/index.js:10918
+#: blocks/build/index.js:13443
+#: blocks/build/index.js:14749
+#: blocks/build/index.js:16929
+#: blocks/directory-items-list/src/edit.js:458
+#: blocks/directory-search-results/src/edit.js:360
+#: blocks/directory-similar-items/src/edit.js:430
+#: blocks/item-extension/src/edit.js:252
+#: blocks/item-gallery/src/edit.js:298
+#: blocks/posts-search-results/src/index.js:221
+msgid "Design Options"
+msgstr "خيارات التصميم"
+
+#: blocks/build/index.js:4362
+#: blocks/components/state-icons.js:43
+msgid "Desktop"
+msgstr "سطح المكتب"
+
+#: blocks/build/index.js:4246
+#: blocks/components/responsive-options-tabs.js:30
+msgid "Desktop size"
+msgstr "حجم سطح المكتب"
+
+#: blocks/build/index.js:9063
+#: blocks/directory-search-form/src/inspector-controls.js:87
+msgid "Disable filters button label"
+msgstr "تعطيل تسمية زر عوامل التصفية"
+
+#: blocks/build/index.js:9144
+#: blocks/directory-search-form/src/inspector-controls.js:157
+msgid "Disable geolocation button label"
+msgstr "تعطيل تسمية زر تحديد الموقع الجغرافي"
+
+#: blocks/authors-list/src/edit.js:206
+#: blocks/build/index.js:600
+msgid "Display name"
+msgstr "اسم العرض"
+
+#: blocks/build/index.js:10871
+#: blocks/directory-similar-items/src/edit.js:393
+msgid "Displayed are nearest items by their GPS coordinates."
+msgstr "يتم عرض العناصر الأقرب من خلال إحداثيات GPS الخاصة بهم."
+
+#: blocks/build/index.js:11118
+#: blocks/directory-similar-items/src/edit.js:629
+msgid "Displayed will be posts similar to selected reference Item Post."
+msgstr "سيتم عرض مشاركات مماثلة لمرجع العنصر المحدد."
+
+#: blocks/build/index.js:12164
+#: blocks/item-contact-details/src/index.js:12
+msgid "Displays address, phone number and other contact information of specific listing item."
+msgstr "يعرض العنوان ورقم الهاتف ومعلومات الاتصال الأخرى لعنصر معين في القائمة."
+
+#: blocks/build/index.js:15129
+#: blocks/item-get-directions/src/index.js:15
+msgid "Displays button that open Google Maps navigation to Item Post location."
+msgstr "يعرض الزر الذي يفتح خرائط Google للملاحة إلى موقع مشاركة العنصر."
+
+#: blocks/build/index.js:15307
+#: blocks/item-gpx-download/src/index.js:15
+msgid "Displays button to download GPX file assigned to item."
+msgstr "يعرض زر تنزيل ملف GPX المخصص للعنصر."
+
+#: blocks/build/index.js:12411
+#: blocks/item-contact-form/src/index.js:10
+msgid "Displays contact form which send email directly to email address of specific listing item."
+msgstr "يعرض نموذج الاتصال الذي يرسل بريدًا إلكترونيًا مباشرةً إلى عنوان البريد الإلكتروني لعنصر معين في القائمة."
+
+#: blocks/build/index.js:8667
+#: blocks/directory-membership-content/src/index.js:11
+msgid "Displays content only for users with active membership, or only for visitors without membership."
+msgstr "يعرض المحتوى فقط للمستخدمين ذوي العضوية النشطة ، أو فقط للزوار الذين ليس لديهم عضوية."
+
+#: blocks/build/index.js:12761
+#: blocks/item-content/src/index.js:10
+msgid "Displays content written in visual editor of specific listing item."
+msgstr "يعرض المحتوى المكتوب في المحرر المرئي لعنصر معين في القائمة."
+
+#: blocks/build/index.js:15068
+#: blocks/item-gallery/src/index.js:10
+msgid "Displays gallery of images assigned to Item Post."
+msgstr "يعرض معرض الصور المعينة لـ Item Post."
+
+#: blocks/author-detail/src/index.js:10
+#: blocks/build/index.js:292
+msgid "Displays information about author on author archive page."
+msgstr "يعرض معلومات حول المؤلف على صفحة أرشيف المؤلف."
+
+#: blocks/authors-list/src/index.js:10
+#: blocks/build/index.js:907
+msgid "Displays information about selected authors."
+msgstr "يعرض معلومات حول المؤلفين المختارين."
+
+#: blocks/build/index.js:13566
+#: blocks/item-extension/src/index.js:13
+msgid "Displays information from Item Extension inputs assigned to item."
+msgstr "يعرض المعلومات من مدخلات ملحق العنصر المعينة للعنصر."
+
+#: blocks/build/index.js:6349
+#: blocks/directory-categories-list/src/index.js:10
+msgid "Displays listing categories based on specific filter. It can display parent categories or subcategories from specific category."
+msgstr "يعرض قائمة الفئات على أساس مرشح معين. يمكنه عرض الفئات الأصلية أو الفئات الفرعية من فئة معينة."
+
+#: blocks/build/index.js:10304
+#: blocks/directory-search-results/src/index.js:10
+msgid "Displays listing items based on current category/location page or results from search form."
+msgstr "يعرض قائمة العناصر بناءً على الفئة الحالية / صفحة الموقع أو النتائج من نموذج البحث."
+
+#: blocks/build/index.js:8123
+#: blocks/directory-items-list/src/index.js:10
+msgid "Displays listing items based on filters. For example items only from specific category, location or featured items."
+msgstr "يعرض قائمة العناصر على أساس المرشحات. على سبيل المثال العناصر فقط من فئة معينة أو موقع أو عناصر مميزة."
+
+#: blocks/build/index.js:6999
+#: blocks/directory-google-map/src/index.js:12
+msgid "Displays listing items on map based on filters. For example items only from specific category, location or featured items."
+msgstr "يعرض قائمة العناصر على الخريطة بناءً على عوامل التصفية. على سبيل المثال العناصر فقط من فئة معينة أو موقع أو عناصر مميزة."
+
+#: blocks/build/index.js:11471
+#: blocks/directory-similar-items/src/index.js:10
+msgid "Displays listing items similar to selected reference item post."
+msgstr "يعرض سرد العناصر المشابهة لمنشور العنصر المرجعي المحدد."
+
+#: blocks/build/index.js:8467
+#: blocks/directory-locations-list/src/index.js:10
+msgid "Displays listing locations based on specific filter. It can display parent locations or sublocations from specific location."
+msgstr "يعرض قائمة المواقع على أساس مرشح معين. يمكنه عرض المواقع الأصلية أو المواقع الفرعية من موقع معين."
+
+#: blocks/build/index.js:11526
+#: blocks/directory-subcategories-list/src/index.js:12
+msgid "Displays listing subcategories based on current category page."
+msgstr "يعرض سرد الفئات الفرعية بناءً على صفحة الفئة الحالية."
+
+#: blocks/build/index.js:11643
+#: blocks/directory-sublocations-list/src/index.js:12
+msgid "Displays listing sublocations based on current category page."
+msgstr "يعرض سرد المواقع الفرعية بناءً على صفحة الفئة الحالية."
+
+#: blocks/build/index.js:14305
+#: blocks/item-featured-image/src/index.js:10
+msgid "Displays main item image of specific listing item."
+msgstr "يعرض صورة العنصر الرئيسي لعنصر قائمة محدد."
+
+#: blocks/build/index.js:15475
+#: blocks/item-opening-hours/src/index.js:12
+msgid "Displays opening hours of specific listing item."
+msgstr "يعرض ساعات عمل عنصر قائمة محدد."
+
+#: blocks/build/index.js:16708
+#: blocks/posts-search-results/src/index.js:15
+msgid "Displays posts based on current results from search form."
+msgstr "يعرض المنشورات بناءً على النتائج الحالية من نموذج البحث."
+
+#: blocks/build/index.js:5032
+#: blocks/default-search-results/src/index.js:12
+msgid "Displays posts based on current results on default WordPress search results page."
+msgstr "يعرض المنشورات بناءً على النتائج الحالية في صفحة نتائج بحث WordPress الافتراضية."
+
+#: blocks/build/index.js:16111
+#: blocks/posts-map/src/index.js:12
+msgid "Displays posts on map based on filters. For example posts only from specific category or location."
+msgstr "يعرض المنشورات على الخريطة بناءً على عوامل التصفية. على سبيل المثال المشاركات فقط من فئة معينة أو موقع."
+
+#: blocks/automatic-directory-google-map/src/index.js:12
+#: blocks/build/index.js:1533
+msgid "Displays relevant listing items automatically based on current page. For example search results or item detail location."
+msgstr "يعرض عناصر القائمة ذات الصلة تلقائيًا بناءً على الصفحة الحالية. على سبيل المثال نتائج البحث أو موقع تفاصيل العنصر."
+
+#: blocks/automatic-posts-map/src/index.js:12
+#: blocks/build/index.js:2088
+msgid "Displays relevant posts automatically based on current page. For example search results or post detail location."
+msgstr "يعرض المنشورات ذات الصلة تلقائيًا بناءً على الصفحة الحالية. على سبيل المثال نتائج البحث أو موقع التفاصيل بعد."
+
+#: blocks/build/index.js:11870
+#: blocks/item-claim-listing/src/index.js:16
+msgid "Displays the button and the form for claim listing."
+msgstr "يعرض الزر ونموذج قائمة المطالبة."
+
+#: blocks/build/index.js:13099
+#: blocks/item-events/src/index.js:10
+msgid "Displays upcoming events of specific listing item."
+msgstr "يعرض الأحداث القادمة من قائمة محددة البند."
+
+#: blocks/build/index.js:10886
+#: blocks/directory-similar-items/src/edit.js:400
+msgid "Distance"
+msgstr "مسافه: بعد"
+
+#: blocks/build/index.js:9128
+#: blocks/directory-search-form/src/inspector-controls.js:145
+msgid "Distance option label"
+msgstr "تسمية خيار المسافة"
+
+#: blocks/build/index.js:9086
+#: blocks/directory-search-form/src/inspector-controls.js:113
+msgid "Distance unit"
+msgstr "وحدة المسافة"
+
+#: blocks/build/index.js:14721
+#: blocks/item-gallery/src/edit.js:271
+msgid "Do not show"
+msgstr "لا تظهر"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:38
+msgid "Do not show endpoints"
+msgstr "لا تظهر نقاط النهاية"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:113
+#: plugin/assets/citadela/item-page-layout/editor.js:18
+msgid "Do not use Item Detail special page settings"
+msgstr "لا تستخدم إعدادات الصفحة الخاصة بتفاصيل العنصر"
+
+#: blocks/item-gpx-download/ItemGpxDownload.php:42
+#: blocks/build/index.js:15414
+#: blocks/item-gpx-download/src/index.js:119
+msgid "Download GPX file"
+msgstr "قم بتنزيل ملف GPX"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:60
+msgid "Drop GPX file here"
+msgstr "قم بإسقاط ملف GPX هنا"
+
+#: blocks/automatic-directory-google-map/src/edit.js:137
+#: blocks/build/index.js:1172
+#: blocks/build/index.js:6646
+#: blocks/directory-google-map/src/edit.js:164
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1331
+#: plugin/assets/citadela/half-layout-map/editor.js:148
+msgid "Dynamic track visibility"
+msgstr "رؤية المسار الديناميكي"
+
+#: plugin/settings/CitadelaDirectorySettings.php:239
+#: plugin/settings/CitadelaDirectorySettings.php:240
+msgid "Easy Admin"
+msgstr "إدارة سهلة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:1045
+msgid "Easy Admin offer simplified WordPress administration without any unnecessary distractions."
+msgstr "يقدم Easy Admin إدارة WordPress مبسطة دون أي انحرافات غير ضرورية."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:95
+msgid "Edit Category"
+msgstr "تحرير الفئة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:33
+msgid "Edit Item"
+msgstr "تعديل عنصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:129
+#: plugin/cpt/post/CitadelaPost.php:65
+msgid "Edit Location"
+msgstr "عدل الموقع"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:133
+msgid "Edit Special Page"
+msgstr "تحرير صفحة خاصة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:286
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:57
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:33
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:434
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: blocks/build/index.js:12633
+#: blocks/item-contact-form/src/inspector-controls.js:164
+msgid "Email Help"
+msgstr "تعليمات البريد الإلكتروني"
+
+#: blocks/build/index.js:12018
+#: blocks/build/index.js:12562
+#: blocks/item-claim-listing/src/index.js:141
+#: blocks/item-contact-form/src/inspector-controls.js:95
+msgid "Email Label"
+msgstr "تسمية البريد الإلكتروني"
+
+#: blocks/build/index.js:12533
+#: blocks/item-contact-form/src/inspector-controls.js:65
+msgid "Email Message"
+msgstr "رسالة الكترونية"
+
+#: blocks/build/index.js:12502
+#: blocks/item-contact-form/src/inspector-controls.js:35
+msgid "Email settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+#: blocks/build/index.js:12521
+#: blocks/item-contact-form/src/inspector-controls.js:54
+msgid "Email used as sender in email, make sure the email address corresponds with your website domain."
+msgstr "البريد الإلكتروني المستخدم كمرسل في البريد الإلكتروني ، تأكد من أن عنوان البريد الإلكتروني يتوافق مع مجال موقع الويب الخاص بك."
+
+#: blocks/automatic-directory-google-map/src/edit.js:184
+#: blocks/automatic-posts-map/src/edit.js:113
+#: blocks/build/index.js:1219
+#: blocks/build/index.js:1774
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1296
+#: plugin/assets/citadela/half-layout-map/editor.js:104
+msgid "Empty map behavior"
+msgstr "سلوك الخريطة فارغ"
+
+#: blocks/build/index.js:11246
+#: blocks/directory-similar-items/src/edit.js:746
+msgid "Empty value to show all similar items."
+msgstr "قيمة فارغة لإظهار جميع العناصر المتشابهة."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:43
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:66
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:70
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:59
+#: plugin/settings/pages/CitadelaDirectorySettingsSubscriptions.php:40
+#: plugin/subscriptions/Feature.php:54
+msgid "Enable"
+msgstr "يُمكَِن"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:77
+msgid "Enable Gutenberg editor"
+msgstr "تمكين محرر جوتنبرج"
+
+#: blocks/build/index.js:5972
+msgid "Enable and insert inputs available for filters via menu"
+msgstr "تمكين وإدخال المدخلات المتاحة للفلاتر عبر القائمة"
+
+#: blocks/build/index.js:13517
+#: blocks/item-extension/src/edit.js:366
+msgid "Enable and insert inputs via menu"
+msgstr "تمكين وإدخال المدخلات عبر القائمة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsSubscriptions.php:41
+msgid "Enable bundled subscriptions"
+msgstr "تمكين الاشتراكات المجمعة"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:42
+msgid "Endpoint markers are displayed in place of very first and very end point of uploaded GPX track."
+msgstr "يتم عرض علامات نقطة النهاية في مكان أول نقطة ونقطة نهاية لمسار GPX الذي تم تحميله."
+
+#: blocks/build/index.js:12900
+#: blocks/item-events/src/edit.js:32
+msgid "Event Details"
+msgstr "تفاصيل الحدث"
+
+#: blocks/build/index.js:12928
+#: blocks/item-events/src/edit.js:53
+msgid "Event Image Options"
+msgstr "خيارات صورة الحدث"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:37
+msgid "Every segment in track"
+msgstr "كل جزء في المسار الصحيح"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:402
+#: plugin/includes/CitadelaDirectorySpecialPages.php:443
+msgid "Everything"
+msgstr "كل شىء"
+
+#. translators: %s: printed example of expected values in input.
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:289
+msgid "Example of inserted values: %s"
+msgstr "مثال على القيم المدرجة:٪ s"
+
+#: plugin/subscriptions/Feature.php:92
+msgid "Excerpt"
+msgstr "مقتطفات"
+
+#: blocks/build/index.js:2482
+#: blocks/components/feature-disabled-placeholder.js:12
+msgid "Feature is disabled"
+msgstr "الميزة معطلة"
+
+#: plugin/cpt/item/CitadelaItem.php:385
+#: plugin/cpt/item/CitadelaItem.php:408
+#: plugin/cpt/item/CitadelaItemConfig.php:251
+msgid "Featured"
+msgstr "متميز"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:229
+msgid "Featured Category"
+msgstr "الفئة المميز"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:179
+#: plugin/subscriptions/Feature.php:146
+msgid "Featured category"
+msgstr "الفئة المميز"
+
+#: plugin/subscriptions/Feature.php:86
+msgid "Featured image"
+msgstr "صورة مميزة"
+
+#: blocks/build/index.js:7618
+#: blocks/build/index.js:9796
+#: blocks/build/index.js:10909
+#: blocks/directory-items-list/src/edit.js:448
+#: blocks/directory-search-results/src/edit.js:293
+#: blocks/directory-similar-items/src/edit.js:419
+msgid "Featured items first"
+msgstr "العناصر المميزة أولاً"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:191
+msgid "Featured location"
+msgstr "موقع مميز"
+
+#: plugin/item-reviews/ItemReviews.php:309
+msgid "Fill all required fields, please."
+msgstr "املأ جميع الحقول المطلوبة من فضلك."
+
+#: blocks/directory-advanced-filters/DirectoryAdvancedFilters.php:216
+#: blocks/build/index.js:5961
+msgid "Filter"
+msgstr "منقي"
+
+#: blocks/common-scripts/search-forms-initializer.js:505
+msgid "Filter posts"
+msgstr "تصفية المشاركات"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:137
+msgid "Filter special pages list"
+msgstr "تصفية قائمة الصفحات الخاصة"
+
+#: blocks/directory-advanced-filters/DirectoryAdvancedFilters.php:106
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:173
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:415
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:551
+#: blocks/build/index.js:5415
+#: blocks/build/index.js:6172
+#: blocks/build/index.js:6674
+#: blocks/build/index.js:7461
+#: blocks/build/index.js:8290
+#: blocks/build/index.js:10739
+#: blocks/build/index.js:11536
+#: blocks/build/index.js:11653
+#: blocks/build/index.js:15794
+#: blocks/build/index.js:16835
+#: blocks/directory-categories-list/src/edit.js:87
+#: blocks/directory-google-map/src/edit.js:191
+#: blocks/directory-items-list/src/edit.js:323
+#: blocks/directory-locations-list/src/edit.js:86
+#: blocks/directory-similar-items/src/edit.js:287
+#: blocks/directory-subcategories-list/src/index.js:23
+#: blocks/directory-sublocations-list/src/index.js:23
+#: blocks/posts-map/src/edit.js:142
+#: blocks/posts-search-results/src/index.js:138
+msgid "Filters"
+msgstr "المرشحات"
+
+#: blocks/build/index.js:5831
+msgid "Filters Design"
+msgstr "تصميم المرشحات"
+
+#: blocks/build/index.js:5835
+msgid "Filters background color"
+msgstr "يرشح لون الخلفية"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:405
+msgid "Filters group name"
+msgstr "مرشحات اسم المجموعة"
+
+#: blocks/build/index.js:9039
+#: blocks/directory-search-form/src/inspector-controls.js:63
+msgid "Filters settings"
+msgstr "إعدادات المرشحات"
+
+#: blocks/build/index.js:6009
+#: blocks/directory-advanced-filters/src/index.js:10
+msgid "Filters to specify results of displayed items."
+msgstr "مرشحات لتحديد نتائج العناصر المعروضة."
+
+#: plugin/controls/butterbean/templates/control-citadela_map.php:43
+#: plugin/controls/inputs/CitadelaMapControl.php:69
+msgid "Find address"
+msgstr "جد العنوان"
+
+#: blocks/build/index.js:13434
+#: blocks/item-extension/src/edit.js:240
+msgid "Fix width"
+msgstr "عرض ثابت"
+
+#: plugin/settings/CitadelaDirectorySettings.php:880
+msgid "Fixed"
+msgstr "مُثَبَّت"
+
+#. translators: %s url reCaptcha v3 page
+#: plugin/settings/CitadelaDirectorySettings.php:1002
+msgid "For more details see %s."
+msgstr "لمزيد من التفاصيل ، راجع٪ s."
+
+#: blocks/build/index.js:13435
+#: blocks/item-extension/src/edit.js:241
+msgid "Force box width to selected value."
+msgstr "فرض عرض الصندوق على القيمة المحددة."
+
+#: blocks/build/index.js:13414
+#: blocks/item-extension/src/edit.js:221
+msgid "Force table style for displayed data, longer values are not moved under label."
+msgstr "نمط الجدول الإجباري للبيانات المعروضة ، لا يتم نقل القيم الأطول تحت التسمية."
+
+#: blocks/build/index.js:11976
+#: blocks/item-claim-listing/src/index.js:101
+msgid "Form"
+msgstr "استمارة"
+
+#: blocks/automatic-directory-google-map/src/edit.js:430
+#: blocks/automatic-posts-map/src/edit.js:355
+#: blocks/build/index.js:1482
+#: blocks/build/index.js:2037
+#: blocks/build/index.js:6946
+#: blocks/build/index.js:16058
+#: blocks/directory-google-map/src/edit.js:445
+#: blocks/posts-map/src/edit.js:387
+msgid "Form inside map breakpoint"
+msgstr "شكل داخل نقطة توقف الخريطة"
+
+#: blocks/build/index.js:16428
+#: blocks/posts-search-form/src/inspector-controls.js:44
+msgid "Form settings"
+msgstr "إعدادات النموذج"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:360
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:28
+msgid "Friday"
+msgstr "جمعة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:908
+msgid "Full horizontal"
+msgstr "أفقي كامل"
+
+#: plugin/settings/CitadelaDirectorySettings.php:909
+msgid "Full vertical"
+msgstr "عمودي كامل"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:123
+#: plugin/assets/citadela/item-page-layout/editor.js:28
+msgid "Fullwidth page"
+msgstr "عرض صفحة كاملة"
+
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:33
+msgid "GPS"
+msgstr "GPS"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:224
+#: plugin/subscriptions/Feature.php:152
+msgid "GPX Track"
+msgstr "مسار GPX"
+
+#: blocks/automatic-directory-google-map/src/edit.js:128
+#: blocks/build/index.js:1160
+#: blocks/build/index.js:6634
+#: blocks/directory-google-map/src/edit.js:155
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1321
+#: plugin/assets/citadela/half-layout-map/editor.js:137
+msgid "GPX Tracks"
+msgstr "مسارات GPX"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:87
+msgid "GPX file successfully loaded!"
+msgstr "تم تحميل ملف GPX بنجاح!"
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:28
+msgid "GPX files"
+msgstr "ملفات GPX"
+
+#: blocks/build/index.js:14714
+#: blocks/item-gallery/src/edit.js:263
+msgid "Gallery Options"
+msgstr "خيارات المعرض"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:203
+msgid "General"
+msgstr "عام"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:93
+msgid "General background"
+msgstr "خلفية عامة"
+
+#: plugin/subscriptions/Feature.php:116
+msgid "General options"
+msgstr "خيارات عامة"
+
+#: blocks/build/index.js:4232
+#: blocks/components/responsive-options-tabs.js:19
+msgid "General options for desktop."
+msgstr "الخيارات العامة لسطح المكتب."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:35
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:59
+msgid "General settings"
+msgstr "الاعدادات العامة"
+
+#: blocks/build/index.js:9074
+#: blocks/directory-search-form/src/inspector-controls.js:101
+msgid "Geolocation search settings"
+msgstr "إعدادات البحث عن الموقع الجغرافي"
+
+#: blocks/item-get-directions/ItemGetDirections.php:44
+#: blocks/build/index.js:15236
+#: blocks/item-get-directions/src/index.js:120
+msgid "Get directions"
+msgstr "احصل على الاتجاهات"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:26
+msgid "Google Maps API Key"
+msgstr "مفتاح API لخرائط Google"
+
+#. translators: 1. starting html <a> tag with link to google documentation page, 2. ending html <a> tag
+#: plugin/settings/CitadelaDirectorySettings.php:1015
+msgid "Google Maps API key is required by Google. It is necessary for all websites that use advanced maps features such as displaying listing items on the map. Learn more about how to get API key in the %1$sfollowing tutorial%2$s."
+msgstr "مطلوب مفتاح Google Maps API بواسطة Google. من الضروري لجميع مواقع الويب التي تستخدم ميزات الخرائط المتقدمة مثل عرض عناصر القائمة على الخريطة. تعرف على المزيد حول كيفية الحصول على مفتاح API في٪ 1 $ s البرنامج التعليمي التالي٪ 2 $ s."
+
+#: plugin/settings/CitadelaDirectorySettings.php:1000
+msgid "Google reCaptcha protects your website against spam and other automated form submissions by spam bots. If you are using third party solution to protect forms on your website, ignore following key inputs."
+msgstr "يحمي Google reCaptcha موقع الويب الخاص بك من البريد العشوائي وعمليات إرسال النماذج الآلية الأخرى بواسطة روبوتات البريد العشوائي. إذا كنت تستخدم حلًا تابعًا لجهة خارجية لحماية النماذج على موقع الويب الخاص بك ، فتجاهل المدخلات الرئيسية التالية."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:33
+msgid "Google reCaptcha v3 Keys"
+msgstr "مفاتيح Google reCaptcha v3"
+
+#: blocks/build/index.js:9200
+#: blocks/build/index.js:16488
+#: blocks/directory-search-form/src/inspector-controls.js:210
+#: blocks/posts-search-form/src/inspector-controls.js:98
+msgid "Gradient"
+msgstr "الانحدار"
+
+#: blocks/build/index.js:2671
+#: blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "درجة التدرج"
+
+#: blocks/build/index.js:14648
+#: blocks/item-gallery/src/edit.js:216
+msgid "Grid size"
+msgstr "حجم الشبكة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:122
+msgid "Group name"
+msgstr "أسم المجموعة"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:126
+#: plugin/assets/citadela/item-page-layout/editor.js:29
+msgid "Half layout page"
+msgstr "نصف تخطيط الصفحة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:49
+msgid "Header menu settings"
+msgstr "إعدادات قائمة الرأس"
+
+#: blocks/build/index.js:5719
+msgid "Header opened or closed by default."
+msgstr "الرأس مفتوح أو مغلق بشكل افتراضي."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:42
+msgid "Header settings"
+msgstr "إعدادات الرأس"
+
+#: blocks/automatic-directory-google-map/src/edit.js:371
+#: blocks/automatic-posts-map/src/edit.js:296
+#: blocks/build/index.js:1420
+#: blocks/build/index.js:1975
+#: blocks/build/index.js:6884
+#: blocks/build/index.js:14018
+#: blocks/build/index.js:14088
+#: blocks/build/index.js:15996
+#: blocks/directory-google-map/src/edit.js:386
+#: blocks/item-featured-image/src/edit.js:335
+#: blocks/item-featured-image/src/edit.js:405
+#: blocks/posts-map/src/edit.js:328
+msgid "Height unit"
+msgstr "وحدة الارتفاع"
+
+#: blocks/build/index.js:12634
+#: blocks/item-contact-form/src/inspector-controls.js:165
+msgid "Help text displayed with Email input."
+msgstr "عرض نص المساعدة مع إدخال البريد الإلكتروني."
+
+#: blocks/build/index.js:12660
+#: blocks/item-contact-form/src/inspector-controls.js:189
+msgid "Help text displayed with Message input."
+msgstr "عرض نص المساعدة مع إدخال الرسالة."
+
+#: blocks/build/index.js:12621
+#: blocks/item-contact-form/src/inspector-controls.js:153
+msgid "Help text displayed with Name input."
+msgstr "عرض نص التعليمات مع إدخال الاسم."
+
+#: blocks/build/index.js:12647
+#: blocks/item-contact-form/src/inspector-controls.js:177
+msgid "Help text displayed with Subject input."
+msgstr "عرض نص التعليمات مع إدخال الموضوع."
+
+#: blocks/build/index.js:12613
+#: blocks/item-contact-form/src/inspector-controls.js:144
+msgid "Help texts"
+msgstr "نصوص المساعدة"
+
+#: blocks/build/index.js:16432
+#: blocks/posts-search-form/src/inspector-controls.js:49
+msgid "Hide Location input"
+msgstr "إخفاء إدخال الموقع"
+
+#: blocks/build/index.js:13383
+#: blocks/item-extension/src/edit.js:195
+msgid "Hide empty values"
+msgstr "إخفاء القيم الفارغة"
+
+#: blocks/automatic-directory-google-map/src/edit.js:188
+#: blocks/automatic-posts-map/src/edit.js:117
+#: blocks/build/index.js:1225
+#: blocks/build/index.js:1780
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1302
+#: plugin/assets/citadela/half-layout-map/editor.js:108
+msgid "Hide map"
+msgstr "إخفاء الخريطة"
+
+#: blocks/build/index.js:5665
+msgid "Hide selected filters"
+msgstr "إخفاء المرشحات المحددة"
+
+#: blocks/build/index.js:13361
+#: blocks/item-extension/src/edit.js:171
+msgid "Hide selected inputs"
+msgstr "إخفاء المدخلات المحددة"
+
+#: blocks/build/index.js:13392
+#: blocks/item-extension/src/edit.js:202
+msgid "Hide unchecked checkbox"
+msgstr "إخفاء خانة الاختيار غير المحددة"
+
+#: blocks/build/index.js:2218
+#: blocks/components/box-shadow-control.js:60
+msgid "Horizontal offset"
+msgstr "تعويض الأفقي"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:399
+msgid "If selected, will be available in filters for Item posts."
+msgstr "إذا تم تحديده ، فسيكون متاحًا في عوامل التصفية لمنشورات العنصر."
+
+#: plugin/settings/CitadelaDirectorySettings.php:1029
+msgid "If you would like to use your own WooCommerce Subscriptions plugin, simply deactivate bundled version below and activate your plugin."
+msgstr "إذا كنت ترغب في استخدام المكون الإضافي WooCommerce Subscriptions الخاص بك ، فما عليك سوى إلغاء تنشيط الإصدار المجمّع أدناه وتنشيط المكون الإضافي الخاص بك."
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:43
+msgid "If your GPX track consists of several segments, endpoint markers are displayed in place of start and end of every segment."
+msgstr "إذا كان مسار GPX الخاص بك يتكون من عدة مقاطع ، يتم عرض علامات نقطة النهاية في مكان بداية ونهاية كل مقطع."
+
+#: blocks/build/index.js:7273
+#: blocks/build/index.js:7343
+#: blocks/build/index.js:9573
+#: blocks/build/index.js:9643
+#: blocks/build/index.js:10550
+#: blocks/build/index.js:10620
+#: blocks/build/index.js:13891
+#: blocks/build/index.js:14501
+#: blocks/build/index.js:14571
+#: blocks/directory-items-list/src/edit.js:166
+#: blocks/directory-items-list/src/edit.js:214
+#: blocks/directory-search-results/src/edit.js:108
+#: blocks/directory-search-results/src/edit.js:156
+#: blocks/directory-similar-items/src/edit.js:130
+#: blocks/directory-similar-items/src/edit.js:178
+#: blocks/item-featured-image/src/edit.js:221
+#: blocks/item-gallery/src/edit.js:99
+#: blocks/item-gallery/src/edit.js:147
+msgid "Image focus"
+msgstr "تركيز الصورة"
+
+#: blocks/build/index.js:7254
+#: blocks/build/index.js:7324
+#: blocks/build/index.js:7964
+#: blocks/build/index.js:8034
+#: blocks/build/index.js:9554
+#: blocks/build/index.js:9624
+#: blocks/build/index.js:10147
+#: blocks/build/index.js:10217
+#: blocks/build/index.js:10531
+#: blocks/build/index.js:10601
+#: blocks/build/index.js:11312
+#: blocks/build/index.js:11382
+#: blocks/build/index.js:14039
+#: blocks/build/index.js:14109
+#: blocks/build/index.js:14482
+#: blocks/build/index.js:14552
+#: blocks/build/index.js:14909
+#: blocks/build/index.js:14979
+#: blocks/directory-items-list/src/edit.js:153
+#: blocks/directory-items-list/src/edit.js:201
+#: blocks/directory-items-list/src/edit.js:779
+#: blocks/directory-items-list/src/edit.js:849
+#: blocks/directory-search-results/src/edit.js:95
+#: blocks/directory-search-results/src/edit.js:143
+#: blocks/directory-search-results/src/edit.js:607
+#: blocks/directory-search-results/src/edit.js:677
+#: blocks/directory-similar-items/src/edit.js:117
+#: blocks/directory-similar-items/src/edit.js:165
+#: blocks/directory-similar-items/src/edit.js:815
+#: blocks/directory-similar-items/src/edit.js:885
+#: blocks/item-featured-image/src/edit.js:355
+#: blocks/item-featured-image/src/edit.js:425
+#: blocks/item-gallery/src/edit.js:86
+#: blocks/item-gallery/src/edit.js:134
+#: blocks/item-gallery/src/edit.js:470
+#: blocks/item-gallery/src/edit.js:540
+msgid "Image height"
+msgstr "ارتفاع الصورة"
+
+#: blocks/build/index.js:7943
+#: blocks/build/index.js:8013
+#: blocks/build/index.js:10126
+#: blocks/build/index.js:10196
+#: blocks/build/index.js:11291
+#: blocks/build/index.js:11361
+#: blocks/build/index.js:14888
+#: blocks/build/index.js:14958
+#: blocks/directory-items-list/src/edit.js:759
+#: blocks/directory-items-list/src/edit.js:829
+#: blocks/directory-search-results/src/edit.js:587
+#: blocks/directory-search-results/src/edit.js:657
+#: blocks/directory-similar-items/src/edit.js:795
+#: blocks/directory-similar-items/src/edit.js:865
+#: blocks/item-gallery/src/edit.js:450
+#: blocks/item-gallery/src/edit.js:520
+msgid "Image height unit"
+msgstr "وحدة ارتفاع الصورة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:857
+msgid "Image position"
+msgstr "موقف الصورة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:822
+msgid "Image repeat"
+msgstr "تكرار الصورة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:885
+msgid "Image scroll"
+msgstr "تمرير الصورة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:915
+#: blocks/build/index.js:2751
+#: blocks/build/index.js:12932
+#: blocks/components/image-sizes.js:14
+#: blocks/item-events/src/edit.js:58
+msgid "Image size"
+msgstr "حجم الصورة"
+
+#: blocks/build/index.js:14719
+#: blocks/item-gallery/src/edit.js:269
+msgid "Images caption text"
+msgstr "نص تسمية توضيحية للصور"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:220
+#: plugin/cpt/item/CitadelaItemConfig.php:391
+#: plugin/subscriptions/Feature.php:140
+msgid "Images gallery"
+msgstr "معرض الصور"
+
+#: blocks/build/index.js:14679
+#: blocks/item-gallery/src/edit.js:234
+msgid "Images vertical align"
+msgstr "محاذاة الصور العمودية"
+
+#: blocks/build/index.js:3621
+#: blocks/components/panel-carousel.js:60
+msgid "Infinite loop"
+msgstr "حلقة لا نهائية"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:253
+msgid "Input choices"
+msgstr "اختيارات الإدخال"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:235
+msgid "Input description"
+msgstr "وصف المدخلات"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:229
+msgid "Input field name that appear on edit page."
+msgstr "اسم حقل الإدخال الذي يظهر في صفحة التحرير."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:367
+msgid "Input identifier"
+msgstr "معرّف الإدخال"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:217
+msgid "Input label"
+msgstr "تسمية الإدخال"
+
+#: blocks/build/index.js:12544
+#: blocks/item-contact-form/src/inspector-controls.js:77
+msgid "Input labels"
+msgstr "تسميات الإدخال"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:193
+msgid "Input type"
+msgstr "نوع الإدخال"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:184
+msgid "Inputs contain validation errors."
+msgstr "تحتوي المدخلات على أخطاء في التحقق من الصحة."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:87
+msgid "Inputs group"
+msgstr "مجموعة المدخلات"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:64
+msgid "Insert from media"
+msgstr "إدراج من الوسائط"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:333
+msgid "Insert unit that will be displayed with number value."
+msgstr "أدخل الوحدة التي سيتم عرضها مع قيمة الرقم."
+
+#: blocks/build/index.js:14724
+#: blocks/item-gallery/src/edit.js:272
+msgid "Inside image"
+msgstr "الصورة الداخلية"
+
+#: plugin/settings/CitadelaDirectorySettings.php:226
+#: plugin/settings/CitadelaDirectorySettings.php:227
+msgid "Integrations"
+msgstr "تكاملات"
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:99
+msgid "Invalid file format"
+msgstr "تنسيق ملف غير صالح"
+
+#: plugin/cpt/item/templates/parts/content-none.php:14
+#: plugin/cpt/post/templates/parts/content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "يبدو أننا لا نستطيع العثور على ما تبحث عنه."
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:114
+#: plugin/assets/citadela/item-page-layout/editor.js:19
+msgid "It will allow you to build a whole item detail page. No blocks will be inherited from Item Detail special page."
+msgstr "سيسمح لك ببناء صفحة تفاصيل العنصر بالكامل. لن يتم توريث أي كتل من صفحة &quot;تفاصيل العنصر&quot; الخاصة."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:29
+msgctxt "post type singular name"
+msgid "Item"
+msgstr "العنصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:88
+msgctxt "taxonomy general name"
+msgid "Item Categories"
+msgstr "فئات العناصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:89
+msgctxt "taxonomy menu name"
+msgid "Item Categories"
+msgstr "فئات العناصر"
+
+#: plugin/CitadelaDirectory.php:689
+msgid "Item Categories widgets area"
+msgstr "منطقة الحاجيات فئات البند"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:90
+msgctxt "taxonomy singular name"
+msgid "Item Category"
+msgstr "العنصر فئة"
+
+#: blocks/build/index.js:11869
+#: blocks/item-claim-listing/src/index.js:15
+msgid "Item Claim Listing"
+msgstr "قائمة مطالبة البند"
+
+#: blocks/build/index.js:12163
+#: blocks/item-contact-details/src/index.js:11
+msgid "Item Contact Details"
+msgstr "تفاصيل جهة الاتصال بالعنصر"
+
+#: blocks/build/index.js:12410
+#: blocks/item-contact-form/src/index.js:9
+msgid "Item Contact Form"
+msgstr "نموذج الاتصال بالعنصر"
+
+#: blocks/build/index.js:12760
+#: blocks/item-content/src/index.js:9
+msgid "Item Content"
+msgstr "محتوى العنصر"
+
+#: plugin/settings/CitadelaDirectorySettings.php:259
+#: plugin/settings/CitadelaDirectorySettings.php:260
+msgid "Item Detail"
+msgstr "تفاصيل البند"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:25
+#: plugin/includes/CitadelaDirectorySpecialPages.php:29
+msgid "Item Detail Page"
+msgstr "صفحة تفاصيل العنصر"
+
+#: blocks/build/index.js:7503
+#: blocks/build/index.js:9805
+#: blocks/build/index.js:10790
+#: blocks/build/index.js:16885
+#: blocks/directory-items-list/src/edit.js:358
+#: blocks/directory-search-results/src/edit.js:302
+#: blocks/directory-similar-items/src/edit.js:330
+#: blocks/posts-search-results/src/index.js:188
+msgid "Item Details"
+msgstr "تفاصيل العنصر"
+
+#: blocks/build/index.js:13098
+#: blocks/item-events/src/index.js:9
+msgid "Item Events"
+msgstr "أحداث العنصر"
+
+#: plugin/settings/CitadelaDirectorySettings.php:252
+#: plugin/settings/CitadelaDirectorySettings.php:253
+#: plugin/subscriptions/Feature.php:158
+#: blocks/build/index.js:13565
+#: blocks/item-extension/src/index.js:12
+msgid "Item Extension"
+msgstr "ملحق العنصر"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:65
+msgid "Item Extension allows create additional inputs on edit pages of Item Posts."
+msgstr "يسمح ملحق العنصر بإنشاء مدخلات إضافية في صفحات تحرير منشورات العنصر."
+
+#: blocks/build/index.js:14304
+#: blocks/item-featured-image/src/index.js:9
+msgid "Item Featured Image"
+msgstr "عنصر صورة مميزة"
+
+#: blocks/build/index.js:15306
+#: blocks/item-gpx-download/src/index.js:14
+msgid "Item GPX Download"
+msgstr "تنزيل عنصر GPX"
+
+#: blocks/build/index.js:15067
+#: blocks/item-gallery/src/index.js:9
+msgid "Item Gallery"
+msgstr "معرض العناصر"
+
+#: blocks/build/index.js:15128
+#: blocks/item-get-directions/src/index.js:14
+msgid "Item Get Directions"
+msgstr "البند الحصول على الاتجاهات"
+
+#: blocks/build/index.js:7713
+#: blocks/build/index.js:9954
+#: blocks/build/index.js:11004
+#: blocks/directory-items-list/src/edit.js:544
+#: blocks/directory-search-results/src/edit.js:426
+#: blocks/directory-similar-items/src/edit.js:515
+msgid "Item Image Options"
+msgstr "خيارات صورة العنصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:124
+msgctxt "taxonomy singular name"
+msgid "Item Location"
+msgstr "موقع السلعة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:122
+msgctxt "taxonomy general name"
+msgid "Item Locations"
+msgstr "مواقع العنصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:123
+msgctxt "taxonomy menu name"
+msgid "Item Locations"
+msgstr "مواقع العنصر"
+
+#: plugin/CitadelaDirectory.php:695
+msgid "Item Locations widgets area"
+msgstr "منطقة الحاجيات مواقع العنصر"
+
+#: blocks/build/index.js:15474
+#: blocks/item-opening-hours/src/index.js:11
+msgid "Item Opening Hours"
+msgstr "ساعات عمل البند"
+
+#: plugin/cpt/item/CitadelaItemMetabox.php:192
+msgid "Item Options"
+msgstr "خيارات العنصر"
+
+#: plugin/item-reviews/ItemReviews.php:371
+msgid "Item Review"
+msgstr "مراجعة البند"
+
+#: plugin/item-reviews/ItemReviews.php:72
+#: plugin/item-reviews/ItemReviews.php:417
+#: plugin/settings/CitadelaDirectorySettings.php:245
+#: plugin/settings/CitadelaDirectorySettings.php:246
+msgid "Item Reviews"
+msgstr "مراجعات البند"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:55
+msgid "Item Reviews extends WordPress Comments to allow website visitors leave a review and rating for Item Posts."
+msgstr "تعمل مراجعات العناصر على توسيع تعليقات WordPress للسماح لزوار الموقع بترك مراجعة وتصنيف لمنشورات العنصر."
+
+#: plugin/claim-listing/ClaimListing.php:253
+msgid "Item already claimed"
+msgstr "تمت المطالبة بالعنصر بالفعل"
+
+#: blocks/build/index.js:10762
+#: blocks/directory-similar-items/src/edit.js:306
+msgid "Item author"
+msgstr "مؤلف العنصر"
+
+#: blocks/build/index.js:10746
+#: blocks/directory-similar-items/src/edit.js:296
+msgid "Item category"
+msgstr "العنصر فئة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:93
+msgid "Item detail page slug"
+msgstr "عنصر صفحة تفاصيل العنصر"
+
+#: blocks/item-claim-listing/ItemClaimListing.php:115
+msgid "Item has been claimed"
+msgstr "تمت المطالبة بالعنصر"
+
+#: blocks/build/index.js:10754
+#: blocks/directory-similar-items/src/edit.js:301
+msgid "Item location"
+msgstr "موقع السلعة"
+
+#: plugin/item-reviews/ItemReviews.php:396
+msgid "Item owner reply."
+msgstr "رد مالك العنصر."
+
+#: plugin/claim-listing/ClaimListing.php:253
+msgid "Item pending moderation from admin"
+msgstr "مادة معلقة الإشراف من المسؤول"
+
+#: plugin/CitadelaDirectory.php:683
+msgid "Item widgets area"
+msgstr "منطقة الحاجيات العنصر"
+
+#: plugin/events/Events.php:18
+msgid "Item:"
+msgstr "العنصر:"
+
+#: plugin/claim-listing/ClaimListing.php:76
+#: plugin/cpt/item/templates/parts/archive-item-page-title.php:9
+msgid "Items"
+msgstr "العناصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:28
+msgctxt "post type general name"
+msgid "Items"
+msgstr "العناصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:30
+msgctxt "post type menu name"
+msgid "Items"
+msgstr "العناصر"
+
+#: blocks/build/index.js:5728
+msgid "Keep header closed by default on mobile."
+msgstr "إبقاء الرأس مغلقًا بشكل افتراضي على الهاتف المحمول."
+
+#: blocks/build/index.js:9089
+#: blocks/directory-search-form/src/inspector-controls.js:116
+msgid "Kilometers"
+msgstr "كيلومترات"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:234
+#: blocks/build/index.js:5851
+#: blocks/build/index.js:13455
+#: blocks/item-extension/src/edit.js:264
+msgid "Label color"
+msgstr "لون التسمية"
+
+#: blocks/build/index.js:12019
+#: blocks/item-claim-listing/src/index.js:142
+msgid "Label for email field"
+msgstr "تسمية لحقل البريد الإلكتروني"
+
+#: blocks/build/index.js:12032
+#: blocks/item-claim-listing/src/index.js:154
+msgid "Label for submit button"
+msgstr "تسمية لزر الإرسال"
+
+#: blocks/build/index.js:12006
+#: blocks/item-claim-listing/src/index.js:130
+msgid "Label for username field"
+msgstr "تسمية حقل اسم المستخدم"
+
+#: blocks/build/index.js:12563
+#: blocks/item-contact-form/src/inspector-controls.js:96
+msgid "Label used for Email input."
+msgstr "التسمية المستخدمة لإدخال البريد الإلكتروني."
+
+#: blocks/build/index.js:12589
+#: blocks/item-contact-form/src/inspector-controls.js:120
+msgid "Label used for Message textarea."
+msgstr "التسمية المستخدمة لمنطقة نص الرسالة."
+
+#: blocks/build/index.js:12550
+#: blocks/item-contact-form/src/inspector-controls.js:84
+msgid "Label used for Name input."
+msgstr "التسمية المستخدمة لإدخال الاسم."
+
+#: blocks/build/index.js:12576
+#: blocks/item-contact-form/src/inspector-controls.js:108
+msgid "Label used for Subject input."
+msgstr "التسمية المستخدمة لإدخال الموضوع."
+
+#: blocks/build/index.js:13401
+#: blocks/item-extension/src/edit.js:211
+msgid "Label width"
+msgstr "عرض التسمية"
+
+#: blocks/build/index.js:14660
+#: blocks/item-gallery/src/edit.js:222
+msgid "Large"
+msgstr "كبير"
+
+#: blocks/build/index.js:5773
+#: blocks/build/index.js:11935
+#: blocks/build/index.js:15185
+#: blocks/build/index.js:15363
+#: blocks/item-claim-listing/src/index.js:65
+#: blocks/item-get-directions/src/index.js:65
+#: blocks/item-gpx-download/src/index.js:64
+msgid "Large button"
+msgstr "زر كبير"
+
+#: blocks/build/index.js:4967
+#: blocks/components/toolbar-size.js:44
+msgid "Large size"
+msgstr "حجم كبير"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:31
+#: plugin/controls/inputs/CitadelaMapControl.php:18
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:66
+msgid "Leave a review"
+msgstr "ترك التعليق"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:335
+msgid "Leave empty to not use this option."
+msgstr "اتركه فارغا لعدم استخدام هذا الخيار."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:352
+#: blocks/build/index.js:7284
+#: blocks/build/index.js:7354
+#: blocks/build/index.js:9584
+#: blocks/build/index.js:9654
+#: blocks/build/index.js:10561
+#: blocks/build/index.js:10631
+#: blocks/build/index.js:13902
+#: blocks/build/index.js:14512
+#: blocks/build/index.js:14582
+#: blocks/directory-items-list/src/edit.js:171
+#: blocks/directory-items-list/src/edit.js:219
+#: blocks/directory-search-results/src/edit.js:113
+#: blocks/directory-search-results/src/edit.js:161
+#: blocks/directory-similar-items/src/edit.js:135
+#: blocks/directory-similar-items/src/edit.js:183
+#: blocks/item-featured-image/src/edit.js:226
+#: blocks/item-gallery/src/edit.js:104
+#: blocks/item-gallery/src/edit.js:152
+msgid "Left"
+msgstr "اليسار"
+
+#: blocks/automatic-directory-google-map/src/edit.js:288
+#: blocks/automatic-posts-map/src/edit.js:213
+#: blocks/build/index.js:1332
+#: blocks/build/index.js:1887
+#: blocks/build/index.js:6796
+#: blocks/build/index.js:15908
+#: blocks/directory-google-map/src/edit.js:299
+#: blocks/posts-map/src/edit.js:244
+msgid "Limit displayed posts"
+msgstr "الحد من المشاركات المعروضة"
+
+#: blocks/build/index.js:5819
+#: blocks/build/index.js:5865
+msgid "Line under heading"
+msgstr "سطر تحت العنوان"
+
+#: blocks/build/index.js:5877
+#: blocks/build/index.js:13471
+#: blocks/item-extension/src/edit.js:277
+msgid "Lines color"
+msgstr "لون الخطوط"
+
+#: blocks/build/index.js:5859
+msgid "Lines decoration"
+msgstr "زخرفة الخطوط"
+
+#: plugin/controls/butterbean/CitadelaButterbeanUrl.php:26
+msgid "Link label"
+msgstr "تسمية الارتباط"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:124
+msgid "Links color"
+msgstr "لون الروابط"
+
+#: blocks/build/index.js:4810
+#: blocks/components/toolbar-layout.js:59
+msgid "List layout"
+msgstr "تخطيط القائمة"
+
+#: blocks/build/index.js:6008
+#: blocks/directory-advanced-filters/src/index.js:9
+msgid "Listing Advanced Filters"
+msgstr "سرد عوامل التصفية المتقدمة"
+
+#: blocks/author-detail/src/index.js:9
+#: blocks/build/index.js:291
+msgid "Listing Author Detail"
+msgstr "سرد تفاصيل المؤلف"
+
+#: blocks/authors-list/src/index.js:9
+#: blocks/build/index.js:906
+msgid "Listing Authors List"
+msgstr "قائمة المؤلفين"
+
+#: blocks/build/index.js:6348
+#: blocks/directory-categories-list/src/index.js:9
+msgid "Listing Categories List"
+msgstr "قائمة فئات القائمة"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:33
+#: plugin/includes/CitadelaDirectorySpecialPages.php:37
+msgid "Listing Category Page"
+msgstr "قائمة فئة الصفحة"
+
+#: blocks/build/index.js:8122
+#: blocks/directory-items-list/src/index.js:9
+msgid "Listing Items List"
+msgstr "قائمة عناصر القائمة"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:37
+#: plugin/includes/CitadelaDirectorySpecialPages.php:41
+msgid "Listing Location Page"
+msgstr "قائمة موقع الصفحة"
+
+#: blocks/build/index.js:8466
+#: blocks/directory-locations-list/src/index.js:9
+msgid "Listing Locations List"
+msgstr "قائمة المواقع"
+
+#: blocks/build/index.js:6998
+#: blocks/directory-google-map/src/index.js:11
+msgid "Listing Map"
+msgstr "خريطة القائمة"
+
+#: blocks/build/index.js:16110
+#: blocks/posts-map/src/index.js:11
+msgid "Listing Map (for posts)"
+msgstr "خريطة القائمة (للمشاركات)"
+
+#: blocks/build/index.js:8666
+#: blocks/directory-membership-content/src/index.js:10
+msgid "Listing Membership Content"
+msgstr "إدراج محتوى العضوية"
+
+#: blocks/build/index.js:8721
+#: blocks/directory-search-form/src/index.js:13
+msgid "Listing Search Form"
+msgstr "نموذج البحث عن القيد"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:29
+#: plugin/includes/CitadelaDirectorySpecialPages.php:33
+#: blocks/build/index.js:10303
+#: blocks/directory-search-results/src/index.js:9
+msgid "Listing Search Results"
+msgstr "قائمة نتائج البحث"
+
+#: blocks/build/index.js:11470
+#: blocks/directory-similar-items/src/index.js:9
+msgid "Listing Similar Items"
+msgstr "سرد العناصر المماثلة"
+
+#: blocks/build/index.js:11525
+#: blocks/directory-subcategories-list/src/index.js:11
+msgid "Listing Subcategories List"
+msgstr "سرد قائمة الفئات الفرعية"
+
+#: blocks/build/index.js:11642
+#: blocks/directory-sublocations-list/src/index.js:11
+msgid "Listing Sublocations List"
+msgstr "قائمة قائمة المواقع الفرعية"
+
+#: plugin/cpt/item/templates/parts/item-container.php:159
+#: plugin/cpt/post/templates/parts/post-container.php:106
+#: plugin/parts/default-search-results-content.php:101
+#: blocks/build/index.js:6689
+#: blocks/build/index.js:7476
+#: blocks/build/index.js:8295
+#: blocks/build/index.js:15809
+#: blocks/common-scripts/search-forms-initializer.js:403
+#: blocks/directory-google-map/src/edit.js:204
+#: blocks/directory-items-list/src/edit.js:336
+#: blocks/directory-locations-list/src/edit.js:92
+#: blocks/posts-map/src/edit.js:155
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1283
+#: plugin/assets/citadela/half-layout-map/editor.js:86
+msgid "Location"
+msgstr "موقع"
+
+#: plugin/cpt/post/CitadelaPost.php:60
+msgctxt "taxonomy singular name"
+msgid "Location"
+msgstr "موقع"
+
+#: blocks/build/index.js:8313
+#: blocks/directory-locations-list/src/edit.js:107
+msgid "Location Details"
+msgstr "تفاصيل الموقع"
+
+#: plugin/subscriptions/Feature.php:74
+msgid "Locations"
+msgstr "المواقع"
+
+#: plugin/cpt/post/CitadelaPost.php:58
+msgctxt "taxonomy general name"
+msgid "Locations"
+msgstr "المواقع"
+
+#: plugin/cpt/post/CitadelaPost.php:59
+msgctxt "taxonomy menu name"
+msgid "Locations"
+msgstr "المواقع"
+
+#: plugin/easy-admin/EasyAdmin.php:150
+msgid "Log Out"
+msgstr "تسجيل خروج"
+
+#: blocks/build/index.js:12044
+#: blocks/item-claim-listing/src/index.js:165
+msgid "Logged in text"
+msgstr "نص تسجيل الدخول"
+
+#: blocks/build/index.js:5593
+#: blocks/build/index.js:5611
+msgid "Logical operator"
+msgstr "عامل منطقي"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:38
+#: plugin/controls/inputs/CitadelaMapControl.php:23
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1261
+#: plugin/assets/citadela/half-layout-map/editor.js:62
+msgid "Map provider"
+msgstr "مزود الخرائط"
+
+#: blocks/automatic-directory-google-map/src/edit.js:103
+#: blocks/automatic-posts-map/src/edit.js:95
+#: blocks/build/index.js:1128
+#: blocks/build/index.js:1748
+#: blocks/build/index.js:6602
+#: blocks/build/index.js:15771
+#: blocks/directory-google-map/src/edit.js:132
+#: blocks/posts-map/src/edit.js:127
+msgid "Maps provider"
+msgstr "مزود الخرائط"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:252
+msgid "Mark Item post as featured"
+msgstr "وضع علامة على عنصر آخر كما هو وارد"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:180
+msgid "Mark category as featured to prioritize it in displayed results."
+msgstr "ضع علامة على الفئة على أنها مميزة لإعطاء الأولوية لها في النتائج المعروضة."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:192
+msgid "Mark location as featured to prioritize it in displayed results."
+msgstr "ضع علامة على الموقع باعتباره مميزًا لمنحه الأولوية في النتائج المعروضة."
+
+#: blocks/automatic-directory-google-map/src/edit.js:222
+#: blocks/automatic-posts-map/src/edit.js:150
+#: blocks/build/index.js:1258
+#: blocks/build/index.js:1813
+#: blocks/build/index.js:6722
+#: blocks/build/index.js:15834
+#: blocks/directory-google-map/src/edit.js:235
+#: blocks/posts-map/src/edit.js:181
+msgid "Marker Cluster Settings"
+msgstr "إعدادات مجموعة العلامات"
+
+#: blocks/automatic-directory-google-map/src/edit.js:127
+#: blocks/build/index.js:1157
+#: blocks/build/index.js:6631
+#: blocks/directory-google-map/src/edit.js:154
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1318
+#: plugin/assets/citadela/half-layout-map/editor.js:136
+msgid "Markers"
+msgstr "علامات"
+
+#: blocks/automatic-directory-google-map/src/edit.js:129
+#: blocks/build/index.js:1163
+#: blocks/build/index.js:6637
+#: blocks/directory-google-map/src/edit.js:156
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1324
+#: plugin/assets/citadela/half-layout-map/editor.js:138
+msgid "Markers & GPX Tracks"
+msgstr "علامات ومسارات GPX"
+
+#: blocks/automatic-directory-google-map/src/edit.js:228
+#: blocks/automatic-posts-map/src/edit.js:156
+#: blocks/build/index.js:1263
+#: blocks/build/index.js:1818
+#: blocks/build/index.js:6727
+#: blocks/build/index.js:15839
+#: blocks/directory-google-map/src/edit.js:241
+#: blocks/posts-map/src/edit.js:187
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1369
+#: plugin/assets/citadela/half-layout-map/editor.js:205
+msgid "Markers in distance less than %spx radius are grouped into clusters. Set 0 to disable clusters."
+msgstr "يتم تجميع العلامات الموجودة على مسافة أقل من٪ spx radius في مجموعات. قم بتعيين 0 لتعطيل المجموعات."
+
+#: plugin/subscriptions/Feature.php:60
+msgid "Max number of items"
+msgstr "أقصى عدد من العناصر"
+
+#: blocks/automatic-directory-google-map/src/edit.js:294
+#: blocks/automatic-posts-map/src/edit.js:219
+#: blocks/build/index.js:1340
+#: blocks/build/index.js:1895
+#: blocks/build/index.js:6804
+#: blocks/build/index.js:15916
+#: blocks/directory-google-map/src/edit.js:305
+#: blocks/posts-map/src/edit.js:250
+msgid "Maximum displayed posts"
+msgstr "أقصى عدد المشاركات المعروضة"
+
+#: blocks/build/index.js:9116
+#: blocks/directory-search-form/src/inspector-controls.js:135
+msgid "Maximum distance"
+msgstr "المسافة القصوى"
+
+#: plugin/subscriptions/Feature.php:346
+msgid "Maximum items for the current subscription exceeded."
+msgstr "تم تجاوز الحد الأقصى لعناصر الاشتراك الحالي."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:80
+msgid "Maximum width"
+msgstr "الحد الأقصى للعرض"
+
+#: blocks/build/index.js:12938
+#: blocks/build/index.js:14657
+#: blocks/item-events/src/edit.js:62
+#: blocks/item-gallery/src/edit.js:221
+msgid "Medium"
+msgstr "متوسط"
+
+#: blocks/build/index.js:4960
+#: blocks/components/toolbar-size.js:38
+msgid "Medium size"
+msgstr "مقاس متوسط"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:418
+msgid "Merge checkboxes into filter group and show them together in frontend filters. You can use more groups using different group names."
+msgstr "دمج مربعات الاختيار في مجموعة التصفية وعرضها معًا في عوامل التصفية الأمامية. يمكنك استخدام المزيد من المجموعات باستخدام أسماء مجموعات مختلفة."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:59
+msgid "Message"
+msgstr "رسالة"
+
+#: blocks/build/index.js:12659
+#: blocks/item-contact-form/src/inspector-controls.js:188
+msgid "Message Help"
+msgstr "تعليمات الرسالة"
+
+#: blocks/build/index.js:12588
+#: blocks/item-contact-form/src/inspector-controls.js:119
+msgid "Message Label"
+msgstr "تسمية الرسالة"
+
+#: blocks/build/index.js:12703
+#: blocks/item-contact-form/src/inspector-controls.js:232
+msgid "Message displayed when the form sending failed because of problem on the server side."
+msgstr "يتم عرض الرسالة عند فشل إرسال النموذج بسبب مشكلة على جانب الخادم."
+
+#: blocks/build/index.js:12690
+#: blocks/item-contact-form/src/inspector-controls.js:220
+msgid "Message displayed when the form validation failed."
+msgstr "يتم عرض الرسالة عند فشل التحقق من صحة النموذج."
+
+#: blocks/build/index.js:12677
+#: blocks/item-contact-form/src/inspector-controls.js:208
+msgid "Message displayed when the form was sent succesfully."
+msgstr "تم عرض الرسالة عندما تم إرسال النموذج بنجاح."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:60
+msgid "Message for the email notification"
+msgstr "رسالة لإعلام البريد الإلكتروني"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:56
+msgid "Metabox content settings"
+msgstr "إعدادات محتوى Metabox"
+
+#: plugin/migration/Migration/Admin_Notices.php:46
+msgid "Migration finished"
+msgstr "انتهى الترحيل"
+
+#: plugin/migration/Migration/Admin_Notices.php:63
+msgid "Migration in progress"
+msgstr "الترحيل قيد التقدم"
+
+#: plugin/migration/Migration/Settings_Tab.php:28
+msgid "Migration is currently in progress. You will be able to restart the migration when it is finished."
+msgstr "الترحيل قيد التقدم حاليًا. ستتمكن من إعادة تشغيل الترحيل عند الانتهاء."
+
+#: plugin/migration/Migration/Admin_Notices.php:32
+msgid "Migration restarted"
+msgstr "إعادة تشغيل الترحيل"
+
+#: blocks/build/index.js:9092
+#: blocks/directory-search-form/src/inspector-controls.js:117
+msgid "Miles"
+msgstr "اميال"
+
+#: blocks/build/index.js:14651
+#: blocks/item-gallery/src/edit.js:219
+msgid "Mini"
+msgstr "ميني"
+
+#: blocks/build/index.js:14158
+#: blocks/build/index.js:14228
+#: blocks/item-featured-image/src/edit.js:475
+#: blocks/item-featured-image/src/edit.js:545
+msgid "Minimum height unit"
+msgstr "وحدة الارتفاع الأدنى"
+
+#: blocks/build/index.js:14179
+#: blocks/build/index.js:14249
+#: blocks/item-featured-image/src/edit.js:495
+#: blocks/item-featured-image/src/edit.js:565
+msgid "Minimum image height"
+msgstr "أدنى ارتفاع للصورة"
+
+#: blocks/automatic-directory-google-map/src/edit.js:392
+#: blocks/automatic-posts-map/src/edit.js:317
+#: blocks/build/index.js:1442
+#: blocks/build/index.js:1997
+#: blocks/build/index.js:6906
+#: blocks/build/index.js:16018
+#: blocks/directory-google-map/src/edit.js:407
+#: blocks/posts-map/src/edit.js:349
+msgid "Minimum map height may differ of defined value due to needs of map's inside content."
+msgstr "قد يختلف الحد الأدنى لارتفاع الخريطة عن القيمة المحددة بسبب احتياجات المحتوى الداخلي للخريطة."
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:235
+msgid "Missing required GPX data"
+msgstr "بيانات GPX المطلوبة مفقودة"
+
+#: blocks/build/index.js:4354
+#: blocks/components/state-icons.js:36
+msgid "Mobile"
+msgstr "التليفون المحمول"
+
+#: blocks/build/index.js:4259
+#: blocks/components/responsive-options-tabs.js:38
+msgid "Mobile size"
+msgstr "حجم الموبايل"
+
+#: blocks/build/index.js:8072
+#: blocks/build/index.js:10255
+#: blocks/build/index.js:11420
+#: blocks/build/index.js:13974
+#: blocks/build/index.js:15017
+#: blocks/directory-items-list/src/edit.js:884
+#: blocks/directory-search-results/src/edit.js:712
+#: blocks/directory-similar-items/src/edit.js:920
+#: blocks/item-featured-image/src/edit.js:290
+#: blocks/item-gallery/src/edit.js:575
+msgid "Mobile width breakpoint"
+msgstr "نقطة توقف عرض الجوال"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:332
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:12
+msgid "Monday"
+msgstr "الاثنين"
+
+#: blocks/build/index.js:5575
+msgid "Move backward"
+msgstr "تحرك للخلف"
+
+#: blocks/build/index.js:5583
+msgid "Move forward"
+msgstr "تقدم إلى الأمام"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:440
+msgid "Multiselect"
+msgstr "تحديد متعدد"
+
+#: blocks/build/index.js:12620
+#: blocks/item-contact-form/src/inspector-controls.js:152
+msgid "Name Help"
+msgstr "تعليمات الاسم"
+
+#: blocks/build/index.js:12549
+#: blocks/item-contact-form/src/inspector-controls.js:83
+msgid "Name Label"
+msgstr "تسمية الاسم"
+
+#: blocks/build/index.js:12508
+#: blocks/item-contact-form/src/inspector-controls.js:42
+msgid "Name of sender displayed in received email."
+msgstr "اسم المرسل المعروض في البريد الإلكتروني المستلم."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:134
+msgid "Name of settings tab on Item Edit page."
+msgstr "اسم علامة التبويب الإعدادات في صفحة تحرير العنصر."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:99
+msgid "New Category Name"
+msgstr "اسم الفئة الجديدة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:34
+msgid "New Item"
+msgstr "عنصر جديد"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:133
+#: plugin/cpt/post/CitadelaPost.php:69
+msgid "New Location Name"
+msgstr "اسم موقع جديد"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:60
+msgid "Newer reviews"
+msgstr "أحدث الاستعراضات"
+
+#: blocks/default-search-results/DefaultSearchResults.php:58
+#: plugin/parts/search-results.php:54
+msgid "Next"
+msgstr "التالي"
+
+#: blocks/automatic-directory-google-map/src/edit.js:274
+#: blocks/automatic-posts-map/src/edit.js:199
+#: blocks/build/index.js:1319
+#: blocks/build/index.js:1874
+#: blocks/build/index.js:6783
+#: blocks/build/index.js:15895
+#: blocks/directory-google-map/src/edit.js:285
+#: blocks/posts-map/src/edit.js:230
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1411
+#: plugin/assets/citadela/half-layout-map/editor.js:249
+msgid "Night"
+msgstr "ليل"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:37
+msgid "No Items found"
+msgstr "لم يتم العثور على العناصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:38
+msgid "No Items found in Trash"
+msgstr "لم يتم العثور على عناصر في المهملات"
+
+#: blocks/build/index.js:9267
+#: blocks/build/index.js:16555
+#: blocks/directory-search-form/src/inspector-controls.js:286
+#: blocks/posts-search-form/src/inspector-controls.js:176
+msgid "No border"
+msgstr "ليس لها حدود"
+
+#: blocks/authors-list/src/edit.js:293
+#: blocks/build/index.js:697
+#: blocks/build/index.js:7685
+#: blocks/build/index.js:9939
+#: blocks/build/index.js:10976
+#: blocks/build/index.js:16991
+#: blocks/directory-items-list/src/edit.js:512
+#: blocks/directory-search-results/src/edit.js:412
+#: blocks/directory-similar-items/src/edit.js:484
+#: blocks/posts-search-results/src/index.js:280
+msgid "No borders"
+msgstr "لا حدود"
+
+#: blocks/build/index.js:5816
+#: blocks/build/index.js:5862
+msgid "No lines"
+msgstr "لا خطوط"
+
+#: blocks/build/index.js:3793
+#: blocks/components/posts-selection.js:46
+msgid "No posts found"
+msgstr "لم يتم العثور على أية منشورات"
+
+#: plugin/settings/CitadelaDirectorySettings.php:815
+msgid "No repeat"
+msgstr "لا تكرار"
+
+#: plugin/controls/inputs/CitadelaSelectFontawesomeControl.php:23
+msgid "No results found."
+msgstr "لم يتم العثور على نتائج."
+
+#: blocks/build/index.js:9311
+#: blocks/build/index.js:16599
+#: blocks/directory-search-form/src/inspector-controls.js:324
+#: blocks/posts-search-form/src/inspector-controls.js:214
+msgid "No shadow"
+msgstr "لا الظل"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:136
+msgid "No special pages found."
+msgstr "لم يتم العثور على صفحات خاصة."
+
+#: blocks/authors-list/src/edit.js:380
+#: blocks/build/index.js:793
+msgid "No users found"
+msgstr "لم يتم العثور على مستخدمين"
+
+#: blocks/build/index.js:8579
+#: blocks/directory-membership-content/src/edit.js:41
+msgid "Non-membership visitors"
+msgstr "الزوار غير الأعضاء"
+
+#: blocks/build/index.js:9159
+#: blocks/build/index.js:16447
+#: blocks/directory-search-form/src/inspector-controls.js:178
+#: blocks/posts-search-form/src/inspector-controls.js:66
+msgid "None"
+msgstr "لا أحد"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:381
+msgid "Note"
+msgstr "ملحوظة"
+
+#: blocks/build/index.js:12671
+#: blocks/item-contact-form/src/inspector-controls.js:201
+msgid "Notification messages"
+msgstr "رسائل التنبيه"
+
+#: blocks/build/index.js:12075
+#: blocks/item-claim-listing/src/index.js:196
+msgid "Notification when the item is already claimed. Leave empty to hide the notification."
+msgstr "إعلام عندما يتم المطالبة بالعنصر بالفعل. اتركه فارغا لإخفاء الإخطار."
+
+#: blocks/build/index.js:12088
+#: blocks/item-claim-listing/src/index.js:208
+msgid "Notification when the item is pending moderation from admin. Leave empty to hide the notification."
+msgstr "إعلام عندما يكون العنصر معلقًا للإشراف من المسؤول. اتركه فارغا لإخفاء الإخطار."
+
+#: blocks/build/index.js:12069
+#: blocks/item-claim-listing/src/index.js:189
+msgid "Notifications"
+msgstr "إشعارات"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:436
+msgid "Number"
+msgstr "رقم"
+
+#: blocks/build/index.js:7493
+#: blocks/build/index.js:11245
+#: blocks/directory-items-list/src/edit.js:347
+#: blocks/directory-similar-items/src/edit.js:745
+msgid "Number of items"
+msgstr "عدد العناصر"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:75
+msgid "OK"
+msgstr "نعم"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:59
+msgid "Older reviews"
+msgstr "أقدم الاستعراضات"
+
+#. translators: 1: title.
+#: plugin/cpt/item/templates/parts/item-reviews.php:30
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "فكرة واحدة حول “٪ 1 $ s”"
+
+#: blocks/build/index.js:6186
+#: blocks/build/index.js:8304
+#: blocks/build/index.js:11540
+#: blocks/build/index.js:11657
+#: blocks/directory-categories-list/src/edit.js:100
+#: blocks/directory-locations-list/src/edit.js:99
+#: blocks/directory-subcategories-list/src/index.js:28
+#: blocks/directory-sublocations-list/src/index.js:28
+msgid "Only featured"
+msgstr "المميز فقط"
+
+#: blocks/build/index.js:6698
+#: blocks/build/index.js:7485
+#: blocks/build/index.js:10782
+#: blocks/directory-google-map/src/edit.js:210
+#: blocks/directory-items-list/src/edit.js:342
+#: blocks/directory-similar-items/src/edit.js:322
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1290
+#: plugin/assets/citadela/half-layout-map/editor.js:93
+msgid "Only featured items"
+msgstr "العناصر المميزة فقط"
+
+#: blocks/build/index.js:6178
+#: blocks/directory-categories-list/src/edit.js:94
+msgid "Only parent categories"
+msgstr "الفئات الأصل فقط"
+
+#: blocks/build/index.js:8296
+#: blocks/directory-locations-list/src/edit.js:93
+msgid "Only parent locations"
+msgstr "مواقع الوالدين فقط"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:395
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "أُووبس! لا يمكن العثور على هذه الصفحة."
+
+#: blocks/build/index.js:13860
+#: blocks/item-featured-image/src/edit.js:190
+msgid "Open image in popup"
+msgstr "افتح الصورة في النافذة المنبثقة"
+
+#: blocks/build/index.js:5718
+msgid "Opened by default"
+msgstr "مفتوح بشكل افتراضي"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:215
+msgid "Opening Hours"
+msgstr "ساعات العمل"
+
+#: plugin/subscriptions/Feature.php:134
+msgid "Opening hours"
+msgstr "ساعات العمل"
+
+#: blocks/automatic-directory-google-map/src/edit.js:98
+#: blocks/automatic-posts-map/src/edit.js:90
+#: blocks/build/index.js:1124
+#: blocks/build/index.js:1744
+#: blocks/build/index.js:5705
+#: blocks/build/index.js:6598
+#: blocks/build/index.js:8572
+#: blocks/build/index.js:13379
+#: blocks/build/index.js:13849
+#: blocks/build/index.js:15166
+#: blocks/build/index.js:15344
+#: blocks/build/index.js:15767
+#: blocks/directory-google-map/src/edit.js:127
+#: blocks/directory-membership-content/src/edit.js:32
+#: blocks/item-extension/src/edit.js:190
+#: blocks/item-featured-image/src/edit.js:179
+#: blocks/item-get-directions/src/index.js:47
+#: blocks/item-gpx-download/src/index.js:47
+#: blocks/posts-map/src/edit.js:122
+msgid "Options"
+msgstr "خيارات"
+
+#: blocks/authors-list/src/edit.js:197
+#: blocks/build/index.js:590
+#: blocks/build/index.js:7579
+#: blocks/build/index.js:9757
+#: blocks/build/index.js:10866
+#: blocks/build/index.js:16849
+#: blocks/directory-items-list/src/edit.js:415
+#: blocks/directory-search-results/src/edit.js:259
+#: blocks/directory-similar-items/src/edit.js:387
+#: blocks/posts-search-results/src/index.js:153
+msgid "Order Options"
+msgstr "خيارات الطلب"
+
+#: blocks/authors-list/src/edit.js:202
+#: blocks/build/index.js:594
+#: blocks/build/index.js:7583
+#: blocks/build/index.js:9761
+#: blocks/build/index.js:10870
+#: blocks/build/index.js:16853
+#: blocks/directory-items-list/src/edit.js:420
+#: blocks/directory-search-results/src/edit.js:264
+#: blocks/directory-similar-items/src/edit.js:392
+#: blocks/posts-search-results/src/index.js:158
+msgid "Order by"
+msgstr "ترتيب حسب"
+
+#: blocks/build/index.js:7592
+#: blocks/build/index.js:9770
+#: blocks/build/index.js:10880
+#: blocks/directory-items-list/src/edit.js:425
+#: blocks/directory-search-results/src/edit.js:269
+#: blocks/directory-similar-items/src/edit.js:398
+msgid "Order number"
+msgstr "رقم الطلب"
+
+#: plugin/events/Events.php:55
+msgid "Organizer:"
+msgstr "منظم:"
+
+#: plugin/claim-listing/ClaimListing.php:39
+#: plugin/cpt/item/templates/parts/review.php:34
+msgid "Owner"
+msgstr "صاحب"
+
+#: plugin/assets/citadela/item-page-layout/build/editor.js:120
+#: plugin/assets/citadela/item-page-layout/editor.js:25
+msgid "Page template"
+msgstr "قالب الصفحة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:93
+msgid "Parent Category"
+msgstr "القسم الرئيسي"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:94
+msgid "Parent Category:"
+msgstr "القسم الرئيسي:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:127
+#: plugin/cpt/post/CitadelaPost.php:63
+msgid "Parent Location"
+msgstr "موقع الوالد"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:128
+#: plugin/cpt/post/CitadelaPost.php:64
+msgid "Parent Location:"
+msgstr "موقع الوالد:"
+
+#: blocks/build/index.js:12087
+#: blocks/item-claim-listing/src/index.js:207
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: blocks/automatic-directory-google-map/src/edit.js:283
+#: blocks/automatic-posts-map/src/edit.js:208
+#: blocks/build/index.js:1328
+#: blocks/build/index.js:1883
+#: blocks/build/index.js:6792
+#: blocks/build/index.js:15904
+#: blocks/directory-google-map/src/edit.js:294
+#: blocks/posts-map/src/edit.js:239
+msgid "Performance Settings"
+msgstr "إعدادات الأداء"
+
+#: plugin/settings/CitadelaDirectorySettings.php:271
+#: plugin/settings/CitadelaDirectorySettings.php:272
+msgid "Plugin Activation"
+msgstr "تفعيل البرنامج المساعد"
+
+#: blocks/common-scripts/search-forms-initializer.js:816
+msgid "Position unavailable"
+msgstr "الموقف غير متوفر"
+
+#: plugin/cpt/post/CitadelaPostMetabox.php:70
+#: plugin/cpt/user/CitadelaUserMetabox.php:70
+msgid "Post Options"
+msgstr "خيارات المشاركة"
+
+#: plugin/controls/butterbean/templates/control-citadela_featured_category_select.php:44
+msgid "Post has not selected any term."
+msgstr "لم تحدد وظيفة أي مصطلح."
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:57
+#: plugin/includes/CitadelaDirectorySpecialPages.php:61
+msgid "Posts Author Page"
+msgstr "صفحة المؤلف المشاركات"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:45
+#: plugin/includes/CitadelaDirectorySpecialPages.php:49
+msgid "Posts Category Page"
+msgstr "صفحة فئة المشاركات"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:53
+#: plugin/includes/CitadelaDirectorySpecialPages.php:57
+msgid "Posts Date Page"
+msgstr "صفحة تاريخ المشاركات"
+
+#: blocks/build/index.js:16168
+#: blocks/posts-search-form/src/index.js:12
+msgid "Posts Search Form"
+msgstr "نموذج البحث عن المشاركات"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:41
+#: plugin/includes/CitadelaDirectorySpecialPages.php:45
+#: blocks/build/index.js:16707
+#: blocks/posts-search-results/src/index.js:14
+msgid "Posts Search Results"
+msgstr "نتائج البحث عن المشاركات"
+
+#: plugin/includes/CitadelaDirectoryLayouts.php:49
+#: plugin/includes/CitadelaDirectorySpecialPages.php:53
+msgid "Posts Tag Page"
+msgstr "صفحة علامة المشاركات"
+
+#: blocks/default-search-results/DefaultSearchResults.php:61
+#: blocks/default-search-results/DefaultSearchResults.php:65
+#: plugin/parts/search-results.php:57
+#: plugin/parts/search-results.php:61
+msgid "Posts navigation"
+msgstr "وظائف الملاحة"
+
+#: blocks/authors-list/src/edit.js:253
+#: blocks/build/index.js:652
+msgid "Posts number color"
+msgstr "لون رقم المشاركات"
+
+#: blocks/default-search-results/DefaultSearchResults.php:57
+#: plugin/parts/search-results.php:53
+msgid "Previous"
+msgstr "سابق"
+
+#: blocks/build/index.js:7246
+#: blocks/build/index.js:7316
+#: blocks/build/index.js:9546
+#: blocks/build/index.js:9616
+#: blocks/build/index.js:10523
+#: blocks/build/index.js:10593
+#: blocks/build/index.js:14474
+#: blocks/build/index.js:14544
+#: blocks/directory-items-list/src/edit.js:146
+#: blocks/directory-items-list/src/edit.js:193
+#: blocks/directory-search-results/src/edit.js:88
+#: blocks/directory-search-results/src/edit.js:135
+#: blocks/directory-similar-items/src/edit.js:110
+#: blocks/directory-similar-items/src/edit.js:157
+#: blocks/item-gallery/src/edit.js:79
+#: blocks/item-gallery/src/edit.js:126
+msgid "Proportional image height"
+msgstr "ارتفاع الصورة النسبي"
+
+#: blocks/build/index.js:2676
+#: blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "شعاعي التدرج"
+
+#: blocks/build/index.js:7595
+#: blocks/build/index.js:9773
+#: blocks/build/index.js:10883
+#: blocks/build/index.js:16862
+#: blocks/directory-items-list/src/edit.js:426
+#: blocks/directory-search-results/src/edit.js:270
+#: blocks/directory-similar-items/src/edit.js:399
+#: blocks/posts-search-results/src/index.js:163
+msgid "Random"
+msgstr "عشوائي"
+
+#: plugin/item-reviews/ItemReviews.php:78
+msgid "Rating"
+msgstr "تقييم"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:68
+#: blocks/build/index.js:7673
+#: blocks/build/index.js:9927
+#: blocks/build/index.js:10964
+#: blocks/directory-items-list/src/edit.js:501
+#: blocks/directory-search-results/src/edit.js:402
+#: blocks/directory-similar-items/src/edit.js:473
+msgid "Rating stars color"
+msgstr "تصنيف النجوم اللون"
+
+#: blocks/common-scripts/google-maps-initializer.js:238
+#: blocks/common-scripts/leaflet-maps-initializer.js:991
+#: blocks/common-scripts/leaflet-maps-initializer.js:1088
+#: blocks/components/infowindow.js:31
+#: blocks/components/leaflet-popup-track.js:31
+#: blocks/components/leaflet-popup.js:33
+msgid "Read more"
+msgstr "اقرأ أكثر"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:103
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "السمة التي تم تنشيطها مؤخرًا غير متوافقة مع المكون الإضافي٪ s ، لذلك تم إلغاء تنشيط المكون الإضافي."
+
+#: blocks/automatic-directory-google-map/src/edit.js:391
+#: blocks/automatic-posts-map/src/edit.js:316
+#: blocks/build/index.js:1441
+#: blocks/build/index.js:1996
+#: blocks/build/index.js:6905
+#: blocks/build/index.js:16017
+#: blocks/directory-google-map/src/edit.js:406
+#: blocks/posts-map/src/edit.js:348
+msgid "Recommended map height"
+msgstr "الارتفاع الموصى به للخريطة"
+
+#: blocks/build/index.js:11107
+#: blocks/build/index.js:11117
+#: blocks/directory-similar-items/src/edit.js:618
+#: blocks/directory-similar-items/src/edit.js:628
+msgid "Reference Item Post"
+msgstr "مرجع آخر البند"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:28
+msgid "Remove GPX track"
+msgstr "إزالة مسار GPX"
+
+#: plugin/settings/CitadelaDirectorySettings.php:433
+#: plugin/settings/CitadelaDirectorySettings.php:795
+msgid "Remove Image"
+msgstr "إزالة الصورة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:814
+msgid "Repeat"
+msgstr "يكرر"
+
+#: plugin/settings/CitadelaDirectorySettings.php:816
+msgid "Repeat horizontally"
+msgstr "كرر أفقيًا"
+
+#: plugin/settings/CitadelaDirectorySettings.php:817
+msgid "Repeat vertically"
+msgstr "كرر عموديًا"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:67
+msgid "Respond to review"
+msgstr "الرد على المراجعة"
+
+#: blocks/build/index.js:8073
+#: blocks/build/index.js:10256
+#: blocks/build/index.js:11421
+#: blocks/build/index.js:13975
+#: blocks/build/index.js:15018
+#: blocks/directory-items-list/src/edit.js:885
+#: blocks/directory-search-results/src/edit.js:713
+#: blocks/directory-similar-items/src/edit.js:921
+#: blocks/item-featured-image/src/edit.js:291
+#: blocks/item-gallery/src/edit.js:576
+msgid "Responsive options applied under screen width"
+msgstr "يتم تطبيق خيارات سريعة الاستجابة تحت عرض الشاشة"
+
+#: plugin/migration/Migration/Settings_Tab.php:14
+#: plugin/migration/Migration/Settings_Tab.php:29
+#: plugin/migration/Migration/Settings_Tab.php:32
+msgid "Restart migration"
+msgstr "أعد بدء الترحيل"
+
+#: blocks/build/index.js:5594
+msgid "Results include at least one of selected filters."
+msgstr "تتضمن النتائج واحدًا على الأقل من المرشحات المحددة."
+
+#: blocks/build/index.js:5594
+msgid "Results must include all selected filters."
+msgstr "يجب أن تتضمن النتائج جميع عوامل التصفية المحددة."
+
+#: blocks/automatic-directory-google-map/src/edit.js:272
+#: blocks/automatic-posts-map/src/edit.js:197
+#: blocks/build/index.js:1313
+#: blocks/build/index.js:1868
+#: blocks/build/index.js:6777
+#: blocks/build/index.js:15889
+#: blocks/directory-google-map/src/edit.js:283
+#: blocks/posts-map/src/edit.js:228
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1405
+#: plugin/assets/citadela/half-layout-map/editor.js:247
+msgid "Retro"
+msgstr "ريترو"
+
+#: plugin/subscriptions/Feature.php:110
+msgid "Reviews"
+msgstr "المراجعات"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:353
+#: blocks/build/index.js:7290
+#: blocks/build/index.js:7360
+#: blocks/build/index.js:9590
+#: blocks/build/index.js:9660
+#: blocks/build/index.js:10567
+#: blocks/build/index.js:10637
+#: blocks/build/index.js:13908
+#: blocks/build/index.js:14518
+#: blocks/build/index.js:14588
+#: blocks/directory-items-list/src/edit.js:173
+#: blocks/directory-items-list/src/edit.js:221
+#: blocks/directory-search-results/src/edit.js:115
+#: blocks/directory-search-results/src/edit.js:163
+#: blocks/directory-similar-items/src/edit.js:137
+#: blocks/directory-similar-items/src/edit.js:185
+#: blocks/item-featured-image/src/edit.js:228
+#: blocks/item-gallery/src/edit.js:106
+#: blocks/item-gallery/src/edit.js:154
+msgid "Right"
+msgstr "الصحيح"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:367
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:32
+msgid "Saturday"
+msgstr "السبت"
+
+#: plugin/settings/CitadelaDirectorySettings.php:122
+msgid "Save Settings"
+msgstr "احفظ التغييرات"
+
+#: plugin/settings/CitadelaDirectorySettings.php:879
+msgid "Scroll"
+msgstr "انتقل"
+
+#: blocks/build/index.js:8903
+#: blocks/build/index.js:16328
+#: blocks/common-scripts/search-forms-initializer.js:518
+#: blocks/directory-search-form/src/index.js:215
+#: blocks/posts-search-form/src/index.js:195
+msgid "Search"
+msgstr "يبحث"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:91
+msgid "Search Categories"
+msgstr "فئات البحث"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:36
+msgid "Search Items"
+msgstr "عناصر البحث"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:125
+#: plugin/cpt/post/CitadelaPost.php:61
+msgid "Search Locations"
+msgstr "مواقع البحث"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:135
+msgid "Search Special ages"
+msgstr "بحث الأعمار الخاصة"
+
+#: blocks/common-scripts/search-forms-initializer.js:457
+msgid "Search by geolocation"
+msgstr "البحث عن طريق تحديد الموقع الجغرافي"
+
+#: blocks/authors-list/src/edit.js:379
+#: blocks/build/index.js:792
+msgid "Search for authors"
+msgstr "ابحث عن المؤلفين"
+
+#: blocks/build/index.js:3791
+#: blocks/components/posts-selection.js:45
+msgid "Search for posts"
+msgstr "البحث عن المشاركات"
+
+#: blocks/build/index.js:11119
+#: blocks/directory-similar-items/src/edit.js:630
+msgid "Search for reference item post"
+msgstr "البحث عن وظيفة عنصر مرجعي"
+
+#: blocks/automatic-directory-google-map/src/edit.js:431
+#: blocks/automatic-posts-map/src/edit.js:356
+#: blocks/build/index.js:1483
+#: blocks/build/index.js:2038
+#: blocks/build/index.js:6947
+#: blocks/build/index.js:16059
+#: blocks/directory-google-map/src/edit.js:446
+#: blocks/posts-map/src/edit.js:388
+msgid "Search form is displayed inside map on screen width larger than"
+msgstr "يتم عرض نموذج البحث داخل الخريطة على شاشة عرض أكبر من"
+
+#: blocks/build/index.js:8722
+#: blocks/directory-search-form/src/index.js:14
+msgid "Search form that allows visitors to search listing items by keyword, category or location."
+msgstr "نموذج البحث الذي يسمح للزوار بالبحث عن عناصر القائمة حسب الكلمة الرئيسية أو الفئة أو الموقع."
+
+#: blocks/build/index.js:16169
+#: blocks/posts-search-form/src/index.js:13
+msgid "Search form that allows visitors to search posts by keyword, category or location."
+msgstr "نموذج البحث الذي يسمح للزوار بالبحث عن المشاركات عن طريق الكلمات الرئيسية أو الفئة أو الموقع."
+
+#: blocks/common-scripts/search-forms-initializer.js:347
+#: blocks/common-scripts/search-forms-initializer.js:358
+msgid "Search keyword"
+msgstr "كلمة البحث"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:409
+#: plugin/includes/CitadelaDirectorySpecialPages.php:450
+msgid "Search results for: "
+msgstr "نتائج البحث عن:"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:57
+msgid "Secret Key"
+msgstr "المفتاح السري"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:439
+msgid "Select"
+msgstr "يختار"
+
+#: blocks/common-scripts/search-forms-initializer.js:378
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:425
+#: plugin/settings/CitadelaDirectorySettings.php:787
+msgid "Select Image"
+msgstr "اختر صورة"
+
+#: blocks/common-scripts/search-forms-initializer.js:407
+msgid "Select Location"
+msgstr "اختر موقعا"
+
+#: blocks/build/index.js:4497
+#: blocks/build/index.js:4596
+#: blocks/components/toolbar-alignment-inspector.js:14
+#: blocks/components/toolbar-alignment.js:17
+msgid "Select alignment"
+msgstr "حدد المحاذاة"
+
+#: plugin/events/Events.php:71
+msgid "Select an Item"
+msgstr "حدد عنصر"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:415
+msgid "Select featured category"
+msgstr "حدد فئة مميزة"
+
+#: plugin/cpt/user/CitadelaUser.php:49
+msgid "Select image"
+msgstr "اختر صورة"
+
+#: blocks/build/index.js:4836
+#: blocks/components/toolbar-layout.js:82
+msgid "Select layout"
+msgstr "حدد التخطيط"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:357
+msgid "Select position of unit displayed with number value."
+msgstr "حدد موضع الوحدة المعروضة بقيمة رقمية."
+
+#: blocks/build/index.js:4951
+#: blocks/components/toolbar-size.js:29
+msgid "Select size"
+msgstr "أختر الحجم"
+
+#: blocks/build/index.js:5594
+msgid "Select type input cannot use AND operator."
+msgstr "تحديد نوع الإدخال لا يمكن استخدام عامل التشغيل AND."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:210
+msgid "Select type of input field."
+msgstr "حدد نوع حقل الإدخال."
+
+#: plugin/item-reviews/ItemReviews.php:177
+msgid "Select your rating, please."
+msgstr "حدد تقييمك من فضلك."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:416
+msgid "Selected category will be prioritized and will present Item post on the map."
+msgstr "سيتم إعطاء الأولوية للفئة المحددة وستعرض منشور العنصر على الخريطة."
+
+#: blocks/build/index.js:3812
+#: blocks/components/posts-selection.js:71
+msgid "Selected post is no more published."
+msgstr "الوظيفة المختارة لم تعد منشورة."
+
+#: blocks/build/index.js:3789
+#: blocks/components/posts-selection.js:44
+msgid "Selected posts"
+msgstr "مشاركات مختارة"
+
+#: blocks/build/index.js:3812
+#: blocks/components/posts-selection.js:72
+msgid "Selected posts are no more published."
+msgstr "لم يتم نشر المشاركات المختارة."
+
+#: blocks/build/index.js:10774
+#: blocks/directory-similar-items/src/edit.js:316
+msgid "Selected reference post will be listed before all other similar posts."
+msgstr "سيتم سرد المنشور المرجعي المحدد قبل جميع المنشورات المماثلة الأخرى."
+
+#: blocks/build/index.js:12601
+#: blocks/item-contact-form/src/inspector-controls.js:131
+msgid "Send Button Text"
+msgstr "إرسال نص الزر"
+
+#: blocks/build/index.js:12520
+#: blocks/item-contact-form/src/inspector-controls.js:53
+msgid "Sender Email"
+msgstr "البريد الإلكتروني المرسل"
+
+#: blocks/build/index.js:12507
+#: blocks/item-contact-form/src/inspector-controls.js:41
+msgid "Sender Name"
+msgstr "اسم المرسل"
+
+#: blocks/build/index.js:12702
+#: blocks/item-contact-form/src/inspector-controls.js:231
+msgid "Server Error Message"
+msgstr "رسالة خطأ الخادم"
+
+#: blocks/item-claim-listing/ItemClaimListing.php:121
+msgid "Server encountered an error. If problem persists, contact website administrator, please."
+msgstr "واجه الخادم خطأ. إذا استمرت المشكلة ، اتصل بمسؤول الموقع ، من فضلك."
+
+#: plugin/settings/CitadelaDirectorySettings.php:89
+msgid "Settings Saved"
+msgstr "تم حفظ الإعدادات"
+
+#: blocks/build/index.js:9308
+#: blocks/build/index.js:16596
+#: blocks/directory-search-form/src/inspector-controls.js:321
+#: blocks/posts-search-form/src/inspector-controls.js:211
+msgid "Shadow"
+msgstr "ظل"
+
+#: blocks/build/index.js:2210
+#: blocks/components/box-shadow-control.js:52
+msgid "Shadow color"
+msgstr "لون الظل"
+
+#: blocks/build/index.js:9304
+#: blocks/build/index.js:16592
+#: blocks/directory-search-form/src/inspector-controls.js:316
+#: blocks/posts-search-form/src/inspector-controls.js:206
+msgid "Shadow settings"
+msgstr "إعدادات الظل"
+
+#: blocks/build/index.js:6207
+#: blocks/directory-categories-list/src/edit.js:118
+msgid "Show Category description"
+msgstr "إظهار وصف الفئة"
+
+#: blocks/build/index.js:6199
+#: blocks/directory-categories-list/src/edit.js:113
+msgid "Show Category icon"
+msgstr "إظهار رمز الفئة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:293
+msgid "Show Email Address"
+msgstr "إظهار عنوان البريد الإلكتروني"
+
+#: blocks/build/index.js:8325
+#: blocks/directory-locations-list/src/edit.js:117
+msgid "Show Location description"
+msgstr "إظهار وصف الموقع"
+
+#: blocks/build/index.js:8317
+#: blocks/directory-locations-list/src/edit.js:112
+msgid "Show Location icon"
+msgstr "إظهار أيقونة الموقع"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:325
+msgid "Show Opening Hours"
+msgstr "إظهار ساعات العمل"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:45
+msgid "Show Streetview"
+msgstr "إظهار التجوّل الافتراضي"
+
+#: blocks/build/index.js:7531
+#: blocks/build/index.js:9833
+#: blocks/build/index.js:10818
+#: blocks/directory-items-list/src/edit.js:378
+#: blocks/directory-search-results/src/edit.js:322
+#: blocks/directory-similar-items/src/edit.js:350
+msgid "Show address"
+msgstr "إظهار العنوان"
+
+#: blocks/build/index.js:9043
+#: blocks/directory-search-form/src/inspector-controls.js:68
+msgid "Show advanced filters"
+msgstr "إظهار عوامل التصفية المتقدمة"
+
+#: blocks/author-detail/src/edit.js:51
+#: blocks/authors-list/src/edit.js:166
+#: blocks/build/index.js:197
+#: blocks/build/index.js:550
+msgid "Show author image"
+msgstr "إظهار صورة المؤلف"
+
+#: blocks/author-detail/src/edit.js:56
+#: blocks/authors-list/src/edit.js:171
+#: blocks/build/index.js:205
+#: blocks/build/index.js:558
+msgid "Show biographical info"
+msgstr "إظهار معلومات السيرة الذاتية"
+
+#: blocks/build/index.js:7547
+#: blocks/build/index.js:9849
+#: blocks/build/index.js:10834
+#: blocks/build/index.js:16913
+#: blocks/directory-items-list/src/edit.js:388
+#: blocks/directory-search-results/src/edit.js:332
+#: blocks/directory-similar-items/src/edit.js:360
+#: blocks/posts-search-results/src/index.js:208
+msgid "Show categories"
+msgstr "عرض الفئات"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:301
+msgid "Show contact form on page which send an email to defined email address"
+msgstr "عرض نموذج الاتصال في الصفحة التي ترسل بريدًا إلكترونيًا إلى عنوان بريد إلكتروني محدد"
+
+#: blocks/author-detail/src/edit.js:46
+#: blocks/authors-list/src/edit.js:161
+#: blocks/build/index.js:189
+#: blocks/build/index.js:542
+msgid "Show cover image"
+msgstr "إظهار صورة الغلاف"
+
+#: blocks/build/index.js:5652
+#: blocks/build/index.js:5656
+#: blocks/build/index.js:13348
+#: blocks/build/index.js:13352
+#: blocks/item-extension/src/edit.js:161
+#: blocks/item-extension/src/edit.js:166
+msgid "Show data"
+msgstr "إظهار البيانات"
+
+#: blocks/build/index.js:16897
+#: blocks/posts-search-results/src/index.js:198
+msgid "Show date"
+msgstr "عرض التاريخ"
+
+#: blocks/build/index.js:7523
+#: blocks/build/index.js:9825
+#: blocks/build/index.js:10810
+#: blocks/build/index.js:12912
+#: blocks/build/index.js:16905
+#: blocks/directory-items-list/src/edit.js:373
+#: blocks/directory-search-results/src/edit.js:317
+#: blocks/directory-similar-items/src/edit.js:345
+#: blocks/item-events/src/edit.js:42
+#: blocks/posts-search-results/src/index.js:203
+msgid "Show description"
+msgstr "إظهار الوصف"
+
+#: blocks/automatic-directory-google-map/src/edit.js:187
+#: blocks/automatic-posts-map/src/edit.js:116
+#: blocks/build/index.js:1222
+#: blocks/build/index.js:1777
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1299
+#: plugin/assets/citadela/half-layout-map/editor.js:107
+msgid "Show empty map"
+msgstr "إظهار خريطة فارغة"
+
+#: blocks/build/index.js:7507
+#: blocks/build/index.js:9809
+#: blocks/build/index.js:10794
+#: blocks/build/index.js:12904
+#: blocks/build/index.js:16889
+#: blocks/directory-items-list/src/edit.js:363
+#: blocks/directory-search-results/src/edit.js:307
+#: blocks/directory-similar-items/src/edit.js:335
+#: blocks/item-events/src/edit.js:37
+#: blocks/posts-search-results/src/index.js:193
+msgid "Show featured image"
+msgstr "أظهر الصور المميزه"
+
+#: blocks/build/index.js:7619
+#: blocks/build/index.js:9797
+#: blocks/build/index.js:10910
+#: blocks/directory-items-list/src/edit.js:449
+#: blocks/directory-search-results/src/edit.js:294
+#: blocks/directory-similar-items/src/edit.js:420
+msgid "Show featured items on the top of list before all other item posts."
+msgstr "إظهار العناصر المميزة في أعلى القائمة قبل كافة منشورات العناصر الأخرى."
+
+#: blocks/build/index.js:5736
+msgid "Show filters group title"
+msgstr "إظهار عنوان مجموعة عوامل التصفية"
+
+#: blocks/authors-list/src/edit.js:181
+#: blocks/build/index.js:574
+msgid "Show link"
+msgstr "إظهار الارتباط"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:298
+msgid "Show link label input"
+msgstr "إظهار إدخال تسمية الارتباط"
+
+#: blocks/build/index.js:7563
+#: blocks/build/index.js:9865
+#: blocks/build/index.js:10850
+#: blocks/build/index.js:16921
+#: blocks/directory-items-list/src/edit.js:400
+#: blocks/directory-search-results/src/edit.js:344
+#: blocks/directory-similar-items/src/edit.js:372
+#: blocks/posts-search-results/src/index.js:213
+msgid "Show locations"
+msgstr "إظهار المواقع"
+
+#: blocks/common-scripts/google-maps-initializer.js:238
+#: blocks/common-scripts/leaflet-maps-initializer.js:991
+#: blocks/common-scripts/leaflet-maps-initializer.js:1088
+#: blocks/components/infowindow.js:31
+#: blocks/components/leaflet-popup-track.js:31
+#: blocks/components/leaflet-popup.js:33
+msgid "Show more"
+msgstr "أظهر المزيد"
+
+#: blocks/build/index.js:3609
+#: blocks/components/panel-carousel.js:48
+msgid "Show navigation arrows"
+msgstr "إظهار أسهم التنقل"
+
+#: blocks/automatic-directory-google-map/src/edit.js:124
+#: blocks/build/index.js:1154
+#: blocks/build/index.js:6628
+#: blocks/directory-google-map/src/edit.js:151
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1315
+#: plugin/assets/citadela/half-layout-map/editor.js:133
+msgid "Show on map"
+msgstr "عرض على الخريطة"
+
+#: blocks/build/index.js:6187
+#: blocks/build/index.js:11541
+#: blocks/directory-categories-list/src/edit.js:101
+#: blocks/directory-subcategories-list/src/index.js:29
+msgid "Show only categories marked as featured."
+msgstr "إظهار الفئات المميزة فقط على أنها مميزة."
+
+#: blocks/build/index.js:7555
+#: blocks/build/index.js:9857
+#: blocks/build/index.js:10842
+#: blocks/directory-items-list/src/edit.js:394
+#: blocks/directory-search-results/src/edit.js:338
+#: blocks/directory-similar-items/src/edit.js:366
+msgid "Show only featured category"
+msgstr "إظهار الفئة المميزة فقط"
+
+#: blocks/build/index.js:8305
+#: blocks/build/index.js:11658
+#: blocks/directory-locations-list/src/edit.js:100
+#: blocks/directory-sublocations-list/src/index.js:29
+msgid "Show only locations marked as featured."
+msgstr "تظهر فقط المواقع التي تم تمييزها على أنها مميزة."
+
+#: blocks/build/index.js:3615
+#: blocks/components/panel-carousel.js:54
+msgid "Show pagination bullets"
+msgstr "إظهار ترقيم نقطي للرموز النقطية"
+
+#: blocks/author-detail/src/edit.js:61
+#: blocks/authors-list/src/edit.js:176
+#: blocks/build/index.js:213
+#: blocks/build/index.js:566
+msgid "Show posts number"
+msgstr "إظهار رقم المنشورات"
+
+#: blocks/build/index.js:12920
+#: blocks/item-events/src/edit.js:47
+msgid "Show price"
+msgstr "عرض السعر"
+
+#: blocks/build/index.js:7571
+#: blocks/build/index.js:9873
+#: blocks/build/index.js:10858
+#: blocks/directory-items-list/src/edit.js:406
+#: blocks/directory-search-results/src/edit.js:350
+#: blocks/directory-similar-items/src/edit.js:378
+msgid "Show rating"
+msgstr "عرض التصنيف"
+
+#: blocks/build/index.js:10773
+#: blocks/directory-similar-items/src/edit.js:315
+msgid "Show reference Item Post"
+msgstr "إظهار مرجع نشر العنصر"
+
+#: blocks/build/index.js:5662
+msgid "Show selected filters"
+msgstr "إظهار عوامل التصفية المختارة"
+
+#: blocks/build/index.js:13358
+#: blocks/item-extension/src/edit.js:170
+msgid "Show selected inputs"
+msgstr "إظهار المدخلات المختارة"
+
+#: blocks/build/index.js:10743
+#: blocks/directory-similar-items/src/edit.js:292
+msgid "Show similar posts from the same:"
+msgstr "إظهار المنشورات المماثلة من نفس:"
+
+#: blocks/build/index.js:5757
+msgid "Show submit filter button"
+msgstr "إظهار زر إرسال عامل التصفية"
+
+#: blocks/build/index.js:7515
+#: blocks/build/index.js:9817
+#: blocks/build/index.js:10802
+#: blocks/directory-items-list/src/edit.js:368
+#: blocks/directory-search-results/src/edit.js:312
+#: blocks/directory-similar-items/src/edit.js:340
+msgid "Show subtitle"
+msgstr "إظهار الترجمة"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:33
+msgid "Show track endpoint markers on"
+msgstr "إظهار علامات نهاية المسار على"
+
+#: blocks/build/index.js:7539
+#: blocks/build/index.js:9841
+#: blocks/build/index.js:10826
+#: blocks/directory-items-list/src/edit.js:383
+#: blocks/directory-search-results/src/edit.js:327
+#: blocks/directory-similar-items/src/edit.js:355
+msgid "Show web"
+msgstr "عرض الويب"
+
+#: blocks/automatic-directory-google-map/src/edit.js:271
+#: blocks/automatic-posts-map/src/edit.js:196
+#: blocks/build/index.js:1310
+#: blocks/build/index.js:1865
+#: blocks/build/index.js:6774
+#: blocks/build/index.js:15886
+#: blocks/directory-google-map/src/edit.js:282
+#: blocks/posts-map/src/edit.js:227
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1402
+#: plugin/assets/citadela/half-layout-map/editor.js:246
+msgid "Silver"
+msgstr "فضة"
+
+#: blocks/build/index.js:4802
+#: blocks/components/toolbar-layout.js:53
+msgid "Simple layout"
+msgstr "تخطيط بسيط"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsGeneral.php:50
+msgid "Site Key"
+msgstr "مفتاح الموقع"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:153
+msgid "Site logo"
+msgstr "شعار الموقع"
+
+#: blocks/build/index.js:16839
+#: blocks/posts-search-results/src/index.js:143
+msgid "Skip number of posts from start"
+msgstr "تخطي عدد المشاركات من البداية"
+
+#: blocks/build/index.js:14654
+#: blocks/item-gallery/src/edit.js:220
+msgid "Small"
+msgstr "صغير"
+
+#: blocks/build/index.js:5770
+#: blocks/build/index.js:11932
+#: blocks/build/index.js:15182
+#: blocks/build/index.js:15360
+#: blocks/item-claim-listing/src/index.js:64
+#: blocks/item-get-directions/src/index.js:64
+#: blocks/item-gpx-download/src/index.js:63
+msgid "Small button"
+msgstr "زر صغير"
+
+#: blocks/build/index.js:4953
+#: blocks/components/toolbar-size.js:32
+msgid "Small size"
+msgstr "حجم صغير"
+
+#: blocks/build/index.js:9197
+#: blocks/build/index.js:16485
+#: blocks/directory-search-form/src/inspector-controls.js:209
+#: blocks/posts-search-form/src/inspector-controls.js:97
+msgid "Solid color"
+msgstr "اللون الصامد"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:131
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "صفحة خاصة"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:132
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "صفحات خاصة"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:130
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "صفحات خاصة"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:140
+msgid "Special page updated."
+msgstr "تم تحديث الصفحة الخاصة."
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:139
+msgid "Special pages list"
+msgstr "قائمة الصفحات الخاصة"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:138
+msgid "Special pages list navigation"
+msgstr "تصفح قائمة الصفحات الخاصة"
+
+#: blocks/build/index.js:2248
+#: blocks/components/box-shadow-control.js:90
+msgid "Spread radius"
+msgstr "انتشار الشعاع"
+
+#: plugin/controls/butterbean/templates/control-citadela_gpx_upload.php:36
+msgid "Start and end of track"
+msgstr "بداية ونهاية المسار"
+
+#: blocks/build/index.js:9101
+#: blocks/directory-search-form/src/inspector-controls.js:124
+msgid "Step"
+msgstr "خطوة"
+
+#: plugin/controls/inputs/CitadelaMapControl.php:28
+msgid "Streetview"
+msgstr "منظر الشارع"
+
+#: plugin/controls/butterbean/CitadelaButterbeanMap.php:48
+msgid "Streetview is available only if Google API key is enabled"
+msgstr "التجوّل الافتراضي متاح فقط إذا تم تمكين مفتاح Google API"
+
+#: blocks/build/index.js:11928
+#: blocks/build/index.js:15178
+#: blocks/build/index.js:15356
+#: blocks/item-claim-listing/src/index.js:59
+#: blocks/item-get-directions/src/index.js:59
+#: blocks/item-gpx-download/src/index.js:58
+msgid "Style"
+msgstr "أسلوب"
+
+#: blocks/automatic-directory-google-map/src/edit.js:252
+#: blocks/automatic-posts-map/src/edit.js:178
+#: blocks/build/index.js:1288
+#: blocks/build/index.js:1843
+#: blocks/build/index.js:6752
+#: blocks/build/index.js:15864
+#: blocks/directory-google-map/src/edit.js:264
+#: blocks/posts-map/src/edit.js:209
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1386
+#: plugin/assets/citadela/half-layout-map/editor.js:228
+msgid "Style JSON"
+msgstr "أسلوب JSON"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:51
+msgid "Subject"
+msgstr "موضوعات"
+
+#: blocks/build/index.js:12646
+#: blocks/item-contact-form/src/inspector-controls.js:176
+msgid "Subject Help"
+msgstr "تعليمات الموضوع"
+
+#: blocks/build/index.js:12575
+#: blocks/item-contact-form/src/inspector-controls.js:107
+msgid "Subject Label"
+msgstr "تسمية الموضوع"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:52
+msgid "Subject for the email notification"
+msgstr "موضوع إشعار البريد الإلكتروني"
+
+#: blocks/build/index.js:12031
+#: blocks/item-claim-listing/src/index.js:153
+msgid "Submit Label"
+msgstr "إرسال التسمية"
+
+#: blocks/build/index.js:9136
+#: blocks/directory-search-form/src/inspector-controls.js:151
+msgid "Submit distance button label"
+msgstr "إرسال تسمية زر المسافة"
+
+#: blocks/build/index.js:9052
+#: blocks/directory-search-form/src/inspector-controls.js:77
+msgid "Submit filters button label"
+msgstr "إرسال تسمية زر الفلاتر"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:77
+msgid "Submit reply"
+msgstr "اعتماد الرد"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:68
+#: plugin/cpt/item/templates/parts/item-reviews.php:76
+msgid "Submit review"
+msgstr "إرسال المراجعة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:233
+#: plugin/settings/CitadelaDirectorySettings.php:234
+msgid "Subscriptions"
+msgstr "الاشتراكات"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:244
+msgid "Subtitle"
+msgstr "العنوان الفرعي"
+
+#: blocks/build/index.js:12676
+#: blocks/item-contact-form/src/inspector-controls.js:207
+msgid "Success Message"
+msgstr "نجاح رسالة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:374
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:36
+msgid "Sunday"
+msgstr "الأحد"
+
+#: blocks/build/index.js:13413
+#: blocks/item-extension/src/edit.js:220
+msgid "Table style"
+msgstr "نمط الجدول"
+
+#: plugin/includes/CitadelaDirectorySpecialPages.php:340
+msgid "Tag archives: "
+msgstr "أرشيفات الإشارات:"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:279
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:47
+msgid "Telephone"
+msgstr "هاتف"
+
+#: blocks/build/index.js:12057
+#: blocks/item-claim-listing/src/index.js:177
+msgid "Terms & Conditions label"
+msgstr "تسمية الشروط والأحكام"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:432
+msgid "Text"
+msgstr "نص"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:116
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:179
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:206
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:242
+#: blocks/authors-list/src/edit.js:265
+#: blocks/build/index.js:665
+#: blocks/build/index.js:5786
+#: blocks/build/index.js:7644
+#: blocks/build/index.js:9346
+#: blocks/build/index.js:9898
+#: blocks/build/index.js:10935
+#: blocks/build/index.js:11944
+#: blocks/build/index.js:14753
+#: blocks/build/index.js:15197
+#: blocks/build/index.js:15375
+#: blocks/build/index.js:16634
+#: blocks/build/index.js:16959
+#: blocks/directory-items-list/src/edit.js:475
+#: blocks/directory-search-form/src/inspector-controls.js:351
+#: blocks/directory-search-results/src/edit.js:377
+#: blocks/directory-similar-items/src/edit.js:447
+#: blocks/item-claim-listing/src/index.js:72
+#: blocks/item-gallery/src/edit.js:303
+#: blocks/item-get-directions/src/index.js:73
+#: blocks/item-gpx-download/src/index.js:72
+#: blocks/posts-search-form/src/inspector-controls.js:242
+#: blocks/posts-search-results/src/index.js:252
+msgid "Text color"
+msgstr "لون الخط"
+
+#: blocks/build/index.js:12045
+#: blocks/item-claim-listing/src/index.js:166
+msgid "Text displayed in the form when user is logged in"
+msgstr "النص المعروض في النموذج عند تسجيل دخول المستخدم"
+
+#: plugin/controls/butterbean/CitadelaButterbeanUrl.php:27
+#: plugin/cpt/item/CitadelaItemConfig.php:316
+msgid "Text displayed instead of full website url"
+msgstr "يتم عرض النص بدلاً من عنوان URL الكامل للموقع"
+
+#: blocks/build/index.js:12602
+#: blocks/item-contact-form/src/inspector-controls.js:132
+msgid "Text displayed on Send Button."
+msgstr "النص المعروض على زر الإرسال."
+
+#: blocks/automatic-directory-google-map/src/edit.js:195
+#: blocks/automatic-posts-map/src/edit.js:124
+#: blocks/build/index.js:1234
+#: blocks/build/index.js:1789
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1309
+#: plugin/assets/citadela/half-layout-map/editor.js:117
+msgid "Text displayed on empty map"
+msgstr "النص المعروض على خريطة فارغة"
+
+#: blocks/build/index.js:12058
+#: blocks/item-claim-listing/src/index.js:178
+msgid "Text for Terms & Conditions form input. Leave empty to disable the checkbox."
+msgstr "نص للشروط والأحكام إدخال نموذج. اتركه فارغًا لتعطيل مربع الاختيار."
+
+#: blocks/build/index.js:4794
+#: blocks/components/toolbar-layout.js:47
+msgid "Text layout"
+msgstr "تخطيط النص"
+
+#: blocks/build/index.js:15188
+#: blocks/build/index.js:15366
+#: blocks/item-get-directions/src/index.js:66
+#: blocks/item-gpx-download/src/index.js:65
+msgid "Text link"
+msgstr "رابط نصي"
+
+#: blocks/build/index.js:12534
+#: blocks/item-contact-form/src/inspector-controls.js:66
+msgid "Text of email message. Available are variables: {user-name} {user-email} {user-message}"
+msgstr "نص رسالة البريد الإلكتروني. المتغيرات المتوفرة هي: {user-name} {user-email} {user-message}"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:433
+msgid "Textarea"
+msgstr "تيكستاريا"
+
+#. translators: %s plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:85
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "تعذر تنشيط المكون الإضافي٪ s. إنه غير متوافق مع السمة النشطة الحالية."
+
+#: plugin/subscriptions/Feature.php:61
+msgid "The maximum number of items that customers with this subscription can publish (Leave empty for the unlimited number of items)."
+msgstr "الحد الأقصى لعدد العناصر التي يمكن للعملاء الذين لديهم هذا الاشتراك نشرها (اتركها فارغة لعدد غير محدود من العناصر)."
+
+#: blocks/automatic-directory-google-map/src/edit.js:245
+#: blocks/automatic-directory-google-map/src/edit.js:267
+#: blocks/automatic-posts-map/src/edit.js:172
+#: blocks/automatic-posts-map/src/edit.js:192
+#: blocks/build/index.js:1279
+#: blocks/build/index.js:1304
+#: blocks/build/index.js:1834
+#: blocks/build/index.js:1859
+#: blocks/build/index.js:6743
+#: blocks/build/index.js:6768
+#: blocks/build/index.js:15855
+#: blocks/build/index.js:15880
+#: blocks/directory-google-map/src/edit.js:258
+#: blocks/directory-google-map/src/edit.js:278
+#: blocks/posts-map/src/edit.js:203
+#: blocks/posts-map/src/edit.js:223
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1379
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1396
+#: plugin/assets/citadela/half-layout-map/editor.js:218
+#: plugin/assets/citadela/half-layout-map/editor.js:242
+msgid "Theme"
+msgstr "سمة"
+
+#: blocks/build/index.js:8599
+#: blocks/directory-membership-content/src/edit.js:57
+msgid "There are no available subscriptions. Add some, please."
+msgstr "لا توجد اشتراكات متاحة. أضف البعض من فضلك."
+
+#: blocks/build/index.js:5953
+msgid "There are no filters to show."
+msgstr "لا توجد مرشحات لعرضها."
+
+#: blocks/build/index.js:13510
+#: blocks/item-extension/src/edit.js:332
+msgid "There are no inputs to show."
+msgstr "لا توجد مدخلات لإظهارها."
+
+#: blocks/build/index.js:13512
+#: blocks/build/index.js:13514
+#: blocks/item-extension/src/edit.js:343
+#: blocks/item-extension/src/edit.js:354
+msgid "There are no selected inputs to show."
+msgstr "لا توجد مدخلات محددة للعرض."
+
+#: blocks/build/index.js:9273
+#: blocks/build/index.js:16561
+#: blocks/directory-search-form/src/inspector-controls.js:288
+#: blocks/posts-search-form/src/inspector-controls.js:178
+msgid "Thick border"
+msgstr "حد سميك"
+
+#: blocks/authors-list/src/edit.js:295
+#: blocks/build/index.js:703
+#: blocks/build/index.js:7691
+#: blocks/build/index.js:9945
+#: blocks/build/index.js:10982
+#: blocks/build/index.js:16997
+#: blocks/directory-items-list/src/edit.js:514
+#: blocks/directory-search-results/src/edit.js:414
+#: blocks/directory-similar-items/src/edit.js:486
+#: blocks/posts-search-results/src/index.js:282
+msgid "Thick borders"
+msgstr "حدود سميكة"
+
+#: blocks/build/index.js:9270
+#: blocks/build/index.js:16558
+#: blocks/directory-search-form/src/inspector-controls.js:287
+#: blocks/posts-search-form/src/inspector-controls.js:177
+msgid "Thin border"
+msgstr "حد رفيع"
+
+#: blocks/authors-list/src/edit.js:294
+#: blocks/build/index.js:700
+#: blocks/build/index.js:7688
+#: blocks/build/index.js:9942
+#: blocks/build/index.js:10979
+#: blocks/build/index.js:16994
+#: blocks/directory-items-list/src/edit.js:513
+#: blocks/directory-search-results/src/edit.js:413
+#: blocks/directory-similar-items/src/edit.js:485
+#: blocks/posts-search-results/src/index.js:281
+msgid "Thin borders"
+msgstr "حدود رقيقة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:1055
+msgid "This feature adds Claim Listing functionality for Listing items"
+msgstr "تضيف هذه الميزة وظائف قائمة المطالبات لعناصر القائمة"
+
+#: plugin/subscriptions/Feature.php:55
+msgid "This product is a Citadela Subscription."
+msgstr "هذا المنتج هو اشتراك Citadela."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:72
+msgid "This setting will enable editing of Item Posts using Gutenberg editor. This feature will allow you to have greater administration flexibility. Please be careful which blocks you include in the item detail as everything will be placed in the \"Item Content\" block on Item Detail Special page."
+msgstr "سيمكن هذا الإعداد تحرير منشورات العناصر باستخدام محرر Gutenberg. ستتيح لك هذه الميزة التمتع بمرونة إدارية أكبر. يرجى توخي الحذر بشأن الكتل التي تقوم بتضمينها في تفاصيل العنصر حيث سيتم وضع كل شيء في كتلة &quot;محتوى العنصر&quot; في صفحة تفاصيل العنصر الخاصة."
+
+#: blocks/build/index.js:12935
+#: blocks/item-events/src/edit.js:61
+msgid "Thumbnail"
+msgstr "ظفري"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:353
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:24
+msgid "Thursday"
+msgstr "يوم الخميس"
+
+#: blocks/build/index.js:3640
+#: blocks/components/panel-carousel.js:77
+msgid "Time in seconds"
+msgstr "الوقت بالثواني"
+
+#: blocks/build/index.js:7589
+#: blocks/build/index.js:9767
+#: blocks/build/index.js:10877
+#: blocks/build/index.js:11981
+#: blocks/build/index.js:16859
+#: blocks/directory-items-list/src/edit.js:424
+#: blocks/directory-search-results/src/edit.js:268
+#: blocks/directory-similar-items/src/edit.js:397
+#: blocks/item-claim-listing/src/index.js:107
+#: blocks/posts-search-results/src/index.js:162
+msgid "Title"
+msgstr "عنوان"
+
+#: blocks/build/index.js:5843
+#: blocks/build/index.js:13447
+#: blocks/item-extension/src/edit.js:258
+msgid "Title color"
+msgstr "لون العنوان"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:108
+msgid "Titles color"
+msgstr "لون العناوين"
+
+#: plugin/settings/CitadelaDirectorySettings.php:845
+#: blocks/build/index.js:7278
+#: blocks/build/index.js:7348
+#: blocks/build/index.js:9578
+#: blocks/build/index.js:9648
+#: blocks/build/index.js:10555
+#: blocks/build/index.js:10625
+#: blocks/build/index.js:13896
+#: blocks/build/index.js:14506
+#: blocks/build/index.js:14576
+#: blocks/build/index.js:14682
+#: blocks/directory-items-list/src/edit.js:169
+#: blocks/directory-items-list/src/edit.js:217
+#: blocks/directory-search-results/src/edit.js:111
+#: blocks/directory-search-results/src/edit.js:159
+#: blocks/directory-similar-items/src/edit.js:133
+#: blocks/directory-similar-items/src/edit.js:181
+#: blocks/item-featured-image/src/edit.js:224
+#: blocks/item-gallery/src/edit.js:102
+#: blocks/item-gallery/src/edit.js:150
+#: blocks/item-gallery/src/edit.js:237
+msgid "Top"
+msgstr "قمة"
+
+#: plugin/settings/CitadelaDirectorySettings.php:844
+#: blocks/build/index.js:7275
+#: blocks/build/index.js:7345
+#: blocks/build/index.js:9575
+#: blocks/build/index.js:9645
+#: blocks/build/index.js:10552
+#: blocks/build/index.js:10622
+#: blocks/build/index.js:13893
+#: blocks/build/index.js:14503
+#: blocks/build/index.js:14573
+#: blocks/directory-items-list/src/edit.js:168
+#: blocks/directory-items-list/src/edit.js:216
+#: blocks/directory-search-results/src/edit.js:110
+#: blocks/directory-search-results/src/edit.js:158
+#: blocks/directory-similar-items/src/edit.js:132
+#: blocks/directory-similar-items/src/edit.js:180
+#: blocks/item-featured-image/src/edit.js:223
+#: blocks/item-gallery/src/edit.js:101
+#: blocks/item-gallery/src/edit.js:149
+msgid "Top left"
+msgstr "أعلى اليسار"
+
+#: plugin/settings/CitadelaDirectorySettings.php:846
+#: blocks/build/index.js:7281
+#: blocks/build/index.js:7351
+#: blocks/build/index.js:9581
+#: blocks/build/index.js:9651
+#: blocks/build/index.js:10558
+#: blocks/build/index.js:10628
+#: blocks/build/index.js:13899
+#: blocks/build/index.js:14509
+#: blocks/build/index.js:14579
+#: blocks/directory-items-list/src/edit.js:170
+#: blocks/directory-items-list/src/edit.js:218
+#: blocks/directory-search-results/src/edit.js:112
+#: blocks/directory-search-results/src/edit.js:160
+#: blocks/directory-similar-items/src/edit.js:134
+#: blocks/directory-similar-items/src/edit.js:182
+#: blocks/item-featured-image/src/edit.js:225
+#: blocks/item-gallery/src/edit.js:103
+#: blocks/item-gallery/src/edit.js:151
+msgid "Top right"
+msgstr "فوق على اليمين"
+
+#: blocks/automatic-directory-google-map/src/edit.js:143
+#: blocks/automatic-directory-google-map/src/edit.js:162
+#: blocks/build/index.js:1181
+#: blocks/build/index.js:1200
+#: blocks/build/index.js:6655
+#: blocks/directory-google-map/src/edit.js:171
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1338
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1353
+#: plugin/assets/citadela/half-layout-map/editor.js:157
+#: plugin/assets/citadela/half-layout-map/editor.js:181
+msgid "Track color"
+msgstr "لون المسار"
+
+#: blocks/automatic-directory-google-map/src/edit.js:149
+#: blocks/automatic-directory-google-map/src/edit.js:168
+#: blocks/build/index.js:1190
+#: blocks/build/index.js:1209
+#: blocks/build/index.js:6664
+#: blocks/directory-google-map/src/edit.js:178
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1345
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1360
+#: plugin/assets/citadela/half-layout-map/editor.js:166
+#: plugin/assets/citadela/half-layout-map/editor.js:190
+msgid "Track endpoints color"
+msgstr "لون نقاط نهاية المسار"
+
+#: blocks/automatic-directory-google-map/src/edit.js:138
+#: blocks/build/index.js:1173
+#: blocks/build/index.js:6647
+#: blocks/directory-google-map/src/edit.js:165
+#: plugin/assets/citadela/half-layout-map/build/editor.js:1332
+#: plugin/assets/citadela/half-layout-map/editor.js:149
+msgid "Tracks are hidden and replaced with map marker according to zoom level."
+msgstr "يتم إخفاء المسارات واستبدالها بعلامة الخريطة وفقًا لمستوى التكبير / التصغير."
+
+#: plugin/cpt/item/CitadelaItemConfig.php:339
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:16
+msgid "Tuesday"
+msgstr "يوم الثلاثاء"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsClaimListing.php:44
+msgid "Turn on Claim Listing feature"
+msgstr "قم بتشغيل ميزة قائمة المطالبات"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:71
+msgid "Turn on Item Extension features"
+msgstr "قم بتشغيل ميزات ملحق العنصر"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemReviews.php:60
+msgid "Turn on Item Reviews for listing items"
+msgstr "قم بتشغيل &quot;مراجعات العناصر&quot; لسرد العناصر"
+
+#: plugin/controls/inputs/CitadelaSelectFontawesomeControl.php:23
+msgid "Type for search..."
+msgstr "اكتب للبحث ..."
+
+#: blocks/build/index.js:13393
+#: blocks/item-extension/src/edit.js:203
+msgid "Unchecked single checkbox will not be displayed."
+msgstr "لن يتم عرض خانة الاختيار المفردة التي لم يتم تحديدها."
+
+#: plugin/claim-listing/ClaimListing.php:55
+#: plugin/claim-listing/ClaimListing.php:64
+msgid "Unclaimed"
+msgstr "غير مطالب به"
+
+#: blocks/build/index.js:14727
+#: blocks/item-gallery/src/edit.js:273
+msgid "Under image"
+msgstr "تحت الصورة"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:380
+msgid "Unique identifier for new input field. Use single word, no spaces. Underscores and dashes allowed."
+msgstr "معرف فريد لحقل الإدخال الجديد. استخدم كلمة واحدة ، بدون مسافات. مسموح بالشرطات السفلية والشرطات."
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:320
+msgid "Unit of number"
+msgstr "وحدة العدد"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:342
+msgid "Unit position"
+msgstr "موقف الوحدة"
+
+#. Description of the plugin
+msgid "Universal listing features for any website"
+msgstr "قائمة الميزات العالمية لأي موقع"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:97
+msgid "Update Category"
+msgstr "تحديث الفئة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:131
+#: plugin/cpt/post/CitadelaPost.php:67
+msgid "Update Location"
+msgstr "تحديث الموقع"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:63
+msgid "Upload file"
+msgstr "رفع ملف"
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:236
+msgid "Uploaded file doesn't include required GPX track data."
+msgstr "لا يتضمن الملف الذي تم تحميله بيانات مسار GPX المطلوبة."
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:100
+msgid "Uploaded file has not valid XML format."
+msgstr "الملف الذي تم تحميله لا يحتوي على تنسيق XML صالح."
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:69
+msgid "Uploading&#8230;"
+msgstr "جارٍ التحميل…"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:435
+msgid "Url"
+msgstr "عنوان Url"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:300
+msgid "Use Contact Form"
+msgstr "استخدم نموذج الاتصال"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsEasyAdmin.php:67
+msgid "Use Easy Admin interface for your subscribers"
+msgstr "استخدم واجهة Easy Admin للمشتركين لديك"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:78
+msgid "Use Gutenberg editor for the content of listing items"
+msgstr "استخدم محرر Gutenberg لمحتوى عناصر القائمة"
+
+#: blocks/build/index.js:3603
+#: blocks/components/panel-carousel.js:40
+msgid "Use carousel"
+msgstr "استخدم دائري"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:308
+msgid "Use correct full website url"
+msgstr "استخدم عنوان url الصحيح الكامل للموقع"
+
+#: blocks/build/index.js:9078
+#: blocks/directory-search-form/src/inspector-controls.js:106
+msgid "Use geolocation search"
+msgstr "استخدم البحث عن تحديد الموقع الجغرافي"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:387
+msgid "Use in search filter"
+msgstr "استخدم في مرشح البحث"
+
+#: blocks/build/index.js:7727
+#: blocks/build/index.js:9968
+#: blocks/build/index.js:11018
+#: blocks/build/index.js:13872
+#: blocks/build/index.js:14697
+#: blocks/directory-items-list/src/edit.js:555
+#: blocks/directory-search-results/src/edit.js:437
+#: blocks/directory-similar-items/src/edit.js:526
+#: blocks/item-featured-image/src/edit.js:203
+#: blocks/item-gallery/src/edit.js:245
+msgid "Use responsive options"
+msgstr "استخدم خيارات الاستجابة"
+
+#: plugin/item-reviews/ItemReviews.php:310
+msgid "Use valid email address, please."
+msgstr "استخدم عنوان بريد إلكتروني صالح ، من فضلك."
+
+#: blocks/build/index.js:12618
+#: blocks/item-contact-form/src/inspector-controls.js:148
+msgid "Useful to show additional help text or GDPR text with each input in the form."
+msgstr "مفيد لإظهار نص تعليمات إضافي أو نص GDPR مع كل إدخال في النموذج."
+
+#: blocks/authors-list/src/edit.js:205
+#: blocks/build/index.js:597
+msgid "User ID"
+msgstr "معرف المستخدم"
+
+#: plugin/cpt/user/CitadelaUser.php:39
+msgid "User additional options"
+msgstr "خيارات إضافية للمستخدم"
+
+#: blocks/common-scripts/search-forms-initializer.js:812
+msgid "User denied geolocation"
+msgstr "نفى المستخدم تحديد الموقع الجغرافي"
+
+#: blocks/authors-list/src/edit.js:208
+#: blocks/build/index.js:606
+msgid "User email"
+msgstr "البريد الالكتروني للمستخدم"
+
+#: blocks/authors-list/src/edit.js:207
+#: blocks/build/index.js:603
+msgid "User login"
+msgstr "تسجيل دخول المستخدم"
+
+#: blocks/authors-list/src/edit.js:209
+#: blocks/build/index.js:609
+msgid "User posts count"
+msgstr "عدد مشاركات المستخدم"
+
+#: blocks/authors-list/src/edit.js:210
+#: blocks/build/index.js:612
+msgid "User registration date"
+msgstr "تاريخ تسجيل المستخدم"
+
+#: blocks/build/index.js:12005
+#: blocks/item-claim-listing/src/index.js:129
+msgid "Username Label"
+msgstr "تسمية اسم المستخدم"
+
+#: blocks/build/index.js:8582
+#: blocks/directory-membership-content/src/edit.js:42
+msgid "Users with active membership"
+msgstr "المستخدمون ذوو العضوية النشطة"
+
+#: blocks/build/index.js:12689
+#: blocks/item-contact-form/src/inspector-controls.js:219
+msgid "Validation Error Message"
+msgstr "رسالة خطأ التحقق من الصحة"
+
+#: blocks/build/index.js:13463
+#: blocks/item-extension/src/edit.js:270
+msgid "Value color"
+msgstr "لون القيمة"
+
+#: blocks/build/index.js:2228
+#: blocks/components/box-shadow-control.js:70
+msgid "Vertical offset"
+msgstr "الإزاحة العمودية"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:96
+msgid "View Category"
+msgstr "مشاهدة الفئة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:35
+msgid "View Item"
+msgstr "عرض البند"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:130
+#: plugin/cpt/post/CitadelaPost.php:66
+msgid "View Location"
+msgstr "عرض الموقع"
+
+#: plugin/easy-admin/EasyAdmin.php:149
+msgid "View Site"
+msgstr "عرض الموقع"
+
+#: plugin/cpt/item/templates/parts/item-container.php:152
+#: plugin/cpt/post/templates/parts/post-container.php:99
+#: plugin/parts/default-search-results-content.php:94
+msgid "View more"
+msgstr "عرض المزيد"
+
+#: plugin/parts/authors-list.php:96
+#: blocks/authors-list/src/edit.js:418
+#: blocks/build/index.js:848
+msgid "View posts"
+msgstr "مشاهدة المشاركات"
+
+#: blocks/authors-list/src/edit.js:188
+#: blocks/build/index.js:582
+msgid "View posts label"
+msgstr "عرض تسمية المشاركات"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:88
+msgid "View track on the map"
+msgstr "عرض المسار على الخريطة"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:216
+msgid "We recommend to use 24:00 time format for SEO purposes and satisfy Google Structured Data requirements. Use time like 08:00-15:00."
+msgstr "نوصي باستخدام تنسيق الوقت 24:00 لأغراض تحسين محركات البحث وتلبية متطلبات البيانات المنظمة من Google. استخدم الوقت مثل 08: 00-15: 00."
+
+#. translators: %s plugin's name
+#: plugin/compatibility.php:16
+msgid "We've deactivated Citadela Directory Lite plugin. You can now activate and enjoy full version of the plugin."
+msgstr "لقد قمنا بإلغاء تنشيط المكون الإضافي Citadela Directory Lite. يمكنك الآن تنشيط الإصدار الكامل من البرنامج المساعد والاستمتاع به."
+
+#: plugin/settings/CitadelaDirectorySettings.php:1033
+msgid "We've noticed WooCommerce Subscriptions plugin is active, subscriptions functionality from Citadela Listing plugin is available."
+msgstr "لقد لاحظنا أن المكون الإضافي لاشتراكات WooCommerce نشط ، ووظيفة الاشتراكات متاحة من المكون الإضافي Citadela List."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "لقد لاحظنا أنك تقوم بتشغيل إصدار قديم من PHP لم يعد مدعومًا ، لذلك <em>تم إلغاء تنشيط المكون الإضافي</em> . تأكد من أن موقعك سريع وآمن ، عن طريق <a href='%1$s'>ترقية PHP إلى أحدث إصدار</a> . الحد الأدنى من المتطلبات لـ٪ 2 $ s هو <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to WordPress Update page, 2. plugin's name
+#: plugin/includes/CitadelaDirectoryCompatibility.php:63
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "لقد لاحظنا أنك تقوم بتشغيل إصدار قديم من WordPress ، لذلك <em>تم إلغاء تنشيط المكون الإضافي</em> . تأكد من أن موقعك آمن ومُحدَّث ، عن طريق <a href='%1$s'>تحديث WordPress إلى أحدث إصدار</a> . الحد الأدنى من متطلبات٪ 2 $ s هو <strong>WordPress 5.2</strong> ."
+
+#: plugin/cpt/item/templates/parts/item-container.php:175
+#: plugin/cpt/item/templates/parts/single-item-contact-details.php:67
+msgid "Web"
+msgstr "الويب"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:307
+msgid "Website Link"
+msgstr "رابط الموقع"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:315
+msgid "Website Link Label"
+msgstr "تسمية ارتباط الموقع"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemDetail.php:108
+msgid "Website link rel attribute"
+msgstr "سمة ارتباط موقع الويب"
+
+#: plugin/cpt/item/CitadelaItemConfig.php:346
+#: plugin/cpt/item/templates/parts/single-item-opening-hours.php:20
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: plugin/CitadelaDirectory.php:690
+msgid "Widgets displayed on Item Categories pages."
+msgstr "الحاجيات المعروضة في صفحات فئات البند."
+
+#: plugin/CitadelaDirectory.php:696
+msgid "Widgets displayed on Item Locations pages."
+msgstr "الحاجيات المعروضة على صفحات مواقع العناصر."
+
+#: plugin/CitadelaDirectory.php:684
+msgid "Widgets displayed on Item posts pages."
+msgstr "الحاجيات المعروضة في صفحات منشورات المادة."
+
+#: blocks/build/index.js:11246
+#: blocks/directory-similar-items/src/edit.js:746
+msgid "Will be listed all available similar items."
+msgstr "سيتم سرد جميع العناصر المماثلة المتاحة."
+
+#: blocks/build/index.js:9162
+#: blocks/build/index.js:16450
+#: blocks/directory-search-form/src/inspector-controls.js:179
+#: blocks/posts-search-form/src/inspector-controls.js:67
+msgid "With background"
+msgstr "مع الخلفية"
+
+#: blocks/automatic-directory-google-map/src/edit.js:112
+#: blocks/automatic-posts-map/src/edit.js:104
+#: blocks/build/index.js:1143
+#: blocks/build/index.js:1763
+#: blocks/build/index.js:6617
+#: blocks/build/index.js:15786
+#: blocks/directory-google-map/src/edit.js:141
+#: blocks/posts-map/src/edit.js:136
+msgid "With search form"
+msgstr "مع استمارة البحث"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:311
+msgid "With url will be available additional input to insert text displayed instead of plain link."
+msgstr "مع عنوان url سيتوفر مدخلات إضافية لإدراج النص المعروض بدلاً من الارتباط العادي."
+
+#: blocks/build/index.js:8591
+#: blocks/directory-membership-content/src/edit.js:52
+msgid "WooCommerce subscriptions"
+msgstr "اشتراكات WooCommerce"
+
+#: blocks/automatic-directory-google-map/src/edit.js:211
+#: blocks/automatic-posts-map/src/edit.js:139
+#: blocks/build/index.js:1247
+#: blocks/build/index.js:1802
+#: blocks/build/index.js:6711
+#: blocks/build/index.js:13770
+#: blocks/build/index.js:13793
+#: blocks/build/index.js:15823
+#: blocks/directory-google-map/src/edit.js:224
+#: blocks/item-featured-image/src/edit.js:93
+#: blocks/item-featured-image/src/edit.js:117
+#: blocks/posts-map/src/edit.js:170
+msgid "Works when block is the only block in a column."
+msgstr "يعمل عندما تكون الكتلة هي الكتلة الوحيدة في العمود."
+
+#: plugin/controls/butterbean/assets/CitadelaButterbeanGpxAssets.php:84
+msgid "You do not have permission to upload files."
+msgstr "ليس لديك إذن لتحميل الملفات."
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:69
+msgid "You must be logged in to post a review."
+msgstr "يجب عليك تسجيل الدخول لنشر الاستعراض."
+
+#: plugin/item-reviews/ItemReviews.php:174
+msgid "Your rating"
+msgstr "تقييمك"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:83
+msgid "Your reply to review"
+msgstr "ردك على المراجعة"
+
+#: plugin/cpt/item/templates/parts/item-reviews.php:82
+msgid "Your review"
+msgstr "مراجعتك"
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:284
+msgid "blue : Blue color"
+msgstr "الأزرق: اللون الأزرق"
+
+#: blocks/build/index.js:7964
+#: blocks/build/index.js:8034
+#: blocks/build/index.js:10147
+#: blocks/build/index.js:10217
+#: blocks/build/index.js:11312
+#: blocks/build/index.js:11382
+#: blocks/build/index.js:14039
+#: blocks/build/index.js:14109
+#: blocks/build/index.js:14909
+#: blocks/build/index.js:14979
+#: blocks/directory-items-list/src/edit.js:779
+#: blocks/directory-items-list/src/edit.js:849
+#: blocks/directory-search-results/src/edit.js:607
+#: blocks/directory-search-results/src/edit.js:677
+#: blocks/directory-similar-items/src/edit.js:815
+#: blocks/directory-similar-items/src/edit.js:885
+#: blocks/item-featured-image/src/edit.js:355
+#: blocks/item-featured-image/src/edit.js:425
+#: blocks/item-gallery/src/edit.js:470
+#: blocks/item-gallery/src/edit.js:540
+msgid "default image size"
+msgstr "الحجم الافتراضي للصورة"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-listing/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-listing/"
+
+#: plugin/controls/butterbean/CitadelaButterbeanGpxUpload.php:61
+msgctxt "Uploader: Drop file here - or - Select file from computer"
+msgid "or"
+msgstr "أو"
+
+#: plugin/parts/author-detail.php:53
+#: plugin/parts/authors-list.php:83
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "بريد"
+msgstr[1] ""
+
+#: plugin/settings/pages/CitadelaDirectorySettingsItemExtension.php:283
+msgid "red : Red color"
+msgstr "الأحمر: اللون الأحمر"

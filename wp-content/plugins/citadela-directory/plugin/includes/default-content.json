@@ -1,0 +1,38 @@
+{
+    "single-item": {
+        "content": "<!-- wp:citadela-directory\/automatic-directory-google-map {\"withSearchForm\":true} -->\r\n<!-- wp:citadela-directory\/directory-search-form \/-->\r\n<!-- \/wp:citadela-directory\/automatic-directory-google-map -->\r\n\r\n<!-- wp:spacer {\"height\":60} -->\r\n<div style=\"height:60px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:columns -->\r\n<div class=\"wp-block-columns has-2-columns\"><!-- wp:column -->\r\n<div class=\"wp-block-column\"><!-- wp:citadela-directory\/item-featured-image \/--><\/div>\r\n<!-- \/wp:column -->\r\n\r\n<!-- wp:column -->\r\n<div class=\"wp-block-column\"><!-- wp:citadela-directory\/item-contact-details \/--><\/div>\r\n<!-- \/wp:column --><\/div>\r\n<!-- \/wp:columns -->\r\n\r\n<!-- wp:separator {\"className\":\"is-style-default\"} -->\r\n<hr class=\"wp-block-separator is-style-default\"\/>\r\n<!-- \/wp:separator -->\r\n\r\n<!-- wp:citadela-directory\/item-content \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:columns -->\r\n<div class=\"wp-block-columns has-2-columns\"><!-- wp:column -->\r\n<div class=\"wp-block-column\"><!-- wp:citadela-directory\/item-opening-hours {\"title\":\"Opening Hours\"} \/--><\/div>\r\n<!-- \/wp:column -->\r\n\r\n<!-- wp:column -->\r\n<div class=\"wp-block-column\"><!-- wp:citadela-directory\/item-contact-form {\"title\":\"Contact Form\"} \/--><\/div>\r\n<!-- \/wp:column --><\/div>\r\n<!-- \/wp:columns -->\r\n\r\n<!-- wp:paragraph -->\r\n<p><\/p>\r\n<!-- \/wp:paragraph -->"
+    },
+
+    "search-results": {
+        "content": "<!-- wp:citadela-directory\/automatic-directory-google-map \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/directory-search-form \/-->\r\n\r\n<!-- wp:spacer {\"height\":20} -->\r\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/directory-search-results \/-->"
+    },
+
+    "item-category": {
+        "content": "<!-- wp:citadela-directory\/automatic-directory-google-map \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/directory-subcategories-list \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/directory-search-results \/-->\r\n\r\n<!-- wp:citadela-directory\/directory-search-form \/-->"
+    },
+
+    "item-location": {
+        "content": "<!-- wp:citadela-directory\/automatic-directory-google-map \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/directory-sublocations-list \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/directory-search-results \/-->\r\n\r\n<!-- wp:citadela-directory\/directory-search-form \/-->"
+    },
+    "posts-search-results": {
+        "content": "<!-- wp:citadela-directory\/automatic-posts-map \/-->\r\n\r\n<!-- wp:spacer {\"height\":40} -->\r\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/posts-search-form \/-->\r\n\r\n<!-- wp:spacer {\"height\":20} -->\r\n<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\r\n<!-- \/wp:spacer -->\r\n\r\n<!-- wp:citadela-directory\/posts-search-results \/-->"
+    },
+    "posts-category": {
+        "content": "<!-- wp:citadela-directory/posts-search-results {\"layout\":\"simple\"} /-->"
+    },
+    "posts-tag": {
+        "content": "<!-- wp:citadela-directory/posts-search-results {\"layout\":\"simple\"} /-->"
+    },
+    "posts-date": {
+        "content": "<!-- wp:citadela-directory/posts-search-results {\"layout\":\"simple\"} /-->"
+    },
+    "posts-author": {
+        "content": "<!-- wp:citadela-directory/posts-search-results {\"layout\":\"simple\"} /-->"
+    },
+    "default-search-results": {
+        "content": "<!-- wp:citadela-directory/default-search-results /-->"
+    },
+    "404-page": {
+        "content": "<!-- wp:paragraph --><p>It looks like nothing was found at this location. Maybe try a search?</p><!-- /wp:paragraph --><!-- wp:search {\"label\":\"\",\"placeholder\":\"Search...\",\"buttonText\":\"Search\"} /--><!-- wp:spacer --><div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div><!-- /wp:spacer -->"
+    }
+}

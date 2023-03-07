@@ -1,0 +1,7 @@
+.ctdl-info					{ padding: 0px 6px 6px 6px; }
+.ctdl-info strong			{ color: #222222; } 
+.ctdl-pro 					{ margin: 0px -12px 0px -12px; padding: 14px 18px 16px 18px; background: #ffffff; color: #666666; border-bottom: 1px solid #ddd; position: relative; }
+.ctdl-pro .ctdl-pro-icon	{ width: 20px; height: 20px; margin-right: 7px; display: inline-block; vertical-align: middle; }
+.ctdl-pro .ctdl-pro-title 	{ color: #222222; display: inline-block; vertical-align: middle; font-size: 14px; line-height: 1.75; font-weight: 600; margin-bottom: 0px; }
+.ctdl-pro .ctdl-pro-desc	{ font-size: 13px; line-height: 1.5; margin: 0.2em 0 0 0; }
+.ctdl-pro-button			{ padding: 6px 20px !important; font-size: 14px !important; height: auto !important; border-radius: 6px !important; font-weight: 900; text-transform: uppercase; text-align: center; margin: 20px 0px 0px 4px !important; }

@@ -1,0 +1,10 @@
+.citadela-block-spacer												{ min-height: 8px; }
+.citadela-block-spacer.is-selected .inner-holder 					{ background-color: #f3f4f5; }
+.citadela-block-spacer.negative-height								{ border: 1px dotted rgba(200,200,200,0.5); }
+.citadela-block-spacer.negative-height.is-selected .inner-holder    { border: 4px solid rgba(255,0,0,0.3); background: none; }
+.citadela-block-spacer.hide-in-responsive							{ display: block !important; }
+
+@media screen and (max-width: 600px)
+{
+	.citadela-block-spacer.hide-in-responsive .inner-holder     	{ margin-top: 0px !important; padding-top: 0px !important; }
+}

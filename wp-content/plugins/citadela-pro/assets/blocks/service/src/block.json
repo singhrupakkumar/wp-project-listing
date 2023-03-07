@@ -1,0 +1,59 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-blocks/service",
+	"category": "citadela-blocks",
+	"icon": "yes-alt",
+	"attributes": {
+		"serviceTitle": {
+			"type": "array",
+			"source": "children",
+			"selector": ".service-title"
+		},
+		"serviceDescription": {
+			"type": "array",
+			"source": "children",
+			"selector": ".service-description"
+		},
+		"serviceImageObject": {
+			"type": "object"
+		},
+		"serviceBlockBackgroundColor": {
+			"type": "string"
+		},
+		"serviceBlockTitleColor": {
+			"type": "string"
+		},
+		"serviceBlockTextColor": {
+			"type": "string"
+		},
+		"serviceDesignType": {
+			"type": "string",
+			"default": "icon"
+		},
+		"serviceDesignIconClass": { 
+			"type": "text", 
+			"default": "fas fa-cog"
+		},
+		"serviceDesignIconColor": { 
+			"type": "string", 
+			"default": "#b9b9b9"
+		},
+		"serviceLayout": {
+			"type": "string",
+			"default": "box"
+		},
+		"serviceLinkNewTab": {
+			"type": "boolean",
+			"default": false
+		},
+		"serviceLink": {
+			"type": "text",
+			"default": ""
+		},
+		"serviceReadMoreText": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"editorScript": "citadela-service-block"
+}

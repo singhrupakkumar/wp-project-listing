@@ -1,0 +1,684 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_SG\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s 想到了“%2$s”"
+msgstr[1] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s 主题和 AIT 插件不兼容"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s 主题和 PHP 不兼容"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s 主题和 WordPress 版本不兼容"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404页面小部件区域"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API 密钥"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "添加更多由空格分隔的类。"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "添加列出 Gutenberg 块和功能，例如地图、GPX、地图上的博客文章或订阅。"
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "管理 → Citadela 列表 → 插件激活"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "管理 → Citadela 主题"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "管理 → 设置 → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "主题"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "外貌"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "您网站的外观设置"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "档案小部件区域"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "作者档案："
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "博客页面小部件区域"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "分类档案："
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "城堡"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "城堡激活"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "城堡仪表板"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "城堡布局"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "城堡上市"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Citadela 页面设置"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Citadela 邮政设置"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "城堡临"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "已安装 Citadela Pro 插件。"
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "城堡主题"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Citadela 文档包含了解主题和高级插件如何工作所需的一切。它是为您和其他用户尽快了解我们的主题而编写的。文档每天更新。包括对新功能的描述和来自我们支持的常见问题。"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela 是由 AitThemes 创建的免费多用途 WordPress 主题。您可以在您的商业或非商业网站上不受任何限制地使用它。"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela 是一个免费的多功能 WordPress 主题。您可以在您的商业或非商业网站上不受任何限制地使用它。但是，我们的高级插件可以将您的网站提升到全新的水平！"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "评论<span class=\"screen-reader-text\">%s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "<span class=\"screen-reader-text\">对 %s 的</span>评论"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">对 %s 的</span>评论"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "由 AitThemes 使用 Citadela WordPress 主题创建"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "自定义 CSS 类"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "客户支持"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "自定义颜色、字体和布局。为 Gutenberg WordPress 编辑器添加自定义块。"
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "日期档案："
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "领域"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "下载布局"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "编辑<span class=\"screen-reader-text\">%s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato 购买代码"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "安装插件时出错"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "安装时出错"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "会员过期"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "探索 Citadela 布局"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "快速、轻量且易于使用的多用途主题。为 Blocks 和 Gutenberg 页面构建器开发。最适合商业、个人网站和博客。"
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "页脚文本"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "页脚菜单"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "页脚小部件区域"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "全角页面"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "标题布局"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "有用的文档"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "隐藏页面标题部分"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "隐藏网站标题和标语"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "在桌面上隐藏网站标题和标语"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "在移动设备上隐藏网站标题和标语"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "仅隐藏标语"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "主页小部件区域"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "安装 Citadela 插件"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "安装 Citadela 插件"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "已安装"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "安装..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "此域的 API 密钥无效"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "此域的购买代码无效"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "看起来在这个位置没有发现任何东西。也许尝试以下链接之一或搜索？"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们似乎找不到您要查找的内容。也许搜索会有所帮助。"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "布局包"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "学到更多"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "左侧边栏页面"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "地点"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO 购买代码"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "主菜单"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "下一个"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "没有任何"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "关于“%1$s”的一个想法"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！找不到那个页面。"
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "页面小部件区域"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "页数："
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "没有权限。"
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "请为此域输入有效的 API 密钥。您可以在 %s 中配置它。"
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "请为此域输入有效的购买代码。您可以在 %s 中配置它。"
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "请稍后在此处尝试检查您的产品激活："
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "插入"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "张贴在"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "发表于"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "帖子小部件区域"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "已安装高级 Citadela 插件。"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "高级功能"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "高级插件"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "以前的"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "专业功能"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "购买代码"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "购买代码 %1$s 已在“%2$s”上使用。如果您想在本网站上使用它，您可以在此处%3$s 取消注册%4$s。"
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "购买代码已被使用"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布您的第一篇文章了吗？<a href=\"%1$s\">从这里开始</a>。"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "准备使用 Citadela 布局"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "即用型一键安装 Citadela 布局，在几分钟内启动您的新网站。"
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "删除标题下的空间"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "右侧边栏页面"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "节省"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "为。。。。寻找结果："
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "搜索结果小部件区域"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "站点标题设置"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有任何内容符合您的搜索条件。请使用一些不同的关键字重试。"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "开始阅读"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "标记档案："
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "已标记"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "感谢您安装 AitThemes 的 Citadela 主题"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "感谢您使用高级 Citadela 插件。作为付费 AitThemes 客户，您可以访问我们的支持论坛和文档。"
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "不需要 localhost 的 API 密钥。"
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "主题购买代码"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "安装插件时出错。"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "本网站正在运行 Citadela 产品的试用版。请购买会员资格以激活网站。 %1$s查看可用的会员资格%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "训练有素的支持团队将帮助您快速开始在您的网站上工作。我们的目标是教您如何有效且正确地使用我们的产品。支持系统是完全保密和封闭的，您可以在那里询问任何关于您喜欢我们主题的问题。请记住，我们不进行任何定制。有很多位置设计师很乐意为您提供自定义想法。"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "访问支持"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "我们现在无法验证您的 API 密钥。"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "我们现在无法验证您的购买代码。"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "我们还创建了 Citadela 的高级版本，它将您的网站提升到全新的水平。"
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "我们注意到您正在运行与 Citadela 不兼容的 AIT 插件 (%s)，因此我们停用了它们。"
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "我们注意到您正在运行不再受支持的过时版本的 PHP。通过<a href='%1$s'>将 PHP 升级到最新版本</a>，确保您的网站快速且安全。 %2$s 的最低要求是<strong>PHP 5.6.20</strong> 。"
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "我们注意到您运行的是过时版本的 WordPress。通过<a href='%1$s'>将 WordPress 更新到最新版本来</a>确保您的网站是安全的。 %2$s 的最低要求是<strong>WordPress 5.2</strong> 。"
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "页脚中显示的小部件。"
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "小部件显示在 404 页面上。"
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "商店页面上显示的小部件。"
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "存档页面上显示的小部件。"
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "博客页面上显示的小部件。"
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "主页上显示的小部件。"
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "页面上显示的小部件。"
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "帖子上显示的小部件。"
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "搜索结果页面上显示的小部件。"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "使用我们的 Citadela WordPress 主题布局，您无需聘请设计师来帮助您使您的网站看起来更专业。我们的设计师已经为您制作好了。 Citadela WordPress 布局经过精心设计，适合您的业务。您只需更改内容以展示您的作品。它可以节省您的时间和金钱。"
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Woocommerce 商店小部件区域"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "您可以在您的 %1$sEnvato 帐户 → 下载%2$s 下的下载按钮中找到购买代码。"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "您可以在您的 %1$sMOJO 帐户 → 主题%2$s 中找到购买代码。"
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "您可以在 Themely 的购买电子邮件中找到购买代码。"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "您可以在您的 %1$saccount%2$s 中为此域生成 API 密钥。"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "您可以导入任何这些布局来开始构建您的网站。可以使用 Citadela Pro 插件导入布局。"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "您可以导入任何这些布局来开始构建您的网站。可以使用 Citadela Pro 插件导入布局。可以在可以从 Themeforest 下载的主 zip 文件中找到布局包。"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "您可以免费测试完整版的高级 Citadela 功能。"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "您可以免费测试完整版的高级 Citadela 功能。对于实时网站，您需要一个有效的会员资格和该域的有效 API 密钥。 %1$s查看可用的会员资格%2$s。"
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "您无权安装插件。"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "您需要输入 %1$s 才能使用高级 Citadela 功能。一个 %1$s 将允许您在一个 URL 上运行 Citadela。它还将确保主题和插件的自动更新。"
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "您将需要它来生成您的 API 密钥"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "您的会员资格已过期。您可以在此处%1$s续订%2$s。"
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "经过"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "通过 AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

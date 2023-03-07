@@ -1,0 +1,17 @@
+/*
+*	Price Table - Citadela Block only editor css
+*/
+
+
+.citadela-block-price-table .row 								{ position: relative; }
+.citadela-block-price-table .row .row-tools 					{ display: none; position: absolute; top: 0; right: 0; }
+.citadela-block-price-table.is-selected .row:hover .row-tools 	{ display: block; }
+
+.citadela-block-price-table .row .row-tools .components-icon-button 	{ padding: 3px; display: inline-flex; }
+
+.citadela-block-price-table .price-part .block-editor-rich-text								{ display: inline-block; }
+.citadela-block-price-table .rows-part .block-editor-rich-text .row-text.empty-row:before	{ content: ""; }
+.citadela-block-price-table:not(.with-button) .rows-part .row:last-child .row-text			{ border-bottom: none; }
+
+.citadela-block-price-table.align-right .rows-part .row .row-tools       					{ right: auto; left: 0; }
+

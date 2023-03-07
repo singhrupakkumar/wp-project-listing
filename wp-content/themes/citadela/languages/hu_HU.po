@@ -1,0 +1,685 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: hu\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s gondolat a következőről: „%2$s”"
+msgstr[1] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s téma és az AIT beépülő modulok inkompatibilitása"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s téma és PHP inkompatibilitás"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s téma és a WordPress verzió inkompatibilitása"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 oldalas widget terület"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API kulcs"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Adjon hozzá további osztályokat szóközzel elválasztva."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Gutenberg-blokkokat és olyan funkciókat ad hozzá, mint a térkép, GPX, blogbejegyzések a térképen vagy előfizetések."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Admin → Citadela Listing → Beépülő modul aktiválása"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Admin → Citadela téma"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Adminisztráció → Beállítások → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Webhelyének megjelenési beállításai"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Az archív modulok területe"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Szerzői archívum:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Blogoldal widgetek területe"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Kategória archívum:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela aktiválva"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Citadela műszerfal"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Citadela elrendezések"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Citadela lista"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Citadela oldal beállításai"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Citadela bejegyzés beállításai"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Citadela Pro bővítmény telepítve."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Citadela téma"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "A Citadela dokumentációja mindent tartalmaz, amire szüksége van a téma és a prémium bővítmények működésének megértéséhez. Az Ön és más felhasználók számára íródott, hogy a lehető leggyorsabban megismerjék témánkat. A dokumentáció naponta frissül. Tartalmazza az új funkciók leírását és az ügyfélszolgálatunk gyakran ismételt kérdéseit."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "A Citadela egy ingyenes, többcélú WordPress téma, amelyet az AitThemes hozott létre. Korlátozás nélkül használhatja kereskedelmi vagy nem kereskedelmi webhelyén."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "A Citadela egy ingyenes, többcélú WordPress téma. Korlátozás nélkül használhatja kereskedelmi vagy nem kereskedelmi webhelyén. Prémium bővítményeink azonban teljesen új szintre emelhetik webhelyét!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Megjegyzés <span class=\"screen-reader-text\">: %s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "Megjegyzések <span class=\"screen-reader-text\">a következőhöz: %s</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Megjegyzések <span class=\"screen-reader-text\">a következőhöz: %s</span>"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "A Citadela WordPress Theme segítségével készítette az AitThemes"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Egyedi CSS osztály"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Vevőszolgálat"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Testreszabhatja a színeket, a betűtípusokat és az elrendezést. Egyedi blokkokat ad hozzá a Gutenberg WordPress szerkesztőhöz."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Dátum archívum:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "Tartomány"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Elrendezések letöltése"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> szerkesztése"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato vásárlási kód"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Hiba a bővítmény telepítésekor"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Hiba a telepítés során"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Lejárt tagság"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Fedezze fel a Citadela elrendezéseit"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Gyors, könnyű és könnyen használható többcélú téma. A Blocks és a Gutenberg oldalkészítő számára fejlesztették ki. A legjobb üzleti, személyes web és blogok számára."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Lábléc szövege"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "Lábléc menü"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Lábléc modulok területe"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Teljes szélességű oldal"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Fejléc elrendezése"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Hasznos dokumentáció"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Az oldal cím szakaszának elrejtése"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "A webhely címének és címsorának elrejtése"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "A webhely címének és szlogenjének elrejtése az asztalon"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Webhely címének és szlogenjének elrejtése mobileszközön"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Csak szlogen elrejtése"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Otthoni widgetek terület"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Telepítse a Citadela bővítményeket"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Telepítse a Citadela bővítményeket"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Telepítve"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Telepítés..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Érvénytelen API-kulcs ehhez a domainhez"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Érvénytelen vásárlási kód ehhez a domainhez"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Úgy tűnik, ezen a helyen semmit nem találtak. Esetleg próbálkozzon az alábbi linkek egyikével vagy keressen?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Úgy tűnik, nem találjuk, amit keres. Talán a keresés segíthet."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Elrendezési csomag"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Tudj meg többet"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Bal oldalsáv oldal"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "Elhelyezkedés"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO Vásárlási kód"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Főmenü"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Következő"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Egyik sem"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Egy gondolat a következőről: „%1$s”"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppá! Az oldal nem található."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Oldalak widgetek terület"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Hozzáférés megtagadva."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Adjon meg egy érvényes API-kulcsot ehhez a domainhez. A %s-ban konfigurálhatja."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Adjon meg egy érvényes vásárlási kódot ehhez a domainhez. A %s-ban konfigurálhatja."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Kérjük, próbálja meg később ellenőrizni termékaktiválását itt:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Csatlakoztat"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "kirakott"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "közzétett"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Hozzászólások modulok területe"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Prémium Citadela bővítmények telepítve."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Prémium szolgáltatás"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Prémium bővítmény"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Előző"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Pro jellemzők"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Vásárlási kód"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "A(z) %1$s vásárlási kód már használatban van a(z) &quot;%2$s&quot; oldalon. Ha szeretné használni ezen a webhelyen, itt %3$sderegisztrálhatja%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "A vásárlási kód már használatban van"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Készen állsz az első bejegyzésed közzétételére? <a href=\"%1$s\">Kezdje el itt</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Használatra kész Citadela elrendezések"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Használatra kész, egy kattintással telepíthető Citadela elrendezés, amellyel percek alatt elindíthatja új webhelyét."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Távolítson el helyet a fejléc alatt"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Jobb oldali oldalsáv"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Megment"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Keresés eredménye:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Keresési eredmények widgetek terület"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "A webhely fejlécének beállításai"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Ugrás a tartalomra"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sajnáljuk, de semmi sem felelt meg a keresési feltételeknek. Kérjük, próbálja újra néhány más kulcsszóval."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Kezdje el az olvasást"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Címkearchívumok:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Megjelölt"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Köszönjük, hogy telepítette az AitThemes Citadela témáját"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Köszönjük, hogy prémium Citadela bővítményeket használ. Fizető AitThemes-ügyfélként hozzáférhet támogatási fórumunkhoz és dokumentációnkhoz."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "A localhost API-kulcsára nincs szükség."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Themely Vásárlási kód"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Hiba történt a bővítmény telepítésekor."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Ezen a webhelyen a Citadela termékek próbaverziója fut. Kérjük, vásároljon tagságot a webhely aktiválásához. %1$sElérhető tagságok megtekintése%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Képzett ügyfélszolgálati csapat segít abban, hogy gyorsan elkezdjen dolgozni a webhelyén. Célunk, hogy megtanítsuk Önt termékeink hatékony és helyes használatára. A támogatási rendszer teljesen bizalmas és zárt, ahol bármilyen kérdése van a témánkkal kapcsolatban, amit szeretne. Kérjük, vegye figyelembe, hogy semmilyen testreszabást nem végzünk. Rengeteg helyszíntervező áll rendelkezésre, akik szívesen segítenek Önnek az egyedi ötletek elkészítésében."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Látogassa meg az ügyfélszolgálatot"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Jelenleg nem tudjuk ellenőrizni az API-kulcsát."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "Jelenleg nem tudjuk ellenőrizni a vásárlási kódját."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "A Citadela prémium verzióit is elkészítettük, amelyek teljesen új szintre emelik webhelyét."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Észrevettük, hogy Ön Citadela inkompatibilis AIT beépülő modulokat (%s) futtat, ezért deaktiváltuk őket."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Észrevettük, hogy a PHP egy elavult verzióját futtatja, amely már nem támogatott. Győződjön meg róla, hogy webhelye gyors és biztonságos, <a href='%1$s'>frissítse a PHP-t a legújabb verzióra</a> . A %2$s minimális követelménye <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Észrevettük, hogy a WordPress elavult verzióját használja. Győződjön meg róla, hogy webhelye biztonságos, <a href='%1$s'>frissítse a WordPresst a legújabb verzióra</a> . A %2$s minimális követelménye a <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "A láblécben megjelenő widgetek."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "A widgetek a 404-es oldalon jelennek meg."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "A Shop oldalon megjelenő widgetek."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Az archív oldalakon megjelenő widgetek."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "A blogoldalon megjelenő widgetek."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "A kezdőlapon megjelenő widgetek."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Az oldalakon megjelenő widgetek."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "A hozzászólásokon megjelenő widgetek."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "A keresési eredményoldalon megjelenő widgetek."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Citadela WordPress témaelrendezéseinkkel nem kell tervezőt bérelnie, aki segít webhelye professzionális megjelenésében. Tervezőink ezt már elkészítették Önnek. A Citadela WordPress Layouts gondosan megtervezett, hogy megfeleljen az Ön vállalkozásának. Mindössze annyit kell tennie, hogy módosítsa a tartalmat a munkája bemutatásához. Időt és pénzt takarít meg."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Woocommerce Shop widgetek terület"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "A vásárlási kódot megtalálja %1$sEnvato-fiókjában → Letöltések%2$s a Letöltés gomb alatt."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "A vásárlási kódot a %1$sMOJO-fiókodban → Témák%2$s találod."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "A vásárlási kódot megtalálja a Themely vásárlási e-mailjében."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Létrehozhat API-kulcsot ehhez a domainhez a %1$saccount%2$s fiókjában."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Ezen elrendezések bármelyikét importálhatja webhelye építésének megkezdéséhez. Az elrendezés a Citadela Pro plugin segítségével importálható."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Ezen elrendezések bármelyikét importálhatja webhelye építésének megkezdéséhez. Az elrendezés a Citadela Pro plugin segítségével importálható. Az elrendezési csomagok a fő zip fájlban találhatók, amelyet letölthet a Themeforest webhelyről."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Ingyenesen tesztelheti a prémium Citadela funkciók teljes verzióját."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Ingyenesen tesztelheti a prémium Citadela funkciók teljes verzióját. Az élő webhelyhez aktív tagságra és érvényes API-kulcsra van szüksége ehhez a domainhez. %1$sAz elérhető tagságok megtekintése%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Nincs engedélye bővítmények telepítésére."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "A prémium Citadela-funkciók használatához meg kell adnia a következőt: %1$s. Egy %1$s lehetővé teszi a Citadela futtatását egyetlen URL-en. Ezenkívül biztosítja a téma és a bővítmények automatikus frissítését."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "Erre lesz szüksége az API-kulcs létrehozásához"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Tagságod lejárt. Itt %1$sújíthatja meg%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "által"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "készítette: AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

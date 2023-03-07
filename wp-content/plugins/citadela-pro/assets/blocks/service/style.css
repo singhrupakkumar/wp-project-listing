@@ -1,0 +1,52 @@
+/*
+*	SERVICE: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+
+.citadela-block-service									{ margin-top: 2em; margin-bottom: 2em; }
+.citadela-block-service .service-header					{ box-sizing: border-box; }
+.citadela-block-service .service-content				{ box-sizing: border-box; }
+.citadela-block-service .service-title					{ font-size: 1.4em; line-height: 1.3; padding: 0px; margin-top: 0; margin-bottom: 0.5em; }
+.citadela-block-service .service-description			{ font-size: 0.9em; padding: 0; margin-bottom: 0.5em; }
+.citadela-block-service .service-readmore-text			{ display: inline-block; margin-top: 0.7em; font-size: 0.7em; line-height: 1.3; }
+.citadela-block-service a								{ text-decoration: none; }
+.citadela-block-service a:hover .service-readmore-text	{ text-decoration: underline; }
+.citadela-block-service .service-image					{ margin-bottom: 1.5em; }
+.citadela-block-service .service-image img				{ display: inline-block; vertical-align: top; }
+.citadela-block-service .service-icon 					{ margin-bottom: 1.0em; }
+.citadela-block-service .service-icon i					{ font-size: 3em; color: #B9B9B9; width: 64px; }
+
+.citadela-block-service.header-type-image .service-image img			{ width: 100%; }	
+.citadela-block-service.header-type-image.layout-list .service-image	{ min-height: 200px; background-size: cover; background-position: center center; }
+.citadela-block-service.header-type-image-as-icon .service-image img	{ width: auto; height: auto; max-width: 100px; max-height: 100px; }
+
+.citadela-block-service.has-bg								{ border-radius: 0; padding-bottom: 30px; }
+.citadela-block-service.has-bg.header-type-none,
+.citadela-block-service.has-bg.header-type-icon,
+.citadela-block-service.has-bg.header-type-image-as-icon	{ padding-top: 30px; }
+.citadela-block-service.has-bg .service-content				{ padding-left: 20px; padding-right: 20px; }
+		
+.citadela-block-service.has-bg.layout-box.header-type-image-as-icon	.service-image	{ padding-left: 20px; padding-right: 20px; }
+.citadela-block-service.has-bg.layout-list:not(.header-type-image)					{ padding: 20px }
+.citadela-block-service.has-bg.layout-list:not(.header-type-image) .service-content	{ padding: 0px 0px; }
+
+.citadela-block-service.layout-box 						{ text-align: center; }
+
+.citadela-block-service.layout-list.header-type-image .service-image      	{ position: relative; }
+.citadela-block-service.layout-list.header-type-image .service-image > a	{ display: block; position: absolute; top: 0; left: 0; bottom: 0; right: 0; }
+
+.citadela-block-service.layout-list.standard						{ display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: -ms-flex; display: flex; text-align: left; }
+.citadela-block-service.layout-list.standard .service-header		{ display: inline-block; vertical-align: top; max-width: 40%; padding-right: 30px;  }
+.citadela-block-service.layout-list.standard .service-icon i		{ text-align: center; }
+.citadela-block-service.layout-list.standard .service-image			{ margin: 0; height: 100%; }
+.citadela-block-service.layout-list.standard .service-image img		{ width: auto; }
+.citadela-block-service.layout-list.standard .service-content		{ display: inline-block; vertical-align: top; }
+
+.citadela-block-service.layout-list.standard.has-bg:not(.header-type-image)						{ padding: 20px }
+.citadela-block-service.layout-list.standard.has-bg:not(.header-type-image) .service-content	{ padding: 10px 0px; }	
+
+.citadela-block-service.layout-list.standard.header-type-image .service-header					{ min-width: 40%; }
+.citadela-block-service.layout-list.standard.header-type-image .service-content					{ -webkit-align-self: center; align-self: center; }
+.citadela-block-service.layout-list.standard.has-bg.header-type-image							{ padding: 0px }
+.citadela-block-service.layout-list.standard.has-bg.header-type-image .service-content			{ padding: 30px 30px 30px 0px; }	
+

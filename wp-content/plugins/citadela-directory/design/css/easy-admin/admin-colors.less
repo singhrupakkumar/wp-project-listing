@@ -1,0 +1,178 @@
+/* mixins */
+.compareColors(@a, @b, @ammount: 3) when (@a = @b) 		{ background-color: lighten(@a, @ammount); }
+.colorContrast(@color) when (lightness(@color) > 60%)	{ color: darken(@color, 20%); &:hover { color: lighten(darken(@color, 20%), 5%); } }
+
+/* general override */
+.citadela-easy-admin-enabled .narrow 	{ max-width: @maxWidth; }
+.citadela-easy-admin-enabled a 			{ color: @generalLinksColor; &:hover { color: lighten(@generalLinksColor, 10%); } .colorContrast(@generalLinksColor); }
+/* general override */
+
+/* site setup */
+.citadela-easy-admin-enabled:not(.block-editor-page) #wpbody	{ max-width: @maxWidth; }
+/* site setup */
+
+/* page setup */
+body.citadela-easy-admin-enabled {
+	background-color: @generalBackgroundColor;
+	background-image: url(@generalBackgroundImage);
+	background-repeat: @generalBackgroundRepeat;
+	background-position: @generalBackgroundPosition;
+	background-attachment: @generalBackgroundAttachment;
+	background-size: @generalBackgroundSize;
+
+	color: @generalTextColor;
+}
+
+/* page setup */
+
+/* header setup */
+.citadela-easy-admin-enabled #wpcontent .easyadmin-header-container {
+	background-color: @headerBackgroundColor;
+	background-image: url(@headerBackgroundImage);
+	background-repeat: @headerBackgroundRepeat;
+	background-position: @headerBackgroundPosition;
+	background-attachment: @headerBackgroundAttachment;
+	background-size: @headerBackgroundSize;
+
+	color: @headerTextColor;
+}
+
+/* header menu setup */
+.citadela-easy-admin-enabled #wpcontent .easyadmin-bottom-container {
+	background-color: @headerMenuBackgroundColor;
+	.compareColors(@headerMenuBackgroundColor, @headerBackgroundColor);
+	background-image: url(@headerMenuBackgroundImage);
+	background-repeat: @headerMenuBackgroundRepeat;
+	background-position: @headerMenuBackgroundPosition;
+	background-attachment: @headerMenuBackgroundAttachment;
+	background-size: @headerMenuBackgroundSize;
+
+	color: @headerMenuTextColor;
+}
+.citadela-easy-admin-enabled ul#easyadmin-user-menu > li > a { color: @headerTextColor; }
+
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > a							{ color: @headerMenuTextColor; }
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.hover > a,
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.current > a 					{ background: @generalBackgroundColor !important; color: @headerMenuBackgroundColor; }
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.wp-has-current-submenu > a 	{ background: @generalBackgroundColor !important; color: @headerMenuBackgroundColor; }
+
+
+.citadela-easy-admin-enabled .dashicons-before:before { color: lighten(@headerMenuBackgroundColor, 10%); }
+
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul			{ background: @generalBackgroundColor; box-shadow: 0 10px 20px rgba(0,0,0,0.15), 0 0 0 1px rgba(0,0,0,0.03); }
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul a			{ color: @headerMenuBackgroundColor; }
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul a:hover,
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul a.current	{ background: rgba(0,0,0,0.03); }
+
+.citadela-easy-admin-enabled ul#easyadmin-main-menu .awaiting-mod 									{ background: @headerTextColor; color: @headerMenuBackgroundColor; }
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.hover > a .awaiting-mod,
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.current > a .awaiting-mod					{ background: @headerMenuBackgroundColor; color: @headerTextColor; }
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.wp-has-current-submenu > a .awaiting-mod	{ background: @headerMenuBackgroundColor; color: @headerTextColor; }
+
+/* header menu setup */
+
+/* header setup */
+
+/* content setup */
+.citadela-easy-admin-enabled #wpbody {
+/*	background-color: @contentBackgroundColor;
+	background-image: url(@contentBackgroundImage);
+	background-repeat: @contentBackgroundRepeat;
+	background-position: @contentBackgroundPosition;
+	background-attachment: @contentBackgroundAttachment;
+	background-size: @contentBackgroundSize;*/
+
+	color: @generalTextColor;
+}
+
+/* content advanced setup */
+.citadela-easy-admin-enabled #wpbody {
+	h1, h2, h3 {
+		color: @generalTitlesColor;
+	}
+	.form-table th, .form-wrap label {
+		color: @generalTitlesColor;
+	}
+}
+
+
+.citadela-easy-admin-enabled #wpbody .wrap h1.wp-heading-inline:before,
+.citadela-easy-admin-enabled #wpbody .wrap h1:not(.wp-heading-inline),
+.citadela-easy-admin-enabled #wpbody .wrap h1 + form,
+.citadela-easy-admin-enabled #wpbody .wrap h1 + div + form {
+	background: @contentMetaboxBackgroundColor; border: 1px solid @contentMetaboxBorderColor;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04); box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+}
+
+.citadela-easy-admin-enabled #wpbody .wrap .wp-filter {
+	background: @contentMetaboxBackgroundColor; border: 1px solid @contentMetaboxBorderColor;
+}
+
+.citadela-easy-admin-enabled.wp-core-ui .button,
+.citadela-easy-admin-enabled.wp-core-ui .button-secondary,
+.citadela-easy-admin-enabled #wpbody input.button {
+	background-color: @generalButtonColor;
+	border-color: @generalButtonColor;
+	color: @generalButtonTextColor;
+	text-shadow: none;
+	box-shadow: none;
+	-webkit-transition: all 0.3s; -moz-transition: all 0.3s; -ms-transition: all 0.3s; transition: all 0.3s;
+	&:hover {
+		background-color: lighten(@generalButtonColor, 3%);
+		box-shadow: 0 4px 10px fade(darken(@generalButtonColor, 10%), 35%);
+	}
+	span:before { color: @generalButtonTextColor; }
+}
+
+.citadela-easy-admin-enabled #wpbody .wrap .add-new-h2,
+.citadela-easy-admin-enabled #wpbody .wrap .add-new-h2:active,
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action,
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action:active {
+	background-color: @generalButtonColor;
+	border-color: @generalButtonColor;
+	color: @generalButtonTextColor;
+	-webkit-transition: all 0.3s; -moz-transition: all 0.3s; -ms-transition: all 0.3s; transition: all 0.3s;
+	&:hover {
+		background-color: lighten(@generalButtonColor, 3%);
+		box-shadow: 0 4px 10px fade(darken(@generalButtonColor, 10%), 35%);
+	}
+}
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action:focus {
+	border-color: @generalButtonColor;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.citadela-easy-admin-enabled #wp-content-editor-tools {
+	background: @generalBackgroundColor;
+}
+/* content advanced setup */
+
+/* content metabox setup */
+.citadela-easy-admin-enabled .postbox {
+	background-color: @contentMetaboxBackgroundColor;
+	background-image: url(@contentMetaboxBackgroundImage);
+	background-repeat: @contentMetaboxBackgroundRepeat;
+	background-position: @contentMetaboxBackgroundPosition;
+	background-attachment: @contentMetaboxBackgroundAttachment;
+	background-size: @contentMetaboxBackgroundSize;
+
+	border: 1px solid @contentMetaboxBorderColor;
+
+	color: @contentMetaboxTextColor;
+}
+/* content metabox setup */
+
+/* content setup */
+
+
+/* Attachment Page */
+
+.citadela-easy-admin-enabled .media-frame.mode-grid .attachments-browser .attachments {
+	background: @contentMetaboxBackgroundColor; border: 1px solid @contentMetaboxBorderColor;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04); box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+}
+
+/* Profile Page */
+
+body.citadela-easy-admin-enabled.profile-php #your-profile { background: @contentMetaboxBackgroundColor; }

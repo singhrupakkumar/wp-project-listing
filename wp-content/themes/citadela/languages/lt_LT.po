@@ -1,0 +1,686 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: lt\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pagalvojo apie „%2$s“"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s temos ir AIT įskiepių nesuderinamumas"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s tema ir PHP nesuderinamumas"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s temos ir WordPress versijos nesuderinamumas"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 puslapių valdiklių sritis"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API raktas"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Pridėkite daugiau klasių, atskirtų tarpais."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Prideda Gutenbergo blokų sąrašą ir tokias funkcijas kaip žemėlapis, GPX, tinklaraščio įrašai žemėlapyje arba prenumeratos."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Administratorius → Citadelos sąrašas → Papildinio aktyvinimas"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Administratorius → Citadelos tema"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Administratorius → Nustatymai → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Išvaizda"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Jūsų svetainės išvaizdos nustatymai"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Archyvų valdiklių sritis"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Autorių archyvai:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Tinklaraščio puslapio valdiklių sritis"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Kategorijų archyvai:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela aktyvuota"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "„Citadela“ prietaisų skydelis"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Citadelos išdėstymai"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Citadelos sąrašas"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "„Citadela“ puslapio nustatymai"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "„Citadela Post“ nustatymai"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Įdiegtas Citadela Pro papildinys."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Citadelos tema"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "„Citadela“ dokumentacijoje yra viskas, ko reikia norint suprasti, kaip veikia temos ir aukščiausios kokybės papildiniai. Jis skirtas jums ir kitiems vartotojams, kad kuo greičiau susipažintumėte su mūsų tema. Dokumentacija atnaujinama kasdien. Apima naujų funkcijų aprašymą ir dažniausiai užduodamus klausimus iš mūsų palaikymo tarnybos."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "„Citadela“ yra nemokama daugiafunkcinė „WordPress“ tema, kurią sukūrė „AitThemes“. Jį galite naudoti be jokių apribojimų savo komercinėje ar nekomercinėje svetainėje."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "„Citadela“ yra nemokama daugiafunkcinė „WordPress“ tema. Jį galite naudoti be jokių apribojimų savo komercinėje ar nekomercinėje svetainėje. Tačiau mūsų aukščiausios kokybės papildiniai gali perkelti jūsų svetainę į visiškai naują lygį!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Komentuoti <span class=\"screen-reader-text\">%s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Komentarai nepriimami."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "<span class=\"screen-reader-text\">%s</span> komentarai"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> komentarai"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "Sukūrė AitThemes naudojant Citadela WordPress temą"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Tinkinta CSS klasė"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Pagalba klientams"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Tinkinkite spalvas, šriftus ir išdėstymą. Prideda pagal užsakymą pagamintus blokus Gutenberg WordPress redaktoriui."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Datų archyvai:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "Domenas"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Atsisiųskite maketus"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Redaguoti <span class=\"screen-reader-text\">%s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato pirkimo kodas"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Klaida diegiant papildinį"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Klaida diegiant"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Pasibaigusi narystė"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Naršykite „Citadela Layouts“."
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Greita, lengva ir paprasta naudoti universali tema. Sukurta „Blocks“ ir „Gutenberg“ puslapių kūrimo priemonei. Geriausiai tinka verslui, asmeniniams tinklalapiams ir tinklaraščiams."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Poraštės tekstas"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "Poraštės meniu"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Poraštės valdiklių sritis"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Viso pločio puslapis"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Antraštės išdėstymas"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Naudinga dokumentacija"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Slėpti puslapio pavadinimo skyrių"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "Slėpti svetainės pavadinimą ir žymos eilutę"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "Slėpti svetainės pavadinimą ir žymos eilutę darbalaukyje"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Slėpti svetainės pavadinimą ir žymos eilutę mobiliajame telefone"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Slėpti tik žymos eilutę"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Namų valdiklių sritis"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Įdiekite „Citadela“ papildinius"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Įdiekite „Citadela“ papildinius"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Įdiegta"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Diegiama..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Netinkamas šio domeno API raktas"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Netinkamas šio domeno pirkimo kodas"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Atrodo, kad šioje vietoje nieko nerasta. Galbūt pabandykite vieną iš toliau pateiktų nuorodų arba paieškokite?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Atrodo, nerandame to, ko ieškote. Galbūt paieška padės."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Išdėstymo paketas"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Sužinokite daugiau"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Kairiosios šoninės juostos puslapis"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "Vieta"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO pirkimo kodas"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Pagrindinis meniu"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Kitas"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Nė vienas"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Viena mintis apie „%1$s“"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oi! To puslapio nepavyko rasti."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Puslapių valdiklių sritis"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Leidimas nesuteiktas."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Įveskite galiojantį šio domeno API raktą. Jį galite sukonfigūruoti %s."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Įveskite galiojantį šio domeno pirkimo kodą. Jį galite sukonfigūruoti %s."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Pabandykite vėliau patikrinti produkto aktyvavimą čia:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Prijungti"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "Paskelbta"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "Publikuotas"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Įrašų valdiklių sritis"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Įdiegti aukščiausios kokybės Citadela įskiepiai."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Aukščiausios kokybės funkcija"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Premium papildinys"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Pro funkcijos"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Pirkimo kodas"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "Pirkimo kodas %1$s jau naudojamas „%2$s“. Jei norite jį naudoti šioje svetainėje, galite %3$sišregistruoti jį čia%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "Pirkimo kodas jau naudojamas"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasiruošę paskelbti savo pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Paruošti naudoti Citadela maketai"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Paruošti naudoti vienu spustelėjimu įdiekite Citadela maketus, kad per kelias minutes atidarytumėte naują svetainę."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Pašalinkite vietą po antrašte"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Dešinės šoninės juostos puslapis"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Sutaupyti"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Pieškos rezultatai:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Paieškos rezultatų valdiklių sritis"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "Svetainės antraštės nustatymai"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Pereiti prie turinio"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Atsiprašome, bet niekas neatitiko jūsų paieškos terminų. Bandykite dar kartą naudodami kitus raktinius žodžius."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Pradėti skaityti"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Žymų archyvai:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Pažymėta"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Dėkojame, kad įdiegėte AitThemes Citadela temą"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Dėkojame, kad naudojate aukščiausios kokybės Citadela papildinius. Kaip mokantis „AitThemes“ klientas, turite prieigą prie mūsų palaikymo forumo ir dokumentacijos."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "Localhost API raktas nereikalingas."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Temos pirkimo kodas"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Diegiant papildinį įvyko klaida."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Šioje svetainėje veikia bandomoji Citadela produktų versija. Norėdami suaktyvinti svetainę, įsigykite narystę. %1$sPeržiūrėkite galimas narystes%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Apmokyta palaikymo komanda padės greitai pradėti dirbti su svetaine. Mūsų tikslas – išmokyti jus efektyviai ir teisingai naudoti mūsų gaminius. Palaikymo sistema yra visiškai konfidenciali ir uždara, galite užduoti bet kokius jums patinkančius klausimus apie mūsų temą. Atminkite, kad mes neatliekame jokių pritaikymų. Yra daug vietos dizainerių, kurie mielai padės jums įgyvendinti jūsų pasirinktines idėjas."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Apsilankykite palaikymo svetainėje"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Šiuo metu negalime patvirtinti jūsų API rakto."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "Šiuo metu negalime patvirtinti jūsų pirkimo kodo."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "Taip pat sukūrėme aukščiausios kokybės Citadela versijas, kurios perkels jūsų svetainę į visiškai naują lygį."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Pastebėjome, kad naudojate „Citadela“ nesuderinamus AIT papildinius (%s), todėl juos išjungėme."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Pastebėjome, kad naudojate pasenusią PHP versiją, kuri nebepalaikoma. Įsitikinkite, kad jūsų svetainė yra greita ir saugi, <a href='%1$s'>atnaujindami PHP į naujausią versiją</a> . Minimalus %2$s reikalavimas yra <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Pastebėjome, kad naudojate pasenusią „WordPress“ versiją. Įsitikinkite, kad svetainė yra saugi, <a href='%1$s'>atnaujindami „WordPress“ į naujausią versiją</a> . Minimalus %2$s reikalavimas yra <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "Valdikliai rodomi poraštėje."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "Valdikliai rodomi 404 puslapyje."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "Valdikliai rodomi parduotuvės puslapyje."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Valdikliai rodomi archyvo puslapiuose."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "Tinklaraščio puslapyje rodomi valdikliai."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "Pagrindiniame puslapyje rodomi valdikliai."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Puslapiuose rodomi valdikliai."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "Įrašuose rodomi valdikliai."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "Valdikliai rodomi paieškos rezultatų puslapyje."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Naudojant „Citadela WordPress“ temų maketus, jums nereikia samdyti dizainerio, kuris padėtų jūsų svetainei atrodyti profesionaliai. Mūsų dizaineriai tai jau padarė už jus. „Citadela WordPress“ išdėstymai yra kruopščiai sukurti, kad tiktų jūsų verslui. Viskas, ko jums reikia, tai pakeisti turinį, kad pristatytumėte savo darbą. Tai taupo jūsų laiką ir pinigus."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "„Woocommerce“ parduotuvės valdiklių sritis"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "Pirkimo kodą rasite savo %1$sEnvato paskyroje → Atsisiuntimai%2$s po mygtuku Atsisiuntimas."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "Pirkimo kodą rasite savo %1$sMOJO paskyroje → Temos%2$s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Pirkimo kodą galite rasti pirkimo el. laiške iš „Themely“."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Šiam domenui galite sugeneruoti API raktą savo %1$saccount%2$s."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Norėdami pradėti kurti savo svetainę, galite importuoti bet kurį iš šių maketų. Maketą galima importuoti naudojant Citadela Pro įskiepį."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Norėdami pradėti kurti savo svetainę, galite importuoti bet kurį iš šių maketų. Maketą galima importuoti naudojant Citadela Pro įskiepį. Išdėstymo paketus galite rasti pagrindiniame ZIP faile, kurį galite atsisiųsti iš „Themeforest“."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Galite nemokamai išbandyti visą aukščiausios kokybės Citadela funkcijų versiją."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Galite nemokamai išbandyti visą aukščiausios kokybės Citadela funkcijų versiją. Norint naudotis svetaine, reikalinga aktyvi narystė ir galiojantis šio domeno API raktas. %1$sŽr. galimas narystes%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Neturite leidimo diegti papildinių."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Turite įvesti %1$s, kad galėtumėte naudotis aukščiausios kokybės Citadela funkcijomis. Vienas %1$s leis paleisti Citadelą viename URL. Tai taip pat užtikrins automatinius temos ir papildinių atnaujinimus."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "Jums to reikės norint sugeneruoti API raktą"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Jūsų narystė baigėsi. Jį galite %1$satnaujinti čia%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "pateikė"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "pateikė AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

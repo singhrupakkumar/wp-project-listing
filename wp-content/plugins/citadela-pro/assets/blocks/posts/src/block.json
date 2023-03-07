@@ -1,0 +1,96 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-pro/posts",
+	"category": "citadela-posts-blocks",
+	"icon": "text",
+	"attributes": {
+		"category": {
+            "type": "string",
+            "default": ""
+        },
+        "count": {
+            "type": "number",
+            "default": 12
+        },
+        "title": {
+            "type": "string",
+            "default": ""
+        },
+        "layout": {
+            "type": "string",
+            "default": "simple"
+        },
+        "size": {
+            "type": "string",
+            "default": "medium"
+        },
+        "showDate": {
+            "type": "boolean",
+            "default": true
+        },
+        "showFeaturedImage": {
+            "type": "boolean",
+            "default": true
+        },
+        "showDescription": {
+            "type": "boolean",
+            "default": true
+        },
+        "showCategories": {
+            "type": "boolean",
+            "default": true
+        },
+        "showLocations": {
+            "type": "boolean",
+            "default": false
+        },
+        "postsOrderBy": {
+            "type": "string",
+            "default": "date"
+        },
+        "postsOrder": {
+            "type": "string",
+            "default": "DESC"
+        },
+        "stickyPostsFirst": {
+            "type": "boolean",
+            "default": false
+        },
+        "borderWidth": {
+            "type": "string",
+            "default": "none"
+        },
+        "borderColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "textColor": {
+            "type": "string",
+            "default": ""
+        },
+        "decorColor": {
+            "type": "string",
+            "default": ""
+        },
+        "dateColor": {
+            "type": "string",
+            "default": ""
+        },
+        "skipStartPosts": {
+            "type": "number",
+            "default": 0
+        }
+	},
+	"example": {
+        "attributes": {
+            "count": 4,
+            "layout": "box",
+            "size": "medium"
+        }
+    },
+	"editorScript": "citadela-posts-block"
+}

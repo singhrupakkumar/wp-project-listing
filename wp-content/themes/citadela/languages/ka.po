@@ -1,0 +1,684 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ka\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ფიქრობდა „%2$s“-ზე"
+msgstr[1] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s თემისა და AIT დანამატების შეუთავსებლობა"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s თემა და PHP შეუთავსებლობა"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s თემისა და WordPress-ის ვერსიის შეუთავსებლობა"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 გვერდიანი ვიჯეტის არე"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "API გასაღები"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "დაამატეთ მეტი კლასები, გამოყოფილი სივრცეებით."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "ამატებს გუტენბერგის ბლოკების ჩამონათვალს და ფუნქციებს, როგორიცაა რუკა, GPX, ბლოგის პოსტები რუკაზე ან გამოწერები."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Admin → Citadela Listing → Plugin Activation"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Admin → Citadela Theme"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "ადმინ → პარამეტრები → ციტადელა"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "გარეგნობა"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "თქვენი ვებსაიტის გარეგნობის პარამეტრები"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "არქივის ვიჯეტების ზონა"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "ავტორის არქივი:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "ბლოგის გვერდის ვიჯეტების არეალი"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "კატეგორიის არქივები:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "ციტადელა"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "ციტადელა გააქტიურებულია"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "ციტადელას დაფა"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "ციტადელას განლაგება"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "ციტადელას ჩამონათვალი"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Citadela გვერდის პარამეტრები"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "ციტადელას პოსტის პარამეტრები"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "ციტადელა პრო"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "დაინსტალირებულია Citadela Pro მოდული."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "ციტადელას თემა"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Citadela-ს დოკუმენტაცია მოიცავს ყველაფერს, რაც გჭირდებათ იმის გასაგებად, თუ როგორ მუშაობს თემები და პრემიუმ დანამატები. დაწერილია თქვენთვის და სხვა მომხმარებლებისთვის, რომ რაც შეიძლება სწრაფად გაეცნოთ ჩვენს თემას. დოკუმენტაცია ყოველდღიურად განახლდება. მოიცავს ახალი ფუნქციების აღწერას და ხშირად დასმულ კითხვებს ჩვენი მხარდაჭერისგან."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela არის უფასო მრავალფუნქციური WordPress თემა, შექმნილი AitThemes-ის მიერ. თქვენ შეგიძლიათ გამოიყენოთ იგი ყოველგვარი შეზღუდვის გარეშე თქვენს კომერციულ ან არაკომერციულ ვებსაიტზე."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela არის უფასო მრავალფუნქციური WordPress თემა. თქვენ შეგიძლიათ გამოიყენოთ იგი ყოველგვარი შეზღუდვის გარეშე თქვენს კომერციულ ან არაკომერციულ ვებსაიტზე. თუმცა, ჩვენს პრემიუმ დანამატებს შეუძლიათ თქვენი ვებსაიტის ახალ დონეზე გადატანა!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "კომენტარი <span class=\"screen-reader-text\">%s-ზე</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Კომენტარები დახურულია."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "კომენტარები <span class=\"screen-reader-text\">%s-ზე</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "კომენტარები <span class=\"screen-reader-text\">%s-ზე</span>"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "შექმნილია Citadela WordPress თემით AitThemes-ის მიერ"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "მორგებული CSS კლასი"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Მომხმარებლის მხარდაჭერა"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "შეცვალეთ ფერები, შრიფტები და განლაგება. ამატებს პერსონალურად შექმნილ ბლოკებს Gutenberg WordPress რედაქტორისთვის."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "თარიღის არქივი:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "დომენი"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "ჩამოტვირთეთ განლაგება"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> რედაქტირება"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato შესყიდვის კოდი"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "შეცდომა დანამატის ინსტალაციისას"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "შეცდომა ინსტალაციისას"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "ვადაგასული წევრობა"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "გამოიკვლიეთ ციტადელას განლაგება"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "სწრაფი, მსუბუქი და მარტივი მრავალფუნქციური თემა. შექმნილია ბლოკებისა და გუტენბერგის გვერდის შემქმნელისთვის. საუკეთესოა ბიზნესისთვის, პირადი ვებსაიებისთვის და ბლოგებისთვის."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "ქვედა ტექსტი"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "ქვედა მენიუ"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "ქვედა კოლონტიტული ვიჯეტების ზონა"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "სრული სიგანის გვერდი"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "სათაურის განლაგება"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "გამოსადეგი დოკუმენტაცია"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "გვერდის სათაურის განყოფილების დამალვა"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "დამალე საიტის სათაური და სლოგანი"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "დამალე საიტის სათაური და სლოგანი დესკტოპზე"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "დამალე საიტის სათაური და სლოგანი მობილურზე"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "მხოლოდ სლოგანის დამალვა"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "სახლის ვიჯეტების არეალი"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "დააინსტალირეთ Citadela Plugins"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "დააინსტალირეთ Citadela დანამატები"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "დაყენებულია"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "მიმდინარეობს ინსტალაცია..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "არასწორი API გასაღები ამ დომენისთვის"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "არასწორი შესყიდვის კოდი ამ დომენისთვის"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "როგორც ჩანს, ამ ადგილას არაფერი მოიძებნა. იქნებ სცადოთ ქვემოთ მოცემული ბმული ან მოძებნოთ?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "როგორც ჩანს, ჩვენ ვერ ვიპოვით იმას, რასაც ეძებთ. ალბათ ძებნა დაგეხმარებათ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "განლაგების პაკეტი"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Გაიგე მეტი"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "მარცხენა გვერდითი ზოლის გვერდი"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "მდებარეობა"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO შესყიდვის კოდი"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Მთავარი მენიუ"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "შემდეგი"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "არცერთი"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "არაფერი არ არის ნაპოვნი"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "ერთი აზრი „%1$s“-ზე"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "უი! ეს გვერდი ვერ მოიძებნა."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "გვერდების ვიჯეტების არეალი"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "გვერდები:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Წვდომა აკრძალულია."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "გთხოვთ, შეიყვანოთ სწორი API გასაღები ამ დომენისთვის. მისი კონფიგურაცია შეგიძლიათ %s-ში."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "გთხოვთ, შეიყვანოთ მოქმედი შესყიდვის კოდი ამ დომენისთვის. მისი კონფიგურაცია შეგიძლიათ %s-ში."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "გთხოვთ, სცადოთ მოგვიანებით შეამოწმოთ თქვენი პროდუქტის გააქტიურება აქ:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Ჩართვა შეერთება"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "გამოქვეყნებული"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "გამოქვეყნდა"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "პოსტების ვიჯეტების არეალი"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "დაინსტალირებულია Premium Citadela დანამატები."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "პრემიუმ ფუნქცია"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "პრემიუმ დანამატი"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "წინა"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "პრო ფუნქციები"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "შესყიდვის კოდი"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "შესყიდვის კოდი %1$s უკვე გამოიყენება „%2$s“-ზე. თუ გსურთ მისი გამოყენება ამ ვებსაიტზე, შეგიძლიათ %3$sდარეგისტრირდეთ აქ%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "შესყიდვის კოდი უკვე გამოყენებულია"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "მზად ხართ გამოაქვეყნოთ თქვენი პირველი პოსტი? <a href=\"%1$s\">დაიწყეთ აქ</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "მზადაა Citadela-ს განლაგების გამოსაყენებლად"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "მზა გამოსაყენებლად ერთი დაწკაპუნებით დააინსტალირეთ Citadela განლაგება, რათა დაიწყოთ თქვენი ახალი ვებსაიტი წუთებში."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "ამოიღეთ სივრცე სათაურის ქვეშ"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "მარჯვენა გვერდითი ზოლის გვერდი"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Გადარჩენა"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Ძიების შედეგები:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "ძიების შედეგების ვიჯეტების არეალი"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "საიტის სათაურის პარამეტრები"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "შინაარსზე გადასვლა"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "უკაცრავად, მაგრამ არაფერი დაემთხვა თქვენს საძიებო ტერმინებს. გთხოვთ, სცადოთ ხელახლა რამდენიმე განსხვავებული საკვანძო სიტყვით."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "დაიწყეთ კითხვა"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "ტეგის არქივები:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "მონიშნულია"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "გმადლობთ, რომ დააინსტალირეთ Citadela Theme AitThemes-ის მიერ"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "გმადლობთ პრემიუმ Citadela დანამატების გამოყენებისთვის. როგორც AitThemes-ის გადამხდელ მომხმარებელს, თქვენ გაქვთ წვდომა ჩვენს მხარდაჭერის ფორუმზე და დოკუმენტაციაზე."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "ლოკალჰოსტის API გასაღები არ არის საჭირო."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Themely შესყიდვის კოდი"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "მოდულის დაყენებისას მოხდა შეცდომა."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "ამ ვებსაიტზე მუშაობს Citadela-ს პროდუქტების საცდელი ვერსია. გთხოვთ, შეიძინოთ წევრობა ვებსაიტის გასააქტიურებლად. %1$sხელმისაწვდომი წევრობის %2$s ნახვა"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "გაწვრთნილი დამხმარე ჯგუფი დაგეხმარებათ სწრაფად დაიწყოთ მუშაობა თქვენს ვებსაიტზე. ჩვენი მიზანია გასწავლოთ როგორ გამოიყენოთ ჩვენი პროდუქტები ეფექტურად და სწორად. მხარდაჭერის სისტემა არის სრულად კონფიდენციალური და დახურული, თქვენ შეგიძლიათ დასვათ ნებისმიერი შეკითხვა ჩვენს თემასთან დაკავშირებით, რომელიც მოგწონთ. გთხოვთ გაითვალისწინოთ, რომ ჩვენ არ ვაკეთებთ პერსონალიზაციას. არსებობს უამრავი მდებარეობის დიზაინერი, რომლებიც სიამოვნებით დაგეხმარებიან თქვენი პირადი იდეებით."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "ეწვიეთ მხარდაჭერას"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "ჩვენ არ შეგვიძლია თქვენი API გასაღების დადასტურება ამჟამად."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "ჩვენ არ შეგვიძლია თქვენი შესყიდვის კოდის დადასტურება ამჟამად."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "ჩვენ ასევე შევქმენით Citadela-ს პრემიუმ ვერსიები, რომლებიც თქვენს ვებსაიტს სრულიად ახალ დონეზე გადაიყვანს."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "ჩვენ შევამჩნიეთ, რომ თქვენ იყენებთ Citadela-ს შეუთავსებელ AIT დანამატებს (%s), ამიტომ ჩვენ გავააქტიურეთ ისინი."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "ჩვენ შევამჩნიეთ, რომ თქვენ იყენებთ PHP-ის მოძველებულ ვერსიას, რომელიც აღარ არის მხარდაჭერილი. დარწმუნდით, რომ თქვენი საიტი არის სწრაფი და უსაფრთხო, <a href='%1$s'>PHP-ის უახლეს ვერსიამდე განახლებით</a> . მინიმალური მოთხოვნა %2$s-ისთვის არის <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "ჩვენ შევამჩნიეთ, რომ თქვენ იყენებთ WordPress-ის მოძველებულ ვერსიას. დარწმუნდით, რომ თქვენი საიტი უსაფრთხოა, <a href='%1$s'>WordPress-ის უახლეს ვერსიაზე განახლებით</a> . %2$s-ის მინიმალური მოთხოვნაა <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "ვიჯეტები ნაჩვენებია ქვედაბოლოში."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "ვიჯეტები ნაჩვენებია 404 გვერდზე."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "ვიჯეტები ნაჩვენებია მაღაზიის გვერდზე."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "არქივის გვერდებზე ნაჩვენები ვიჯეტები."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "ბლოგის გვერდზე ნაჩვენები ვიჯეტები."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "ვიჯეტები ნაჩვენებია მთავარ გვერდზე."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "გვერდებზე ნაჩვენები ვიჯეტები."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "პოსტებზე ნაჩვენები ვიჯეტები."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "ძიების შედეგების გვერდზე ნაჩვენები ვიჯეტები."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "ჩვენი Citadela WordPress თემის განლაგებით, თქვენ არ გჭირდებათ დიზაინერის დაქირავება, რომელიც დაგეხმარებათ გახადოთ თქვენი ვებსაიტი პროფესიონალურად. ჩვენმა დიზაინერებმა ეს უკვე გააკეთეს თქვენთვის. Citadela WordPress Layouts საგულდაგულოდ არის შექმნილი თქვენი ბიზნესისთვის. ყველაფერი რაც თქვენ გჭირდებათ არის შეცვალოთ შინაარსი თქვენი ნამუშევრის პრეზენტაციისთვის. ეს დაზოგავს თქვენს დროსა და ფულს."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Woocommerce Shop ვიჯეტების ზონა"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "თქვენ შეგიძლიათ იპოვოთ შესყიდვის კოდი თქვენს %1$sEnvato ანგარიშში → ჩამოტვირთვები%2$s ჩამოტვირთვის ღილაკის ქვეშ."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "თქვენ შეგიძლიათ იპოვოთ შესყიდვის კოდი თქვენს %1$sMOJO ანგარიშში → თემები%2$s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "თქვენ შეგიძლიათ იპოვოთ შესყიდვის კოდი Themely-ის შესყიდვის ელ.წერილში."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "თქვენ შეგიძლიათ შექმნათ API გასაღები ამ დომენისთვის თქვენს %1$saccount%2$s-ში."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "თქვენ შეგიძლიათ შემოიტანოთ რომელიმე ამ განლაგება თქვენი ვებსაიტის შექმნის დასაწყებად. განლაგების იმპორტი შესაძლებელია Citadela Pro მოდულის გამოყენებით."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "თქვენ შეგიძლიათ შემოიტანოთ რომელიმე ამ განლაგება თქვენი ვებსაიტის შექმნის დასაწყებად. განლაგების იმპორტი შესაძლებელია Citadela Pro მოდულის გამოყენებით. განლაგების პაკეტები შეგიძლიათ იხილოთ მთავარ zip ფაილში, რომელიც შეგიძლიათ ჩამოტვირთოთ Themeforest-დან."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "შეგიძლიათ უფასოდ შეამოწმოთ პრემიუმ Citadela-ს ფუნქციების სრული ვერსია."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "შეგიძლიათ უფასოდ შეამოწმოთ პრემიუმ Citadela-ს ფუნქციების სრული ვერსია. ცოცხალი ვებსაიტისთვის გჭირდებათ აქტიური წევრობა და ამ დომენისთვის მოქმედი API გასაღები. %1$sიხილეთ ხელმისაწვდომი წევრობები%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "თქვენ არ გაქვთ დანამატების დაყენების ნებართვა."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Citadela-ს პრემიუმ ფუნქციების გამოსაყენებლად უნდა შეიყვანოთ %1$s. ერთი %1$s საშუალებას მოგცემთ გაუშვათ Citadela ერთ URL-ზე. ის ასევე უზრუნველყოფს თემებისა და დანამატების ავტომატურ განახლებებს."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "ეს დაგჭირდებათ თქვენი API გასაღების შესაქმნელად"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "თქვენს წევრობას ვადა გაუვიდა. შეგიძლიათ %1$განახლოთ აქ%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "მიერ"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "AitThemes-ის მიერ"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

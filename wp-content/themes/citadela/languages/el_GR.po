@@ -1,0 +1,692 @@
+# Translation of Themes - Citadela in Greek
+# This file is distributed under the same license as the Themes - Citadela package.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-03-15 08:39:47+0000\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Themes - Citadela\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s σκέφτηκε το &quot;%2$s&quot;"
+msgstr[1] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "Ασυμβατότητα θέματος %s και προσθηκών AIT"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "Ασυμβατότητα θέματος %s και PHP"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "Ασυμβατότητα θέματος %s και έκδοσης WordPress"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "Περιοχή γραφικών στοιχείων 404 σελίδων"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "Κλειδί API"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Προσθέστε περισσότερα classes χωρισμένες με κενό."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Προσθέτει Listing Gutenberg Blocks & λειτουργίες όπως Χάρτης, GPX, αναρτήσεις ιστολογίου στο χάρτη ή συνδρομές"
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Διαχειριστής → Καταχώριση Citadela → Ενεργοποίηση προσθηκών"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Διαχειριστής → Θέμα Citadela"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Διαχειριστής → Ρυθμίσεις → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Ρυθμίσεις εμφάνισης του ιστότοπού σας"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Περιοχή γραφικών στοιχείων αρχείων"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Αρχεία συγγραφέων:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Περιοχή γραφικών στοιχείων σελίδας ιστολογίου"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Αρχεία κατηγοριών:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela Ενεργοποιήθηκε"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Ταμπλό Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Citadela Layouts"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Καταχώριση Citadela"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Ρυθμίσεις σελίδας Citadela"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Citadela Ρυθμίσεις Άρθρων"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Εγκαταστάθηκε το πρόσθετο Citadela Pro."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Θέμα Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Η τεκμηρίωση του Citadela περιλαμβάνει όλα όσα χρειάζεστε για να κατανοήσετε πώς λειτουργούν τα πρόσθετα θεμάτων και premium. Είναι γραμμένο για εσάς και τους άλλους χρήστες να γνωρίσετε το θέμα μας όσο το δυνατόν γρηγορότερα. Η τεκμηρίωση ενημερώνεται σε καθημερινή βάση. Περιλαμβάνει περιγραφή νέων λειτουργιών και συχνές ερωτήσεις από την υποστήριξή μας."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Το Citadela είναι ένα δωρεάν θέμα WordPress πολλαπλών χρήσεων που δημιουργήθηκε από την AitThemes. Μπορείτε να το χρησιμοποιήσετε χωρίς περιορισμούς στον εμπορικό ή μη ιστότοπό σας."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Το Citadela είναι ένα δωρεάν θέμα WordPress πολλαπλών χρήσεων. Μπορείτε να το χρησιμοποιήσετε χωρίς περιορισμούς στον εμπορικό ή μη ιστότοπό σας. Ωστόσο, τα premium πρόσθετά μας μπορούν να μεταφέρουν τον ιστότοπό σας σε εντελώς νέο επίπεδο!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Σχολιάστε <span class=\"screen-reader-text\">στο %s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειδωμένα."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "Σχόλια <span class=\"screen-reader-text\">στο %s</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Σχόλια <span class=\"screen-reader-text\">στο %s</span>"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "Δημιουργήθηκε με το Citadela WordPress Theme από την AitThemes"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Προσαρμοσμένη CSS class"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Υποστήριξη πελατών"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Προσαρμόστε τα χρώματα, τις γραμματοσειρές και τη διάταξη. Προσθέτει προσαρμοσμένα μπλοκ για τον επεξεργαστή WordPress Gutenberg."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Αρχεία ημερομηνιών:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "Τομέα"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Λήψη διατάξεων"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Επεξεργασία <span class=\"screen-reader-text\">%s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Κωδικός αγοράς Envato"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Σφάλμα κατά την εγκατάσταση της προσθήκης"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Σφάλμα κατά την εγκατάσταση"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Ληγμένη συνδρομή"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Εξερευνήστε τα Citadela Layouts"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Γρήγορο, ελαφρύ και εύκολο στη χρήση θέμα πολλαπλών χρήσεων. Αναπτύχθηκε για Blocks και πρόγραμμα δημιουργίας σελίδων Gutenberg. Το καλύτερο για επιχειρήσεις, προσωπικούς ιστούς και ιστολόγια."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Κείμενο υποσέλιδου"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "Μενού υποσέλιδου"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Περιοχή γραφικών στοιχείων υποσέλιδου"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Σελίδα πλήρους πλάτους"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Διάταξη κεφαλίδας"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Χρήσιμη τεκμηρίωση"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Απόκρυψη ενότητας τίτλου σελίδας"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "Απόκρυψη τίτλου και ετικέτας ιστότοπου"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "Απόκρυψη τίτλου και υπότιτλου ιστοτόπου σε υπολογιστές"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Απόκρυψη τίτλου και υπότιτλου ιστοτόπου σε κινητά"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Απόκρυψη υπότιτλου μόνο"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Περιοχή γραφικών στοιχείων για το σπίτι"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Εγκαταστήστε τα πρόσθετα Citadela"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Εγκαταστήστε τα πρόσθετα Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Εγκατεστημένο"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Εγκατάσταση..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Μη έγκυρο κλειδί API για αυτόν τον τομέα"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Μη έγκυρος κωδικός αγοράς για αυτόν τον τομέα"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Φαίνεται ότι δεν βρέθηκε τίποτα σε αυτήν την τοποθεσία. Ίσως δοκιμάσετε έναν από τους παρακάτω συνδέσμους ή μια αναζήτηση;"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν μπορούμε να βρούμε αυτό που ψάχνετε. Ίσως η αναζήτηση μπορεί να βοηθήσει."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Layout Pack"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Μάθε περισσότερα"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Σελίδα αριστερής πλευρικής γραμμής"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "Tοποθεσία"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "Κωδικός αγοράς MOJO"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Κυρίως μενού"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Επόμενο"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Κανένα"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Δεν βρέθηκε τίποτα"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Μια σκέψη για το &quot;%1$s&quot;"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωχ! Αυτή η σελίδα δεν μπορεί να βρεθεί."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Περιοχή γραφικών στοιχείων σελίδων"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Η άδεια απορρίφθηκε."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Εισαγάγετε ένα έγκυρο κλειδί API για αυτόν τον τομέα. Μπορείτε να το διαμορφώσετε σε %s."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Εισαγάγετε έναν έγκυρο κωδικό αγοράς για αυτόν τον τομέα. Μπορείτε να το διαμορφώσετε σε %s."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Δοκιμάστε να ελέγξετε την ενεργοποίηση του προϊόντος σας αργότερα εδώ:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Συνδέω"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "Δημοσιεύτηκε στο"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "Δημοσιεύτηκε στις"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Περιοχή γραφικών στοιχείων αναρτήσεων"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Εγκαταστάθηκαν τα πρόσθετα Premium Citadela."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Premium χαρακτηριστικό"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Premium Plugin"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Προηγούμενος"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Pro Χαρακτηριστικά"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Κωδικός αγοράς"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "Ο κωδικός αγοράς %1$s χρησιμοποιείται ήδη στο &quot;%2$s&quot;. Εάν θέλετε να τον χρησιμοποιήσετε σε αυτόν τον ιστότοπο, μπορείτε να τον %3$sκαταχωρίσετε εδώ%4$s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "Ο κωδικός αγοράς χρησιμοποιείται ήδη"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Είστε έτοιμοι να δημοσιεύσετε την πρώτη σας ανάρτηση; <a href=\"%1$s\">Ξεκινήστε εδώ</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Έτοιμες για χρήση διατάξεις Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Έτοιμες προς χρήση διατάξεις εγκατάστασης Citadela με ένα κλικ για να ξεκινήσετε τον νέο σας ιστότοπο μέσα σε λίγα λεπτά."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Αφαιρέστε χώρο κάτω από την κεφαλίδα"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Σελίδα της δεξιάς πλευρικής γραμμής"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Αποθηκεύσετε"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Αποτελέσματα αναζήτησης για:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Περιοχή γραφικών στοιχείων αποτελεσμάτων αναζήτησης"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "Ρυθμίσεις κεφαλίδας ιστότοπου"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά τίποτα δεν ταιριάζει με τους όρους αναζήτησής σας. Παρακαλώ δοκιμάστε ξανά με κάποιες διαφορετικές λέξεις-κλειδιά."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Ξεκινήστε να διαβάζετε"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Αρχεία ετικετών:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Με ετικέτα"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Σας ευχαριστούμε που εγκαταστήσατε το Citadela Theme από την AitThemes"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Σας ευχαριστούμε που χρησιμοποιείτε τα premium πρόσθετα Citadela. Ως πελάτης της AitThemes που πληρώνει, έχετε πρόσβαση στο φόρουμ υποστήριξης και στην τεκμηρίωσή μας."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "Το κλειδί API για τον localhost δεν χρειάζεται."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Themely κωδικός αγοράς"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Παρουσιάστηκε σφάλμα κατά την εγκατάσταση της προσθήκης."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Αυτός ο ιστότοπος εκτελεί τη δοκιμαστική έκδοση των προϊόντων Citadela. Αγοράστε μια συνδρομή για να ενεργοποιήσετε τον ιστότοπο. %1$sΠροβολή διαθέσιμων συνδρομών%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Η εκπαιδευμένη ομάδα υποστήριξης θα σας βοηθήσει να ξεκινήσετε γρήγορα να εργάζεστε στον ιστότοπό σας. Στόχος μας είναι να σας μάθουμε πώς να χρησιμοποιείτε τα προϊόντα μας αποτελεσματικά και με τον σωστό τρόπο. Το σύστημα υποστήριξης είναι πλήρως εμπιστευτικό και κλειστό, μπορείτε να κάνετε οποιαδήποτε ερώτηση σχετικά με το θέμα μας που θέλετε. Λάβετε υπόψη ότι δεν κάνουμε καμία προσαρμογή. Υπάρχουν πολλοί σχεδιαστές τοποθεσίας που θα χαρούν να σας βοηθήσουν με τις προσαρμοσμένες ιδέες σας."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Επισκεφτείτε την Υποστήριξη"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Δεν μπορούμε να επαληθεύσουμε το κλειδί API σας αυτήν τη στιγμή."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "Δεν μπορούμε να επαληθεύσουμε τον κωδικό αγοράς σας αυτήν τη στιγμή."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "Έχουμε επίσης δημιουργήσει εκδόσεις premium του Citadela που θα μεταφέρουν τον ιστότοπό σας σε εντελώς νέο επίπεδο."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Παρατηρήσαμε ότι εκτελείτε μη συμβατές προσθήκες AIT (%s) με το Citadela, επομένως τις απενεργοποιήσαμε."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Παρατηρήσαμε ότι εκτελείτε μια παλιά έκδοση της PHP που δεν υποστηρίζεται πλέον. Βεβαιωθείτε ότι ο ιστότοπός σας είναι γρήγορος και ασφαλής, <a href='%1$s'>αναβαθμίζοντας την PHP στην πιο πρόσφατη έκδοση</a> . Η ελάχιστη απαίτηση για %2$s είναι <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Παρατηρήσαμε ότι εκτελείτε μια παλιά έκδοση του WordPress. Βεβαιωθείτε ότι ο ιστότοπός σας είναι ασφαλής, <a href='%1$s'>ενημερώνοντας το WordPress στην πιο πρόσφατη έκδοση</a> . Η ελάχιστη απαίτηση για %2$s είναι το <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στο υποσέλιδο."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στη σελίδα 404."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στη σελίδα Αγορά."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Γραφικά στοιχεία που εμφανίζονται σε σελίδες αρχειοθέτησης."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στη σελίδα ιστολογίου."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στην αρχική σελίδα."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Γραφικά στοιχεία που εμφανίζονται σε σελίδες."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στις αναρτήσεις."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "Γραφικά στοιχεία που εμφανίζονται στη σελίδα αποτελεσμάτων αναζήτησης."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Με τις διατάξεις θεμάτων Citadela WordPress, δεν χρειάζεται να προσλάβετε έναν σχεδιαστή για να σας βοηθήσει να κάνετε τον ιστότοπό σας να φαίνεται επαγγελματικός. Οι σχεδιαστές μας το έχουν ήδη φτιάξει για εσάς. Τα Citadela WordPress Layouts έχουν σχεδιαστεί προσεκτικά για να ταιριάζουν στην επιχείρησή σας. Το μόνο που χρειάζεται είναι να αλλάξετε το περιεχόμενο για να παρουσιάσετε τη δουλειά σας. Σας εξοικονομεί χρόνο και χρήμα."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Περιοχή γραφικών στοιχείων Woocommerce Shop"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "Μπορείτε να βρείτε τον Κωδικό Αγοράς στον λογαριασμό σας %1$sEnvato → Λήψεις%2$s κάτω από το κουμπί Λήψη."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "Μπορείτε να βρείτε τον Κωδικό Αγοράς στον λογαριασμό σας %1$sMOJO → Θέματα%2$s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Μπορείτε να βρείτε τον Κωδικό Αγοράς στο email αγοράς από την Themely."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Μπορείτε να δημιουργήσετε το κλειδί API για αυτόν τον τομέα στον %1$saccount%2$s σας."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Μπορείτε να εισαγάγετε οποιαδήποτε από αυτές τις διατάξεις για να ξεκινήσετε τη δημιουργία του ιστότοπού σας. Η διάταξη μπορεί να εισαχθεί χρησιμοποιώντας την προσθήκη Citadela Pro."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Μπορείτε να εισαγάγετε οποιαδήποτε από αυτές τις διατάξεις για να ξεκινήσετε τη δημιουργία του ιστότοπού σας. Η διάταξη μπορεί να εισαχθεί χρησιμοποιώντας την προσθήκη Citadela Pro. Τα πακέτα διάταξης βρίσκονται στο κύριο αρχείο zip που μπορείτε να κατεβάσετε από το Themeforest."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Μπορείτε να δοκιμάσετε μια πλήρη έκδοση των premium δυνατοτήτων Citadela δωρεάν."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Μπορείτε να δοκιμάσετε μια πλήρη έκδοση των premium δυνατοτήτων Citadela δωρεάν. Για ζωντανό ιστότοπο, χρειάζεστε μια ενεργή συνδρομή και ένα έγκυρο κλειδί API για αυτόν τον τομέα. %1$sΔείτε τις διαθέσιμες συνδρομές%2$s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Δεν έχετε άδεια εγκατάστασης προσθηκών."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Πρέπει να εισαγάγετε %1$s για να χρησιμοποιήσετε τις premium λειτουργίες Citadela. Ένα %1$s θα σας επιτρέψει να εκτελέσετε το Citadela σε ένα URL. Θα εξασφαλίσει επίσης αυτόματες ενημερώσεις για το θέμα και τα πρόσθετα."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "Θα χρειαστείτε αυτό για να δημιουργήσετε το κλειδί API σας"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Η συνδρομή σας έχει λήξει. Μπορείτε να το %1$ανανεώσετε εδώ%2$s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "με"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "από την AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"
+
+#~ msgid "%s Navigation"
+#~ msgstr "%s Πλοήγηση"
+
+#~ msgctxt "%s Events plural label"
+#~ msgid "All %s"
+#~ msgstr "Όλα %s"
+
+#~ msgid "Citadela Activation"
+#~ msgstr "Ενεργοποίηση Citadela"

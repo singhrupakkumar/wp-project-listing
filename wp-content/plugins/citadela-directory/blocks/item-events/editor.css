@@ -1,0 +1,24 @@
+/*
+*	ITEM EVENTS: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-item-events .citadela-block-articles-wrap 			{ padding-top: 8px; }
+
+.ctdl-item-events .citadela-event-date .event-date-label    	{ background-color: rgba(200,200,200,0.7); min-width: 56px; height: 60px; position: relative; color: #ffffff; }
+.ctdl-item-events .citadela-event-date .event-date-label:before { content: "\f073"; font-size: 30px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 400; }
+
+.ctdl-item-events .citadela-event-datetime					{ display: block; max-width: 40%; background-color: rgba(200,200,200,0.5); margin: 0px 0px 0.7em 0px; height: 0.5em; }
+.ctdl-item-events .citadela-event-title 					{ margin: 0.7em 0px; height: 1em; }
+.ctdl-item-events .citadela-event-title span    			{ display: inline-block; vertical-align: top; background-color: rgba(200,200,200,0.7); margin: 0px 0.5em 0px 0px; height: 1em; }
+.ctdl-item-events .citadela-event-title .event-title		{ width: 60%; }
+.ctdl-item-events .citadela-event-title .event-price    	{ width: 30px; color: #ffffff; text-align: center; font-weight: 700; }
+.ctdl-item-events .citadela-event-title .event-price:before	{ content: "$"; display: inline-block; color: currentColor; opacity: 1; line-height: 1; font-size: 0.7em; margin-top: 0.2em; }
+.ctdl-item-events .citadela-event-description					{ font-size: 0.5em; }
+.ctdl-item-events .citadela-event-description .line				{ display: block; width: 100% !important; max-width: none; }
+.ctdl-item-events .citadela-event-description .line:last-child  { max-width: 70%; }
+.ctdl-item-events .citadela-event-thumbnail					    { background-color: rgba(200,200,200,0.7); position: relative; color: #ffffff; min-height: 80px; }
+.ctdl-item-events .citadela-event-thumbnail:before 				{ content: "\f03e"; font-size: 40px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 400; }
+
+.ctdl-item-events:not(.show-item-description) .citadela-event-description	{ display: none; }
+.ctdl-item-events:not(.show-item-featured-image) .citadela-event-thumbnail  { display: none; }
+.ctdl-item-events:not(.show-item-price) .event-price						{ display: none; }

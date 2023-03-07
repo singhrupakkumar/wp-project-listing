@@ -1,0 +1,106 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/authors-list",
+	"category": "citadela-directory-blocks",
+	"icon": "admin-users",
+	"attributes": {
+		"title": {
+			"type": "string",
+			"default": ""
+		},
+		"selectedAuthors": {
+            "type": "array",
+            "default": []
+        },
+        "showCover": {
+            "type": "boolean",
+            "default": true
+        },
+		"showIcon": {
+            "type": "boolean",
+            "default": true
+        },
+		"showDescription": {
+            "type": "boolean",
+            "default": true
+        },
+		"showPostsNumber": {
+            "type": "boolean",
+            "default": true
+        },
+		"showLink": {
+            "type": "boolean",
+            "default": true
+        },
+        "linkText": {
+            "type": "string",
+            "default": "View posts"
+        },
+		"itemsOrderBy": {
+            "type": "string",
+            "default": "display_name"
+        },
+        "itemsOrder": {
+            "type": "string",
+            "default": "DESC"
+        },
+		"useCarousel": {
+			"type": "boolean",
+			"default": false
+		},
+		"carouselNavigation": {
+			"type": "boolean",
+			"default": true
+		},
+		"carouselPagination": {
+			"type": "boolean",
+			"default": true
+		},
+		"carouselAutoplay": {
+			"type": "boolean",
+			"default": false
+		},
+		"carouselAutoHeight": {
+			"type": "boolean",
+			"default": false
+		},
+		"carouselAutoplayDelay": {
+			"type": "number",
+			"default": 5
+		},
+		"carouselLoop": {
+			"type": "boolean",
+			"default": true
+		},
+		"borderWidth": {
+			"type": "string",
+			"default": "thin"
+		},
+		"borderColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "textColor": {
+            "type": "string",
+            "default": ""
+        },
+        "decorColor": {
+            "type": "string",
+            "default": ""
+        },
+        "postsNumberColor": {
+            "type": "string",
+            "default": ""
+        },
+        "carouselColor": {
+            "type": "string",
+            "default": ""
+        }
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

@@ -1,0 +1,80 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/item-featured-image",
+	"category": "citadela-directory-blocks",
+	"icon": "format-image",
+	"attributes": {
+		"align": {
+            "type": "string",
+            "default": "center"
+        },
+        "size": {
+            "type": "string",
+            "default": "full"
+        },
+        "inPopup": {
+            "type": "boolean",
+            "default": false
+        },
+        "objectPosition": {
+            "type": "string",
+            "default": "center center"
+        },
+        "inColumn": {
+            "type": "boolean",
+            "default": false
+        },
+        "coverHeight": {
+            "type": "boolean",
+            "default": false
+        },
+        "coverHeightMobile": {
+            "type": "boolean",
+            "default": false
+        },
+
+        "unit": {
+            "type": "string",
+            "default": "px"
+        },
+        "unitMobile": {
+            "type": "string",
+            "default": "px"
+        },
+
+        "minUnit": {
+            "type": "string",
+            "default": "px"
+        },
+        "minUnitMobile": {
+            "type": "string",
+            "default": "px"
+        },
+
+        "height": {
+            "type": "number"
+        },
+        "heightMobile": {
+            "type": "number"
+        },
+        "minHeight": {
+            "type": "number",
+            "default": 250
+        },
+        "minHeightMobile": {
+            "type": "number",
+            "default": 250
+        },
+
+        "useResponsiveOptions": {
+            "type": "boolean",
+            "default": false
+        },
+        "breakpointMobile": {
+            "type": "number",
+            "default": 600
+        }
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

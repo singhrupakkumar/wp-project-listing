@@ -1,0 +1,30 @@
+/*
+*	ITEM EXTENSION: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-item-extension .citadela-block-articles-wrap 	{ padding-top: 8px; overflow: hidden; }
+.ctdl-item-extension .data-row						{ margin-bottom: 0.7em; margin-left: -3px; margin-right: -3px; }
+.ctdl-item-extension .data-row > div				{ margin: 0em 3px 0px 3px; height: 1em; }
+.ctdl-item-extension .data-row .label  				{ width: 30%; background-color: rgba(200,200,200,0.8); }
+.ctdl-item-extension .data-row .data 				{ width: 55%; background-color: rgba(200,200,200,0.5); -webkit-flex: auto; flex: auto; }
+
+.ctdl-item-extension.custom-label-color .data-row .label	{ background-color: currentColor; }
+.ctdl-item-extension.custom-value-color .data-row .data		{ background-color: currentColor; }
+
+.ctdl-item-extension.text-layout .data-row			{ margin: 0; vertical-align: baseline}
+.ctdl-item-extension.text-layout .data-row:after	{ display: none; }
+.ctdl-item-extension.text-layout .data-row .label   { width: 10%; display: inline-block; vertical-align: middle; margin: 2px 3px; }
+.ctdl-item-extension.text-layout .data-row .data 	{ width: 23%; display: inline-block; vertical-align: middle; margin: 2px 3px; }
+.ctdl-item-extension.text-layout .data-row .sep			{ display: inline-block; line-height: 1; vertical-align: middle; margin: 2px 3px; }
+.ctdl-item-extension.text-layout .data-row .sep:after   { margin: 0; padding: 0; }
+
+.ctdl-item-extension.list-layout .data-row			{ margin-bottom: 0.5em; line-height: 1; }
+.ctdl-item-extension.list-layout .data-row .label   { margin-top: 0.1em; margin-bottom: 0.1em; }
+.ctdl-item-extension.list-layout .data-row .data 	{ margin-top: 0.1em; margin-bottom: 0.1em; }
+.ctdl-item-extension.list-layout:not(.table-style):not(.custom-label-width) .data-row:nth-child(2n) .label	{ width: 24%; }
+.ctdl-item-extension.list-layout:not(.table-style) .data-row:nth-child(2n) .data							{ width: 45%; }
+.ctdl-item-extension.list-layout.table-style .data-row .data 												{ width: 55%; }
+
+.ctdl-item-extension.box-layout .data-row			{ display: block; }	
+.ctdl-item-extension.box-layout .data-row .label 	{ margin-bottom: 0.2em; margin-right: 0; } 
+.ctdl-item-extension.box-layout .data-row .data 	{ margin-right: 0; }

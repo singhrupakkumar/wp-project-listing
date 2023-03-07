@@ -1,0 +1,27 @@
+/*
+*	SERVICE: Citadela Block CSS styles only for editor screen
+*/
+
+
+/*loader displayed while image is fully uploaded into media*/
+
+.citadela-block-service .is-transient-image { position: relative; }
+.citadela-block-service .is-transient-image .service-image { opacity: 0.3; }
+
+/*spinner style from WP Image block*/
+
+.citadela-block-service .is-transient-image .components-spinner { position: absolute; top: 50%; left: 50%; margin-top: -9px; margin-left: -9px; }
+
+/* fontawesome dropdown */
+
+.citadela-block-service											{ position: relative; } 
+.citadela-block-service .citadela-fontawesome-select-container 	{ position: absolute; top: auto; left: 0; z-index: 10; }
+
+/* delete button */
+
+.citadela-block-service .delete-image-button i			{ display: inline-block; width: 34px; height: 34px; line-height: 34px; text-align: center; background: #ffffff; border-radius: 100%; box-shadow: 1px 1px 10px rgba(0,0,0,0.1);  }
+
+
+.citadela-block-service .service-readmore + .block-editor-url-input label 				{ display: block; margin-top: 8px; }
+.citadela-block-service .service-readmore + .block-editor-url-input input				{ border: 1px solid #dddddd; }     
+.citadela-block-service.layout-box .service-readmore + .block-editor-url-input input    { text-align: center; }               

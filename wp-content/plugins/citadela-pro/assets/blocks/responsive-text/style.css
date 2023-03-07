@@ -1,0 +1,11 @@
+/*
+*	RESPONSIVE TEXT: Citadela Block editor and frontend css
+*/
+
+.citadela-block-responsive-text.loading 		{ display: none; }
+.citadela-block-responsive-text.align-center 	{ text-align: center; }
+.citadela-block-responsive-text.align-right 	{ text-align: right; }
+
+.citadela-block-responsive-text strong			{ font-weight: bolder; }
+.citadela-block-responsive-text.has-bg > *		{ padding: 10px 20px; }
+.citadela-block-responsive-text.no-margins > *	{ margin: 0; }

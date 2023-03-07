@@ -1,0 +1,31 @@
+/*
+*	DEFAULT SEARCH RESULTS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-default-search-results article							{ margin: 0px 0px 3em 0px; }
+.ctdl-default-search-results .item-thumbnail					{ display: none; }
+.ctdl-default-search-results .item-thumbnail img 				{ width: 100%; vertical-align: top; object-fit: cover; }
+.ctdl-default-search-results .item-title a						{ text-decoration: none; }
+.ctdl-default-search-results .item-title .post-title			{ font-size: 1.4em; line-height: 1.3; color: #000000; }
+.ctdl-default-search-results .item-description					{ font-size: 0.9em; margin-top: 1em; }
+.ctdl-default-search-results .item-description p				{ display: inline; }
+.ctdl-default-search-results .item-description .more          	{ text-transform: lowercase; display: inline; max-width: 100%; }
+.ctdl-default-search-results .item-description .more:before		{ content: "[ "; }
+.ctdl-default-search-results .item-description .more:after		{ content: " ]"; }
+
+.ctdl-default-search-results .item-footer							{ font-size: 0.9em; }
+.ctdl-default-search-results .item-data 							{ border-top: 1px solid #cccccc; padding: 0.5em 0; }
+.ctdl-default-search-results .item-data:first-child					{ margin-top: 1.5em; }
+.ctdl-default-search-results .item-data .label						{ font-weight: 700; }
+.ctdl-default-search-results .item-data .label:after				{ content: ":"; }
+.ctdl-default-search-results .item-data .value:after				{ content: ","; }
+.ctdl-default-search-results .item-data .value:last-child:after		{ content: ""; }
+
+@media all and (min-width: 600px)
+{
+	.ctdl-default-search-results.layout-list .item-content					{ display: flex; flex-flow: row nowrap; }
+	.ctdl-default-search-results.layout-list .item-content .item-thumbnail 	{ flex: 0 0 auto; order: 2; display: block; width: 100px; margin-left: 30px; }
+	.ctdl-default-search-results.layout-list .item-content .item-body		{ flex: 1 1 auto; order: 1; }
+}
+
+.ctdl-default-search-results .no-results		{ text-align: center; }

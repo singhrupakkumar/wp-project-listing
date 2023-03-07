@@ -1,0 +1,90 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/automatic-directory-google-map",
+	"category": "citadela-directory-blocks",
+	"icon": "vault",
+	"attributes": {
+		"limitPosts": {
+			"type": "boolean",
+			"default": false
+		},
+		"maxPosts": {
+			"type": "number",
+			"default": 50
+		},
+		"withSearchForm": {
+			"type": "boolean",
+			"default": false
+		},
+		"theme": {
+			"type": "string",
+			"default": "citadela"
+		},
+		"themeOSM": {
+			"type": "string",
+			"default": "default"
+		},
+		"customTheme": {
+			"type": "string",
+			"default": ""
+		},
+		"provider": {
+			"type": "string",
+			"default": "openstreetmap"
+		},
+		"dataType": {
+			"type": "string",
+			"default": "markers"
+		},
+		"dynamicTrack": {
+			"type": "boolean",
+			"default": false
+		},
+		"trackColor": {
+			"type": "string",
+			"default": ""
+		},
+		"trackEndpointsColor": {
+			"type": "string",
+			"default": ""
+		},
+		"inColumn": {
+			"type": "boolean",
+			"default": false
+		},
+		"coverHeight": {
+			"type": "boolean",
+			"default": false
+		},
+		"unit": {
+			"type": "string",
+			"default": "px"
+		},
+		"height": {
+			"type": "number",
+			"default": 500
+		},
+		"outsideFormBreakpoint": {
+			"type": "number",
+			"default": 600
+		},
+		"noDataBehavior": {
+			"type": "string",
+			"default": "empty-map"
+		},
+		"noDataText": {
+			"type": "string",
+			"default": ""
+		},
+		"clusterGridSize": {
+			"type": "number",
+			"default": 80
+		}
+	},
+	"example": {
+		"attributes": {
+			"height": 300
+		}
+	},
+	"editorScript": "citadela-directory-blocks"
+}

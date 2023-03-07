@@ -1,0 +1,9 @@
+/*
+*	ITEM OPENING HOURS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-opening-hours .oh-day 				{ display: flex; flex-flow: wrap; margin-bottom: 1em; }
+.ctdl-item-opening-hours .oh-day p				{ margin: 0 0 0.3em 0; }
+.ctdl-item-opening-hours .oh-day .oh-label,
+.ctdl-item-opening-hours .oh-day .oh-data		{ flex: auto; width: 150px; max-width: 100%; }
+.ctdl-item-opening-hours .oh-day .oh-label		{ font-weight: 700; }

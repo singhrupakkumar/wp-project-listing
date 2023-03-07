@@ -1,0 +1,97 @@
+/*
+*	CLUSTER (CUSTOM CONTAINER): Citadela Block editor and frontend css
+*/
+
+.citadela-block-custom-container 										{ display: flex; background-size: cover; background-clip: padding-box; }
+.citadela-block-custom-container.has-overlay > .bg-image-overlay,
+.citadela-block-custom-container > .bg-image-wrapper					{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.citadela-block-custom-container.fixed-bg > .bg-image-wrapper			{ background-attachment: fixed; background-position: 50% 50%; }
+.citadela-block-custom-container.cover-height:first-child:last-child	{ height: 100%; }
+
+/* fix for iOS - background fixed */
+
+@supports ( -webkit-touch-callout : none ) 		{ .citadela-block-custom-container.fixed-bg > .bg-image-wrapper { background-attachment: scroll; }}
+@supports not ( -webkit-touch-callout : none ) 	{ .citadela-block-custom-container.fixed-bg > .bg-image-wrapper { background-attachment: fixed; }}
+
+ 
+.citadela-block-custom-container.loading-image				{ visibility: hidden !important; }
+
+.citadela-block-custom-container.show-on-mobile				{ display: flex; }
+.citadela-block-custom-container.hide-on-mobile				{ display: none; }
+@media all and (min-width: 600px)	
+{ 
+	.citadela-block-custom-container.show-on-mobile			{ display: none; }
+	.citadela-block-custom-container.hide-on-mobile			{ display: flex; }
+}
+
+.citadela-block-custom-container.bg-size-cover,
+.citadela-block-custom-container.bg-size-cover > .bg-image-wrapper 				{ background-size: cover; }
+.citadela-block-custom-container.bg-size-full-horizontal,
+.citadela-block-custom-container.bg-size-full-horizontal > .bg-image-wrapper	{ background-size: 100% auto; }
+.citadela-block-custom-container.bg-size-full-vertical,
+.citadela-block-custom-container.bg-size-full-vertical > .bg-image-wrapper 		{ background-size: auto 100%; }
+.citadela-block-custom-container.bg-size-auto,
+.citadela-block-custom-container.bg-size-auto > .bg-image-wrapper 				{ background-size: auto; }
+
+
+.citadela-block-custom-container										{ box-sizing: border-box; }
+.citadela-block-custom-container > .inner-holder						{ flex: 1 1 auto; width: 100%; margin-left: auto; margin-right: auto; position: relative; }
+.citadela-block-custom-container.vertical-align-top > .inner-holder     { align-self: flex-start; }
+.citadela-block-custom-container.vertical-align-center > .inner-holder	{ align-self: center; }
+.citadela-block-custom-container.vertical-align-bottom > .inner-holder  { align-self: flex-end; }
+.citadela-block-custom-container.size-content > .inner-holder			{ max-width: 768px; }
+.citadela-block-custom-container.size-wide > .inner-holder				{ max-width: 1200px; }
+.citadela-block-custom-container.size-fullwidth > .inner-holder			{ max-width: none; }
+.citadela-block-custom-container.has-bg									{ padding-top: 2em; padding-bottom: 0.5em; margin-top: 0em; margin-bottom: 0em; }
+
+.citadela-block-custom-container									{ width: 100vw !important; max-width: none !important; margin-left: -50vw !important; margin-right: 0 !important; position: relative; left: 50%; padding-left: 20px; padding-right: 20px; }
+.widget .citadela-block-custom-container,
+.wp-block-columns .citadela-block-custom-container,
+.wp-block-group .citadela-block-custom-container,
+.wp-block-cover .citadela-block-custom-container,
+.wp-block-media-text .citadela-block-custom-container,
+.wp-block-query .citadela-block-custom-container					{ width: auto !important; max-width: 100% !important; margin-left: 0 !important; left: 0; }
+
+.citadela-block-custom-container.inside-space-zero					{ padding: 0; }
+.citadela-block-custom-container.inside-space-small					{ padding: 20px; }
+.citadela-block-custom-container.inside-space-large					{ padding: 20px; }
+
+@media all and (min-width: 400px)
+{
+	.citadela-block-custom-container.inside-space-zero				{ padding: 0; }
+	.citadela-block-custom-container.inside-space-small				{ padding: 20px; }
+	.citadela-block-custom-container.inside-space-large				{ padding: 40px; }
+}
+@media all and (min-width: 600px)	
+{ 
+	.citadela-block-custom-container 								{ padding-left: 40px; padding-right: 40px; } 
+	.wp-block-columns .citadela-block-custom-container				{ padding-left: 20px; padding-right: 20px; }
+	
+	.citadela-block-custom-container.inside-space-zero				{ padding: 0; }
+	.citadela-block-custom-container.inside-space-small				{ padding: 20px; }
+	.citadela-block-custom-container.inside-space-large				{ padding: 40px; }
+}
+
+
+/*** MAPS in Container ***/
+
+/*
+.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-automatic-directory-google-map,
+.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-directory-google-map,
+.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-automatic-posts-map,
+.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-posts-map								
+
+{ margin-left: -20px; margin-right: -20px; }
+
+
+@media all and (min-width: 600px)	
+{                                                                                                                            
+	.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-automatic-directory-google-map,
+	.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-directory-google-map,
+	.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-automatic-posts-map,
+	.citadela-block-custom-container.size-fullwidth:not(.has-bg) div:not(.wp-block-column) > .ctdl-posts-map    						
+	
+	{ margin-left: -40px; margin-right: -40px; }
+}
+*/
+

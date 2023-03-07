@@ -1,0 +1,5 @@
+{
+    "blog": {
+        "content": "<!-- wp:citadela-pro\/blog-posts -->\r\n<div class=\"wp-block-citadela-blocks ctdl-blog-posts layout-simple show-item-featured-image show-item-description show-item-categories\"><ctdl-dynamic-content><\/ctdl-dynamic-content><\/div>\r\n<!-- \/wp:citadela-pro\/blog-posts -->"
+    }
+}

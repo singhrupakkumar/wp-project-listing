@@ -1,0 +1,13 @@
+/*
+*	ITEM CONTACT DETAILS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+
+.ctdl-item-contact-details {}
+
+.ctdl-item-contact-details .cd-info 					{ margin-bottom: 0.5em; }
+.ctdl-item-contact-details .cd-info p					{ margin: 0 0 0.3em 0; }
+.ctdl-item-contact-details .cd-info .cd-label,
+.ctdl-item-contact-details .cd-info .cd-data			{ display: inline-block; max-width: 100%; vertical-align: top; }
+.ctdl-item-contact-details .cd-info .cd-label			{ font-weight: 700; }
+.ctdl-item-contact-details .cd-info .cd-label p:after	{ content: ":"; }

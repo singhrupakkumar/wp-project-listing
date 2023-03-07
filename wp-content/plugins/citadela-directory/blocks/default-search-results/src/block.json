@@ -1,0 +1,9 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/default-search-results",
+	"category": "citadela-posts-blocks",
+	"icon": "excerpt-view",
+	"attributes": {},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

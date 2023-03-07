@@ -1,0 +1,104 @@
+/*
+*	ADVANCED FILTERS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-directory-advanced-filters {}
+
+.ctdl-directory-advanced-filters .data-row 			{ margin-bottom: 0.5em; }
+.ctdl-directory-advanced-filters .filters-heading   { font-weight: bolder; margin-bottom: 0.5em; color: #000000; }
+
+.ctdl-directory-advanced-filters.align-left			{ text-align: left; }
+.ctdl-directory-advanced-filters.align-center		{ text-align: center; }
+.ctdl-directory-advanced-filters .data-row			{ text-align: left; }	
+
+@media screen and (min-width: 400px)
+{
+	.ctdl-directory-advanced-filters.align-right	{ text-align: right; }
+}
+
+
+.ctdl-directory-advanced-filters .filter-container input { display: none; }
+
+.ctdl-directory-advanced-filters .data-row.type-checkbox .filter-container,
+.ctdl-directory-advanced-filters .data-row.type-select .filter-container,
+.ctdl-directory-advanced-filters .data-row.type-citadela_multiselect .filter-container 	{ cursor: pointer; }
+
+.ctdl-directory-advanced-filters .filter-container									{ position: relative; line-height: 1.3; margin-bottom: 0.3em; }
+.ctdl-directory-advanced-filters .filter-container .filter-checkbox 				{ display: inline-block; width: 1.25em; height: 1.25em; border: 1px solid #cccccc; background: #ffffff; color: #000000; position: absolute; left: 0; top: 0; box-sizing: border-box; }
+.ctdl-directory-advanced-filters .filter-container .filter-checkbox > i 			{ opacity: 0;  width: 100%; text-align: center; vertical-align: middle; margin-top: -4px; font-size: 0.75em; }
+.ctdl-directory-advanced-filters .filter-container.selected .filter-checkbox > i 	{ opacity: 1; }
+.ctdl-directory-advanced-filters .filter-container .filter-label 					{ display: block; margin-left: 1.8em; }
+
+
+/*** Submit Button ***/
+
+.ctdl-directory-advanced-filters .submit-button-wrapper											{ overflow: hidden; }
+.ctdl-directory-advanced-filters .submit-button-wrapper .submit-button							{ margin-top: 0.5rem; margin-bottom: 1.5rem; }
+.ctdl-directory-advanced-filters .submit-button-wrapper .submit-button > a						{ background: #000000; color: #ffffff; border-radius: 4px; line-height: 1.3; cursor: pointer; display: inline-block; max-width: 100%; height: auto; text-align: center; white-space: normal; box-sizing: border-box; vertical-align: top; transition: all 0.3s; }
+.ctdl-directory-advanced-filters .submit-button-wrapper.small-button-style .submit-button > a 	{ padding: 6px 20px; font-size: 14px; }
+.ctdl-directory-advanced-filters .submit-button-wrapper.large-button-style .submit-button > a 	{ padding: 12px 30px; font-size: 18px; }
+
+.ctdl-directory-advanced-filters.advanced-header.opened .submit-button-wrapper .submit-button > a 				{ opacity: 1; }
+.ctdl-directory-advanced-filters.advanced-header:not(.opened) .submit-button-wrapper .submit-button > a 		{ opacity: 0; }
+
+/*** Layout Box ***/
+
+.ctdl-directory-advanced-filters.box-layout	.citadela-block-articles-wrap	{ display: flex; margin-left: -8px; margin-right: -8px; flex-flow: row wrap; }
+.ctdl-directory-advanced-filters.box-layout .data-row 						{ flex: 1 1 auto; margin: 0px 8px 0px 8px; box-sizing: border-box; }
+.ctdl-directory-advanced-filters.box-layout .data-row .label				{ display: block; margin-bottom: 0.5em; }
+.ctdl-directory-advanced-filters.box-layout .data-row .data					{ display: block; }
+
+.ctdl-directory-advanced-filters.box-layout.fix-width .data-row				{ flex: 0 1 200px; }
+
+.ctdl-directory-advanced-filters.box-layout.align-center .data-row .label,
+.ctdl-directory-advanced-filters.box-layout.align-center .data-row .data	{ margin-left: auto; margin-right: auto; }				
+.ctdl-directory-advanced-filters.box-layout.align-right .data-row .label	{ text-align: left; }
+.ctdl-directory-advanced-filters.box-layout.align-right .data-row .data		{ margin-left: auto; }
+
+.ctdl-directory-advanced-filters.box-layout.align-center .citadela-block-articles-wrap 	{ justify-content: center; }
+.ctdl-directory-advanced-filters.box-layout.align-right .citadela-block-articles-wrap 	{ justify-content: flex-end; }
+
+
+/*** NOT PRO features ***/
+
+body:not(.pro-plugin-active) .ctdl-directory-advanced-filters.box-layout .data-row     		{ border: 1px solid #cccccc; padding: 15px 20px; margin-bottom: 16px; }
+body:not(.pro-plugin-active) .ctdl-directory-advanced-filters.list-layout .data-row			{ margin-bottom: 1.5rem; }
+body:not(.pro-plugin-active) .ctdl-directory-advanced-filters.list-layout .filters-heading	{ border-bottom: 1px solid #cccccc; padding-bottom: 0.5em; margin-bottom: 0.8em; }
+
+/*** PRO features ***/
+
+.ctdl-directory-advanced-filters.lines-type-none .data-row,
+.ctdl-directory-advanced-filters.lines-type-filter-heading .data-row			{ margin-bottom: 1.5rem; }
+.ctdl-directory-advanced-filters.lines-type-filter-group .data-row				{ border: 1px solid #cccccc; padding: 15px 20px; margin-bottom: 16px; }
+
+.ctdl-directory-advanced-filters.lines-type-filter-heading .filters-heading		{ border-bottom: 1px solid #cccccc; padding-bottom: 0.5em; margin-bottom: 0.8em; }
+
+.ctdl-directory-advanced-filters.lines-type-none:not(.custom-data-background-color) .submit-button-wrapper .submit-button,
+.ctdl-directory-advanced-filters.lines-type-filter-heading:not(.custom-data-background-color) .submit-button-wrapper .submit-button { margin-top: 0; }
+
+.ctdl-directory-advanced-filters.custom-data-background-color .data-row			{ padding: 15px 20px; margin-bottom: 16px; }
+
+
+/*** Advanced header ***/
+
+.ctdl-directory-advanced-filters.advanced-header h2,
+.ctdl-directory-advanced-filters.advanced-header h3			{ margin: 0; font-size: 1em; font-weight: bolder; padding: 15px 60px 15px 0; color: currentColor; }
+.ctdl-directory-advanced-filters.advanced-header h2:before,
+.ctdl-directory-advanced-filters.advanced-header h2:after	{ display: none; }
+
+.ctdl-directory-advanced-filters.advanced-header .citadela-block-header												{ margin-bottom: 1em; min-height: 40px; position: relative; color: #000000; text-align: left; }
+body:not(.pro-plugin-active) .ctdl-directory-advanced-filters.advanced-header.box-layout  .citadela-block-header   	{ padding: 0px 0px 0px 20px; border: 1px solid #cccccc; }
+body:not(.pro-plugin-active) .ctdl-directory-advanced-filters.advanced-header.list-layout  .citadela-block-header	{ padding: 0px; border-bottom: 1px solid #cccccc; margin-bottom: 1.5em;  }
+
+.ctdl-directory-advanced-filters.advanced-header.custom-header-background-color .citadela-block-header,
+.ctdl-directory-advanced-filters.advanced-header.header-border-type-full .citadela-block-header      		{ padding: 0px 0px 0px 20px;  }
+.ctdl-directory-advanced-filters.advanced-header.header-border-type-full .citadela-block-header				{ border: 1px solid #cccccc; }
+
+.ctdl-directory-advanced-filters.advanced-header.header-border-type-bottom .citadela-block-header           								{ border-bottom: 1px solid #cccccc; }
+.ctdl-directory-advanced-filters.advanced-header.header-border-type-bottom:not(.custom-header-background-color) .citadela-block-header      {  }
+
+.ctdl-directory-advanced-filters.advanced-header .header-toggle									{ display: block; position: absolute; top: 0; right: 0; bottom: 0; width: 50px; cursor: pointer; }
+.ctdl-directory-advanced-filters.advanced-header .header-toggle .toggle-arrow        			{ display: block; position: absolute; top: 50%; left: 50%; font-size: 1.2em; width: 1.24em; height: 1.24em; line-height: 1.24em; margin: -0.62em 0px 0px -0.62em; text-align: center; }
+.ctdl-directory-advanced-filters.advanced-header .header-toggle .toggle-arrow:before			{ content: "\f107"; font-family: 'Font Awesome 5 Free'; font-weight: 900; display: inline-block; transition: transform 0.3s;  }
+.ctdl-directory-advanced-filters.advanced-header.opened .header-toggle .toggle-arrow:before     { transform: rotate(180deg); }
+

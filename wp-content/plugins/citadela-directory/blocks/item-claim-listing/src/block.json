@@ -1,0 +1,69 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/item-claim-listing",
+	"category": "citadela-directory-blocks",
+	"icon": "store",
+	"attributes": {
+		"text": {
+		    "type": "string",
+		    "default": "Claim Listing"
+		},
+		"align": {
+		    "type": "string",
+		    "default": "left"
+		},
+		"style": {
+		    "type": "string",
+		    "default": "small-button"
+		},
+		"textColor": {
+		    "type": "string",
+		    "default": ""
+		},
+		"bgColor": {
+		    "type": "string",
+		    "default": ""
+		},
+		"borderRadius": {
+		    "type": "number"
+		},
+		"formTitle": {
+		    "type": "string",
+		    "default": "Claim Listing"
+		},
+		"formDescription": {
+		    "type": "string",
+		    "default": "Lorem ipsum dolor sit amet"
+		},
+		"formUsername": {
+		    "type": "string",
+		    "default": "Username"
+		},
+		"formEmail": {
+		    "type": "string",
+		    "default": "Email"
+		},
+		"formSubmit": {
+		    "type": "string",
+		    "default": "Claim"
+		},
+		"formLoggedIn": {
+		    "type": "string",
+		    "default": "Are you sure you want to claim the current item?"
+		},
+		"formTerms": {
+		    "type": "string",
+		    "default": "Accepts Terms & Conditions"
+		},
+		"notificationAlready": {
+		    "type": "string",
+		    "default": ""
+		},
+		"notificationPending": {
+		    "type": "string",
+		    "default": "Item pending moderation from admin."
+		}
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

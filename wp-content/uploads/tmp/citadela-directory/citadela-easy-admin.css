@@ -1,0 +1,201 @@
+/* mixins */
+/* general override */
+.citadela-easy-admin-enabled .narrow {
+  max-width: 1200px;
+}
+.citadela-easy-admin-enabled a {
+  color: #3ba5bc;
+}
+.citadela-easy-admin-enabled a:hover {
+  color: #5eb9cc;
+}
+/* general override */
+/* site setup */
+.citadela-easy-admin-enabled:not(.block-editor-page) #wpbody {
+  max-width: 1200px;
+}
+/* site setup */
+/* page setup */
+body.citadela-easy-admin-enabled {
+  background-color: #f1f1f1;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  color: #888888;
+}
+/* page setup */
+/* header setup */
+.citadela-easy-admin-enabled #wpcontent .easyadmin-header-container {
+  background-color: #2d2d2d;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  color: #ffffff;
+}
+/* header menu setup */
+.citadela-easy-admin-enabled #wpcontent .easyadmin-bottom-container {
+  background-color: #383838;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  color: #ffffff;
+}
+.citadela-easy-admin-enabled ul#easyadmin-user-menu > li > a {
+  color: #ffffff;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > a {
+  color: #ffffff;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.hover > a,
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.current > a {
+  background: #f1f1f1 !important;
+  color: #383838;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.wp-has-current-submenu > a {
+  background: #f1f1f1 !important;
+  color: #383838;
+}
+.citadela-easy-admin-enabled .dashicons-before:before {
+  color: #525252;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul {
+  background: #f1f1f1;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(0, 0, 0, 0.03);
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul a {
+  color: #383838;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul a:hover,
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li > ul a.current {
+  background: rgba(0, 0, 0, 0.03);
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu .awaiting-mod {
+  background: #ffffff;
+  color: #383838;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.hover > a .awaiting-mod,
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.current > a .awaiting-mod {
+  background: #383838;
+  color: #ffffff;
+}
+.citadela-easy-admin-enabled ul#easyadmin-main-menu > li.wp-has-current-submenu > a .awaiting-mod {
+  background: #383838;
+  color: #ffffff;
+}
+/* header menu setup */
+/* header setup */
+/* content setup */
+.citadela-easy-admin-enabled #wpbody {
+  /*	background-color: @contentBackgroundColor;
+	background-image: url(@contentBackgroundImage);
+	background-repeat: @contentBackgroundRepeat;
+	background-position: @contentBackgroundPosition;
+	background-attachment: @contentBackgroundAttachment;
+	background-size: @contentBackgroundSize;*/
+  color: #888888;
+}
+/* content advanced setup */
+.citadela-easy-admin-enabled #wpbody h1,
+.citadela-easy-admin-enabled #wpbody h2,
+.citadela-easy-admin-enabled #wpbody h3 {
+  color: #666666;
+}
+.citadela-easy-admin-enabled #wpbody .form-table th,
+.citadela-easy-admin-enabled #wpbody .form-wrap label {
+  color: #666666;
+}
+.citadela-easy-admin-enabled #wpbody .wrap h1.wp-heading-inline:before,
+.citadela-easy-admin-enabled #wpbody .wrap h1:not(.wp-heading-inline),
+.citadela-easy-admin-enabled #wpbody .wrap h1 + form,
+.citadela-easy-admin-enabled #wpbody .wrap h1 + div + form {
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+.citadela-easy-admin-enabled #wpbody .wrap .wp-filter {
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+}
+.citadela-easy-admin-enabled.wp-core-ui .button,
+.citadela-easy-admin-enabled.wp-core-ui .button-secondary,
+.citadela-easy-admin-enabled #wpbody input.button {
+  background-color: #3ba5bc;
+  border-color: #3ba5bc;
+  color: #ffffff;
+  text-shadow: none;
+  box-shadow: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.citadela-easy-admin-enabled.wp-core-ui .button:hover,
+.citadela-easy-admin-enabled.wp-core-ui .button-secondary:hover,
+.citadela-easy-admin-enabled #wpbody input.button:hover {
+  background-color: #42adc4;
+  box-shadow: 0 4px 10px rgba(47, 131, 149, 0.35);
+}
+.citadela-easy-admin-enabled.wp-core-ui .button span:before,
+.citadela-easy-admin-enabled.wp-core-ui .button-secondary span:before,
+.citadela-easy-admin-enabled #wpbody input.button span:before {
+  color: #ffffff;
+}
+.citadela-easy-admin-enabled #wpbody .wrap .add-new-h2,
+.citadela-easy-admin-enabled #wpbody .wrap .add-new-h2:active,
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action,
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action:active {
+  background-color: #3ba5bc;
+  border-color: #3ba5bc;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.citadela-easy-admin-enabled #wpbody .wrap .add-new-h2:hover,
+.citadela-easy-admin-enabled #wpbody .wrap .add-new-h2:active:hover,
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action:hover,
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action:active:hover {
+  background-color: #42adc4;
+  box-shadow: 0 4px 10px rgba(47, 131, 149, 0.35);
+}
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action:focus {
+  border-color: #3ba5bc;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.citadela-easy-admin-enabled #wp-content-editor-tools {
+  background: #f1f1f1;
+}
+/* content advanced setup */
+/* content metabox setup */
+.citadela-easy-admin-enabled .postbox {
+  background-color: #ffffff;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
+  border: 1px solid #e8e8e8;
+  color: #888888;
+}
+/* content metabox setup */
+/* content setup */
+/* Attachment Page */
+.citadela-easy-admin-enabled .media-frame.mode-grid .attachments-browser .attachments {
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+/* Profile Page */
+body.citadela-easy-admin-enabled.profile-php #your-profile {
+  background: #ffffff;
+}

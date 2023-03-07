@@ -1,0 +1,9 @@
+/*
+*	ITEM CONTACT DETAILS: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-item-contact-details .citadela-block-articles-wrap 	{ padding-top: 8px; }
+.ctdl-item-contact-details .cd-info							{ display: -webkit-flex; display: flex; -webkit-flex-flow: wrap; flex-flow: wrap; margin-bottom: 0.7em; margin-right: -6px; }
+.ctdl-item-contact-details .cd-info > div					{ margin: 0em 6px 0px 0px; height: 1em; }
+.ctdl-item-contact-details .cd-info .cd-label  				{ width: 30%; background-color: rgba(200,200,200,0.8); }
+.ctdl-item-contact-details .cd-info .cd-data 				{ width: 65%; background-color: rgba(200,200,200,0.5); -webkit-flex: auto; flex: auto; }

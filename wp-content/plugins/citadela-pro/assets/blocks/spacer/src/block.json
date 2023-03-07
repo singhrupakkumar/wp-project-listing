@@ -1,0 +1,35 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-blocks/spacer",
+	"category": "citadela-blocks",
+	"icon": "minus",
+	"attributes": {
+		"useResponsiveOptions": {
+			"type": "boolean",
+			"default": false
+		},
+		"breakpointMobile": {
+			"type": "number",
+			"default": 600
+		},
+		"height": {
+			"type": "number",
+			"default": 20
+		},
+		"heightMobile": {
+			"type": "number"
+		},
+		"unit": {
+			"type": "string",
+			"default": "px"
+		},
+		"unitMobile": {
+			"type": "string"
+		},
+		"hideInResponsive": {
+			"type": "boolean",
+			"default": false
+		}		
+	},
+	"editorScript": "citadela-spacer-block"
+}

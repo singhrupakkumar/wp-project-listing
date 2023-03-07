@@ -1,0 +1,159 @@
+/*
+ * Citadela Theme - Modern layout CSS
+ *
+ */
+
+
+/********************/
+/*** BASIC LAYOUT ***/
+/********************/
+
+.grid-main										{ }
+.site-content									{ .pageOffset(); .contentbox(); }
+.site-content .page-title						{ .pageOffset(invert); }
+/*
+.classic-header-layout .site-header				{  }
+.classic-header-layout .site-branding			{ .pageOffset(); } 
+.center-header-layout .site-header				{ .pageOffset(mobile); }
+.center-header-layout .site-branding			{ .pageOffset(desktop); }
+.site-header:not(.fullwidth-header) .grid-main	{ max-width: @wideWidth; }
+*/
+
+
+/**************/
+/*** HEADER ***/
+/**************/
+
+.showHeaderImage(@url) when not ("@{url}" = "") 
+{
+	background-image: 		url("@{url}"); 
+ 	background-repeat: 		@headerImageRepeat;
+ 	background-attachment: 	@headerImageAttachment;
+ 	background-position: 	@headerImagePosition;
+ 	background-size: 		@headerImageSize;
+}
+
+.site-header     			{ .showHeaderImage(@headerImageUrl); }
+
+
+/****************/
+/*** SIDEBARS ***/
+/****************/
+
+.right-sidebar
+{
+	#secondary						{ margin: 5em auto 3em auto; }
+}
+.left-sidebar
+{
+	#secondary						{ margin: 5em auto 3em auto; }
+}
+
+body:not(.page-fullwidth).right-sidebar,
+body:not(.page-fullwidth).left-sidebar
+{
+	.site-footer .footer-widgets-area		{ max-width: none; }
+}
+
+@media all and (min-width: @resTablet)
+{
+	body:not(.page-fullwidth).right-sidebar,
+	body:not(.page-fullwidth).left-sidebar
+	{
+		#secondary								{ width: 25%; overflow: hidden; position: fixed; top: 0; height: 100%; background-color: lighten(@pageBgColor, 5%); .box-shadow(-1px 0px 0px rgba(0, 0, 0, 0.1)); z-index: 1000; margin: 0; max-width: none; }
+		#secondary:hover > .widget-area-wrap	{ will-change: overflow; }
+		.widget-area-wrap						{ padding: 40px; overflow: auto; .borderbox(); max-height: 100%; overflow: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; -ms-overflow-style: none; }
+		.widget-area-wrap::-webkit-scrollbar 	{ display: none; }
+
+		*:not(.widget) > .citadela-block-custom-container	{ width: -webkit-calc(~"100vw - 25vw") !important; width: calc(~"100vw - 25vw") !important; margin-left: -webkit-calc(~"(100vw - 25vw) / -2") !important; margin-left: calc(~"(100vw - 25vw) / -2") !important; }
+		.alignfull[class*='wp-block-'],
+		.alignfull[class*='wc-block-']						{ width: -webkit-calc(~"100vw - 25vw"); width: calc(~"100vw - 25vw"); margin-left: -webkit-calc(~"(100vw - 25vw) / -2"); margin-left: calc(~"(100vw - 25vw) / -2"); }
+		.alignwide[class*='wp-block-'],
+		.alignwide[class*='wc-block-']						{ width: -webkit-calc(~"100vw - 25vw - 80px"); width: calc(~"100vw - 25vw - 80px"); margin-left: -webkit-calc(~"(100vw - 25vw - 80px) / -2"); margin-left: calc(~"(100vw - 25vw - 80px) / -2"); max-width: none; }
+		.alignwide[class*='wp-block-']:not(.has-background),
+		.alignwide[class*='wc-block-']:not(.has-background)	{ .pageOffset(padnone); }	
+		
+		.widget .citadela-block-custom-container									{ .noAlignSize(); .pageOffset(none); }
+		.widget .citadela-block-custom-container.has-bg:not(.inside-space-zero)		{ padding-left: 20px; padding-right: 20px; }
+		.wp-block-columns .citadela-block-custom-container, 
+		.wp-block-group .citadela-block-custom-container,
+		.wp-block-cover .citadela-block-custom-container,
+		.wp-block-media-text .citadela-block-custom-container		{ .noAlignSize(); }				
+	}
+	.right-sidebar
+	{
+		.site,
+		#citadela-announcements-bar			{ margin-right: 25%; }
+		#secondary							{ right: 0px; }
+	}
+	.left-sidebar
+	{
+		.site,
+		#citadela-announcements-bar			{ margin-left: 25%; }
+		#secondary							{ left: 0px; }
+	}
+}
+
+@media all and (min-width: @resLaptop)
+{
+	body:not(.page-fullwidth).right-sidebar,
+	body:not(.page-fullwidth).left-sidebar
+	{
+		#secondary								{ width: 300px; }
+		
+		*:not(.widget) > .citadela-block-custom-container	{ width: -webkit-calc(~"100vw - 300px") !important; width: calc(~"100vw - 300px") !important; margin-left: -webkit-calc(~"(100vw - 300px) / -2") !important; margin-left: calc(~"(100vw - 300px) / -2") !important; }
+		.alignfull[class*='wp-block-'],
+		.alignfull[class*='wc-block-']						{ width: -webkit-calc(~"100vw - 300px"); width: calc(~"100vw - 300px"); margin-left: -webkit-calc(~"(100vw - 300px) / -2"); margin-left: calc(~"(100vw - 300px) / -2"); }
+		.alignwide[class*='wp-block-'],
+		.alignwide[class*='wc-block-']						{ width: -webkit-calc(~"100vw - 300px - 80px"); width: calc(~"100vw - 300px - 80px"); margin-left: -webkit-calc(~"(100vw - 300px - 80px) / -2"); margin-left: calc(~"(100vw - 300px - 80px) / -2"); max-width: none; }
+		
+		.widget .citadela-block-custom-container									{ .noAlignSize(); .pageOffset(none); }
+		.widget .citadela-block-custom-container.has-bg:not(.inside-space-zero)		{ padding-left: 20px; padding-right: 20px; }
+		.wp-block-columns .citadela-block-custom-container, 
+		.wp-block-group .citadela-block-custom-container,
+		.wp-block-cover .citadela-block-custom-container,
+		.wp-block-media-text .citadela-block-custom-container		{ .noAlignSize(); }				
+	}
+	.right-sidebar
+	{
+		.site,
+		#citadela-announcements-bar			{ margin-right: 300px; }
+	}
+	.left-sidebar
+	{
+		.site,
+		#citadela-announcements-bar			{ margin-left: 300px; }
+	}
+}
+
+@media all and (min-width: @resDesktop)
+{
+	body:not(.page-fullwidth).right-sidebar,
+	body:not(.page-fullwidth).left-sidebar
+	{
+		#secondary								{ width: 380px; }
+		
+		*:not(.widget) > .citadela-block-custom-container	{ width: -webkit-calc(~"100vw - 380px") !important; width: calc(~"100vw - 380px") !important; margin-left: -webkit-calc(~"(100vw - 380px) / -2") !important; margin-left: calc(~"(100vw - 380px) / -2") !important; }
+		.alignfull[class*='wp-block-'],
+		.alignfull[class*='wc-block-']						{ width: -webkit-calc(~"100vw - 380px"); width: calc(~"100vw - 380px"); margin-left: -webkit-calc(~"(100vw - 380px) / -2"); margin-left: calc(~"(100vw - 380px) / -2"); }
+		.alignwide[class*='wp-block-'],
+		.alignwide[class*='wc-block-']						{ max-width: @wideContent; margin-left: @wideContent / -2;}
+		
+		.widget .citadela-block-custom-container									{ .noAlignSize(); .pageOffset(none); }
+		.widget .citadela-block-custom-container.has-bg:not(.inside-space-zero)		{ padding-left: 20px; padding-right: 20px; }
+		.wp-block-columns .citadela-block-custom-container, 
+		.wp-block-group .citadela-block-custom-container,
+		.wp-block-cover .citadela-block-custom-container,
+		.wp-block-media-text .citadela-block-custom-container		{ .noAlignSize(); }				
+	}
+	.right-sidebar
+	{
+		.site,
+		#citadela-announcements-bar			{ margin-right: 380px; }
+	}
+	.left-sidebar
+	{
+		.site,
+		#citadela-announcements-bar			{ margin-left: 380px; }
+	}
+}

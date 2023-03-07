@@ -1,0 +1,77 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-blocks/price-table",
+	"category": "citadela-blocks",
+	"icon": "clipboard",
+	"attributes": {
+		"rows": {
+			"type": "array",
+			"default": [ { "text": "" }, { "text": "" }, { "text": "" } ]
+		},
+		
+		"title": {
+			"type": "string",
+			"default": ""
+		},
+		"subtitle": {
+			"type": "string",
+			"default": ""
+		},
+		"price": {
+			"type": "string",
+			"default": ""
+		},
+		"showOldPrice": {
+			"type": "boolean",
+			"default": false
+		},
+		"oldPrice": {
+			"type": "string",
+			"default": ""
+		},
+		"showButton": {
+			"type": "boolean",
+			"default": true
+		},
+		"buttonText": {
+			"type": "string",
+			"default": ""
+		},
+		"buttonUrl": {
+			"type": "string",
+			"default": ""
+		},
+		"buttonLinkNewTab": {
+			"type": "boolean",
+			"default": false
+		},
+		"buttonBorderRadius": {
+			"type": "number"
+		},
+		"featuredTable": {
+			"type": "boolean",
+			"default": false
+		},
+		"featuredTableText": {
+			"type": "string",
+			"default": ""
+		},
+		"alignment": {
+			"type": "string",
+			"default": "center"
+		},
+		"colorHeaderBg": {
+			"type": "string"
+		},
+		"colorHeaderText": {
+			"type": "string"
+		},
+		"colorButtonBg": {
+			"type": "string"
+		},
+		"colorButtonText": {
+			"type": "string"
+		}
+	},
+	"editorScript": "citadela-price-table-block"
+}

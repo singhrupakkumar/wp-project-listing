@@ -1,0 +1,7 @@
+/*
+*	Citadela Block only editor css
+*/
+
+.citadela-block-page-title .page-title .entry-header h1					{ margin-bottom: 5px; }
+.citadela-block-page-title .page-title .entry-subtitle .rich-text,
+.citadela-block-page-title .page-title .entry-subtitle .ctdl-subtitle	{ margin-top: 0px; color: #1e1e1e; }

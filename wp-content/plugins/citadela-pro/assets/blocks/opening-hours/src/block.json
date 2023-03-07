@@ -1,0 +1,90 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-blocks/opening-hours",
+	"category": "citadela-blocks",
+	"icon:": "clock",
+	"attributes": {
+		"hideEmptyDays": {
+			"type": "boolean",
+			"default": false
+		},
+		"layout": {
+			"type": "string",
+			"default": "list"
+		},
+		"textAlign": {
+			"type": "string",
+			"default": "left"
+		},
+		"mondayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"tuesdayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"wednesdayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"thursdayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"fridayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"saturdayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"sundayTitle": {
+			"type": "string",
+			"default": ""
+		},
+		"mondayValue": {
+			"type": "string",
+			"default": "8:00 - 17:00"
+		},
+		"tuesdayValue": {
+			"type": "string",
+			"default": "8:00 - 17:00"
+		},
+		"wednesdayValue": {
+			"type": "string",
+			"default": "8:00 - 17:00"
+		},
+		"thursdayValue": {
+			"type": "string",
+			"default": "8:00 - 17:00"
+		},
+		"fridayValue": {
+			"type": "string",
+			"default":"8:00 - 17:00"
+		},
+		"saturdayValue": {
+			"type": "string",
+			"default": ""
+		},
+		"sundayValue": {
+			"type": "string",
+			"default": ""
+		},
+		"dayDataColor": {
+			"type": "string"
+		}, 
+		"dayLabelColor": {
+			"type": "string"
+		}, 
+		"linesColor": {
+			"type": "string"
+		},
+		"boxWidth": {
+			"type": "number",
+			"default": 200
+		}
+	},
+	"editorScript": "citadela-opening-hours-block"
+}

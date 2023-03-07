@@ -1,0 +1,14 @@
+/*
+*	ITEM GPX DOWNLOAD: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-gpx-download { margin-bottom: 1.5rem; }
+
+.ctdl-item-gpx-download.align-left 		{ text-align: left; }
+.ctdl-item-gpx-download.align-center 	{ text-align: center; }
+.ctdl-item-gpx-download.align-right 	{ text-align: right; }
+
+.ctdl-item-gpx-download .download-button > a					{ display: inline-block; max-width: 100%; height: auto; text-align: center; white-space: normal; box-sizing: border-box; vertical-align: top; }
+.ctdl-item-gpx-download:not(.text-style) .download-button > a 	{ background: #000000; color: #ffffff; border-radius: 4px; line-height: 1.3; }
+.ctdl-item-gpx-download.small-button-style .download-button > a { padding: 6px 20px; font-size: 14px; }
+.ctdl-item-gpx-download.large-button-style .download-button > a { padding: 12px 30px; font-size: 18px; }

@@ -1,0 +1,684 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: vi\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "% 1 $ s nghĩ về “% 2 $ s”"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "Chủ đề% s và các plugin AIT không tương thích"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "Chủ đề% s và sự không tương thích của PHP"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "Chủ đề% s và phiên bản WordPress không tương thích"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 trang widget khu vực"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "Mã API"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "Thêm nhiều lớp được phân tách bằng dấu cách."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "Thêm danh sách các khối &amp; tính năng của Gutenberg như Bản đồ, GPX, các bài đăng blog trên bản đồ hoặc đăng ký."
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "Quản trị viên → Danh sách Citadela → Kích hoạt plugin"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "Quản trị viên → Chủ đề Citadela"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "Quản trị viên → Cài đặt → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "Vẻ bề ngoài"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "Cài đặt giao diện cho trang web của bạn"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "Lưu trữ khu vực widget"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "Lưu trữ tác giả:"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "Khu vực widget trang blog"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "Kho lưu trữ danh mục:"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela đã kích hoạt"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Trang tổng quan Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Bố cục Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Citadela Listing"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Cài đặt trang Citadela"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Cài đặt bài đăng trên Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Đã cài đặt plugin Citadela Pro."
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Chủ đề Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "Tài liệu Citadela bao gồm mọi thứ bạn cần để hiểu cách hoạt động của theme và plugin cao cấp. Nó được viết để bạn và những người dùng khác làm quen với chủ đề của chúng tôi nhanh nhất có thể. Tài liệu được cập nhật hàng ngày. Bao gồm mô tả về các tính năng mới và các câu hỏi thường gặp từ bộ phận hỗ trợ của chúng tôi."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela là một chủ đề WordPress đa năng miễn phí được tạo bởi AitThemes. Bạn có thể sử dụng nó mà không có bất kỳ hạn chế nào trên trang web thương mại hoặc phi thương mại của bạn."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela là một chủ đề WordPress đa năng miễn phí. Bạn có thể sử dụng nó mà không có bất kỳ hạn chế nào trên trang web thương mại hoặc phi thương mại của bạn. Tuy nhiên, các plugin cao cấp của chúng tôi có thể chuyển trang web của bạn lên một cấp độ hoàn toàn mới!"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "Nhận xét <span class=\"screen-reader-text\">về% s</span>"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Bình luận được đóng lại."
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "Nhận xét <span class=\"screen-reader-text\">về% s</span>"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Nhận xét <span class=\"screen-reader-text\">về% s</span>"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "Được tạo bằng Chủ đề WordPress Citadela bởi AitThemes"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "Lớp CSS tùy chỉnh"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "Hỗ trợ khách hàng"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "Tùy chỉnh màu sắc, phông chữ và bố cục. Thêm các khối được tạo tùy chỉnh cho trình chỉnh sửa Gutenberg WordPress."
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "Ngày lưu trữ:"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "Miền"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "Tải xuống bố cục"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Chỉnh sửa <span class=\"screen-reader-text\">% s</span>"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "Envato Mã mua hàng"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "Lỗi khi cài đặt plugin"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "Lỗi khi cài đặt"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "Tư cách thành viên hết hạn"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Khám phá Bố cục Citadela"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "Chủ đề đa năng nhanh, nhẹ và dễ sử dụng. Được phát triển cho khối và trình tạo trang Gutenberg. Tốt nhất cho doanh nghiệp, web và blog cá nhân."
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "Văn bản chân trang"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "Menu chân trang"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "Khu vực tiện ích con ở chân trang"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "Trang đầy đủ độ rộng"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "Bố cục tiêu đề"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "Tài liệu hữu ích"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "Ẩn phần tiêu đề trang"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "Ẩn tiêu đề và dòng giới thiệu của trang web"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "Ẩn tiêu đề trang web và dòng giới thiệu trên máy tính để bàn"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "Ẩn tiêu đề trang web và dòng giới thiệu trên thiết bị di động"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "Chỉ ẩn dòng giới thiệu"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "Khu vực vật dụng gia đình"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Cài đặt các Plugin Citadela"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Cài đặt các plugin Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "Cài đặt"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "Đang cài đặt ..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "Khóa API không hợp lệ cho miền này"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "Mã mua hàng không hợp lệ cho miền này"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Có vẻ như không có gì được tìm thấy ở vị trí này. Có thể thử một trong các liên kết bên dưới hoặc tìm kiếm?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp ích."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "Gói bố cục"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "Trang thanh bên trái"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "Địa điểm"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "Mã mua MOJO"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "Thực đơn chính"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "Tiếp theo"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "Không có"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "không tìm thấy thứ gì"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Một suy nghĩ về “% 1 $ s”"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ối! Không thể tìm thấy trang đó."
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "Khu vực tiện ích con của trang"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "Các trang:"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "Quyền bị từ chối."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "Vui lòng nhập khóa API hợp lệ cho miền này. Bạn có thể định cấu hình nó trong% s."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "Vui lòng nhập Mã mua hàng hợp lệ cho miền này. Bạn có thể định cấu hình nó trong% s."
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "Vui lòng thử kiểm tra kích hoạt sản phẩm của bạn sau tại đây:"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "Cắm vào"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "Đã đăng trong"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "Đăng trên"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "Khu vực tiện ích bài đăng"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "Đã cài đặt các plugin Citadela cao cấp."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "Tính năng cao cấp"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "Plugin cao cấp"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "Trước"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Tính năng Pro"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "Mã mua hàng"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "Mã mua hàng% 1 $ s đã được sử dụng trên &quot;% 2 $ s&quot;. Nếu bạn muốn sử dụng nó trên trang web này, bạn có thể% 3 $ sdđăng ký nó tại đây% 4 $ s."
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "Mã mua hàng đã được sử dụng"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu ở đây</a> ."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Sẵn sàng sử dụng bố cục Citadela"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "Sẵn sàng sử dụng với một cú nhấp chuột, cài đặt các bố cục Citadela để bắt đầu trang web mới của bạn trong vài phút."
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "Xóa khoảng trắng dưới tiêu đề"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "Trang thanh bên phải"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "Tiết kiệm"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "Tìm kiếm kết quả cho:"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "Khu vực tiện ích con kết quả tìm kiếm"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "Cài đặt cho tiêu đề trang web"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác nhau."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "Bắt đầu đọc"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "Thẻ ghi lưu trữ:"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "Được gắn thẻ"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Cảm ơn bạn đã cài đặt Citadela Theme của AitThemes"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "Cảm ơn bạn đã sử dụng các plugin Citadela cao cấp. Là khách hàng thanh toán của AitThemes, bạn có quyền truy cập vào tài liệu và diễn đàn hỗ trợ của chúng tôi."
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "Khóa API cho localhost là không cần thiết."
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "Mã mua hàng đơn giản"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "Đã xảy ra lỗi khi cài đặt plugin."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "Trang web này đang chạy phiên bản dùng thử của các sản phẩm Citadela. Vui lòng mua thành viên để kích hoạt trang web. % 1 $ sXem tư cách thành viên hiện có% 2 $ s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "Đội ngũ hỗ trợ được đào tạo sẽ giúp bạn bắt đầu làm việc trên trang web của mình một cách nhanh chóng. Mục tiêu của chúng tôi là hướng dẫn bạn cách sử dụng các sản phẩm của chúng tôi một cách hiệu quả và đúng cách. Hệ thống hỗ trợ hoàn toàn bí mật và khép kín, bạn có thể hỏi bất kỳ câu hỏi nào liên quan đến chủ đề của chúng tôi mà bạn thích. Xin lưu ý rằng chúng tôi không thực hiện bất kỳ tùy chỉnh nào. Có rất nhiều nhà thiết kế địa điểm sẽ sẵn lòng giúp bạn với những ý tưởng tùy chỉnh của mình."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "Truy cập hỗ trợ"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "Chúng tôi không thể xác minh khóa API của bạn ngay bây giờ."
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "Chúng tôi không thể xác minh Mã mua hàng của bạn ngay bây giờ."
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "Chúng tôi cũng đã tạo ra các phiên bản cao cấp của Citadela sẽ chuyển trang web của bạn lên một cấp độ hoàn toàn mới."
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Chúng tôi nhận thấy rằng bạn đang chạy các plugin AIT không tương thích của Citadela (% s), vì vậy chúng tôi đã vô hiệu hóa chúng."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Chúng tôi nhận thấy rằng bạn đang chạy một phiên bản PHP lỗi thời không còn được hỗ trợ. Đảm bảo trang web của bạn nhanh và an toàn bằng cách <a href='%1$s'>nâng cấp PHP lên phiên bản mới nhất</a> . Yêu cầu tối thiểu cho% 2 $ s là <strong>PHP 5,6,20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Chúng tôi nhận thấy rằng bạn đang chạy một phiên bản WordPress lỗi thời. Đảm bảo trang web của bạn được bảo mật bằng cách <a href='%1$s'>cập nhật WordPress lên phiên bản mới nhất</a> . Yêu cầu tối thiểu cho% 2 $ s là <strong>WordPress 5.2</strong> ."
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "Các widget hiển thị ở chân trang."
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "Các widget hiển thị trên trang 404."
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "Các vật dụng hiển thị trên trang Shop."
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "Các widget hiển thị trên các trang lưu trữ."
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "Các widget hiển thị trên trang blog."
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "Các widget hiển thị trên trang chủ."
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "Các widget hiển thị trên các trang."
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "Các widget hiển thị trên bài viết."
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "Các widget hiển thị trên trang kết quả tìm kiếm."
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "Với các bố cục chủ đề Citadela WordPress của chúng tôi, bạn không cần phải thuê một nhà thiết kế để giúp bạn làm cho trang web của mình trông chuyên nghiệp. Các nhà thiết kế của chúng tôi đã làm điều đó cho bạn. Các bố cục WordPress của Citadela được thiết kế cẩn thận để phù hợp với doanh nghiệp của bạn. Tất cả những gì bạn cần là thay đổi nội dung để trình bày tác phẩm của mình. Nó giúp bạn tiết kiệm thời gian và tiền bạc."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Khu vực vật dụng Woocommerce Shop"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "Bạn có thể tìm thấy Mã mua hàng trong tài khoản% 1 $ sEnvato của mình → Tải xuống% 2 $ s trong nút Tải xuống."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "Bạn có thể tìm Mã mua hàng trong tài khoản% 1 $ sMOJO của mình → Chủ đề% 2 $ s."
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "Bạn có thể tìm thấy Mã mua hàng trong email mua hàng từ Themely."
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "Bạn có thể tạo Khóa API cho miền này trong% 1 $ saccount% 2 $ s của mình."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "Bạn có thể nhập bất kỳ bố cục nào trong số này để bắt đầu xây dựng trang web của mình. Bố cục có thể được nhập bằng plugin Citadela Pro."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "Bạn có thể nhập bất kỳ bố cục nào trong số này để bắt đầu xây dựng trang web của mình. Bố cục có thể được nhập bằng plugin Citadela Pro. Các gói bố cục có thể được tìm thấy trong tệp zip chính mà bạn có thể tải xuống từ Themeforest."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "Bạn có thể thử nghiệm phiên bản đầy đủ của các tính năng Citadela cao cấp miễn phí."
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "Bạn có thể thử nghiệm phiên bản đầy đủ của các tính năng Citadela cao cấp miễn phí. Đối với trang web đang hoạt động, bạn cần có tư cách thành viên đang hoạt động và khóa API hợp lệ cho miền này. % 1 $ sXem tư cách thành viên hiện có% 2 $ s."
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "Bạn không có quyền cài đặt plugin."
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "Bạn cần nhập% 1 $ s để sử dụng các tính năng cao cấp của Citadela. Một% 1 $ s sẽ cho phép bạn chạy Citadela trên một URL. Nó cũng sẽ đảm bảo cập nhật tự động cho chủ đề và plugin."
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "Bạn sẽ cần cái này để tạo Khóa API của mình"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "Tư cách thành viên của bạn đã hết hạn. Bạn có thể% 1 $ srenew nó tại đây% 2 $ s."
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "qua"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "bởi AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-theme"

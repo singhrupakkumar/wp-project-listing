@@ -1,0 +1,472 @@
+/*
+ * Citadela Theme - Mixins CSS
+ *
+ */
+
+/**************************************************/
+/*** && LAYOUT                                  ***/
+/**************************************************/
+
+@resMiniXS: 		300px;
+@resMini: 			400px;
+@resSmall: 			600px; 	/* must be the same as JS for body.responsive-menu class */
+@resSmallTablet: 	768px;
+@resTablet: 		1025px;
+@resLaptop: 		1267px;
+@resDesktop: 		1661px;
+
+@logoSpace:		auto; 
+@narrowContent:	768px;
+@wideContent:	1200px;  
+
+
+/********************************************************************/
+/*** && VARIABLES                                  				  ***/
+/********************************************************************/
+
+/* 	default variables:									  			*/
+/*														  			*/
+/*	@decorationColor 			- decoration color			  		*/
+/*	@headerBgColor 				- header backgroud 			  		*/
+/*	@headerImageUrl 			- header image url in quotes  		*/
+/*	@headerImageRepeat 			- repeat parameter			  		*/
+/*	@headerImagePosition 		- position parameter		  		*/
+/*	@headerImageAttachment 		- attachment parameter 				*/
+/*	@headerImageSize 			- size parameter			  		*/
+/*	@pageBgColor 				- page backgroud color				*/
+/*	@footerBgColor 				- footer backgroud color			*/
+/*	@buttonBorderRadius     	- radius for buttons				*/
+/*	@generalBorderRadius    	- general radius					*/
+/*	@contentSizeWidth    		- number  							*/
+/*	@wideSizeWidth    			- number							*/
+/*	@fullSizeWidth    			- number							*/
+/*	@spaceAroundLogoDesktop		- number							*/
+/*	@spaceAroundLogoMobile		- number							*/
+/*	@responsiveMenuButtonSpace 	- number							*/
+/*	@menuButtonColor 			- color for menu button				*/
+
+/*	@textFont	 				- font-family for main text			*/
+/*	@titlesFont	 				- font-family for titles			*/
+/*	@titlesFontWeight			- font-weight for titles			*/
+
+@contentWidth:		@contentSizeWidth + 0px;
+@wideWidth:			@wideSizeWidth + 0px;
+/* @fullWidth:			@fullSizeWidth + 0px; */
+
+@generalRadius:		@generalBorderRadius + 0px;
+@mediumRadius:		min(@generalBorderRadius, max((@generalBorderRadius * 0.75), 3)) + 0px;
+@smallRadius:		min(@generalBorderRadius, max((@generalBorderRadius * 0.5), 3)) + 0px;
+@miniRadius:		min(@generalBorderRadius, max((@generalBorderRadius * 0.25), 3)) + 0px;
+@buttonRadius:		@buttonBorderRadius + 0px;
+
+
+/**************************************************/
+/*** && FONT FUNCTIONS                          ***/
+/**************************************************/
+
+.fontIcon()			{ font-family: 'Font Awesome 5 Free'; font-weight: 900; }
+.fontText()			{ font-family: @textFont; }
+.fontTitle()		{ font-family: @titlesFont; }
+
+
+/**************************************************/
+/*** && COLORS                                  ***/
+/**************************************************/
+
+@decColorTxt: 				#222222;
+@decColorTxtInvert:			#ffffff;
+
+@colorTitle: 				#222222;
+@colorTitleInvert: 			#ffffff;
+@colorTxt: 					#222222;
+@colorTxtInvert: 			#ffffff;
+
+@headerColorTxt: 			#222222;
+@headerColorTxtInvert:		#ffffff;
+
+@footerColorTitle: 			#222222;
+@footerColorTitleInvert: 	#ffffff;
+@footerColorTxt: 			#222222;
+@footerColorTxtInvert: 		#ffffff;
+
+@intensity: 				75%;
+
+
+/*** DECORATION ***/
+
+.decTxtColor(@fade: 100%, @force: normal)
+{
+	.contrastColor(@decorationColor) when (luminance(@decorationColor) < @intensity)	
+	{ 
+		.priorityColor(@force) when (@force = normal)	{ color: fade(@decColorTxtInvert, @fade); fill: fade(@decColorTxtInvert, @fade); }
+		.priorityColor(@force) when (@force = high)		{ color: fade(@decColorTxtInvert, @fade) !important; fill: fade(@decColorTxtInvert, @fade) !important; }
+		
+		.priorityColor(@force);
+	}	
+
+	.contrastColor(@decorationColor) when (luminance(@decorationColor) >= @intensity)	
+	{ 
+		.priorityColor(@force) when (@force = normal)	{ color: fade(@decColorTxt, @fade); fill: fade(@decColorTxt, @fade); }
+		.priorityColor(@force) when (@force = high)		{ color: fade(@decColorTxt, @fade) !important; fill: fade(@decColorTxt, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	
+	.contrastColor(@decorationColor);
+}
+
+.decTxtBackground(@fade: 100%, @force: normal)
+{
+	.contrastColor(@decorationColor) when (luminance(@decorationColor) < @intensity)	
+	{ 
+		.priorityColor(@force) when (@force = normal)	{ background-color: fade(@decColorTxtInvert, @fade); }
+		.priorityColor(@force) when (@force = high)		{ background-color: fade(@decColorTxtInvert, @fade) !important; }
+		
+		.priorityColor(@force);
+	}	
+
+	.contrastColor(@decorationColor) when (luminance(@decorationColor) >= @intensity)	
+	{ 
+		.priorityColor(@force) when (@force = normal)	{ background-color: fade(@decColorTxt, @fade); }
+		.priorityColor(@force) when (@force = high)		{ background-color: fade(@decColorTxt, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	
+	.contrastColor(@decorationColor);
+}
+
+/*** PAGE ***/
+
+.pageTitleColor(@fade: 100%, @force: normal)
+{
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity)
+	{ 		
+		.priorityColor(@force) when (@force = normal)	{ color: fade(@colorTitleInvert, @fade); fill: fade(@colorTitleInvert, @fade); }
+		.priorityColor(@force) when (@force = high)		{ color: fade(@colorTitleInvert, @fade) !important; fill: fade(@colorTitleInvert, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)
+	{		
+		.priorityColor(@force) when (@force = normal) 	{ color: fade(@colorTitle, @fade); fill: fade(@colorTitle, @fade); }
+		.priorityColor(@force) when (@force = high) 	{ color: fade(@colorTitle, @fade) !important; fill: fade(@colorTitle, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	
+	.contrastColor(@pageBgColor);
+}
+
+.pageTitleBackground(@fade: 100%)
+{
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity) 		{ background-color: fade(@colorTitleInvert, @fade); }
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)		{ background-color: fade(@colorTitle, @fade); }
+	
+	.contrastColor(@pageBgColor);
+}
+
+.pageTxtColor(@fade: 70%)
+{
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity)		{ color: fade(@colorTxtInvert, @fade); }
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)		{ color: fade(@colorTxt, @fade); }
+	
+	.contrastColor(@pageBgColor);
+}
+.pageAutoFill(@fade: 70%)
+{
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity)		
+	{ 
+		&:-webkit-autofill,
+		&:-webkit-autofill:hover, 
+		&:-webkit-autofill:focus, 
+		&:-webkit-autofill:active	{ -webkit-box-shadow: 0 0 0px 1000px @pageBgColor inset; }
+		&:-webkit-autofill			{ -webkit-text-fill-color: fade(@colorTxtInvert, @fade); } 
+	}
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)		
+	{ 
+		&:-webkit-autofill,
+		&:-webkit-autofill:hover, 
+		&:-webkit-autofill:focus, 
+		&:-webkit-autofill:active	{ -webkit-box-shadow: 0 0 0px 1000px @pageBgColor inset; }
+		&:-webkit-autofill			{ -webkit-text-fill-color: fade(@colorTxt, @fade); }
+	}
+	
+	.contrastColor(@pageBgColor);
+}
+
+.pageBorderColor(@fade: 100%, @force: normal)
+{
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity) 		
+	{ 
+		.priorityColor(@force) when (@force = normal)		{ border-color: fade(@colorTitleInvert, @fade); }
+		.priorityColor(@force) when (@force = high)			{ border-color: fade(@colorTitleInvert, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)		
+	{ 
+		.priorityColor(@force) when (@force = normal)		{ border-color: fade(@colorTitle, @fade); } 
+		.priorityColor(@force) when (@force = high)			{ border-color: fade(@colorTitle, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	
+	.contrastColor(@pageBgColor);
+}
+
+.pageLineShadow()
+{
+
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity) 		{ box-shadow: 0 0 0 1px rgba(255,255,255,0.1) inset; }
+	.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)		{ box-shadow: 0 0 0 1px rgba(34,34,34,0.1) inset; }
+	
+	.contrastColor(@pageBgColor);
+}
+
+
+/*** HEADER ***/
+
+.headerTxtColor(@fade: 100%)
+{
+	.contrastColor(@headerBgColor) when (luminance(@headerBgColor) < @intensity)	{ color: fade(@headerColorTxtInvert, @fade); }
+	.contrastColor(@headerBgColor) when (luminance(@headerBgColor) >= @intensity)	{ color: fade(@headerColorTxt, @fade); }
+	
+	.contrastColor(@headerBgColor);
+}
+
+.headerTxtBgColor(@fade: 100%)
+{
+	.contrastColor(@headerBgColor) when (luminance(@headerBgColor) < @intensity)	{ background-color: fade(@headerColorTxtInvert, @fade); }
+	.contrastColor(@headerBgColor) when (luminance(@headerBgColor) >= @intensity)	{ background-color: fade(@headerColorTxt, @fade); }
+	
+	.contrastColor(@headerBgColor);
+}
+
+.headerBorderColor(@fade: 100%)
+{
+	.contrastColor(@headerBgColor) when (luminance(@headerBgColor) < @intensity) 	{ border-color: fade(@headerColorTxtInvert, @fade * 4); }
+	.contrastColor(@headerBgColor) when (luminance(@headerBgColor) >= @intensity)	{ border-color: fade(@headerColorTxt, @fade); }
+	
+	.contrastColor(@headerBgColor);
+}
+
+.logoSpaceDesktop() when (isnumber(@spaceAroundLogoDesktop))					{ padding-top: @spaceAroundLogoDesktop + 0px; padding-bottom: @spaceAroundLogoDesktop + 0px; }
+.logoSpaceMobile() when (isnumber(@spaceAroundLogoMobile))						{ padding-top: @spaceAroundLogoMobile + 0px; padding-bottom: @spaceAroundLogoMobile + 0px; }
+.menuButtonSpace() when (isnumber(@responsiveMenuButtonSpace))					{ padding-top: @responsiveMenuButtonSpace + 0px; padding-right: @responsiveMenuButtonSpace + 0px; }
+.menuButtonCorners(@args) when (isnumber(@responsiveMenuButtonSpace))
+{
+	.corner(@responsiveMenuButtonSpace) when (@responsiveMenuButtonSpace > 0)	{ .border-radius(@args); }
+	
+	.corner(@responsiveMenuButtonSpace);
+}
+
+.menuButtonColor(@fade: 100%) when (iscolor(@menuButtonColor))	{ background-color: fade(@menuButtonColor, @fade); }
+
+.menuButtonTxtColor(@fade: 100%) when (iscolor(@menuButtonColor))
+{
+	.contrastColor(@menuButtonColor) when (luminance(@menuButtonColor) < @intensity)	{ color: fade(@decColorTxtInvert, @fade); }
+	.contrastColor(@menuButtonColor) when (luminance(@menuButtonColor) >= @intensity)	{ color: fade(@decColorTxt, @fade); }
+	
+	.contrastColor(@menuButtonColor);
+}
+
+
+/*** FOOTER ***/
+
+.footerTitleColor(@fade: 100%, @force: normal)
+{
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) < @intensity)	
+	{
+		.priorityColor(@force) when (@force = normal) 	{ color: fade(@footerColorTitleInvert, @fade); fill: fade(@footerColorTitleInvert, @fade); }
+		.priorityColor(@force) when (@force = high)		{ color: fade(@footerColorTitleInvert, @fade) !important; fill: fade(@footerColorTitleInvert, @fade) !important; }	
+		
+		.priorityColor(@force);
+	}
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) >= @intensity)
+	{
+		.priorityColor(@force) when (@force = normal)	{ color: fade(@footerColorTitle, @fade); fill: fade(@footerColorTitle, @fade); }
+		.priorityColor(@force) when (@force = high)		{ color: fade(@footerColorTitle, @fade) !important; fill: fade(@footerColorTitle, @fade) !important; }
+		
+		.priorityColor(@force);
+	}
+	
+	.contrastColor(@footerBgColor);
+}
+
+.footerTitleBackground(@fade: 100%)
+{
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) < @intensity) 	{ background-color: fade(@footerColorTitleInvert, @fade); }
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) >= @intensity)	{ background-color: fade(@footerColorTitle, @fade); }
+	
+	.contrastColor(@footerBgColor);
+}
+
+.footerTxtColor(@fade: 70%)
+{
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) < @intensity)	{ color: fade(@footerColorTxtInvert, @fade); }
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) >= @intensity)	{ color: Fade(@footerColorTxt, @fade); }
+	
+	.contrastColor(@footerBgColor);
+}
+
+.footerBorderColor(@fade: 100%)
+{
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) < @intensity) 		{ border-color: fade(@footerColorTitleInvert, @fade); }
+	.contrastColor(@footerBgColor) when (luminance(@footerBgColor) >= @intensity)		{ border-color: fade(@footerColorTitle, @fade); }
+	
+	.contrastColor(@footerBgColor);
+}
+
+/*** ANNOUNCEMENTS BAR ***/
+
+.annbarTxtColor(@fade: 100%)
+{
+	.contrastColor(@announcementsBarBgColor) when (luminance(@announcementsBarBgColor) < @intensity)	{ color: fade(@decColorTxtInvert, @fade); }
+	.contrastColor(@announcementsBarBgColor) when (luminance(@announcementsBarBgColor) >= @intensity)	{ color: fade(@decColorTxt, @fade); }
+	
+	.contrastColor(@announcementsBarBgColor);
+}
+
+.annbarBtnTxtColor(@fade: 100%)
+{
+	.contrastColor(@announcementsBarButtonBgColor) when (luminance(@announcementsBarButtonBgColor) < @intensity)	{ color: fade(@decColorTxtInvert, @fade); }
+	.contrastColor(@announcementsBarButtonBgColor) when (luminance(@announcementsBarButtonBgColor) >= @intensity)	{ color: fade(@decColorTxt, @fade); }
+	
+	.contrastColor(@announcementsBarButtonBgColor);
+}
+
+/*** CUSTOM OBJECTS ***/
+
+.pageSelectArrow(@section: page)
+{
+	.sectionType(@section) when (@section = page)
+	{
+		.contrastColor(@pageBgColor) when (luminance(@pageBgColor) < @intensity) 		{ background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Ctitle%3Edown-arrow%3C%2Ftitle%3E%3Cg%20fill%3D%22%23000000%22%3E%3Cpath%20d%3D%22M10.293%2C3.293%2C6%2C7.586%2C1.707%2C3.293A1%2C1%2C0%2C0%2C0%2C.293%2C4.707l5%2C5a1%2C1%2C0%2C0%2C0%2C1.414%2C0l5-5a1%2C1%2C0%2C1%2C0-1.414-1.414Z%22%20fill%3D%22%23ffffff%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E"); }
+		.contrastColor(@pageBgColor) when (luminance(@pageBgColor) >= @intensity)		{ background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Ctitle%3Edown-arrow%3C%2Ftitle%3E%3Cg%20fill%3D%22%23000000%22%3E%3Cpath%20d%3D%22M10.293%2C3.293%2C6%2C7.586%2C1.707%2C3.293A1%2C1%2C0%2C0%2C0%2C.293%2C4.707l5%2C5a1%2C1%2C0%2C0%2C0%2C1.414%2C0l5-5a1%2C1%2C0%2C1%2C0-1.414-1.414Z%22%20fill%3D%22%23222222%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E"); }
+	
+		.contrastColor(@pageBgColor);
+	}
+	.sectionType(@section) when (@section = footer)
+	{
+		.contrastColor(@footerBgColor) when (luminance(@footerBgColor) < @intensity) 	{ background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Ctitle%3Edown-arrow%3C%2Ftitle%3E%3Cg%20fill%3D%22%23000000%22%3E%3Cpath%20d%3D%22M10.293%2C3.293%2C6%2C7.586%2C1.707%2C3.293A1%2C1%2C0%2C0%2C0%2C.293%2C4.707l5%2C5a1%2C1%2C0%2C0%2C0%2C1.414%2C0l5-5a1%2C1%2C0%2C1%2C0-1.414-1.414Z%22%20fill%3D%22%23ffffff%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E"); }
+		.contrastColor(@footerBgColor) when (luminance(@footerBgColor) >= @intensity)	{ background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%20viewBox%3D%220%200%2012%2012%22%3E%3Ctitle%3Edown-arrow%3C%2Ftitle%3E%3Cg%20fill%3D%22%23000000%22%3E%3Cpath%20d%3D%22M10.293%2C3.293%2C6%2C7.586%2C1.707%2C3.293A1%2C1%2C0%2C0%2C0%2C.293%2C4.707l5%2C5a1%2C1%2C0%2C0%2C0%2C1.414%2C0l5-5a1%2C1%2C0%2C1%2C0-1.414-1.414Z%22%20fill%3D%22%23222222%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fsvg%3E"); }
+	
+		.contrastColor(@footerBgColor);
+	}
+	
+	.sectionType(@section)
+}
+
+.strongTitle()
+{
+	.strongStyle(@titlesFontWeight) when (@titlesFontWeight = 900)		{ font-weight: 900; }
+	
+	.strongStyle(@titlesFontWeight);
+}
+
+
+/**************************************************/
+/*** && LAYOUT FUNCTIONS 		                ***/
+/**************************************************/
+
+.pageOffset(@type: default)
+{
+	.offsetType(@type) when (@type = default)	{ &	{ padding-left: 20px; padding-right: 20px; } 	@media all and (min-width: @resSmall)	{ padding-left: 40px; padding-right: 40px; }}
+	.offsetType(@type) when (@type = invert)	{ &	{ padding-left: 20px; padding-right: 20px; 
+													  margin-left: -20px; margin-right: -20px; } 	@media all and (min-width: @resSmall)	{ padding-left: 40px; padding-right: 40px; 
+													  																						  margin-left: -40px; margin-right: -40px; }}
+	.offsetType(@type) when (@type = desktop)	{ &	{ padding-left: 0px; padding-right: 0px; } 		@media all and (min-width: @resSmall)	{ padding-left: 40px; padding-right: 40px; }}
+	.offsetType(@type) when (@type = mobile)	{ &	{ padding-left: 20px; padding-right: 20px; } 	@media all and (min-width: @resSmall)	{ padding-left: 0px; padding-right: 0px; }}
+	.offsetType(@type) when (@type = none)		{ &	{ padding-left: 0px; padding-right: 0px; 
+													  margin-left: 0px; margin-right: 0px; } 		@media all and (min-width: @resSmall)	{ padding-left: 0px; padding-right: 0px; 
+													  																						  margin-left: 0px; margin-right: 0px; }}
+	.offsetType(@type) when (@type = padnone)	{ &	{ padding-left: 0px; padding-right: 0px;} 		@media all and (min-width: @resSmall)	{ padding-left: 0px; padding-right: 0px; }}												  	
+
+	.offsetType(@type); 
+}
+
+.noAlignSize() 									{ width: auto !important; max-width: none !important;  margin-left: 0 !important; left: 0 !important; }
+
+.fullWidth() when (isnumber(@fullSizeWidth))	{ max-width: @fullSizeWidth + 0px; }
+.fullWidthCenter() when (isnumber(@fullSizeWidth))
+{
+	@media all and (min-width: (@fullSizeWidth + 0px))
+	{
+		& { max-width: @fullSizeWidth + 0px; margin-left: (@fullSizeWidth + 0px) / -2; }
+	}
+}
+.fullWidthRadius()
+{
+	.setRadius() when (isnumber(@fullSizeWidth)) 
+	{
+		@media all and (max-width: (@fullSizeWidth + 0px))
+		{
+			& { border-radius: 0px !important; -webkit-clip-path: inset(0 0 0 0 round 0px) !important;}
+		}
+	}
+	.setRadius() when not (isnumber(@fullSizeWidth))
+	{
+		& { border-radius: 0px !important; -webkit-clip-path: inset(0 0 0 0 round 0px) !important;}
+	}
+	.setRadius();
+}
+
+/**************************************************/
+/*** && FUNCTIONS                               ***/
+/**************************************************/
+
+.clearfix()				{ content: "."; display: block; height: 0; overflow:hidden; clear: both; visibility: hidden; }
+.borderbox()			{ -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.contentbox()			{ -moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box; }
+.rounded()				{ -moz-border-radius: 100%; -webkit-border-radius: 100%; border-radius: 100%; }
+.border-radius(@args) 			{ -moz-border-radius: @args; -webkit-border-radius: @args; border-radius: @args; }
+.border-radius-forced(@args) 	{ -moz-border-radius: @args !important; -webkit-border-radius: @args !important; border-radius: @args !important; }
+.box-shadow(@args) 		{ -moz-box-shadow: @args; -webkit-box-shadow: @args; box-shadow: @args; }
+.text-overflow()		{ white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.transition(@args) 		{ -moz-transition: @args; -webkit-transition: @args; transition: @args; }
+
+.transform(@args) 		{ -moz-transform: @args; -webkit-transform: @args; -ms-transform: @args; transform: @args; }
+.transform-origin(@orgs){ -moz-transform-origin: @orgs; -webkit-transform-origin: @orgs; transform-origin: @orgs; }
+.timing(@time)			{ -webkit-transition-timing-function: @time; transition-timing-function: @time; }
+
+.rotate(@deg) 			{ -moz-transform: rotate(@deg); 	-webkit-transform: rotate(@deg); 	-ms-transform: rotate(@deg); 	transform: rotate(@deg); }
+.rotateX(@deg) 			{ -moz-transform: rotateX(@deg); 	-webkit-transform: rotateX(@deg); 	-ms-transform: rotateX(@deg); 	transform: rotateX(@deg); }
+.rotateY(@deg) 			{ -moz-transform: rotateY(@deg); 	-webkit-transform: rotateY(@deg); 	-ms-transform: rotateY(@deg); 	transform: rotateY(@deg); }
+
+.scale(@factor) 		{ -moz-transform: scale(@factor); -webkit-transform: scale(@factor); -ms-transform: scale(@factor); transform: scale(@factor); }
+
+.translate(@pos) 						{ -moz-transform: translate(@pos); 	-webkit-transform: translate(@pos); 	-ms-transform: translate(@pos); 	transform: translate(@pos); }
+.translateX(@pos) 						{ -moz-transform: translateX(@pos); -webkit-transform: translateX(@pos); 	-ms-transform: translateX(@pos); 	transform: translateX(@pos); }
+.translateY(@pos) 						{ -moz-transform: translateY(@pos); -webkit-transform: translateY(@pos); 	-ms-transform: translateY(@pos); 	transform: translateY(@pos); }
+.translate3d(@pos1:0, @pos2:0, @pos3:0)	{ -moz-transform: translate3d(@pos1, @pos2, @pos3); -webkit-transform: translate3d(@pos1, @pos2, @pos3); -ms-transform: translate3d(@pos1, @pos2, @pos3); transform: translate3d(@pos1, @pos2, @pos3); }
+
+.flex-block() 							{ display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: -ms-flex; display: flex; }
+.justify-content(@justification)		{ -webkit-box-pack: @justification; -moz-box-pack: @justification; -ms-flex-pack: replace(@justification, "flex-", ""); -webkit-justify-content: @justification; justify-content: @justification; }
+.flex(@args: none) 						{ -webkit-flex: @args; 			-moz-flex: @args; 			-ms-flex: @args; 			flex: @args; }
+.flex-grow(@grow: 0) 					{ -webkit-flex-grow: @grow; 	-moz-flex-grow: @grow; 		-ms-flex-grow: @grow; 		flex-grow: @grow; }
+.flex-flow(@flow) 						{ -webkit-flex-flow: @flow; 	-moz-flex-flow: @flow; 		-ms-flex-flow: @flow; 		flex-flow: @flow; }
+.flex-basis(@width: auto)				{ -webkit-flex-basis: @width;	-mox-flex-basis: @width;	-ms-flex-basis: @width;		flex-basis: @width; }
+.align-items(@align: stretch) 			{ -webkit-align-items: @align; 	-moz-align-items: @align; 	-ms-align-items: @align; 	align-items: @align; }
+.align-self(@align: stretch) 			{ -webkit-align-self: @align; 	align-self: @align; }
+.flex-order(@order: 0) 					{ -webkit-box-ordinal-group: @order;	-moz-box-ordinal-group: @order; 
+										  -webkit-order: @order;		-moz-order: @order;			-ms-flex-order: @order; -ms-order: @order;	order: @order; }
+
+/*** buttons ***/
+
+@butrad: 		3px;
+.buttonStyle()	{ display: inline-block; vertical-align: top; max-width: 100%; .borderbox; text-transform: uppercase; font-weight: 700; }
+
+.buttonType(@type)
+{
+	.styleLnk(@type) when (@type = normal)	{ border: 1px solid @theme-general-linesColor; background: none; color: @theme-general-titColor; }
+	.styleHvr(@type) when (@type = normal)	{ border: 1px solid @theme-general-objectColor; background: @theme-general-objectColor; color: #ffffff; }
+	
+	&		{ .styleLnk(@type); .border-radius(0px); padding: 12px 30px; .buttonStyle(); /*.stdButton(); */}
+	&:hover	{ .styleHvr(@type); .border-radius(40px);}
+}
+
+
+
+/* && end of FUNCTIONS */

@@ -1,0 +1,22 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/directory-membership-content",
+	"category": "citadela-directory-blocks",
+	"icon": "lock",
+	"attributes": {
+		"title": {
+			"type": "string",
+			"default": ""
+		},
+		"membership": {
+			"type": "string",
+			"default": "0"
+		},
+		"contentFor": {
+			"type": "string",
+			"default": "non-membership"
+		}
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

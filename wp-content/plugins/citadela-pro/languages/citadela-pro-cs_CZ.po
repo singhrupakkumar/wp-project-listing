@@ -1,0 +1,2812 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the same license as the Citadela Pro plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:29:27+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:29:27+00:00\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Project-Id-Version: Citadela Pro 5.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/citadela-pro\n"
+"X-Domain: citadela-pro\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:27
+msgid "%s plugin and PHP incompatiblity"
+msgstr "Nekompatibilita pluginu %s a PHP"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:58
+msgid "%s plugin and WordPress incompatiblity"
+msgstr "Nekompatibilita pluginu %s a WordPressu"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:238
+msgid "%s plugin has beed deactivated"
+msgstr "%s plugin byl deaktivován"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:79
+#: plugin/Compatibility.php:90
+msgid "%s plugin incompatibility"
+msgstr "Nekompatibilita pluginu %s"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:120
+msgid "(You can download them from your AitThemes account)"
+msgstr "(Můžete si je stáhnout ze svého účtu AitThemes)"
+
+#: assets/blocks/cluster/index.js:2925
+#: assets/blocks/cluster/index.js:3018
+#: assets/custom-header/components/background.js:68
+msgid "100% horizontal"
+msgstr "100% horizontální"
+
+#: assets/blocks/cluster/index.js:2929
+#: assets/blocks/cluster/index.js:3022
+#: assets/custom-header/components/background.js:69
+msgid "100% vertical"
+msgstr "100% vertikální"
+
+#: plugin/Infobar/Settings.php:18
+msgid "Accept"
+msgstr "Akceptovat"
+
+#: assets/blocks/spacer/index.js:623
+#: assets/blocks/spacer/src/index.js:12
+msgid "Add empty space between blocks that will look differently on desktop and on mobile devices."
+msgstr "Přidejte prázdné místo mezi bloky, které budou vypadat jinak na počítači a na mobilních zařízeních."
+
+#: plugin/Comments_Extension/Settings.php:80
+#: plugin/Comments_Extension/Settings.php:106
+#: plugin/Comments_Extension/Settings.php:132
+#: plugin/Comments_Extension/Settings.php:157
+msgid "Additional text"
+msgstr "Doplňkový text"
+
+#: plugin/Comments_Extension/Settings.php:84
+#: plugin/Comments_Extension/Settings.php:110
+#: plugin/Comments_Extension/Settings.php:136
+#: plugin/Comments_Extension/Settings.php:161
+msgid "Additional text displayed with the field. It can contain HTML formatting such as urls to link to your terms or privacy policy."
+msgstr "Dodatečný text zobrazený u pole. Může obsahovat formátování HTML, jako jsou adresy URL, které odkazují na vaše podmínky nebo zásady ochrany osobních údajů."
+
+#: plugin/Announcements_Bar/Settings.php:97
+msgctxt "settings"
+msgid "Advanced"
+msgstr "Pokročilý"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "Advanced settings"
+msgstr "Pokročilé nastavení"
+
+#. Author of the plugin
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: assets/blocks/components/toolbar-alignment.js:34
+#: assets/blocks/opening-hours/index.js:410
+#: assets/blocks/page-title/index.js:909
+#: assets/blocks/page-title/src/align-toolbar.js:32
+#: assets/blocks/price-table/index.js:165
+#: assets/blocks/responsive-text/index.js:928
+msgid "Align Text Center"
+msgstr "Zarovnat text na střed"
+
+#: assets/blocks/components/toolbar-alignment.js:28
+#: assets/blocks/opening-hours/index.js:403
+#: assets/blocks/page-title/index.js:902
+#: assets/blocks/page-title/src/align-toolbar.js:26
+#: assets/blocks/price-table/index.js:158
+#: assets/blocks/responsive-text/index.js:921
+msgid "Align Text Left"
+msgstr "Zarovnat text doleva"
+
+#: assets/blocks/components/toolbar-alignment.js:40
+#: assets/blocks/opening-hours/index.js:417
+#: assets/blocks/page-title/index.js:916
+#: assets/blocks/page-title/src/align-toolbar.js:38
+#: assets/blocks/price-table/index.js:172
+#: assets/blocks/responsive-text/index.js:935
+msgid "Align Text Right"
+msgstr "Zarovnat text vpravo"
+
+#: plugin/Customize.php:799
+msgid "Align logo section to the left side"
+msgstr "Zarovnejte část loga na levou stranu"
+
+#: assets/blocks/posts/index.js:1324
+#: assets/blocks/posts/src/edit.js:115
+msgid "All"
+msgstr "Všechno"
+
+#: plugin/Special_Pages/Feature.php:65
+msgid "All Special Pages"
+msgstr "Všechny speciální stránky"
+
+#. translators: %s plugin's name
+#: plugin/Plugin.php:241
+msgid "All blocks were moved to %s plugin."
+msgstr "Všechny bloky byly přesunuty do %s pluginu."
+
+#: assets/blocks/service/index.js:1844
+#: assets/blocks/service/src/index.js:12
+msgid "Allows you to easily add company services to your website."
+msgstr "Umožňuje snadno přidat firemní služby na váš web."
+
+#: assets/blocks/responsive-text/index.js:1409
+#: assets/blocks/responsive-text/src/index.js:11
+msgid "Allows you to insert text with custom settings and font."
+msgstr "Umožňuje vkládat text s vlastním nastavením a písmem."
+
+#: assets/blocks/page-title/index.js:1497
+#: assets/blocks/page-title/src/index.js:10
+msgid "Allows you to put page title anywhere you like. For example after header image."
+msgstr "Umožňuje umístit název stránky kamkoli chcete. Například po obrázku záhlaví."
+
+#: plugin/Customize.php:316
+msgid "Announcements Bar"
+msgstr "Oznamovací lišta"
+
+#: plugin/Announcements_Bar/Settings.php:38
+msgid "Announcements bar"
+msgstr "Panel oznámení"
+
+#: plugin/Announcements_Bar/Settings.php:60
+msgid "Announcements bar allows you to present any important announcements on the top of all your pages."
+msgstr "Panel oznámení vám umožňuje prezentovat všechna důležitá oznámení v horní části všech vašich stránek."
+
+#: plugin/Announcements_Bar/Settings.php:72
+msgid "Announcements bar is displayed after selected date and time."
+msgstr "Lišta oznámení se zobrazí po zvoleném datu a čase."
+
+#: plugin/Announcements_Bar/Settings.php:82
+msgid "Announcements bar is displayed until selected date and time."
+msgstr "Lišta oznámení se zobrazuje do zvoleného data a času."
+
+#: plugin/Integrations/Settings.php:77
+msgid "Anonymize IP address of your website visitors."
+msgstr "Anonymizace IP adresy návštěvníků vašeho webu."
+
+#: plugin/Customize.php:303
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: plugin/Customize.php:304
+msgid "Appearance settings for your website"
+msgstr "Nastavení vzhledu vašeho webu"
+
+#: plugin/Customize.php:403
+#: plugin/Customize.php:413
+msgid "Applied for Simple type of Announcements bar."
+msgstr "Použito pro jednoduchý typ panelu oznámení."
+
+#: assets/blocks/blog-posts/index.js:504
+#: assets/blocks/blog-posts/src/index.js:132
+#: assets/blocks/posts/index.js:1388
+#: assets/blocks/posts/src/edit.js:170
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: assets/blocks/page-title/index.js:1305
+#: assets/blocks/page-title/src/edit.js:131
+msgid "Author biographical info"
+msgstr "Životopisné informace autora"
+
+#: assets/blocks/page-title/index.js:1304
+#: assets/blocks/page-title/src/edit.js:130
+msgid "Author name"
+msgstr "Jméno autora"
+
+#: plugin/Customize.php:447
+msgid "Availability of selected style depends on selected font for titles."
+msgstr "Dostupnost zvoleného stylu závisí na zvoleném fontu pro nadpisy."
+
+#: assets/blocks/cluster/index.js:3604
+#: assets/blocks/cluster/index.js:3618
+#: assets/blocks/cluster/index.js:3632
+msgid "Available range"
+msgstr "Dostupný rozsah"
+
+#: assets/blocks/cluster/index.js:3249
+msgid "Background Image Overlay"
+msgstr "Překryvný obrázek na pozadí"
+
+#: assets/blocks/cluster/index.js:3137
+msgid "Background Settings"
+msgstr "Nastavení pozadí"
+
+#: assets/blocks/blog-posts/index.js:609
+#: assets/blocks/blog-posts/src/index.js:229
+#: assets/blocks/cluster/index.js:3083
+#: assets/blocks/cluster/index.js:3198
+#: assets/blocks/posts/index.js:1484
+#: assets/blocks/posts/src/edit.js:261
+#: assets/blocks/responsive-text/index.js:1836
+#: assets/blocks/responsive-text/src/inspector-controls.js:336
+#: assets/blocks/service/index.js:1969
+#: assets/blocks/service/src/inspector-controls.js:54
+#: assets/custom-header/components/background.js:138
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: assets/blocks/cluster/index.js:3069
+msgid "Background color type"
+msgstr "Typ barvy pozadí"
+
+#: assets/blocks/cluster/index.js:3092
+msgid "Background gradient"
+msgstr "Přechod na pozadí"
+
+#: assets/blocks/cluster/index.js:3174
+#: assets/custom-header/components/background.js:48
+#: assets/custom-header/components/background.js:54
+msgid "Background image"
+msgstr "Obrázek na pozadí"
+
+#: assets/blocks/cluster/index.js:2953
+msgid "Background image repeat"
+msgstr "Opakování obrázku na pozadí"
+
+#: assets/blocks/cluster/index.js:2918
+#: assets/blocks/cluster/index.js:3011
+msgid "Background image size"
+msgstr "Velikost obrázku na pozadí"
+
+#: assets/blocks/cluster/index.js:2975
+#: assets/blocks/cluster/index.js:3048
+msgid "Background position"
+msgstr "Pozice pozadí"
+
+#: plugin/Customize.php:336
+msgid "Background settings for your website header"
+msgstr "Nastavení pozadí pro záhlaví vašeho webu"
+
+#: plugin/Customize.php:402
+msgid "Bar Background color"
+msgstr "Bar Barva pozadí"
+
+#: assets/blocks/components/toolbar-font-weight.js:58
+#: assets/blocks/page-title/index.js:1022
+#: assets/blocks/responsive-text/index.js:1041
+msgid "Black"
+msgstr "Černá"
+
+#: plugin/Special_Pages/Page.php:15
+msgid "Blog Page"
+msgstr "Blogová stránka"
+
+#: assets/blocks/blog-posts/index.js:386
+#: assets/blocks/blog-posts/src/index.js:17
+msgid "Blog Posts"
+msgstr "Příspěvky na blogu"
+
+#: assets/blocks/cluster/index.js:4039
+#: assets/blocks/components/box-shadow-control.js:84
+msgid "Blur radius"
+msgstr "Poloměr rozostření"
+
+#: assets/blocks/components/toolbar-font-weight.js:48
+#: assets/blocks/page-title/index.js:1014
+#: assets/blocks/responsive-text/index.js:1033
+msgid "Bold"
+msgstr "tučně"
+
+#: plugin/Customize.php:456
+msgid "Bold (700)"
+msgstr "tučné (700)"
+
+#: assets/blocks/cluster/index.js:3333
+msgid "Border Settings"
+msgstr "Nastavení ohraničení"
+
+#: assets/blocks/cluster/index.js:3337
+msgid "Border color"
+msgstr "Barva ohraničení"
+
+#: assets/blocks/cluster/index.js:3358
+#: assets/blocks/price-table/index.js:679
+#: assets/blocks/price-table/src/inspector-controls.js:17
+msgid "Border radius"
+msgstr "Poloměr hranice"
+
+#: plugin/Customize.php:582
+msgid "Border radius options"
+msgstr "Možnosti poloměru ohraničení"
+
+#: assets/blocks/cluster/index.js:3346
+msgid "Border width"
+msgstr "Šířka okraje"
+
+#: assets/blocks/blog-posts/index.js:617
+#: assets/blocks/blog-posts/src/index.js:235
+#: assets/blocks/posts/index.js:1492
+#: assets/blocks/posts/src/edit.js:267
+msgid "Borders color"
+msgstr "Barva ohraničení"
+
+#: assets/blocks/blog-posts/index.js:625
+#: assets/blocks/blog-posts/src/index.js:241
+#: assets/blocks/posts/index.js:1500
+#: assets/blocks/posts/src/edit.js:273
+msgid "Borders width"
+msgstr "Šířka okrajů"
+
+#: plugin/Customize.php:941
+msgid "Bottom"
+msgstr "Dno"
+
+#: plugin/Infobar/Settings.php:66
+msgctxt "position"
+msgid "Bottom"
+msgstr "Dno"
+
+#: plugin/Customize.php:940
+msgid "Bottom Left"
+msgstr "Vlevo dole"
+
+#: plugin/Customize.php:942
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+#: assets/blocks/blog-posts/index.js:1199
+#: assets/blocks/components/toolbar-layout.js:56
+#: assets/blocks/opening-hours/index.js:564
+#: assets/blocks/posts/index.js:692
+#: assets/blocks/service/index.js:347
+msgid "Box layout"
+msgstr "Rozložení krabice"
+
+#: assets/blocks/opening-hours/index.js:1568
+#: assets/blocks/opening-hours/src/inspector-controls.js:45
+msgid "Box width"
+msgstr "Šířka krabice"
+
+#: plugin/Customize.php:822
+#: plugin/Customize.php:844
+msgid "Burger menu only"
+msgstr "Pouze burgerové menu"
+
+#: plugin/Customize.php:412
+msgid "Button Background color"
+msgstr "Tlačítko Barva pozadí"
+
+#: plugin/Announcements_Bar/Settings.php:136
+msgid "Button URL"
+msgstr "Adresa URL tlačítka"
+
+#: assets/blocks/price-table/index.js:765
+#: assets/blocks/price-table/src/inspector-controls.js:85
+msgid "Button background"
+msgstr "Pozadí tlačítka"
+
+#: assets/blocks/price-table/index.js:548
+#: assets/blocks/price-table/src/edit.js:159
+msgid "Button link"
+msgstr "Odkaz na tlačítko"
+
+#: assets/blocks/price-table/index.js:787
+#: assets/blocks/price-table/src/inspector-controls.js:106
+msgid "Button settings"
+msgstr "Nastavení tlačítek"
+
+#: plugin/Announcements_Bar/Settings.php:125
+#: plugin/Infobar/Settings.php:83
+#: assets/blocks/price-table/index.js:776
+#: assets/blocks/price-table/src/inspector-controls.js:95
+msgid "Button text"
+msgstr "Text tlačítka"
+
+#: plugin/Customize.php:603
+msgid "Buttons Border Radius"
+msgstr "Poloměr ohraničení tlačítek"
+
+#: templates/layouts/progress.php:54
+#: templates/layouts/progress.php:81
+msgid "Cancel"
+msgstr "zrušení"
+
+#: assets/blocks/cluster/index.js:4711
+#: assets/blocks/components/state-icons.js:28
+#: assets/blocks/page-title/index.js:688
+#: assets/blocks/responsive-text/index.js:707
+#: assets/blocks/spacer/index.js:296
+msgid "Carousel autoplay enabled"
+msgstr "Automatické přehrávání karuselu povoleno"
+
+#: assets/blocks/cluster/index.js:4705
+#: assets/blocks/components/state-icons.js:21
+#: assets/blocks/page-title/index.js:682
+#: assets/blocks/responsive-text/index.js:701
+#: assets/blocks/spacer/index.js:290
+msgid "Carousel loop mode enabled"
+msgstr "Režim karuselové smyčky povolen"
+
+#: templates/special-pages/post-article.php:125
+msgid "Categories"
+msgstr "Kategorie"
+
+#: assets/blocks/posts/index.js:1323
+#: assets/blocks/posts/src/edit.js:114
+msgid "Category"
+msgstr "Kategorie"
+
+#: assets/blocks/page-title/index.js:1273
+#: assets/blocks/page-title/src/edit.js:104
+msgid "Category description"
+msgstr "Popis kategorie"
+
+#: assets/blocks/page-title/index.js:1272
+#: assets/blocks/page-title/src/edit.js:103
+msgid "Category title"
+msgstr "Název kategorie"
+
+#: plugin/Blocks/Page_Title.php:53
+msgid "Category: "
+msgstr "Kategorie:"
+
+#: plugin/Customize.php:938
+msgid "Center"
+msgstr "Centrum"
+
+#: plugin/Config.php:19
+msgctxt "header layout"
+msgid "Center"
+msgstr "Centrum"
+
+#: assets/blocks/components/html-tag-control.js:35
+#: assets/blocks/components/html-tag-toolbar.js:35
+#: assets/blocks/responsive-text/index.js:318
+msgid "Change HTML tag"
+msgstr "Změnit značku HTML"
+
+#: assets/blocks/service/index.js:584
+#: assets/blocks/service/src/block-toolbars.js:103
+msgid "Change icon"
+msgstr "Změnit ikonu"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+#: assets/blocks/service/index.js:578
+#: assets/blocks/service/src/block-toolbars.js:89
+msgid "Change image"
+msgstr "Změnit obrázek"
+
+#: assets/blocks/cluster/index.js:195
+#: assets/blocks/cluster/src/background-toolbar.js:40
+msgid "Change image for desktop resolution"
+msgstr "Změnit obrázek pro rozlišení plochy"
+
+#: assets/blocks/cluster/index.js:211
+#: assets/blocks/cluster/src/background-toolbar.js:62
+msgid "Change image for mobile resolution"
+msgstr "Změnit obrázek pro mobilní rozlišení"
+
+#: plugin/Special_Pages/Feature.php:52
+msgid "Citadela - Special Pages"
+msgstr "Citadela - Speciální stránky"
+
+#: plugin/Blocks/Feature.php:54
+msgid "Citadela Blocks"
+msgstr "Citadela Blocks"
+
+#: assets/content-settings/editor.js:107
+msgid "Citadela Content Settings"
+msgstr "Nastavení obsahu Citadely"
+
+#: assets/half-layout/editor.js:86
+msgid "Citadela Half Layout Settings"
+msgstr "Nastavení polovičního rozvržení Citadely"
+
+#: assets/custom-header/editor.js:194
+msgid "Citadela Header Settings"
+msgstr "Nastavení záhlaví Citadela"
+
+#: plugin/Blocks/Feature.php:59
+msgid "Citadela Posts Blocks"
+msgstr "Citadela Posts Blocks"
+
+#. Plugin Name of the plugin
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: plugin/Plugin.php:170
+msgid "Citadela Service Block image size"
+msgstr "Velikost obrázku Citadela Service Block"
+
+#: plugin/Special_Pages/Feature.php:130
+#: plugin/Special_Pages/Feature.php:131
+msgid "Citadela Special Pages"
+msgstr "Speciální stránky Citadely"
+
+#: plugin/Config.php:18
+msgctxt "header layout"
+msgid "Classic"
+msgstr "Klasický"
+
+#: plugin/Config.php:14
+msgctxt "theme layout"
+msgid "Classic"
+msgstr "Klasický"
+
+#: assets/blocks/blog-posts/index.js:1057
+#: assets/blocks/cluster/index.js:4186
+#: assets/blocks/components/custom-color-control.js:63
+#: assets/blocks/opening-hours/index.js:200
+#: assets/blocks/page-title/index.js:200
+#: assets/blocks/posts/index.js:493
+msgid "Clear"
+msgstr "Průhledná"
+
+#: assets/blocks/cluster/index.js:2685
+#: assets/blocks/cluster/src/index.js:11
+msgid "Cluster"
+msgstr "Cluster"
+
+#: assets/blocks/cluster/index.js:2721
+#: assets/blocks/cluster/src/index.js:39
+msgid "Cluster Block"
+msgstr "Clusterový blok"
+
+#: plugin/Customize.php:710
+msgid "Collapse menu to button"
+msgstr "Sbalit nabídku na tlačítko"
+
+#: plugin/Customize.php:483
+msgid "Collapsible footer widgets options"
+msgstr "Možnosti skládacích widgetů zápatí"
+
+#: assets/blocks/opening-hours/index.js:1580
+#: assets/blocks/opening-hours/src/inspector-controls.js:57
+#: assets/blocks/page-title/index.js:1870
+#: assets/blocks/page-title/src/inspector-controls.js:293
+#: assets/blocks/responsive-text/index.js:1819
+#: assets/blocks/responsive-text/src/inspector-controls.js:319
+msgid "Color settings"
+msgstr "Nastavení barev"
+
+#: plugin/Customize.php:344
+#: assets/blocks/price-table/index.js:739
+#: assets/blocks/price-table/src/inspector-controls.js:60
+#: assets/blocks/service/index.js:1955
+#: assets/blocks/service/src/inspector-controls.js:38
+msgid "Colors"
+msgstr "Barvy"
+
+#: plugin/Comments_Extension/Settings.php:175
+msgid "Comment author name will not be linked to url inserted in Website field"
+msgstr "Jméno autora komentáře nebude spojeno s adresou URL vloženou do pole Web"
+
+#: plugin/Comments_Extension/Settings.php:144
+msgid "Comment text field"
+msgstr "Textové pole komentáře"
+
+#: plugin/Comments_Extension/Settings.php:57
+msgid "Comments Extension can be used to add help text to every single input in WordPress Comment form."
+msgstr "Rozšíření komentářů lze použít k přidání textu nápovědy ke každému jednotlivému vstupu ve formuláři komentáře WordPress."
+
+#: plugin/Comments_Extension/Settings.php:42
+msgid "Comments extension"
+msgstr "Rozšíření komentářů"
+
+#: plugin/Comments_Extension/Settings.php:169
+msgid "Comments links settings"
+msgstr "Nastavení odkazů na komentáře"
+
+#: templates/layouts/progress.php:53
+#: templates/layouts/progress.php:80
+msgid "Confirm"
+msgstr "Potvrdit"
+
+#: plugin/Customize.php:921
+msgid "Contain"
+msgstr "Obsahovat"
+
+#: templates/layouts/progress.php:103
+msgid "Content"
+msgstr "Obsah"
+
+#: plugin/Customize.php:534
+#: assets/blocks/cluster/index.js:289
+#: assets/blocks/cluster/src/block-controls.js:23
+msgid "Content size"
+msgstr "Velikost obsahu"
+
+#: assets/blocks/cluster/index.js:3603
+msgid "Content size width"
+msgstr "Šířka velikosti obsahu"
+
+#: assets/content-settings/editor.js:38
+msgid "Content width"
+msgstr "Šířka obsahu"
+
+#: plugin/Customize.php:528
+msgid "Content width sizes"
+msgstr "Velikosti šířky obsahu"
+
+#: plugin/Infobar/Settings.php:93
+msgid "Cookies expiration"
+msgstr "Vypršení platnosti cookies"
+
+#: plugin/Customize.php:920
+msgid "Cover"
+msgstr "Pokrýt"
+
+#: assets/blocks/cluster/index.js:2921
+#: assets/blocks/cluster/index.js:3014
+#: assets/custom-header/components/background.js:67
+msgctxt "label for css property \"cover\": image in background cover entire place"
+msgid "Cover"
+msgstr "Pokrýt"
+
+#: assets/blocks/cluster/index.js:3386
+msgid "Cover column height"
+msgstr "Výška krycího sloupku"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:314
+#: assets/blocks/spacer/index.js:322
+msgid "Current block view"
+msgstr "Aktuální blokové zobrazení"
+
+#: assets/blocks/page-title/index.js:1238
+#: assets/blocks/page-title/src/edit.js:71
+msgid "Current page title"
+msgstr "Název aktuální stránky"
+
+#: plugin/Customize.php:105
+msgid "Custom Header is enabled. Following options may not have effect for this page."
+msgstr "Vlastní záhlaví je povoleno. Následující možnosti nemusí mít pro tuto stránku vliv."
+
+#: plugin/Customize.php:72
+msgid "Custom Header with Custom Logo is enabled for this page. Change of logo image may not be visible in preview."
+msgstr "Pro tuto stránku je povoleno vlastní záhlaví s vlastním logem. Změna obrázku loga nemusí být v náhledu vidět."
+
+#: assets/blocks/page-title/index.js:1496
+#: assets/blocks/page-title/src/index.js:9
+msgid "Custom Page Title"
+msgstr "Vlastní název stránky"
+
+#: plugin/Integrations/Settings.php:83
+msgid "Custom codes"
+msgstr "Vlastní kódy"
+
+#: assets/custom-header/components/image-upload.js:39
+msgid "Custom image"
+msgstr "Vlastní obrázek"
+
+#: assets/custom-header/editor.js:72
+msgid "Custom logo"
+msgstr "Vlastní logo"
+
+#: assets/custom-header/editor.js:65
+msgid "Custom logo image"
+msgstr "Vlastní obrázek loga"
+
+#: plugin/Announcements_Bar/Settings.php:108
+msgid "Customize colors"
+msgstr "Přizpůsobte barvy"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:20
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "Customized options for mobile screen width."
+msgstr "Přizpůsobené možnosti pro šířku mobilní obrazovky."
+
+#: assets/blocks/blog-posts/index.js:484
+#: assets/blocks/blog-posts/src/index.js:117
+#: assets/blocks/page-title/index.js:1298
+#: assets/blocks/page-title/src/edit.js:125
+#: assets/blocks/posts/index.js:1368
+#: assets/blocks/posts/src/edit.js:155
+msgid "Date"
+msgstr "datum"
+
+#: assets/blocks/blog-posts/index.js:583
+#: assets/blocks/blog-posts/src/index.js:203
+#: assets/blocks/posts/index.js:1458
+#: assets/blocks/posts/src/edit.js:235
+msgid "Date color"
+msgstr "Barva data"
+
+#: plugin/Announcements_Bar/Settings.php:69
+msgid "Date from"
+msgstr "Datum od"
+
+#: plugin/Announcements_Bar/Settings.php:79
+msgid "Date to"
+msgstr "Datum do"
+
+#: assets/blocks/opening-hours/index.js:1597
+#: assets/blocks/opening-hours/src/inspector-controls.js:74
+msgid "Day hours color"
+msgstr "Den hodin barva"
+
+#: assets/blocks/opening-hours/index.js:1584
+#: assets/blocks/opening-hours/src/inspector-controls.js:62
+msgid "Day title color"
+msgstr "Barva názvu dne"
+
+#: assets/blocks/opening-hours/index.js:1560
+#: assets/blocks/opening-hours/src/inspector-controls.js:37
+msgid "Days without defined time will be hidden."
+msgstr "Dny bez definovaného času budou skryté."
+
+#: plugin/Customize.php:361
+msgid "Decoration Color"
+msgstr "Barva dekorace"
+
+#: assets/blocks/blog-posts/index.js:570
+#: assets/blocks/blog-posts/src/index.js:190
+#: assets/blocks/posts/index.js:1445
+#: assets/blocks/posts/src/edit.js:222
+msgid "Decoration color"
+msgstr "Barva dekorace"
+
+#: assets/content-settings/editor.js:41
+msgid "Default"
+msgstr "Výchozí"
+
+#: plugin/Config.php:11
+msgctxt "theme design"
+msgid "Default"
+msgstr "Výchozí"
+
+#: assets/blocks/cluster/index.js:2933
+#: assets/blocks/cluster/index.js:3026
+#: assets/custom-header/components/background.js:70
+msgctxt "default size of image in background"
+msgid "Default size"
+msgstr "Výchozí velikost"
+
+#: plugin/Customize.php:583
+msgid "Define border radius for different parts of design."
+msgstr "Definujte poloměr okraje pro různé části návrhu."
+
+#: assets/blocks/price-table/index.js:976
+#: assets/blocks/price-table/src/rows-component.js:109
+msgid "Delete row"
+msgstr "Smazat řádek"
+
+#: assets/blocks/blog-posts/index.js:501
+#: assets/blocks/blog-posts/src/index.js:131
+#: assets/blocks/posts/index.js:1385
+#: assets/blocks/posts/src/edit.js:169
+msgid "Descending"
+msgstr "Klesající"
+
+#: assets/blocks/blog-posts/index.js:566
+#: assets/blocks/blog-posts/src/index.js:185
+#: assets/blocks/posts/index.js:1441
+#: assets/blocks/posts/src/edit.js:217
+msgid "Design Options"
+msgstr "Možnosti návrhu"
+
+#: assets/blocks/cluster/index.js:4737
+#: assets/blocks/components/state-icons.js:59
+#: assets/blocks/page-title/index.js:714
+#: assets/blocks/responsive-text/index.js:733
+#: assets/blocks/spacer/index.js:322
+msgid "Desktop"
+msgstr "plocha počítače"
+
+#: plugin/Customize.php:650
+msgid "Desktop settings"
+msgstr "Nastavení plochy"
+
+#: assets/blocks/cluster/index.js:4580
+#: assets/blocks/components/responsive-options-tabs.js:30
+#: assets/blocks/page-title/index.js:557
+#: assets/blocks/responsive-text/index.js:576
+#: assets/blocks/spacer/index.js:165
+msgid "Desktop size"
+msgstr "Velikost plochy"
+
+#: plugin/Comments_Extension/Settings.php:171
+msgid "Disable author name link"
+msgstr "Zakázat odkaz na jméno autora"
+
+#: assets/blocks/responsive-text/index.js:1778
+#: assets/blocks/responsive-text/src/inspector-controls.js:269
+msgid "Disable default margins"
+msgstr "Zakázat výchozí okraje"
+
+#: plugin/Comments_Extension/Settings.php:192
+msgid "Disable editor comment links"
+msgstr "Zakázat odkazy na komentáře editoru"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Disable featured table"
+msgstr "Zakázat doporučenou tabulku"
+
+#: plugin/Comments_Extension/Settings.php:183
+msgid "Disable guest comment links"
+msgstr "Zakázat odkazy na komentáře hostů"
+
+#: assets/blocks/cluster/index.js:3001
+msgid "Disable image"
+msgstr "Zakázat obrázek"
+
+#: plugin/Integrations/Settings.php:141
+msgid "Disable import/export"
+msgstr "Zakázat import/export"
+
+#: plugin/Integrations/Settings.php:124
+msgid "Disable link to featured image in blog post"
+msgstr "Zakázat odkaz na doporučený obrázek v příspěvku na blogu"
+
+#: plugin/Comments_Extension/Settings.php:201
+msgid "Disable non-editor comment links"
+msgstr "Zakázat odkazy na komentáře, které nejsou editorem"
+
+#: assets/blocks/page-title/index.js:1840
+#: assets/blocks/page-title/src/inspector-controls.js:255
+msgid "Disable separator"
+msgstr "Zakázat oddělovač"
+
+#: assets/blocks/price-table/index.js:599
+#: assets/blocks/price-table/src/index.js:12
+msgid "Display product, service or packages offers in the table. Set the best deal, show discounted price and write important features for comparison."
+msgstr "Zobrazte v tabulce nabídky produktů, služeb nebo balíčků. Nastavte nejlepší nabídku, ukažte zlevněnou cenu a napište důležité funkce pro srovnání."
+
+#: assets/blocks/posts/index.js:1605
+#: assets/blocks/posts/src/index.js:11
+msgid "Displays list of posts based on filters. For example posts only from specific category."
+msgstr "Zobrazí seznam příspěvků na základě filtrů. Například příspěvky pouze z konkrétní kategorie."
+
+#: assets/blocks/blog-posts/index.js:387
+#: assets/blocks/blog-posts/src/index.js:18
+msgid "Displays paginated list of posts on WordPress Blog page."
+msgstr "Zobrazuje stránkovaný seznam příspěvků na stránce blogu WordPress."
+
+#: plugin/Customize.php:979
+msgid "Do not use float numbers, please."
+msgstr "Nepoužívejte plovoucí čísla, prosím."
+
+#: templates/layouts/progress.php:8
+msgid "Downloading&#8230;"
+msgstr "Stahování…"
+
+#: templates/layouts/progress.php:24
+msgid "Drop Layout package here"
+msgstr "Zde přetáhněte balíček rozložení"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:62
+msgid "Easily create and manage an events calendar with %1$sThe Events Calendar%2$s free plugin."
+msgstr "Pomocí bezplatného pluginu %1$sThe Events Calendar%2$s můžete snadno vytvářet a spravovat kalendář událostí."
+
+#: plugin/Special_Pages/Feature.php:64
+msgid "Edit Special Page"
+msgstr "Upravit speciální stránku"
+
+#: assets/custom-header/components/image-upload.js:70
+msgid "Edit or update the image"
+msgstr "Upravte nebo aktualizujte obrázek"
+
+#: plugin/Comments_Extension/Settings.php:92
+msgid "Email field"
+msgstr "Pole Email"
+
+#: plugin/Announcements_Bar/Settings.php:62
+#: plugin/Comments_Extension/Settings.php:59
+#: plugin/Infobar/Settings.php:55
+msgid "Enable"
+msgstr "Umožnit"
+
+#: plugin/Customize.php:488
+msgid "Enable collapsible footer wigets area"
+msgstr "Povolit oblast widgetů skládací zápatí"
+
+#: assets/blocks/price-table/index.js:270
+#: assets/blocks/price-table/src/block-controls.js:38
+msgid "Enable featured table"
+msgstr "Povolit doporučenou tabulku"
+
+#: plugin/Layouts/Download/Settings.php:30
+#: plugin/Layouts/Importer.php:78
+#: templates/layouts/progress.php:67
+msgid "Error"
+msgstr "Chyba"
+
+#: plugin/Events/Settings.php:29
+msgid "Events"
+msgstr "Události"
+
+#: plugin/Infobar/Settings.php:96
+msgid "Expiration of saved cookies in days."
+msgstr "Vypršení platnosti uložených souborů cookie ve dnech."
+
+#. translators: %s site name
+#: templates/layout-exporter/exporter.php:26
+msgid "Export %s Layout"
+msgstr "Exportovat rozložení %s"
+
+#: plugin/Customize.php:457
+msgid "Extra Bold (900)"
+msgstr "Extra tučné (900)"
+
+#: assets/blocks/components/toolbar-font-weight.js:53
+#: assets/blocks/page-title/index.js:1018
+#: assets/blocks/responsive-text/index.js:1037
+msgid "Extra-bold"
+msgstr "Extra odvážné"
+
+#: assets/blocks/components/toolbar-font-weight.js:23
+#: assets/blocks/page-title/index.js:994
+#: assets/blocks/responsive-text/index.js:1013
+msgid "Extra-light"
+msgstr "Extra lehké"
+
+#: assets/blocks/price-table/index.js:473
+#: assets/blocks/price-table/src/edit.js:90
+msgid "Featured"
+msgstr "Nejlepší"
+
+#: plugin/Integrations/Settings.php:121
+msgid "Featured image link"
+msgstr "Odkaz na doporučený obrázek"
+
+#: plugin/Comments_Extension/Settings.php:69
+#: plugin/Comments_Extension/Settings.php:95
+#: plugin/Comments_Extension/Settings.php:121
+#: plugin/Comments_Extension/Settings.php:146
+msgid "Field label"
+msgstr "Polní štítek"
+
+#: plugin/Special_Pages/Feature.php:68
+msgid "Filter special pages list"
+msgstr "Filtrovat seznam speciálních stránek"
+
+#: assets/blocks/blog-posts/index.js:463
+#: assets/blocks/blog-posts/src/index.js:93
+#: assets/blocks/posts/index.js:1318
+#: assets/blocks/posts/src/edit.js:108
+msgid "Filters"
+msgstr "Filtry"
+
+#: plugin/Customize.php:948
+#: assets/blocks/cluster/index.js:2944
+#: assets/blocks/cluster/index.js:3039
+msgid "Fixed background image"
+msgstr "Opravený obrázek na pozadí"
+
+#: assets/custom-header/components/background.js:94
+msgid "Fixed image"
+msgstr "Opravený obrázek"
+
+#: assets/blocks/page-title/index.js:1710
+#: assets/blocks/page-title/index.js:1776
+#: assets/blocks/page-title/src/inspector-controls.js:124
+#: assets/blocks/page-title/src/inspector-controls.js:191
+#: assets/blocks/responsive-text/index.js:1648
+#: assets/blocks/responsive-text/index.js:1714
+#: assets/blocks/responsive-text/src/inspector-controls.js:137
+#: assets/blocks/responsive-text/src/inspector-controls.js:204
+msgid "Font size"
+msgstr "Velikost písma"
+
+#: assets/blocks/page-title/index.js:1690
+#: assets/blocks/page-title/index.js:1756
+#: assets/blocks/page-title/src/inspector-controls.js:106
+#: assets/blocks/page-title/src/inspector-controls.js:173
+#: assets/blocks/responsive-text/index.js:1628
+#: assets/blocks/responsive-text/index.js:1694
+#: assets/blocks/responsive-text/src/inspector-controls.js:119
+#: assets/blocks/responsive-text/src/inspector-controls.js:186
+msgid "Font size unit"
+msgstr "Jednotka velikosti písma"
+
+#: plugin/Customize.php:381
+msgid "Footer Color"
+msgstr "Barva zápatí"
+
+#: plugin/Integrations/Settings.php:98
+msgid "Footer code"
+msgstr "Kód zápatí"
+
+#: assets/blocks/cluster/index.js:3429
+msgid "Forced inside space"
+msgstr "Nucený vnitřní prostor"
+
+#: assets/blocks/opening-hours/index.js:1354
+#: assets/blocks/opening-hours/index.js:1487
+#: assets/blocks/opening-hours/src/edit.js:209
+#: assets/blocks/opening-hours/src/index.js:23
+msgid "Friday"
+msgstr "pátek"
+
+#: templates/layouts/progress.php:48
+msgid "From AitThemes:"
+msgstr "Od AitThemes:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:119
+msgid "From AitThemes: %s"
+msgstr "Z AitThemes: %s"
+
+#: templates/layouts/progress.php:49
+msgid "From WordPress.org:"
+msgstr "Z WordPress.org:"
+
+#. translators: %s - list of required plugins
+#: plugin/Layouts/Importer.php:125
+msgid "From WordPress.org: %s"
+msgstr "Z WordPress.org: %s"
+
+#: plugin/Customize.php:823
+#: plugin/Customize.php:845
+msgid "Full Sticky header"
+msgstr "Plná lepicí hlavička"
+
+#: plugin/Customize.php:566
+msgid "Full size"
+msgstr "Plná velikost"
+
+#: assets/blocks/cluster/index.js:3631
+msgid "Full size width"
+msgstr "Šířka plné velikosti"
+
+#: assets/content-settings/editor.js:43
+msgid "Fullwidth"
+msgstr "Plná šířka"
+
+#: plugin/Customize.php:630
+msgid "Fullwidth header"
+msgstr "Záhlaví v plné šířce"
+
+#: assets/blocks/cluster/index.js:307
+#: assets/blocks/cluster/src/block-controls.js:35
+msgid "Fullwidth size"
+msgstr "Velikost na celou šířku"
+
+#: plugin/Customize.php:588
+msgid "General Border Radius"
+msgstr "Obecný hraniční poloměr"
+
+#: plugin/Customize.php:310
+msgid "General Layout"
+msgstr "Obecné rozložení"
+
+#: assets/blocks/cluster/index.js:4566
+#: assets/blocks/components/responsive-options-tabs.js:19
+#: assets/blocks/page-title/index.js:543
+#: assets/blocks/responsive-text/index.js:562
+#: assets/blocks/spacer/index.js:151
+msgid "General options for desktop."
+msgstr "Obecné možnosti pro desktop."
+
+#: plugin/Integrations/Settings.php:37
+#: assets/blocks/page-title/index.js:1849
+#: assets/blocks/page-title/src/inspector-controls.js:267
+#: assets/blocks/responsive-text/index.js:1787
+#: assets/blocks/responsive-text/src/inspector-controls.js:280
+msgid "General settings"
+msgstr "Obecné nastavení"
+
+#: plugin/Integrations/Settings.php:60
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: plugin/Integrations/Settings.php:65
+msgid "Google Analytics tracking ID."
+msgstr "ID sledování Google Analytics."
+
+#: assets/blocks/page-title/index.js:1830
+#: assets/blocks/page-title/src/inspector-controls.js:248
+#: assets/blocks/responsive-text/index.js:1768
+#: assets/blocks/responsive-text/src/inspector-controls.js:261
+msgid "Google font"
+msgstr "Písmo Google"
+
+#: assets/blocks/cluster/index.js:3074
+#: assets/blocks/cluster/index.js:3154
+msgid "Gradient"
+msgstr "Spád"
+
+#: assets/blocks/cluster/index.js:4360
+#: assets/blocks/components/gradient-control.js:92
+msgid "Gradient degree"
+msgstr "Gradientový stupeň"
+
+#: assets/blocks/cluster/index.js:3258
+msgid "Gradient overlay"
+msgstr "Překrytí přechodem"
+
+#: assets/blocks/cluster/index.js:3093
+msgid "Gradient under image, useful for .png images in background."
+msgstr "Přechod pod obrázkem, užitečný pro obrázky .png na pozadí."
+
+#: assets/blocks/responsive-text/index.js:1791
+#: assets/blocks/responsive-text/src/inspector-controls.js:285
+msgid "HTML tag"
+msgstr "HTML tag"
+
+#: plugin/Half_Layout/Feature.php:111
+#: plugin/Half_Layout/Feature.php:123
+msgid "Half layout page"
+msgstr "Poloviční rozložení stránky"
+
+#: plugin/Customize.php:335
+msgid "Header Background"
+msgstr "Pozadí záhlaví"
+
+#: plugin/Customize.php:868
+msgid "Header Color"
+msgstr "Barva záhlaví"
+
+#: plugin/Customize.php:878
+msgid "Header Color Overlay"
+msgstr "Barevné překrytí záhlaví"
+
+#: plugin/Customize.php:887
+msgid "Header Image"
+msgstr "Obrázek záhlaví"
+
+#: plugin/Customize.php:927
+msgid "Header Image Position"
+msgstr "Umístění obrázku záhlaví"
+
+#: plugin/Customize.php:896
+msgid "Header Image Repeat"
+msgstr "Opakování obrázku záhlaví"
+
+#: plugin/Customize.php:912
+msgid "Header Image Size"
+msgstr "Velikost obrázku záhlaví"
+
+#: plugin/Customize.php:322
+#: plugin/Customize.php:621
+msgid "Header Layout"
+msgstr "Rozložení záhlaví"
+
+#: assets/blocks/price-table/index.js:743
+#: assets/blocks/price-table/src/inspector-controls.js:65
+msgid "Header background"
+msgstr "Pozadí záhlaví"
+
+#: plugin/Integrations/Settings.php:85
+msgid "Header code"
+msgstr "Kód záhlaví"
+
+#: assets/blocks/price-table/index.js:754
+#: assets/blocks/price-table/src/inspector-controls.js:75
+msgid "Header text"
+msgstr "Text záhlaví"
+
+#: assets/blocks/cluster/index.js:3382
+msgid "Height Settings"
+msgstr "Nastavení výšky"
+
+#: assets/blocks/cluster/index.js:3478
+#: assets/blocks/spacer/index.js:728
+#: assets/blocks/spacer/index.js:820
+#: assets/blocks/spacer/src/inspector-controls.js:64
+#: assets/blocks/spacer/src/inspector-controls.js:149
+msgid "Height unit"
+msgstr "Jednotka výšky"
+
+#: assets/blocks/cluster/index.js:4717
+#: assets/blocks/components/state-icons.js:35
+#: assets/blocks/page-title/index.js:694
+#: assets/blocks/responsive-text/index.js:713
+#: assets/blocks/spacer/index.js:302
+msgid "Hidden on desktop"
+msgstr "Skryté na ploše"
+
+#: assets/blocks/cluster/index.js:4723
+#: assets/blocks/components/state-icons.js:42
+#: assets/blocks/page-title/index.js:700
+#: assets/blocks/responsive-text/index.js:719
+#: assets/blocks/spacer/index.js:308
+msgid "Hidden on mobile"
+msgstr "Skryté v mobilu"
+
+#: plugin/Customize.php:829
+msgid "Hidden title in full sticky header on desktop"
+msgstr "Skrytý název v úplném nalepovacím záhlaví na ploše"
+
+#: plugin/Customize.php:851
+msgid "Hidden title in full sticky header on mobile"
+msgstr "Skrytý název v úplném nalepovacím záhlaví na mobilu"
+
+#: plugin/Customize.php:828
+msgid "Hide Site title"
+msgstr "Skrýt název webu"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Hide button with link"
+msgstr "Skrýt tlačítko s odkazem"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Hide discount price"
+msgstr "Skrýt zlevněnou cenu"
+
+#: assets/blocks/opening-hours/index.js:1559
+#: assets/blocks/opening-hours/src/inspector-controls.js:36
+msgid "Hide empty days"
+msgstr "Skryjte prázdné dny"
+
+#: assets/blocks/cluster/index.js:3416
+msgid "Hide only on mobile"
+msgstr "Skrýt pouze na mobilu"
+
+#: plugin/Customize.php:850
+msgid "Hide site title"
+msgstr "Skrýt název webu"
+
+#: plugin/Customize.php:696
+#: plugin/Customize.php:704
+#: plugin/Customize.php:784
+#: plugin/Customize.php:792
+msgid "Hide site title and tagline"
+msgstr "Skrýt název webu a slogan"
+
+#: plugin/Customize.php:705
+#: plugin/Customize.php:793
+msgid "Hide tagline only"
+msgstr "Skrýt pouze slogan"
+
+#: assets/blocks/cluster/index.js:4019
+#: assets/blocks/components/box-shadow-control.js:64
+msgid "Horizontal offset"
+msgstr "Horizontální odsazení"
+
+#: assets/blocks/service/index.js:1959
+#: assets/blocks/service/src/inspector-controls.js:44
+msgid "Icon color"
+msgstr "Barva ikony"
+
+#: assets/blocks/blog-posts/index.js:514
+#: assets/blocks/blog-posts/src/index.js:143
+#: assets/blocks/posts/index.js:1353
+#: assets/blocks/posts/src/edit.js:140
+msgid "If enabled, sticky posts will be displayed on the top of listed posts."
+msgstr "Je-li povoleno, budou se v horní části uvedených příspěvků zobrazovat pevné příspěvky."
+
+#: assets/blocks/cluster/index.js:3148
+msgid "Image"
+msgstr "obraz"
+
+#: assets/custom-header/components/background.js:114
+msgid "Image overlay color"
+msgstr "Barva překryvného obrázku"
+
+#: assets/custom-header/components/background.js:102
+msgid "Image position"
+msgstr "Pozice obrázku"
+
+#: assets/custom-header/components/background.js:79
+msgid "Image repeat"
+msgstr "Opakování obrazu"
+
+#: assets/custom-header/components/background.js:62
+msgid "Image size"
+msgstr "Velikost obrázku"
+
+#: templates/layouts/progress.php:111
+msgid "Images"
+msgstr "snímky"
+
+#: templates/layouts/download.php:34
+msgid "Import Layout"
+msgstr "Importovat rozložení"
+
+#: plugin/Integrations/Settings.php:144
+msgid "Import and export layout settings pages will be disabled"
+msgstr "Import a export stránek nastavení rozvržení budou zakázány"
+
+#: templates/layouts/progress.php:122
+msgid "Import done!"
+msgstr "Import dokončen!"
+
+#: plugin/Layouts/Upload/Settings.php:51
+msgid "Import layout from file"
+msgstr "Import rozložení ze souboru"
+
+#: templates/layouts/progress.php:78
+msgid "Import of Layout package will <strong>delete all your content</strong> - all Posts, Pages, Media, Tags and Categories."
+msgstr "Import balíčku Layout <strong>smaže veškerý váš obsah</strong> – všechny příspěvky, stránky, média, štítky a kategorie."
+
+#: plugin/Customize.php:756
+msgid "In \"em\" unit"
+msgstr "V jednotce &quot;em&quot;."
+
+#: plugin/Infobar/Settings.php:35
+msgid "Infobar"
+msgstr "Informační lišta"
+
+#: plugin/Infobar/Settings.php:51
+msgid "Infobar can be used to display cookies notification on your website. It is displayed to all new visitors that come to your website. They can click on the button to hide it. Infobar is then hidden for number of days set it “Cookie expiration” field."
+msgstr "Informační panel lze použít k zobrazení upozornění na soubory cookie na vašem webu. Zobrazí se všem novým návštěvníkům, kteří přijdou na váš web. Mohou kliknout na tlačítko a skrýt jej. Informační lišta je poté skryta po dobu, po kterou nastavte pole „Vypršení platnosti cookie“."
+
+#: plugin/Announcements_Bar/Settings.php:140
+msgid "Insert URL for button. Leave empty to hide the button."
+msgstr "Vložit URL pro tlačítko. Chcete-li tlačítko skrýt, ponechte prázdné."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:991
+msgid "Insert number larger than %1$s, or leave empty for default value."
+msgstr "Vložte číslo větší než %1$s nebo ponechte prázdné pro výchozí hodnotu."
+
+#. translators: 1. minimum number value
+#: plugin/Customize.php:1002
+msgid "Insert number larger than %1$s."
+msgstr "Vložte číslo větší než %1$s."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:987
+msgid "Insert number smaller than %1$s, or leave empty for default value."
+msgstr "Vložte číslo menší než %1$s nebo ponechte prázdné pro výchozí hodnotu."
+
+#. translators: 1. maximum number value
+#: plugin/Customize.php:998
+msgid "Insert number smaller than %1$s."
+msgstr "Vložte číslo menší než %1$s."
+
+#: assets/blocks/price-table/index.js:982
+#: assets/blocks/price-table/src/rows-component.js:115
+msgid "Insert row after"
+msgstr "Vložit řádek za"
+
+#: assets/blocks/responsive-text/index.js:1369
+#: assets/blocks/responsive-text/src/edit.js:201
+msgid "Insert text"
+msgstr "Vložte text"
+
+#: plugin/Customize.php:1005
+msgid "Insert valid number, please."
+msgstr "Vložte prosím platné číslo."
+
+#: plugin/Integrations/Settings.php:60
+msgid "Insert your Google Analytics Tracking ID. Google Analytics tracking code will be added to your website."
+msgstr "Vložte své ID sledování Google Analytics. Sledovací kód Google Analytics bude přidán na váš web."
+
+#: assets/blocks/cluster/index.js:4059
+#: assets/blocks/components/box-shadow-control.js:105
+msgid "Inset shadow"
+msgstr "Vložený stín"
+
+#: plugin/Layouts/Importer.php:113
+msgid "Install required plugins"
+msgstr "Nainstalujte požadované pluginy"
+
+#: templates/layouts/progress.php:63
+msgid "Installing and activating plugins&#8230;"
+msgstr "Instalace a aktivace pluginů…"
+
+#: plugin/Layouts/Importer.php:41
+msgid "It's not Citadela Layout package"
+msgstr "Není to balíček Citadela Layout"
+
+#: assets/blocks/page-title/index.js:1266
+#: assets/blocks/page-title/src/edit.js:98
+msgid "Item subtitle"
+msgstr "Podnadpis položky"
+
+#: assets/blocks/page-title/index.js:1265
+#: assets/blocks/page-title/src/edit.js:97
+msgid "Item title"
+msgstr "Název položky"
+
+#: assets/blocks/cluster/index.js:3441
+msgid "Large"
+msgstr "Velký"
+
+#: assets/blocks/blog-posts/index.js:1347
+#: assets/blocks/components/toolbar-size.js:44
+#: assets/blocks/posts/index.js:840
+msgid "Large size"
+msgstr "Velká velikost"
+
+#: plugin/Layout_Exporter/Settings.php:16
+msgid "Layout Exporter"
+msgstr "Exportér rozložení"
+
+#: templates/layout-exporter/exporter.php:20
+msgid "Layout Exporter feature exports WordPress pages, posts and all Citadela options and settings. You can use Layout Exporter to create a Citadela layout that you can easily install to another Citadela website."
+msgstr "Funkce Layout Exporter exportuje stránky WordPress, příspěvky a všechny možnosti a nastavení Citadela. Pomocí nástroje Layout Exporter můžete vytvořit rozložení Citadela, které můžete snadno nainstalovat na jiný web Citadela."
+
+#: plugin/Layouts/Importer.php:302
+msgid "Layout Importer needs to have the PHP ZIP extension installed. Please install it or contact your hosting provider."
+msgstr "Layout Importer musí mít nainstalované rozšíření PHP ZIP. Nainstalujte jej nebo kontaktujte svého poskytovatele hostingu."
+
+#: plugin/Integrations/Settings.php:139
+msgid "Layout import/export settings"
+msgstr "Nastavení importu/exportu rozložení"
+
+#: plugin/Layouts/Download/Settings.php:45
+msgid "Layouts"
+msgstr "Rozvržení"
+
+#: plugin/Integrations/Feature.php:46
+msgid "Layouts import and export is disabled"
+msgstr "Import a export rozvržení je zakázán"
+
+#: plugin/Customize.php:937
+msgid "Left"
+msgstr "Vlevo, odjet"
+
+#: plugin/Customize.php:798
+msgid "Left align logo"
+msgstr "Logo zarovnat doleva"
+
+#: assets/half-layout/editor.js:19
+msgid "Left side"
+msgstr "Levá strana"
+
+#: assets/blocks/page-title/index.js:1815
+#: assets/blocks/page-title/src/inspector-controls.js:232
+#: assets/blocks/responsive-text/index.js:1753
+#: assets/blocks/responsive-text/src/inspector-controls.js:245
+msgid "Letter spacing"
+msgstr "Mezery mezi písmeny"
+
+#: assets/blocks/components/toolbar-font-weight.js:28
+#: assets/blocks/page-title/index.js:998
+#: assets/blocks/responsive-text/index.js:1017
+msgid "Light"
+msgstr "Světlo"
+
+#: plugin/Customize.php:454
+msgid "Light (100)"
+msgstr "Světlo (100)"
+
+#: assets/blocks/page-title/index.js:1726
+#: assets/blocks/page-title/index.js:1792
+#: assets/blocks/page-title/src/inspector-controls.js:138
+#: assets/blocks/page-title/src/inspector-controls.js:205
+#: assets/blocks/responsive-text/index.js:1664
+#: assets/blocks/responsive-text/index.js:1730
+#: assets/blocks/responsive-text/src/inspector-controls.js:151
+#: assets/blocks/responsive-text/src/inspector-controls.js:218
+msgid "Line height"
+msgstr "Výška řádku"
+
+#: assets/blocks/opening-hours/index.js:1610
+#: assets/blocks/opening-hours/src/inspector-controls.js:86
+msgid "Lines color"
+msgstr "Barva čar"
+
+#: assets/blocks/service/index.js:2002
+#: assets/blocks/service/src/inspector-controls.js:87
+msgid "Link"
+msgstr "Odkaz"
+
+#: assets/blocks/blog-posts/index.js:1191
+#: assets/blocks/components/toolbar-layout.js:50
+#: assets/blocks/opening-hours/index.js:556
+#: assets/blocks/posts/index.js:684
+#: assets/blocks/service/index.js:339
+msgid "List layout"
+msgstr "Rozvržení seznamu"
+
+#: templates/special-pages/post-article.php:106
+msgid "Location"
+msgstr "Umístění"
+
+#: assets/blocks/page-title/index.js:1280
+#: assets/blocks/page-title/src/edit.js:110
+msgid "Location description"
+msgstr "Popis místa"
+
+#: assets/blocks/page-title/index.js:1279
+#: assets/blocks/page-title/src/edit.js:109
+msgid "Location title"
+msgstr "Název místa"
+
+#: plugin/Blocks/Page_Title.php:83
+msgid "Location: "
+msgstr "Umístění:"
+
+#: plugin/Customize.php:755
+msgid "Logo font size"
+msgstr "Velikost písma loga"
+
+#: assets/custom-header/editor.js:66
+msgid "Logo image in custom header."
+msgstr "Obrázek loga ve vlastním záhlaví."
+
+#: plugin/Customize.php:655
+#: plugin/Customize.php:742
+msgid "Logo image max width"
+msgstr "Maximální šířka obrázku loga"
+
+#: plugin/Customize.php:668
+msgid "Logo space max width"
+msgstr "Prostor pro logo max. šířka"
+
+#: plugin/Customize.php:329
+msgid "Main Menu"
+msgstr "Hlavní menu"
+
+#: assets/blocks/components/toolbar-font-weight.js:38
+#: assets/blocks/page-title/index.js:1006
+#: assets/blocks/responsive-text/index.js:1025
+msgid "Medium"
+msgstr "Střední"
+
+#: assets/blocks/blog-posts/index.js:1340
+#: assets/blocks/components/toolbar-size.js:38
+#: assets/blocks/posts/index.js:833
+msgid "Medium size"
+msgstr "Střední velikost"
+
+#: assets/blocks/price-table/index.js:612
+#: assets/blocks/price-table/src/index.js:23
+msgid "Membership"
+msgstr "Členství"
+
+#: plugin/Customize.php:638
+msgid "Menu button color"
+msgstr "Barva tlačítka nabídky"
+
+#: plugin/Customize.php:567
+msgid "Minimum value 1500px, leave empty for unlimited width."
+msgstr "Minimální hodnota 1500px, pro neomezenou šířku ponechte prázdné."
+
+#: assets/blocks/cluster/index.js:3499
+msgid "Mininum height"
+msgstr "Minimální výška"
+
+#: assets/blocks/cluster/index.js:4729
+#: assets/blocks/components/state-icons.js:52
+#: assets/blocks/page-title/index.js:706
+#: assets/blocks/responsive-text/index.js:725
+#: assets/blocks/spacer/index.js:314
+msgid "Mobile"
+msgstr "mobilní, pohybliví"
+
+#: assets/blocks/cluster/index.js:3401
+msgid "Mobile Settings"
+msgstr "Mobilní nastavení"
+
+#: plugin/Customize.php:737
+msgid "Mobile settings"
+msgstr "Mobilní nastavení"
+
+#: assets/blocks/cluster/index.js:4593
+#: assets/blocks/components/responsive-options-tabs.js:38
+#: assets/blocks/page-title/index.js:570
+#: assets/blocks/responsive-text/index.js:589
+#: assets/blocks/spacer/index.js:178
+msgid "Mobile size"
+msgstr "Mobilní velikost"
+
+#: assets/blocks/cluster/index.js:3540
+#: assets/blocks/page-title/index.js:1593
+#: assets/blocks/page-title/src/inspector-controls.js:20
+#: assets/blocks/responsive-text/index.js:1513
+#: assets/blocks/responsive-text/src/inspector-controls.js:20
+#: assets/blocks/spacer/index.js:681
+#: assets/blocks/spacer/src/inspector-controls.js:17
+msgid "Mobile width breakpoint"
+msgstr "Bod přerušení mobilní šířky"
+
+#: plugin/Config.php:15
+msgctxt "theme layout"
+msgid "Modern"
+msgstr "Moderní"
+
+#: assets/blocks/opening-hours/index.js:1222
+#: assets/blocks/opening-hours/index.js:1483
+#: assets/blocks/opening-hours/src/edit.js:97
+#: assets/blocks/opening-hours/src/index.js:19
+msgid "Monday"
+msgstr "pondělí"
+
+#: assets/blocks/price-table/index.js:970
+#: assets/blocks/price-table/src/rows-component.js:102
+msgid "Move down"
+msgstr "Posunout dolů"
+
+#: assets/blocks/price-table/index.js:964
+#: assets/blocks/price-table/src/rows-component.js:95
+msgid "Move up"
+msgstr "Posuňte se nahoru"
+
+#: plugin/Comments_Extension/Settings.php:66
+msgid "Name field"
+msgstr "Název pole"
+
+#: templates/special-pages/pagination.php:16
+msgid "Next"
+msgstr "další"
+
+#: plugin/Customize.php:903
+msgid "No Repeat"
+msgstr "Žádné opakování"
+
+#: assets/blocks/blog-posts/index.js:628
+#: assets/blocks/blog-posts/src/index.js:244
+#: assets/blocks/posts/index.js:1503
+#: assets/blocks/posts/src/edit.js:276
+msgid "No borders"
+msgstr "Žádné hranice"
+
+#: assets/blocks/cluster/index.js:2956
+#: assets/custom-header/components/background.js:82
+msgctxt "label for css property \"no-repeat\": do not repeat image in background"
+msgid "No repeat"
+msgstr "Žádné opakování"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:206
+msgid "No results found."
+msgstr "Nebyly nalezeny žádné výsledky."
+
+#: plugin/Special_Pages/Feature.php:67
+msgid "No special pages found."
+msgstr "Nebyly nalezeny žádné speciální stránky."
+
+#: plugin/Customize.php:703
+#: plugin/Customize.php:791
+#: plugin/Customize.php:821
+#: plugin/Customize.php:843
+#: assets/blocks/cluster/index.js:3145
+#: assets/blocks/cluster/index.js:3432
+#: assets/blocks/service/index.js:554
+#: assets/blocks/service/src/block-toolbars.js:67
+msgid "None"
+msgstr "Žádný"
+
+#: plugin/Customize.php:455
+msgid "Normal (400)"
+msgstr "Normální (400)"
+
+#: assets/custom-header/editor.js:58
+msgid "Note: standard page title will be hidden."
+msgstr "Poznámka: Název standardní stránky bude skrytý."
+
+#: assets/blocks/posts/index.js:1332
+#: assets/blocks/posts/src/edit.js:120
+msgid "Number of items"
+msgstr "Počet položek"
+
+#: templates/layouts/progress.php:14
+#: templates/layouts/progress.php:35
+#: templates/layouts/progress.php:69
+msgid "OK"
+msgstr "OK"
+
+#: assets/blocks/page-title/index.js:1310
+#: assets/blocks/page-title/src/edit.js:135
+msgid "Oops! That page can't be found."
+msgstr "Jejda! Ta stránka se nedá najít."
+
+#: assets/blocks/service/index.js:2006
+#: assets/blocks/service/src/inspector-controls.js:93
+msgid "Open in new window"
+msgstr "Otevři v novém okně"
+
+#: assets/blocks/price-table/index.js:791
+#: assets/blocks/price-table/src/inspector-controls.js:111
+msgid "Open link in new tab"
+msgstr "Otevřít odkaz na nové záložce"
+
+#: plugin/Customize.php:497
+msgid "Opened footer wigets area"
+msgstr "Otevřená oblast widgetů zápatí"
+
+#: assets/blocks/opening-hours/index.js:1475
+#: assets/blocks/opening-hours/src/index.js:11
+msgid "Opening Hours"
+msgstr "Otevírací doba"
+
+#: assets/blocks/opening-hours/index.js:1555
+#: assets/blocks/opening-hours/src/inspector-controls.js:30
+msgid "Opening Hours settings"
+msgstr "Nastavení otevírací doby"
+
+#: assets/blocks/blog-posts/index.js:477
+#: assets/blocks/blog-posts/src/index.js:109
+#: assets/blocks/posts/index.js:1361
+#: assets/blocks/posts/src/edit.js:147
+msgid "Order Options"
+msgstr "Možnosti objednávky"
+
+#: assets/blocks/blog-posts/index.js:481
+#: assets/blocks/blog-posts/src/index.js:114
+#: assets/blocks/posts/index.js:1365
+#: assets/blocks/posts/src/edit.js:152
+msgid "Order by"
+msgstr "Seřadit podle"
+
+#: plugin/Customize.php:919
+msgid "Original"
+msgstr "Originál"
+
+#: assets/blocks/cluster/index.js:3267
+msgid "Overlay color"
+msgstr "Barva překrytí"
+
+#: assets/blocks/cluster/index.js:3277
+msgid "Overlay gradient"
+msgstr "Překryvný přechod"
+
+#: assets/blocks/cluster/index.js:3320
+msgid "Overlay opacity"
+msgstr "Neprůhlednost překrytí"
+
+#: plugin/Layouts/Importer.php:301
+msgid "PHP ZIP extension not found"
+msgstr "Rozšíření PHP ZIP nebylo nalezeno"
+
+#: plugin/Customize.php:371
+msgid "Page Color"
+msgstr "Barva stránky"
+
+#: templates/layouts/progress.php:91
+msgid "Please do not close this browser window until the Layout package is imported completely."
+msgstr "Nezavírejte prosím toto okno prohlížeče, dokud nebude balíček Layout zcela importován."
+
+#: templates/layout-exporter/exporter.php:21
+msgid "Please understand that Layout Exporter does not export everything from WordPress, such as WooCommerce invoices or data from other 3rd party plugins. There are many other plugins available for migration purposes."
+msgstr "Pochopte prosím, že Layout Exporter neexportuje vše z WordPressu, jako jsou faktury WooCommerce nebo data z jiných pluginů třetích stran. Pro účely migrace je k dispozici mnoho dalších pluginů."
+
+#: assets/half-layout/editor.js:17
+msgid "Position"
+msgstr "Pozice"
+
+#: plugin/Infobar/Settings.php:62
+msgid "Position on website"
+msgstr "Pozice na webu"
+
+#: assets/blocks/blog-posts/index.js:522
+#: assets/blocks/blog-posts/src/index.js:150
+#: assets/blocks/posts/index.js:1397
+#: assets/blocks/posts/src/edit.js:182
+msgid "Post Details"
+msgstr "Podrobnosti příspěvku"
+
+#: assets/blocks/posts/index.js:1604
+#: assets/blocks/posts/src/index.js:10
+msgid "Posts"
+msgstr "Příspěvky"
+
+#: templates/special-pages/pagination.php:19
+msgid "Posts navigation"
+msgstr "Navigace příspěvků"
+
+#: plugin/Integrations/Settings.php:111
+msgid "Posts settings"
+msgstr "Nastavení příspěvků"
+
+#: plugin/Customize.php:394
+msgid "Preview is displayed only in Customizer screen."
+msgstr "Náhled se zobrazí pouze na obrazovce Customizer."
+
+#: templates/special-pages/pagination.php:15
+msgid "Previous"
+msgstr "Předchozí"
+
+#: assets/blocks/price-table/index.js:598
+#: assets/blocks/price-table/src/index.js:11
+msgid "Price Table"
+msgstr "Tabulka cen"
+
+#: assets/blocks/price-table/index.js:258
+#: assets/blocks/price-table/src/block-controls.js:25
+msgid "Price table alignment"
+msgstr "Zarovnání cenové tabulky"
+
+#: assets/blocks/cluster/index.js:4365
+#: assets/blocks/components/gradient-control.js:103
+msgid "Radial gradient"
+msgstr "Radiální gradient"
+
+#: assets/blocks/blog-posts/index.js:490
+#: assets/blocks/blog-posts/src/index.js:119
+#: assets/blocks/posts/index.js:1374
+#: assets/blocks/posts/src/edit.js:157
+msgid "Random"
+msgstr "Náhodný"
+
+#: assets/blocks/service/index.js:1792
+#: assets/blocks/service/src/edit.js:273
+msgid "Read more link"
+msgstr "Přečtěte si více odkaz"
+
+#: templates/layouts/download.php:20
+msgid "Ready to use Citadela layouts"
+msgstr "Připraveno k použití rozvržení Citadela"
+
+#. Description of the plugin
+msgid "Ready to use layouts and blocks for Citadela with many customization options"
+msgstr "Připraveno k použití rozvržení a bloky pro Citadela s mnoha možnostmi přizpůsobení"
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:92
+msgid "Recently activated theme is not compatible with %s plugin, therefore the plugin was deactivated."
+msgstr "Nedávno aktivované téma není kompatibilní s %s pluginem, proto byl plugin deaktivován."
+
+#: assets/blocks/components/toolbar-font-weight.js:33
+#: assets/blocks/page-title/index.js:1002
+#: assets/blocks/responsive-text/index.js:1021
+msgid "Regular"
+msgstr "Pravidelný"
+
+#: assets/custom-header/components/image-upload.js:41
+msgid "Remove image"
+msgstr "Odebrat obrázek"
+
+#: assets/blocks/cluster/index.js:2959
+#: assets/custom-header/components/background.js:83
+msgctxt "label for css property \"repeat\": repeat image in background"
+msgid "Repeat"
+msgstr "Opakovat"
+
+#: assets/blocks/cluster/index.js:2965
+#: assets/custom-header/components/background.js:85
+msgctxt "label for css property \"repeat-x\": repeat horizontally image in background"
+msgid "Repeat horizontally"
+msgstr "Opakujte vodorovně"
+
+#: assets/blocks/cluster/index.js:2962
+#: assets/custom-header/components/background.js:84
+msgctxt "label for css property \"repeat-y\": repeat vertically image in background"
+msgid "Repeat vertically"
+msgstr "Opakujte svisle"
+
+#: plugin/Comments_Extension/Settings.php:73
+#: plugin/Comments_Extension/Settings.php:99
+#: plugin/Comments_Extension/Settings.php:125
+#: plugin/Comments_Extension/Settings.php:150
+msgid "Replace default label of the field."
+msgstr "Nahradit výchozí popisek pole."
+
+#: assets/custom-header/components/image-upload.js:42
+msgid "Replace image"
+msgstr "Nahradit obrázek"
+
+#: templates/layouts/progress.php:44
+msgid "Required plugins"
+msgstr "Požadované pluginy"
+
+#: assets/custom-header/components/background.js:125
+#: assets/custom-header/components/background.js:149
+#: assets/custom-header/editor.js:116
+msgid "Reset"
+msgstr "Resetovat"
+
+#: assets/blocks/spacer/index.js:622
+#: assets/blocks/spacer/src/index.js:11
+msgid "Responsive Spacer"
+msgstr "Reagující Spacer"
+
+#: assets/blocks/responsive-text/index.js:1408
+#: assets/blocks/responsive-text/src/index.js:10
+msgid "Responsive Text"
+msgstr "Responzivní text"
+
+#: assets/blocks/cluster/index.js:3541
+#: assets/blocks/page-title/index.js:1594
+#: assets/blocks/page-title/src/inspector-controls.js:21
+#: assets/blocks/responsive-text/index.js:1514
+#: assets/blocks/responsive-text/src/inspector-controls.js:21
+#: assets/blocks/spacer/index.js:682
+#: assets/blocks/spacer/src/inspector-controls.js:18
+msgid "Responsive options applied under screen width"
+msgstr "Responzivní možnosti použité pod šířkou obrazovky"
+
+#: plugin/Integrations/Feature.php:72
+#: plugin/Integrations/Feature.php:73
+msgid "Reusable Blocks"
+msgstr "Opakovaně použitelné bloky"
+
+#: plugin/Integrations/Settings.php:129
+msgid "Reusable blocks settings"
+msgstr "Nastavení opakovaně použitelných bloků"
+
+#: plugin/Customize.php:939
+msgid "Right"
+msgstr "Že jo"
+
+#: assets/half-layout/editor.js:20
+msgid "Right side"
+msgstr "Pravá strana"
+
+#: assets/blocks/opening-hours/index.js:1387
+#: assets/blocks/opening-hours/index.js:1488
+#: assets/blocks/opening-hours/src/edit.js:237
+#: assets/blocks/opening-hours/src/index.js:24
+msgid "Saturday"
+msgstr "sobota"
+
+#: plugin/Settings_Api.php:325
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: plugin/Special_Pages/Feature.php:66
+msgid "Search Special ages"
+msgstr "Hledat Zvláštní věky"
+
+#: assets/blocks/page-title/index.js:1286
+#: assets/blocks/page-title/src/edit.js:115
+msgid "Search results for:"
+msgstr "Výsledky hledání pro:"
+
+#: plugin/Customize.php:351
+msgid "Select Google Font for your website"
+msgstr "Vyberte písmo Google pro svůj web"
+
+#: templates/layouts/progress.php:26
+msgid "Select Layout package"
+msgstr "Vyberte balíček rozložení"
+
+#: assets/blocks/components/toolbar-alignment-inspector.js:14
+#: assets/blocks/components/toolbar-alignment.js:13
+#: assets/blocks/opening-hours/index.js:392
+#: assets/blocks/page-title/index.js:792
+#: assets/blocks/page-title/index.js:891
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/align-toolbar.js:12
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/price-table/index.js:147
+#: assets/blocks/responsive-text/index.js:811
+#: assets/blocks/responsive-text/index.js:910
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment"
+msgstr "Vyberte zarovnání"
+
+#: assets/blocks/page-title/index.js:1393
+#: assets/blocks/page-title/src/edit.js:224
+#: assets/blocks/responsive-text/index.js:1290
+#: assets/blocks/responsive-text/src/edit.js:113
+msgid "Select alignment on mobile design"
+msgstr "Vyberte zarovnání v mobilním designu"
+
+#: assets/blocks/cluster/index.js:3141
+msgid "Select background type"
+msgstr "Vyberte typ pozadí"
+
+#: plugin/Customize.php:345
+msgid "Select color combinations for your website"
+msgstr "Vyberte si barevné kombinace pro svůj web"
+
+#: assets/blocks/components/toolbar-font-weight.js:80
+#: assets/blocks/page-title/index.js:1053
+#: assets/blocks/responsive-text/index.js:1072
+msgid "Select font weight"
+msgstr "Vyberte tloušťku písma"
+
+#: assets/blocks/cluster/index.js:3178
+msgid "Select image"
+msgstr "Vyberte obrázek"
+
+#: assets/blocks/blog-posts/index.js:1217
+#: assets/blocks/components/toolbar-layout.js:73
+#: assets/blocks/opening-hours/index.js:582
+#: assets/blocks/posts/index.js:710
+#: assets/blocks/service/index.js:365
+msgid "Select layout"
+msgstr "Vyberte rozložení"
+
+#: plugin/Customize.php:622
+msgid "Select layout for website header"
+msgstr "Vyberte rozvržení pro záhlaví webu"
+
+#: plugin/Customize.php:311
+#: plugin/Customize.php:470
+msgid "Select layout for your website"
+msgstr "Vyberte rozvržení pro svůj web"
+
+#: assets/blocks/blog-posts/index.js:1331
+#: assets/blocks/components/toolbar-size.js:29
+#: assets/blocks/posts/index.js:824
+msgid "Select size"
+msgstr "Vyberte velikost"
+
+#: assets/blocks/components/toolbar-font-weight.js:43
+#: assets/blocks/page-title/index.js:1010
+#: assets/blocks/responsive-text/index.js:1029
+msgid "Semi-bold"
+msgstr "Polotučné"
+
+#: assets/blocks/service/index.js:1843
+#: assets/blocks/service/src/index.js:11
+msgid "Service"
+msgstr "Servis"
+
+#: assets/blocks/service/index.js:1677
+#: assets/blocks/service/src/edit.js:170
+msgid "Service Image"
+msgstr "Obrázek služby"
+
+#: assets/blocks/service/index.js:1773
+#: assets/blocks/service/src/edit.js:251
+msgid "Service description text"
+msgstr "Text popisu služby"
+
+#: assets/blocks/service/index.js:525
+#: assets/blocks/service/src/block-toolbars.js:46
+msgid "Service header"
+msgstr "Záhlaví služby"
+
+#: assets/custom-header/components/background.js:55
+msgid "Set background image"
+msgstr "Nastavit obrázek na pozadí"
+
+#: assets/custom-header/components/image-upload.js:40
+msgid "Set custom image"
+msgstr "Nastavit vlastní obrázek"
+
+#: assets/custom-header/editor.js:73
+msgid "Set custom logo image"
+msgstr "Nastavit vlastní obrázek loga"
+
+#: plugin/Customize.php:879
+msgid "Set header color as background image overlay"
+msgstr "Nastavit barvu záhlaví jako překryvný obrázek na pozadí"
+
+#: plugin/Customize.php:498
+msgid "Sets if widgets in footer are opened or closed by default on mobile after page load. Applicable if collapsible widgets are enabled."
+msgstr "Nastavuje, zda se widgety v zápatí ve výchozím nastavení otevřou nebo zavřou na mobilu po načtení stránky. Použitelné, pokud jsou povoleny skládací widgety."
+
+#: templates/layouts/progress.php:107
+msgid "Settings"
+msgstr "Nastavení"
+
+#: templates/_settings-header.php:13
+msgid "Settings Saved"
+msgstr "nastavení uloženo"
+
+#: plugin/Customize.php:330
+msgid "Settings for main menu in header"
+msgstr "Nastavení pro hlavní menu v záhlaví"
+
+#: plugin/Customize.php:323
+msgid "Settings for site header"
+msgstr "Nastavení záhlaví webu"
+
+#: assets/blocks/cluster/index.js:3370
+msgid "Shadow Settings"
+msgstr "Nastavení stínu"
+
+#: assets/blocks/cluster/index.js:4011
+#: assets/blocks/components/box-shadow-control.js:56
+msgid "Shadow color"
+msgstr "Barva stínu"
+
+#: assets/blocks/cluster/index.js:3410
+msgid "Show always"
+msgstr "Ukaž vždy"
+
+#: assets/blocks/price-table/index.js:288
+#: assets/blocks/price-table/src/block-controls.js:50
+msgid "Show button with link"
+msgstr "Zobrazit tlačítko s odkazem"
+
+#: assets/blocks/blog-posts/index.js:550
+#: assets/blocks/blog-posts/src/index.js:170
+#: assets/blocks/posts/index.js:1425
+#: assets/blocks/posts/src/edit.js:202
+msgid "Show categories"
+msgstr "Zobrazit kategorie"
+
+#: assets/blocks/blog-posts/index.js:534
+#: assets/blocks/blog-posts/src/index.js:160
+#: assets/blocks/posts/index.js:1409
+#: assets/blocks/posts/src/edit.js:192
+msgid "Show date"
+msgstr "Zobrazit datum"
+
+#: assets/blocks/blog-posts/index.js:542
+#: assets/blocks/blog-posts/src/index.js:165
+#: assets/blocks/posts/index.js:1417
+#: assets/blocks/posts/src/edit.js:197
+msgid "Show description"
+msgstr "Ukázat popis"
+
+#: assets/blocks/price-table/index.js:279
+#: assets/blocks/price-table/src/block-controls.js:44
+msgid "Show discount price"
+msgstr "Zobrazit cenu ve slevě"
+
+#: assets/blocks/blog-posts/index.js:526
+#: assets/blocks/blog-posts/src/index.js:155
+#: assets/blocks/posts/index.js:1401
+#: assets/blocks/posts/src/edit.js:187
+msgid "Show featured image"
+msgstr "Zobrazit doporučený obrázek"
+
+#: assets/custom-header/editor.js:57
+msgid "Show header over content"
+msgstr "Zobrazit záhlaví nad obsahem"
+
+#: assets/blocks/service/index.js:545
+#: assets/blocks/service/src/block-toolbars.js:61
+msgid "Show icon"
+msgstr "Zobrazit ikonu"
+
+#: assets/blocks/service/index.js:527
+#: assets/blocks/service/src/block-toolbars.js:49
+msgid "Show image"
+msgstr "Zobrazit obrázek"
+
+#: assets/blocks/service/index.js:536
+#: assets/blocks/service/src/block-toolbars.js:55
+msgid "Show image as icon"
+msgstr "Zobrazit obrázek jako ikonu"
+
+#: plugin/Integrations/Settings.php:131
+msgid "Show in menu"
+msgstr "Zobrazit v nabídce"
+
+#: plugin/Integrations/Settings.php:134
+msgid "Show link to manage Reusable blocks in admin menu"
+msgstr "Zobrazit odkaz pro správu opakovaně použitelných bloků v nabídce správce"
+
+#: assets/blocks/blog-posts/index.js:558
+#: assets/blocks/blog-posts/src/index.js:176
+#: assets/blocks/posts/index.js:1433
+#: assets/blocks/posts/src/edit.js:208
+msgid "Show locations"
+msgstr "Zobrazit umístění"
+
+#: assets/blocks/cluster/index.js:3413
+msgid "Show only on mobile"
+msgstr "Zobrazit pouze na mobilu"
+
+#: assets/blocks/opening-hours/index.js:1476
+#: assets/blocks/opening-hours/src/index.js:12
+msgid "Show opening hours on your website."
+msgstr "Ukažte otevírací dobu na svém webu."
+
+#: assets/blocks/cluster/index.js:3406
+msgid "Show or hide Cluster block only on mobile screen size."
+msgstr "Zobrazit nebo skrýt blok clusteru pouze na velikosti mobilní obrazovky."
+
+#: plugin/Customize.php:393
+msgid "Show preview of Announcement Bar"
+msgstr "Zobrazit náhled panelu oznámení"
+
+#: assets/custom-header/editor.js:80
+msgid "Show transparent header without additional background settings."
+msgstr "Zobrazit průhledné záhlaví bez dalších nastavení pozadí."
+
+#: templates/layouts/progress.php:123
+msgid "Show website"
+msgstr "Zobrazit webovou stránku"
+
+#: plugin/Announcements_Bar/Settings.php:96
+msgctxt "settings"
+msgid "Simple"
+msgstr "Jednoduchý"
+
+#: assets/blocks/blog-posts/index.js:1183
+#: assets/blocks/components/toolbar-layout.js:44
+#: assets/blocks/opening-hours/index.js:548
+#: assets/blocks/posts/index.js:676
+#: assets/blocks/service/index.js:331
+msgid "Simple layout"
+msgstr "Jednoduché rozložení"
+
+#: plugin/Announcements_Bar/Settings.php:103
+msgid "Simple settings"
+msgstr "Jednoduché nastavení"
+
+#: plugin/Announcements_Bar/Settings.php:104
+msgid "Simple settings allow you to show simple text and button in your announcements bar. Colors can be customized via WordPress customizer."
+msgstr "Jednoduchá nastavení vám umožní zobrazit jednoduchý text a tlačítko v oznamovací liště. Barvy lze přizpůsobit pomocí přizpůsobení WordPress."
+
+#: plugin/Integrations/Settings.php:113
+msgid "Simple text styles"
+msgstr "Jednoduché styly textu"
+
+#: plugin/Integrations/Settings.php:116
+msgid "Simplified typography styles for blog posts pages"
+msgstr "Zjednodušené typografické styly pro stránky s blogovými příspěvky"
+
+#: assets/blocks/cluster/index.js:3071
+#: assets/blocks/cluster/index.js:3151
+msgid "Single color"
+msgstr "Jednobarevné"
+
+#: assets/blocks/cluster/index.js:3255
+msgid "Single color overlay"
+msgstr "Jednobarevné překrytí"
+
+#: plugin/Customize.php:529
+msgid "Sizes for Content, Wide and Fullwidth layout types used in design."
+msgstr "Velikosti pro typy rozložení Obsah, Široká a Plná šířka používané v návrhu."
+
+#: assets/blocks/blog-posts/index.js:467
+#: assets/blocks/blog-posts/src/index.js:98
+#: assets/blocks/posts/index.js:1342
+#: assets/blocks/posts/src/edit.js:129
+msgid "Skip number of posts from start"
+msgstr "Přeskočit počet příspěvků od začátku"
+
+#: assets/blocks/cluster/index.js:3438
+msgid "Small"
+msgstr "Malý"
+
+#: assets/blocks/blog-posts/index.js:1333
+#: assets/blocks/components/toolbar-size.js:32
+#: assets/blocks/posts/index.js:826
+msgid "Small size"
+msgstr "Malá velikost"
+
+#: plugin/Customize.php:681
+#: plugin/Customize.php:769
+msgid "Space around logo"
+msgstr "Prostor kolem loga"
+
+#: plugin/Customize.php:717
+msgid "Space around menu button"
+msgstr "Prostor kolem tlačítka nabídky"
+
+#: assets/blocks/spacer/index.js:759
+#: assets/blocks/spacer/index.js:851
+#: assets/blocks/spacer/src/inspector-controls.js:87
+#: assets/blocks/spacer/src/inspector-controls.js:172
+msgid "Spacer height in"
+msgstr "Výška distanční vložky v"
+
+#: assets/blocks/spacer/index.js:932
+#: assets/blocks/spacer/src/inspector-controls.js:276
+msgid "Spacer settings"
+msgstr "Nastavení distanční vložky"
+
+#: assets/blocks/cluster/index.js:3425
+msgid "Spacing Settings"
+msgstr "Nastavení mezer"
+
+#: plugin/Special_Pages/Feature.php:62
+msgctxt "post type singular name"
+msgid "Special Page"
+msgstr "Speciální stránka"
+
+#: plugin/Special_Pages/Feature.php:63
+msgctxt "admin menu"
+msgid "Special Pages"
+msgstr "Speciální stránky"
+
+#: plugin/Special_Pages/Feature.php:61
+msgctxt "post type general name"
+msgid "Special Pages"
+msgstr "Speciální stránky"
+
+#: assets/blocks/cluster/index.js:2686
+#: assets/blocks/cluster/src/index.js:12
+msgid "Special container that is always on full width if there is no sidebar or columns. You can insert there other blocks and set container background."
+msgstr "Speciální kontejner, který je vždy na celou šířku, pokud není žádný postranní panel nebo sloupce. Můžete tam vložit další bloky a nastavit pozadí kontejneru."
+
+#: plugin/Special_Pages/Feature.php:71
+msgid "Special page updated."
+msgstr "Speciální stránka aktualizována."
+
+#: plugin/Special_Pages/Feature.php:70
+msgid "Special pages list"
+msgstr "Seznam speciálních stránek"
+
+#: plugin/Special_Pages/Feature.php:69
+msgid "Special pages list navigation"
+msgstr "Navigace v seznamu speciálních stránek"
+
+#: assets/blocks/cluster/index.js:4049
+#: assets/blocks/components/box-shadow-control.js:94
+msgid "Spread radius"
+msgstr "Poloměr rozprostření"
+
+#: plugin/Customize.php:815
+msgid "Sticky header on desktop"
+msgstr "Nalepovací záhlaví na ploše"
+
+#: plugin/Customize.php:837
+msgid "Sticky header on mobile"
+msgstr "Nalepovací hlavička na mobilu"
+
+#: plugin/Customize.php:810
+msgid "Sticky header settings"
+msgstr "Nastavení lepivé hlavičky"
+
+#: assets/blocks/blog-posts/index.js:513
+#: assets/blocks/blog-posts/src/index.js:142
+#: assets/blocks/posts/index.js:1352
+#: assets/blocks/posts/src/edit.js:139
+msgid "Sticky posts first"
+msgstr "Nejprve lepivé příspěvky"
+
+#: plugin/Events/Settings.php:52
+msgid "Styles"
+msgstr "Styly"
+
+#: assets/blocks/page-title/index.js:1458
+#: assets/blocks/page-title/src/edit.js:291
+msgid "Subtitle"
+msgstr "Titulky"
+
+#: assets/blocks/page-title/index.js:1883
+#: assets/blocks/page-title/src/inspector-controls.js:305
+msgid "Subtitle color"
+msgstr "Barva titulků"
+
+#: assets/blocks/opening-hours/index.js:1420
+#: assets/blocks/opening-hours/index.js:1489
+#: assets/blocks/opening-hours/src/edit.js:265
+#: assets/blocks/opening-hours/src/index.js:25
+msgid "Sunday"
+msgstr "Neděle"
+
+#: assets/blocks/price-table/index.js:496
+#: assets/blocks/price-table/src/edit.js:108
+msgid "Table subtitle"
+msgstr "Podtitul tabulky"
+
+#: assets/blocks/price-table/index.js:484
+#: assets/blocks/price-table/src/edit.js:99
+msgid "Table title"
+msgstr "Název tabulky"
+
+#: assets/blocks/page-title/index.js:1293
+#: assets/blocks/page-title/src/edit.js:121
+msgid "Tag description"
+msgstr "Popis značky"
+
+#: assets/blocks/page-title/index.js:1292
+#: assets/blocks/page-title/src/edit.js:120
+msgid "Tag name"
+msgstr "Název štítku"
+
+#: plugin/Layouts/Download/Settings.php:30
+msgid "Tehre was an error with downloading layout"
+msgstr "Při stahování rozložení došlo k chybě"
+
+#: plugin/Infobar/Settings.php:72
+msgid "Text"
+msgstr "Text"
+
+#: plugin/Customize.php:424
+msgid "Text Font"
+msgstr "Písmo textu"
+
+#: assets/blocks/page-title/index.js:1680
+#: assets/blocks/page-title/index.js:1746
+#: assets/blocks/page-title/src/inspector-controls.js:99
+#: assets/blocks/page-title/src/inspector-controls.js:165
+#: assets/blocks/responsive-text/index.js:1618
+#: assets/blocks/responsive-text/index.js:1684
+#: assets/blocks/responsive-text/src/inspector-controls.js:112
+#: assets/blocks/responsive-text/src/inspector-controls.js:178
+msgid "Text alignment"
+msgstr "Zarovnání textu"
+
+#: assets/blocks/blog-posts/index.js:596
+#: assets/blocks/blog-posts/src/index.js:216
+#: assets/blocks/posts/index.js:1471
+#: assets/blocks/posts/src/edit.js:248
+#: assets/blocks/responsive-text/index.js:1823
+#: assets/blocks/responsive-text/src/inspector-controls.js:324
+#: assets/blocks/service/index.js:1991
+#: assets/blocks/service/src/inspector-controls.js:74
+#: assets/custom-header/editor.js:104
+msgid "Text color"
+msgstr "Barva textu"
+
+#: assets/custom-header/editor.js:105
+msgid "Text color in custom header."
+msgstr "Barva textu ve vlastním záhlaví."
+
+#: plugin/Infobar/Settings.php:75
+msgid "Text displayed in the Infobar. It can contain HTML formatting such as URLs to link to your terms or privacy policy."
+msgstr "Text zobrazený na informačním panelu. Může obsahovat formátování HTML, jako jsou adresy URL, které odkazují na vaše podmínky nebo zásady ochrany osobních údajů."
+
+#: plugin/Announcements_Bar/Settings.php:129
+msgid "Text displayed on the button in announcements bar. Leave empty to hide the button."
+msgstr "Text zobrazený na tlačítku v oznamovací liště. Chcete-li tlačítko skrýt, ponechte prázdné."
+
+#: plugin/Infobar/Settings.php:86
+msgid "Text displayed on the button. If no text is specified, X sign will be used to close Infobar."
+msgstr "Text zobrazený na tlačítku. Pokud není zadán žádný text, bude k zavření informačního panelu použit znak X."
+
+#: plugin/Announcements_Bar/Settings.php:114
+msgid "Text of announcement"
+msgstr "Text oznámení"
+
+#: plugin/Plugin.php:182
+msgid "Thank you for activating Citadela Pro."
+msgstr "Děkujeme za aktivaci Citadela Pro."
+
+#. translators: %s plugin's name
+#: plugin/Compatibility.php:81
+msgid "The %s plugin could not be activated. It is not compatible with the current active theme."
+msgstr "Plugin %s nelze aktivovat. Není kompatibilní s aktuálním aktivním motivem."
+
+#: templates/layouts/progress.php:46
+msgid "The Citadela Layout requires these plugins. The required plugins will be installed and activated automatically. In case you don't have access to one of the plugins, some pages might be incomplete."
+msgstr "Rozložení Citadela vyžaduje tyto pluginy. Požadované pluginy se nainstalují a aktivují automaticky. V případě, že nemáte přístup k některému z pluginů, některé stránky mohou být neúplné."
+
+#: plugin/Layouts/Importer.php:181
+msgid "The content could not be imported."
+msgstr "Obsah nelze importovat."
+
+#: templates/layouts/progress.php:90
+msgid "The process can take anywhere between 30 seconds to 30 minutes depending on the size of the Layout package and speed of connection (mainly due to downloading demo images)."
+msgstr "Proces může trvat 30 sekund až 30 minut v závislosti na velikosti balíčku Layout a rychlosti připojení (hlavně kvůli stahování demo obrázků)."
+
+#: plugin/Customize.php:469
+msgid "Theme Layout"
+msgstr "Rozvržení motivu"
+
+#: plugin/Layouts/Importer.php:78
+msgid "There was an error with installing plugins"
+msgstr "Při instalaci pluginů došlo k chybě"
+
+#: assets/blocks/blog-posts/index.js:634
+#: assets/blocks/blog-posts/src/index.js:246
+#: assets/blocks/posts/index.js:1509
+#: assets/blocks/posts/src/edit.js:278
+msgid "Thick borders"
+msgstr "Tlusté okraje"
+
+#: assets/blocks/components/toolbar-font-weight.js:18
+#: assets/blocks/page-title/index.js:990
+#: assets/blocks/responsive-text/index.js:1009
+msgid "Thin"
+msgstr "Tenký"
+
+#: assets/blocks/blog-posts/index.js:631
+#: assets/blocks/blog-posts/src/index.js:245
+#: assets/blocks/posts/index.js:1506
+#: assets/blocks/posts/src/edit.js:277
+msgid "Thin borders"
+msgstr "Tenké okraje"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: plugin/Events/Settings.php:48
+msgid "This setting defines whether to use our Citadela styles in %1$sThe Events Calendar%2$s plugin or use the plugin's styles."
+msgstr "Toto nastavení definuje, zda použít naše styly Citadela v %1$sKalendáři událostí%2$s pluginu nebo použít styly pluginu."
+
+#: assets/blocks/opening-hours/index.js:1321
+#: assets/blocks/opening-hours/index.js:1486
+#: assets/blocks/opening-hours/src/edit.js:181
+#: assets/blocks/opening-hours/src/index.js:22
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: plugin/Customize.php:904
+msgid "Tile"
+msgstr "Dlaždice"
+
+#: plugin/Customize.php:905
+msgid "Tile Horizontally"
+msgstr "Dlaždice vodorovně"
+
+#: plugin/Customize.php:906
+msgid "Tile Vertically"
+msgstr "Dlaždice svisle"
+
+#: assets/blocks/blog-posts/index.js:487
+#: assets/blocks/blog-posts/src/index.js:118
+#: assets/blocks/posts/index.js:1371
+#: assets/blocks/posts/src/edit.js:156
+#: assets/blocks/service/index.js:1757
+#: assets/blocks/service/src/edit.js:240
+msgid "Title"
+msgstr "Titul"
+
+#: assets/blocks/page-title/index.js:1874
+#: assets/blocks/page-title/src/inspector-controls.js:298
+#: assets/blocks/service/index.js:1980
+#: assets/blocks/service/src/inspector-controls.js:64
+msgid "Title color"
+msgstr "Barva názvu"
+
+#: plugin/Customize.php:435
+msgid "Titles Font"
+msgstr "Písmo titulů"
+
+#: plugin/Customize.php:446
+msgid "Titles Style"
+msgstr "Styl titulků"
+
+#: assets/custom-header/components/image-upload.js:52
+msgid "To edit the image, you need permission to upload media."
+msgstr "Chcete-li upravit obrázek, potřebujete oprávnění k nahrání médií."
+
+#: plugin/Customize.php:935
+msgid "Top"
+msgstr "Horní"
+
+#: plugin/Infobar/Settings.php:67
+msgctxt "position"
+msgid "Top"
+msgstr "Horní"
+
+#: plugin/Customize.php:934
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+#: plugin/Customize.php:936
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+#: plugin/Integrations/Settings.php:62
+msgid "Tracking ID"
+msgstr "ID sledování"
+
+#: plugin/Integrations/Settings.php:74
+msgid "Tracking privacy"
+msgstr "Sledování soukromí"
+
+#: assets/custom-header/editor.js:79
+msgid "Transparent header"
+msgstr "Průhledná hlavička"
+
+#: assets/blocks/opening-hours/index.js:1484
+#: assets/blocks/opening-hours/src/index.js:20
+msgid "Tueasday"
+msgstr "úterý"
+
+#: assets/blocks/opening-hours/index.js:1255
+#: assets/blocks/opening-hours/src/edit.js:125
+msgid "Tuesday"
+msgstr "úterý"
+
+#: plugin/Announcements_Bar/Settings.php:65
+msgid "Turn on Announcements bar functionality"
+msgstr "Zapněte funkci panelu oznámení"
+
+#: plugin/Comments_Extension/Settings.php:62
+msgid "Turn on Comments extension functionality"
+msgstr "Zapněte funkci rozšíření Komentáře"
+
+#: plugin/Announcements_Bar/Settings.php:89
+msgid "Type"
+msgstr "Typ"
+
+#: assets/blocks/components/fontawesome-picker.js:63
+#: assets/blocks/service/index.js:205
+msgid "Type for search..."
+msgstr "Zadejte pro vyhledávání..."
+
+#: plugin/Customize.php:350
+msgid "Typography"
+msgstr "Typografie"
+
+#: assets/blocks/service/index.js:1678
+#: assets/blocks/service/src/edit.js:171
+msgid "Upload an image file or pick one from your media library."
+msgstr "Nahrajte soubor obrázku nebo si jej vyberte z knihovny médií."
+
+#: plugin/Layouts/Importer.php:42
+msgid "Uploaded ZIP file is not Citadela Layout package or it is old incompatible Layout package. Please download the newest package from your AitThemes account."
+msgstr "Nahraný soubor ZIP není balíček Citadela Layout nebo je to starý nekompatibilní balíček Layout. Stáhněte si prosím nejnovější balíček ze svého účtu AitThemes."
+
+#: templates/layouts/progress.php:29
+msgid "Uploading&#8230;"
+msgstr "Nahrávání…"
+
+#: plugin/Comments_Extension/Settings.php:196
+msgid "Urls from editor comment text will be removed. Applied for user roles with edit post capability like Contributor and higher."
+msgstr "Adresy URL z textu komentáře editora budou odstraněny. Používá se pro uživatelské role s možností úpravy příspěvků, jako je Přispěvatel a vyšší."
+
+#: plugin/Comments_Extension/Settings.php:187
+msgid "Urls from guest comment text will be removed"
+msgstr "Adresy URL z textu komentáře hostů budou odstraněny"
+
+#: plugin/Comments_Extension/Settings.php:205
+msgid "Urls from non-editor comment text will be removed. Applied for user roles without edit post capability like Subscriber."
+msgstr "Adresy URL z textu komentáře, který není editorem, budou odstraněny. Používá se pro uživatelské role bez možnosti úpravy příspěvků, jako je odběratel."
+
+#: plugin/Events/Settings.php:55
+msgid "Use Citadela styles"
+msgstr "Použijte styly Citadela"
+
+#: plugin/Infobar/Settings.php:58
+msgid "Use Infobar on your website"
+msgstr "Použijte Infobar na svém webu"
+
+#: assets/custom-header/editor.js:45
+msgid "Use custom header"
+msgstr "Použít vlastní záhlaví"
+
+#: assets/blocks/cluster/index.js:3595
+msgid "Use custom width settings"
+msgstr "Použijte vlastní nastavení šířky"
+
+#: assets/blocks/components/google-fonts-select.js:25
+#: assets/blocks/page-title/index.js:286
+#: assets/blocks/responsive-text/index.js:162
+msgid "Use default font"
+msgstr "Použít výchozí písmo"
+
+#: assets/blocks/components/toolbar-font-weight.js:63
+#: assets/blocks/page-title/index.js:1026
+#: assets/blocks/responsive-text/index.js:1045
+msgid "Use default font weight"
+msgstr "Použít výchozí tloušťku písma"
+
+#: assets/blocks/cluster/index.js:3181
+#: assets/blocks/page-title/index.js:1853
+#: assets/blocks/page-title/src/inspector-controls.js:272
+#: assets/blocks/responsive-text/index.js:1802
+#: assets/blocks/responsive-text/src/inspector-controls.js:298
+#: assets/blocks/spacer/index.js:936
+#: assets/blocks/spacer/src/inspector-controls.js:281
+msgid "Use responsive options"
+msgstr "Použijte responzivní možnosti"
+
+#: assets/blocks/page-title/index.js:1711
+#: assets/blocks/page-title/index.js:1777
+#: assets/blocks/page-title/src/inspector-controls.js:125
+#: assets/blocks/page-title/src/inspector-controls.js:192
+#: assets/blocks/responsive-text/index.js:1649
+#: assets/blocks/responsive-text/index.js:1715
+#: assets/blocks/responsive-text/src/inspector-controls.js:138
+#: assets/blocks/responsive-text/src/inspector-controls.js:205
+msgid "Using font size from theme design."
+msgstr "Použití velikosti písma z návrhu motivu."
+
+#: assets/blocks/page-title/index.js:1816
+#: assets/blocks/page-title/src/inspector-controls.js:233
+#: assets/blocks/responsive-text/index.js:1754
+#: assets/blocks/responsive-text/src/inspector-controls.js:246
+msgid "Using letter spacing from theme design."
+msgstr "Použití mezer mezi písmeny z návrhu motivu."
+
+#: assets/blocks/page-title/index.js:1727
+#: assets/blocks/page-title/index.js:1793
+#: assets/blocks/page-title/src/inspector-controls.js:139
+#: assets/blocks/page-title/src/inspector-controls.js:206
+#: assets/blocks/responsive-text/index.js:1665
+#: assets/blocks/responsive-text/index.js:1731
+#: assets/blocks/responsive-text/src/inspector-controls.js:152
+#: assets/blocks/responsive-text/src/inspector-controls.js:219
+msgid "Using line height from theme design."
+msgstr "Použití výšky řádku z návrhu motivu."
+
+#: assets/blocks/cluster/index.js:4029
+#: assets/blocks/components/box-shadow-control.js:74
+msgid "Vertical offset"
+msgstr "Vertikální posun"
+
+#: templates/layouts/download.php:33
+msgid "View Demo"
+msgstr "Zobrazit ukázku"
+
+#: plugin/Plugin.php:186
+msgid "View layouts"
+msgstr "Zobrazit rozvržení"
+
+#: templates/special-pages/post-article.php:99
+msgid "View more"
+msgstr "Zobrazit více"
+
+#: assets/blocks/cluster/index.js:3405
+msgid "Visibility on mobile"
+msgstr "Viditelnost na mobilu"
+
+#: assets/blocks/cluster/index.js:2745
+#: assets/blocks/cluster/src/index.js:62
+msgid "WP Button Block"
+msgstr "Blok tlačítek WP"
+
+#: plugin/Comments_Extension/Settings.php:19
+msgid "We keep your email so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Uchováváme váš e-mail, abychom s vámi mohli komunikovat o našich produktech a službách. Další podrobnosti naleznete v <a href=\"#\">našich zásadách ochrany osobních údajů</a> ."
+
+#: plugin/Comments_Extension/Settings.php:17
+msgid "We keep your name so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Uchováváme vaše jméno, abychom s vámi mohli komunikovat o našich produktech a službách. Další podrobnosti naleznete v <a href=\"#\">našich zásadách ochrany osobních údajů</a> ."
+
+#: plugin/Comments_Extension/Settings.php:21
+msgid "We keep your website URL so we can communicate with you about our product and services. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Uchováváme URL vašeho webu, abychom s vámi mohli komunikovat o našich produktech a službách. Další podrobnosti naleznete v <a href=\"#\">našich zásadách ochrany osobních údajů</a> ."
+
+#: templates/layouts/progress.php:89
+msgid "We're importing the Layout package..."
+msgstr "Importujeme balíček Layout..."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:30
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported, therefore <em>the plugin was deactivated</em>. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "Všimli jsme si, že používáte zastaralou verzi PHP, která již není podporována, proto <em>byl plugin deaktivován</em> . <a href='%1$s'>Upgradujte PHP na nejnovější verzi</a> a ujistěte se, že je váš web rychlý a bezpečný. Minimální požadavek na %2$s je <strong>PHP 5.6.20</strong> ."
+
+#. translators: 1. url to upgrading guide, 2. plugin's name
+#: plugin/Compatibility.php:61
+msgid "We've noticed that you're running an outdated version of WordPress, therefore <em>the plugin was deactivated</em>. Make sure your site is secure and up to date, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "Všimli jsme si, že používáte zastaralou verzi WordPressu, proto <em>byl plugin deaktivován</em> . <a href='%1$s'>Aktualizujte WordPress na nejnovější verzi</a> a ujistěte se, že je váš web bezpečný a aktuální. Minimální požadavek na %2$s je <strong>WordPress 5.2</strong> ."
+
+#: plugin/Comments_Extension/Settings.php:118
+msgid "Website URL field"
+msgstr "Pole URL webu"
+
+#: assets/blocks/opening-hours/index.js:1288
+#: assets/blocks/opening-hours/index.js:1485
+#: assets/blocks/opening-hours/src/edit.js:153
+#: assets/blocks/opening-hours/src/index.js:21
+msgid "Wednesday"
+msgstr "středa"
+
+#: assets/content-settings/editor.js:42
+msgid "Wide"
+msgstr "Široký"
+
+#: plugin/Customize.php:550
+#: assets/blocks/cluster/index.js:298
+#: assets/blocks/cluster/src/block-controls.js:29
+msgid "Wide size"
+msgstr "Široká velikost"
+
+#: assets/blocks/cluster/index.js:3617
+msgid "Wide size width"
+msgstr "Široká velikost šířka"
+
+#: plugin/Customize.php:489
+msgid "Widgets area in footer can be opened or closed on mobile."
+msgstr "Oblast widgetů v zápatí lze otevřít nebo zavřít na mobilu."
+
+#: assets/blocks/cluster/index.js:3591
+msgid "Width Settings"
+msgstr "Nastavení šířky"
+
+#: plugin/Announcements_Bar/Settings.php:147
+msgid "With advanced settings you have full control over html and styles for your announcements bar."
+msgstr "S pokročilým nastavením máte plnou kontrolu nad html a styly pro vaši oznamovací lištu."
+
+#: plugin/Plugin.php:183
+msgid "You can import any of the available Citadela Layouts."
+msgstr "Můžete importovat kterékoli z dostupných rozvržení Citadela."
+
+#: plugin/Comments_Extension/Settings.php:23
+msgid "Your comments help us to improve our products and services so we keep recording them. We use the comment also for future reference. For further details please see <a href=\"#\">our privacy policy</a>."
+msgstr "Vaše komentáře nám pomáhají zlepšovat naše produkty a služby, takže je neustále zaznamenáváme. Komentář používáme také pro budoucí použití. Další podrobnosti naleznete v <a href=\"#\">našich zásadách ochrany osobních údajů</a> ."
+
+#: templates/layouts/progress.php:77
+msgid "Your current content will be deleted"
+msgstr "Váš aktuální obsah bude smazán"
+
+#: plugin/Layouts/Upload/Settings.php:64
+msgid "ZIP files"
+msgstr "ZIP soubory"
+
+#: assets/blocks/price-table/index.js:536
+#: assets/blocks/price-table/src/edit.js:149
+msgid "button text"
+msgstr "text tlačítka"
+
+#. Author URI of the plugin
+msgid "https://www.ait-themes.club/"
+msgstr "https://www.ait-themes.club/"
+
+#. Plugin URI of the plugin
+msgid "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+msgstr "https://www.ait-themes.club/citadela-plugins/citadela-pro/"
+
+#: templates/layouts/progress.php:25
+msgctxt "Uploader: Drop Layout package here - or - Select Layout package"
+msgid "or"
+msgstr "nebo"
+
+#: assets/blocks/service/index.js:1787
+#: assets/blocks/service/src/edit.js:263
+msgid "read more text"
+msgstr "přečtěte si další text"
+
+#: assets/blocks/price-table/index.js:957
+#: assets/blocks/price-table/src/rows-component.js:87
+msgid "row text..."
+msgstr "text řádku..."

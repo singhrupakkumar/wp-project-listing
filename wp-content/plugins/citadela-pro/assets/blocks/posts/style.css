@@ -1,0 +1,13 @@
+/*
+*	POSTS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-posts.layout-simple article					{ margin-bottom: 3em; }
+.ctdl-posts.layout-simple .entry-header				{ margin-bottom: 1.5em; }
+.ctdl-posts.layout-simple .entry-header h2			{ margin-bottom: 0; }
+.ctdl-posts.layout-simple .post-thumbnail			{ vertical-align: top; margin-bottom: 1.5em; display: block; }
+.ctdl-posts.layout-simple .post-thumbnail img		{ vertical-align: top; }
+.ctdl-posts.layout-simple .entry-content,
+.ctdl-posts.layout-simple .entry-summary			{ margin-top: 0; }
+.ctdl-posts.layout-simple .entry-footer				{ margin-top: 1.5em; }
+.ctdl-posts.layout-simple .entry-footer > span		{ display: block; }

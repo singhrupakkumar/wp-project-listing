@@ -1,0 +1,197 @@
+/* EASY ADMIN layout css */
+
+/* admin general overrides */
+
+.citadela-easy-admin-enabled.fixed				{ position: fixed; width: 100%; }
+.citadela-easy-admin-enabled:not(.block-editor-page.is-fullscreen-mode) #wpadminbar		{ display: none !important;}		/* admin bar */
+.citadela-easy-admin-enabled:not(.block-editor-page.is-fullscreen-mode) #adminmenumain 	{ display: none !important;}		/* admin menu */
+.citadela-easy-admin-enabled #wpfooter 			{ display: none !important;}		/* admin footer */
+
+.citadela-easy-admin-enabled #wpcontent 		{ max-width: 100%; margin: 0 !important; padding: 0;}
+
+.easyadmin-header-container 					{display: none;}	/* defaultly hidden dont change */
+
+.citadela-easy-admin-enabled .narrow  			{ margin: 0 auto; padding: 0 15px; }
+.citadela-easy-admin-enabled .clearfix:after 	{ content: "."; display: block; height: 0; overflow:hidden; clear: both; visibility: hidden;}
+
+.citadela-easy-admin-enabled .easyadmin-header-container { display: block; height: auto; padding: 0; margin-top: -32px; position: relative; z-index: 99999; }
+
+.citadela-easy-admin-enabled:not(.block-editor-page):not(.is-fullscreen-mode) #wpbody   { height: auto; padding: 0 15px; margin: 30px auto !important; }
+
+.citadela-easy-admin-enabled #wpbody-content 			{ padding-bottom: 0; }
+.citadela-easy-admin-enabled #wpbody-content > .wrap 	{ margin: 0}
+.citadela-easy-admin-enabled #wpbody input.button 		{ text-shadow: none; border-color: none; box-shadow: none}
+
+/* block editor */
+
+.citadela-easy-admin-enabled.block-editor-page.is-fullscreen-mode .easyadmin-header-container 			{ display: none; }
+
+.citadela-easy-admin-enabled.block-editor-page:not(.is-fullscreen-mode) .interface-interface-skeleton 	{ left: 0; top: 195px; }
+@media (min-width: 641px)	{ .citadela-easy-admin-enabled.block-editor-page:not(.is-fullscreen-mode) .interface-interface-skeleton 	{ top: 170px; } }
+
+@media (min-width: 782px) 	{ .citadela-easy-admin-enabled.block-editor-page:not(.is-fullscreen-mode) .edit-post-layout .editor-post-publish-panel { top: 170px; } }
+
+@media (min-width: 600px)   { .citadela-easy-admin-enabled.block-editor-page:not(.is-fullscreen-mode) .block-editor__container	{ min-height: calc(100vh - 195px); } }
+@media (min-width: 641px)   { .citadela-easy-admin-enabled.block-editor-page:not(.is-fullscreen-mode) .block-editor__container	{ min-height: calc(100vh - 170px); } }
+@media (min-width: 782px)   { .citadela-easy-admin-enabled.block-editor-page:not(.is-fullscreen-mode) .block-editor__container	{ min-height: calc(100vh - 170px); } }
+
+
+/* header setup */
+
+.easyadmin-top-container > .content 				{ position: relative}
+.easyadmin-top-container .easyadmin-menu-container 	{ position: absolute; top: 35%; right: 15px; }
+
+/* easyadmin logo setup */
+
+.easyadmin-logo-container .content		{ height: 104px; line-height: 104px; }
+.easyadmin-logo-container img 			{ display: inline-block; padding: 20px 20px 20px 0px; max-width: 100%; max-height: 100%; box-sizing:border-box; vertical-align: middle; }
+.easyadmin-logo-container .site-title 	{ padding: 20px 30px; margin-bottom: 0.5em; font-size: 23px; font-weight: 400; line-height: 1.3; }
+
+/* easyadmin menu setup */
+
+.easyadmin-bottom-container.overflow									{ overflow: hidden; } 			/* Safari fix */
+.easyadmin-bottom-container.overflow #easyadmin-main-menu > li > ul 	{ -webkit-animation: none; }	/* Safari fix */
+
+.easyadmin-menu-container ul 			{ margin: 0; padding: 0;}
+.easyadmin-menu-container ul > li 		{ display: inline-block; margin-bottom: 0;}
+.easyadmin-menu-container ul > li > a 	{ display: block; text-decoration: none; -webkit-transition: none; -moz-transition: none; transition: none; outline: none; box-shadow: none; }
+
+#easyadmin-main-menu #collapse-menu {display: none !important}
+#easyadmin-main-menu 				{ position: relative; top: 2px; }
+
+.citadela-easy-admin-enabled #easyadmin-main-menu > li 	{ text-align: center; }
+#easyadmin-main-menu li[aria-hidden="true"] 			{ display: none}
+
+#easyadmin-main-menu > li 		{ position: relative; display: inline-block; margin: 1px -3px 0 0; -ms-touch-action: manipulation; -webkit-touch-action: manipulation; touch-action: manipulation; }
+#easyadmin-main-menu > li.hover { z-index: 9999; }
+#easyadmin-main-menu > li > a 	{ position: relative; padding: 5px 19px 10px 20px; border-radius: 2px; z-index: 2; }
+
+#easyadmin-main-menu > li > ul 			{ display: none; position: absolute; z-index: 1; margin-top: -2px; padding: 7px 0; min-width: 100%; border-radius: 0 2px 2px 2px; white-space: nowrap;
+										  -webkit-animation: 0.2s forwards easy-slide-down; -moz-animation: 0.2s forwards easy-slide-down; animation: 0.2s forwards easy-slide-down; }
+#easyadmin-main-menu > li.hover > ul 	{ display: block; }
+
+#easyadmin-main-menu > li.hover > ul > li[aria-hidden="true"] 	{ display: none; }
+#easyadmin-main-menu > li.hover > ul > li 						{ display: block; text-align: left}
+
+#easyadmin-main-menu > li > ul a		{ padding: 5px 20px; }
+
+#easyadmin-main-menu .awaiting-mod 		{ position: relative; top: 2px; display: inline-block; vertical-align: top; margin-top: -2px; padding: 0 5px; border-radius: 20px; height: 20px; min-width: 20px; box-sizing: border-box; line-height: 20px; font-size: 9px; font-weight: bold; }
+
+.citadela-easy-admin-enabled .wp-menu-image			{ min-height: 25px; font-size: 18px; height: 18px; padding: 5px 0 2px; margin: 0 auto; width: 18px; }
+.citadela-easy-admin-enabled .wp-menu-image.svg		{ background-size: contain; background-repeat: no-repeat; background-position: bottom; }
+.citadela-easy-admin-enabled .wp-menu-image img		{ vertical-align: middle; }
+
+#easyadmin-user-menu a 						{ line-height: 28px; margin: 0 0 0 25px; }
+#easyadmin-user-menu li:first-child a 		{ margin-left: 0; }
+#easyadmin-user-menu a.view-site:before,
+#easyadmin-user-menu a.user-logout:before 	{ font-family: "Font Awesome 5 Free"; font-weight: 900; padding: 0 5px 0 0; }
+#easyadmin-user-menu a.view-site:before 	{ content: "\f06e"; }
+#easyadmin-user-menu a.user-logout:before 	{ content: "\f2f5"; }
+
+/* content */
+
+.citadela-easy-admin-enabled #wpbody #update-nag,
+.citadela-easy-admin-enabled #wpbody .update-nag		{ margin-bottom: 20px; }
+
+.citadela-easy-admin-enabled #wpbody .wrap								{ position: relative;}
+.citadela-easy-admin-enabled #wpbody .wrap h1 							{ padding: 20px 30px; margin-bottom: 0.5em}
+.citadela-easy-admin-enabled #wpbody .wrap h1.wp-heading-inline:before	{ content: ""; position: absolute; left: 0; top: 0; bottom: 0; z-index: -1; }
+.citadela-easy-admin-enabled #wpbody .wrap h1.wp-heading-inline:before	{ width: 100%; height: 70px }
+.citadela-easy-admin-enabled #wpbody .wrap .subsubsub 					{ background: none; border: 0 none; box-sizing: border-box; float: none; margin: 0; position: absolute; right: 45px; top: 22px; }
+
+.citadela-easy-admin-enabled #wpbody .wrap .page-title-action { display: inline-block; margin: 10px 0}
+
+.citadela-easy-admin-enabled #wpbody .search-box,
+.citadela-easy-admin-enabled #wpbody .tablenav .actions,
+.citadela-easy-admin-enabled #wpbody .widefat .check-column		{ display: none; }
+
+.citadela-easy-admin-enabled #wpbody table.fixed 				{ table-layout: auto; }
+.citadela-easy-admin-enabled #wpbody .widefat td,
+.citadela-easy-admin-enabled #wpbody .widefat th,
+.citadela-easy-admin-enabled #wpbody .widefat th.sortable,
+.citadela-easy-admin-enabled #wpbody .widefat th.sorted			{ padding-top: 10px; padding-bottom: 10px; vertical-align: middle; }
+
+.citadela-easy-admin-enabled #wpbody th.sortable a,
+.citadela-easy-admin-enabled #wpbody th.sorted a				{ display: inline; }
+
+.citadela-easy-admin-enabled #wpbody #titlediv #title			{ font-size: 22px; height: auto; padding: 10px 10px; }
+.citadela-easy-admin-enabled #wpbody #edit-slug-box				{ padding: 0; }
+
+.citadela-easy-admin-enabled #wpbody .wrap h1 + form,
+.citadela-easy-admin-enabled #wpbody .wrap h1 + div + form		{ margin-top: 30px; padding: 0 30px; }
+
+.citadela-easy-admin-enabled #wpbody #your-profile				{ margin-top: 30px; padding: 0 30px; }
+
+/* metabox setup */
+
+body.citadela-easy-admin-enabled.post-new-php .postbox {box-shadow: none; -webkit-box-shadow: none;}
+body.citadela-easy-admin-enabled.post-new-php .postbox.closed .ui-sortable-handle {border-bottom: none}
+
+/* Overrides for CUSTOM PAGES */
+
+/* profile screen */
+
+body.citadela-easy-admin-enabled.profile-php #your-profile h2:first-of-type {display: none}
+body.citadela-easy-admin-enabled.profile-php #your-profile table:first-of-type tr:first-of-type {display: none}
+
+/* ANIMATIONS */
+
+@-webkit-keyframes easy-slide-down {
+    from 	{ -webkit-transform: translate3d(0,-10px,0); transform: translate3d(0,-10px,0); }
+    to 		{ -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
+}
+
+@keyframes easy-slide-down {
+    from 	{ -webkit-transform: translate3d(0,-10px,0); transform: translate3d(0,-10px,0); }
+    to 		{ -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
+}
+
+
+/* RESPONSIVE */
+
+@media all and (min-width: 782px) {
+
+	.citadela-easy-admin-enabled #wpbody .widefat td,
+	.citadela-easy-admin-enabled #wpbody .widefat th,
+	.citadela-easy-admin-enabled #wpbody .widefat th.sortable,
+	.citadela-easy-admin-enabled #wpbody .widefat th.sorted		{ padding-left: 20px; }
+
+}
+
+@media all and (max-width: 782px) {
+
+	/* At this point admin-bar changes its height */
+
+	.citadela-easy-admin-enabled .easyadmin-header-container { margin-top: -46px; }
+
+	/* header */
+
+	.easyadmin-bottom-container				{ position: relative; }
+	#easyadmin-main-menu					{ position: static; width: 100%; white-space: nowrap; overflow-x: auto; }
+	#easyadmin-main-menu > li				{ position: static; }
+	#easyadmin-main-menu > li > ul			{ position: absolute; top: 100%; left: 0; right: 0; z-index: 100; }
+	#easyadmin-main-menu > li > ul a		{ padding: 10px 20px }
+
+	/* content */
+
+	.citadela-easy-admin-enabled .tablenav.top				{ display: none; }
+	.citadela-easy-admin-enabled .widefat th.sortable,
+	.citadela-easy-admin-enabled .widefat th.sorted			{ padding: 0 10px; }
+	.citadela-easy-admin-enabled #wpbody .wrap .subsubsub 	{ margin: 15px 0 0px 0; position: relative; text-align: left; right: auto; top: auto; }
+
+}
+
+@media all and (max-width: 640px) {
+
+	.easyadmin-top-container							{ margin-top: 25px; }
+	.easyadmin-top-container .easyadmin-menu-container	{ top: 0; left: 0; right: 0; text-align: right; padding-right: 20px; position: fixed; z-index: 9999; background: #232323; }
+
+}
+
+@media all and (max-width: 600px) {
+
+	/* At this point admin-bar is not fixed anymore */
+
+	.citadela-easy-admin-enabled .easyadmin-header-container { margin-top: 0; }
+
+}

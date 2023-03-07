@@ -1,0 +1,106 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/directory-search-form",
+	"category": "citadela-directory-blocks",
+	"icon": "search",
+	"attributes": {
+		"withAdvancedFilters": {
+            "type": "boolean",
+            "default": false
+        },
+        "geoDistanceLabel": {
+            "type": "string",
+            "default": "Set distance for search"
+        },
+        "geoDistanceSubmitLabel": {
+            "type": "string",
+            "default": "OK"
+        },
+        "geoDisableLabel": {
+            "type": "string",
+            "default": "Disable geolocation"
+        },
+        "useGeolocationInput": {
+            "type": "boolean",
+            "default": false
+        },
+        "geoUnit": {
+            "type": "string",
+            "default": "km"
+        },
+        "geoMax": {
+            "type": "number",
+            "default": 100
+        },
+        "geoStep": {
+            "type": "number",
+            "default": 1
+        },
+        "buttonBackgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "buttonTextColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundType": {
+            "type": "string",
+            "default": "none"
+        },
+        "backgroundColorType": {
+            "type": "string",
+            "default": "solid"
+        },
+        "backgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundGradient": {
+			"type": "object",
+			"default": {
+				"first": "#dddddd",
+				"second": "#f6f6f6",
+				"degree": 90,
+				"type": "linear"
+            }
+        },
+        "backgroundBlur": {
+            "type": "boolean",
+            "default": false
+        },
+        "blurRadius": {
+            "type": "number",
+            "default": 10
+        },
+        "borderWidth": {
+            "type": "string",
+            "default": "thin"
+        },
+        "borderColor": {
+            "type": "string",
+            "default": ""
+        },
+        "borderRadius": {
+            "type": "number"
+        },
+        "boxShadow": {
+            "type": "object"
+        },
+        "boxShadowType": {
+            "type": "string",
+            "default": "default"
+        },
+        "align": {
+            "type": "string",
+            "default": "center"
+        }
+	},
+	"example": {
+		"attributes": {
+			"useGeolocationInput": true,
+			"withAdvancedFilters": true
+		}
+	},
+	"editorScript": "citadela-directory-blocks"
+}

@@ -1,0 +1,74 @@
+{
+	"apiVersion": 1,
+	"name": "citadela-directory/posts-search-form",
+	"category": "citadela-posts-blocks",
+	"icon": "search",
+	"attributes": {
+		"buttonBackgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "buttonTextColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundType": {
+            "type": "string",
+            "default": "none"
+        },
+        "backgroundColorType": {
+            "type": "string",
+            "default": "solid"
+        },
+        "backgroundColor": {
+            "type": "string",
+            "default": ""
+        },
+        "backgroundGradient": {
+            "type": "object",
+            "default": {
+                "first": "#dddddd",
+                "second": "#f6f6f6",
+                "degree": 90,
+                "type": "linear"
+            }
+        },
+        "backgroundBlur": {
+            "type": "boolean",
+            "default": false
+        },
+        "blurRadius": {
+            "type": "number",
+            "default": 10
+        },
+
+        "borderWidth": {
+            "type": "string",
+            "default": "thin"
+        },
+        "borderColor": {
+            "type": "string",
+            "default": ""
+        },
+        "borderRadius": {
+            "type": "number"
+        },
+        "boxShadow": {
+            "type": "object"
+        },
+        "boxShadowType": {
+            "type": "string",
+            "default": "default"
+        },
+        "align": {
+            "type": "string",
+            "default": "center"
+        },
+        "hideInputLocation": {
+            "type": "boolean",
+            "default": false
+        }
+	},
+	"example": {},
+	"editorScript": "citadela-directory-blocks"
+}

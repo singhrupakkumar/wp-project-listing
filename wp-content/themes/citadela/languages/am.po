@@ -1,0 +1,684 @@
+# Copyright (C) 2022 AitThemes
+# This file is distributed under the GPLv2 or later.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: am\n"
+"Language-Team: none\n"
+"Last-Translator: Automatically generated\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2022-02-17T14:26:38+00:00\n"
+"POT-Creation-Date: 2022-02-17T14:26:38+00:00\n"
+"Project-Id-Version: Citadela 5.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/citadela\n"
+"X-Domain: citadela\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:30
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s በ&quot;%2$s&quot; ላይ ሀሳብ"
+msgstr[1] ""
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:79
+msgid "%s theme and AIT plugins incompatiblity"
+msgstr "%s ገጽታ እና AIT ተሰኪዎች ተኳሃኝ አይደሉም"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:14
+msgid "%s theme and PHP incompatiblity"
+msgstr "%s ገጽታ እና ፒኤችፒ አለመጣጣም።"
+
+#. translators: %s - theme's name
+#: citadela-theme/compatibility.php:41
+msgid "%s theme and WordPress version incompatiblity"
+msgstr "%s ገጽታ እና የዎርድፕረስ ስሪት አለመጣጣም"
+
+#: citadela-theme/widgets.php:48
+msgid "404 page widgets area"
+msgstr "404 ገጽ መግብሮች አካባቢ"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+#: citadela-theme/Citadela.php:224
+msgid "API Key"
+msgstr "የኤፒአይ ቁልፍ"
+
+#: design/js/build/editor.js:128
+#: design/js/editor.js:29
+msgid "Add more classes separated by space."
+msgstr "በቦታ የተለዩ ተጨማሪ ክፍሎችን ያክሉ።"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:56
+msgid "Adds listing Gutenberg blocks & features such as Map, GPX, blog posts on map or subscriptions."
+msgstr "የጉተንበርግ ብሎኮችን እና እንደ ካርታ፣ GPX፣ በካርታ ላይ ያሉ የብሎግ ልጥፎችን ወይም የደንበኝነት ምዝገባዎችን የመሳሰሉ ባህሪያትን ይጨምራል።"
+
+#: citadela-theme/Citadela.php:334
+msgid "Admin &rarr; Citadela Listing &rarr; Plugin Activation"
+msgstr "አስተዳዳሪ → Citadela ዝርዝር → ተሰኪ ማግበር"
+
+#: citadela-theme/Citadela.php:332
+msgid "Admin &rarr; Citadela Theme"
+msgstr "አስተዳዳሪ → Citadela ጭብጥ"
+
+#: citadela-theme/Citadela.php:336
+msgid "Admin &rarr; Settings &rarr; Citadela"
+msgstr "አስተዳዳሪ → መቼቶች → Citadela"
+
+#. Author of the theme
+msgid "AitThemes"
+msgstr "AitThemes"
+
+#: citadela-theme/customizer.php:55
+msgid "Appearance"
+msgstr "መልክ"
+
+#: citadela-theme/customizer.php:56
+msgid "Appearance settings for your website"
+msgstr "ለድር ጣቢያዎ የመልክ ቅንብሮች"
+
+#: citadela-theme/widgets.php:36
+msgid "Archives widgets area"
+msgstr "የማህደር መግብሮች አካባቢ"
+
+#: template-parts/page_title.php:216
+msgid "Author archives: "
+msgstr "የደራሲ ማህደሮች፡-"
+
+#: citadela-theme/widgets.php:18
+msgid "Blog page widgets area"
+msgstr "የብሎግ ገጽ መግብሮች አካባቢ"
+
+#: template-parts/page_title.php:184
+msgid "Category archives: "
+msgstr "የምድብ ማህደሮች፡-"
+
+#. Theme Name of the theme
+msgid "Citadela"
+msgstr "ሲታዴላ"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:24
+msgid "Citadela Activated"
+msgstr "Citadela ነቅቷል"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:9
+msgid "Citadela Dashboard"
+msgstr "Citadela ዳሽቦርድ"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:68
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:47
+msgid "Citadela Layouts"
+msgstr "Citadela አቀማመጦች"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:55
+msgid "Citadela Listing"
+msgstr "Citadela ዝርዝር"
+
+#: design/js/build/editor.js:195
+#: design/js/editor.js:96
+msgid "Citadela Page Settings"
+msgstr "Citadela ገጽ ቅንብሮች"
+
+#: design/js/build/editor.js:198
+#: design/js/editor.js:99
+msgid "Citadela Post Settings"
+msgstr "Citadela የፖስታ ቅንብሮች"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:42
+msgid "Citadela Pro"
+msgstr "Citadela Pro"
+
+#: citadela-theme/Citadela.php:191
+msgid "Citadela Pro plugin installed."
+msgstr "Citadela Pro ተሰኪ ተጭኗል።"
+
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:16
+#: citadela-theme/admin/settings/CitadelaThemeSettings.php:17
+msgid "Citadela Theme"
+msgstr "Citadela ገጽታ"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:60
+msgid "Citadela documentation includes everything you need to understand how theme and premium plugins work. It is written for you and other users to get to know our theme as quickly as possible. Documentation is updated on daily basis. Includes description of new features and frequently asked questions from our support."
+msgstr "የCitadela ሰነድ ጭብጥ እና ፕሪሚየም ተሰኪዎች እንዴት እንደሚሠሩ ለመረዳት የሚያስፈልገዎትን ሁሉ ያካትታል። በተቻለ ፍጥነት የእኛን ጭብጥ እንዲያውቁ ለእርስዎ እና ለሌሎች ተጠቃሚዎች ተጽፏል። ሰነዶች በየቀኑ ይዘምናል. የአዳዲስ ባህሪያት መግለጫ እና ከእኛ ድጋፍ በተደጋጋሚ የሚጠየቁ ጥያቄዎችን ያካትታል።"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:35
+msgid "Citadela is a free multi-purpose WordPress theme created by AitThemes. You can use it without any restrictions on your commercial or non-commercial website."
+msgstr "Citadela በAitThemes የተፈጠረ ነፃ ባለብዙ-ዓላማ የዎርድፕረስ ጭብጥ ነው። በንግድ ወይም ንግድ ነክ ባልሆኑ ድርጣቢያዎ ላይ ያለ ምንም ገደብ ሊጠቀሙበት ይችላሉ."
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:10
+msgid "Citadela is a free multi-purpose WordPress theme. You can use it without any restrictions on your commercial or non-commercial website. However, our premium plugins can shift your website to the whole new level!"
+msgstr "Citadela ነፃ ባለብዙ-ዓላማ የዎርድፕረስ ገጽታ ነው። በንግድ ወይም ንግድ ነክ ባልሆኑ ድርጣቢያዎ ላይ ያለ ምንም ገደብ ሊጠቀሙበት ይችላሉ. ነገር ግን፣ የእኛ ፕሪሚየም ፕለጊኖች ድር ጣቢያዎን ወደ አዲሱ ደረጃ ሊቀይሩት ይችላሉ።"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:223
+msgid "Comment<span class=\"screen-reader-text\"> on %s"
+msgstr "<span class=\"screen-reader-text\">በ%s ላይ</span> አስተያየት ይስጡ"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "አስተያየቶች ተዘግተዋል።"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:228
+msgid "Comments<span class=\"screen-reader-text\"> on %s"
+msgstr "<span class=\"screen-reader-text\">በ%s ላይ</span> አስተያየቶች"
+
+#. translators: %s: post title
+#: citadela-theme/template-tags.php:209
+msgid "Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">በ%s ላይ</span> አስተያየቶች"
+
+#: citadela-theme/customizer.php:35
+#: footer.php:29
+msgid "Created with Citadela WordPress Theme by AitThemes"
+msgstr "በAitThemes በCitadela WordPress ገጽታ የተፈጠረ"
+
+#: design/js/build/editor.js:127
+#: design/js/editor.js:28
+msgid "Custom CSS class"
+msgstr "ብጁ CSS ክፍል"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:69
+msgid "Customer Support"
+msgstr "የደንበኛ ድጋፍ"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:43
+msgid "Customize colors, fonts and layout. Adds custom made blocks for Gutenberg WordPress editor."
+msgstr "ቀለሞችን ፣ ቅርጸ-ቁምፊዎችን እና አቀማመጥን ያብጁ። ለጉተንበርግ የዎርድፕረስ አርታዒ ብጁ የተሰሩ ብሎኮችን ያክላል።"
+
+#: template-parts/page_title.php:274
+msgid "Date archives: "
+msgstr "የቀን ማህደሮች፡-"
+
+#: citadela-theme/Citadela.php:107
+#: citadela-theme/Citadela.php:151
+msgid "Domain"
+msgstr "ጎራ"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:43
+msgid "Download layouts"
+msgstr "አቀማመጦችን አውርድ"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: citadela-theme/template-tags.php:253
+#: template-parts/content-attachment.php:35
+#: template-parts/content-page.php:31
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> ያርትዑ"
+
+#: citadela-theme/Citadela.php:218
+msgid "Envato Purchase code"
+msgstr "የኢንቫቶ ግዢ ኮድ"
+
+#: citadela-theme/Citadela.php:471
+msgid "Error installing plugin"
+msgstr "ተሰኪን መጫን ላይ ስህተት"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:27
+#: citadela-theme/Citadela.php:186
+msgid "Error with installing"
+msgstr "በመጫን ላይ ስህተት"
+
+#: citadela-theme/Citadela.php:340
+msgid "Expired membership"
+msgstr "ጊዜው ያለፈበት አባልነት"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:49
+msgid "Explore Citadela Layouts"
+msgstr "Citadela አቀማመጦችን ያስሱ"
+
+#. Description of the theme
+msgid "Fast, lightweight and easy to use multi-purpose theme. Developed for Blocks and Gutenberg page builder. Best for business, personal webs & blogs."
+msgstr "ፈጣን፣ ቀላል ክብደት ያለው እና ለመጠቀም ቀላል የሆነ ባለብዙ ዓላማ ገጽታ። ለብሎኮች እና ለጉተንበርግ ገጽ ገንቢ የተሰራ። ለንግድ ፣ ለግል ድር እና ብሎጎች ምርጥ።"
+
+#: citadela-theme/customizer.php:44
+msgid "Footer Text"
+msgstr "የግርጌ ጽሑፍ"
+
+#: citadela-theme/config/config.php:17
+#: functions.php:20
+msgid "Footer menu"
+msgstr "የግርጌ ምናሌ"
+
+#: citadela-theme/widgets.php:54
+msgid "Footer widgets area"
+msgstr "የግርጌ መግብሮች አካባቢ"
+
+#: citadela-theme/CitadelaTheme.php:964
+msgid "Fullwidth page"
+msgstr "ሙሉ ስፋት ገጽ"
+
+#: citadela-theme/customizer.php:63
+msgid "Header Layout"
+msgstr "የራስጌ አቀማመጥ"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:59
+msgid "Helpful Documentation"
+msgstr "ጠቃሚ ሰነዶች"
+
+#: design/js/build/editor.js:115
+#: design/js/editor.js:14
+msgid "Hide page title section"
+msgstr "የገጽ ርዕስ ክፍልን ደብቅ"
+
+#: citadela-theme/customizer.php:89
+#: citadela-theme/customizer.php:116
+msgid "Hide site title and tagline"
+msgstr "የጣቢያ ርዕስ እና መለያ ደብቅ"
+
+#: citadela-theme/customizer.php:85
+msgid "Hide site title and tagline on desktop"
+msgstr "በዴስክቶፕ ላይ የጣቢያ ርዕስ እና መለያ ደብቅ"
+
+#: citadela-theme/customizer.php:112
+msgid "Hide site title and tagline on mobile"
+msgstr "በተንቀሳቃሽ ስልክ ላይ የጣቢያ ርዕስ እና መለያ ደብቅ"
+
+#: citadela-theme/customizer.php:90
+#: citadela-theme/customizer.php:117
+msgid "Hide tagline only"
+msgstr "የመለያ መጻፊያ መስመርን ብቻ ደብቅ"
+
+#: citadela-theme/widgets.php:12
+msgid "Home widgets area"
+msgstr "የቤት መግብሮች አካባቢ"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:25
+msgid "Install Citadela Plugins"
+msgstr "Citadela ፕለጊኖችን ጫን"
+
+#: citadela-theme/Citadela.php:186
+msgid "Install Citadela plugins"
+msgstr "Citadela ተሰኪዎችን ጫን"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:28
+msgid "Installed"
+msgstr "ተጭኗል"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:26
+#: citadela-theme/Citadela.php:186
+msgid "Installing..."
+msgstr "በመጫን ላይ..."
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid API Key for this domain"
+msgstr "ለዚህ ጎራ ልክ ያልሆነ የኤፒአይ ቁልፍ"
+
+#: citadela-theme/Citadela.php:358
+msgid "Invalid Purchase Code for this domain"
+msgstr "ለዚህ ጎራ ልክ ያልሆነ የግዢ ኮድ"
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "በዚህ ቦታ ምንም የተገኘ አይመስልም። ምናልባት ከታች ካሉት ማገናኛዎች አንዱን ይሞክሩ ወይንስ ፍለጋ?"
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "የሚፈልጉትን ማግኘት ያልቻልን ይመስላል። ምናልባት መፈለግ ሊረዳ ይችላል."
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:30
+msgid "Layout Pack"
+msgstr "የአቀማመጥ ጥቅል"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:46
+msgid "Learn more"
+msgstr "ተጨማሪ እወቅ"
+
+#. Template Name of the theme
+msgid "Left sidebar page"
+msgstr "የግራ የጎን አሞሌ ገጽ"
+
+#: citadela-theme/template-tags.php:159
+msgid "Location"
+msgstr "አካባቢ"
+
+#: citadela-theme/Citadela.php:220
+msgid "MOJO Purchase code"
+msgstr "MOJO የግዢ ኮድ"
+
+#: citadela-theme/config/config.php:16
+#: functions.php:19
+msgid "Main menu"
+msgstr "ዋና ምናሌ"
+
+#: citadela-theme/CitadelaTheme.php:944
+msgid "Next"
+msgstr "ቀጥሎ"
+
+#: citadela-theme/customizer.php:88
+#: citadela-theme/customizer.php:115
+msgid "None"
+msgstr "ምንም"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "ምንም አልተገኘም።"
+
+#. translators: 1: title.
+#: comments.php:24
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "በ&quot;%1$s&quot; ላይ አንድ ሀሳብ"
+
+#: template-parts/page_title.php:314
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ውይ! ያ ገጽ ሊገኝ አልቻለም።"
+
+#: citadela-theme/widgets.php:24
+msgid "Pages widgets area"
+msgstr "ገጾች መግብሮች አካባቢ"
+
+#: citadela-theme/CitadelaTheme.php:953
+#: template-parts/content-attachment.php:22
+#: template-parts/content-page.php:18
+#: template-parts/content-tribe_events.php:32
+#: template-parts/content.php:50
+msgid "Pages:"
+msgstr "ገፆች፡"
+
+#: citadela-theme/Citadela.php:427
+msgid "Permission denied."
+msgstr "የተሰረዘ ፈቃድ."
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:362
+msgid "Please enter a valid API key for this domain. You can configure it in %s."
+msgstr "እባክዎ ለዚህ ጎራ የሚሰራ የኤፒአይ ቁልፍ ያስገቡ። በ%s ውስጥ ማዋቀር ይችላሉ።"
+
+#. translators: 1. Link to page
+#: citadela-theme/Citadela.php:361
+msgid "Please enter a valid Purchase Code for this domain. You can configure it in %s."
+msgstr "እባክዎ ለዚህ ጎራ የሚሰራ የግዢ ኮድ ያስገቡ። በ%s ውስጥ ማዋቀር ይችላሉ።"
+
+#: citadela-theme/Citadela.php:368
+msgid "Please try to check your product activation later here:"
+msgstr "እባክዎ የምርት ማግበርዎን በኋላ እዚህ ለማየት ይሞክሩ፡"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:22
+msgid "Plugin"
+msgstr "ሰካው"
+
+#: citadela-theme/template-tags.php:126
+msgid "Posted in"
+msgstr "ውስጥ ተለጠፈ"
+
+#: citadela-theme/template-tags.php:35
+msgid "Posted on"
+msgstr "ላይ ተለጠፈ"
+
+#: citadela-theme/widgets.php:30
+msgid "Posts widgets area"
+msgstr "ልጥፎች መግብሮች አካባቢ"
+
+#: citadela-theme/Citadela.php:191
+msgid "Premium Citadela plugins installed."
+msgstr "ፕሪሚየም Citadela ተሰኪዎች ተጭነዋል።"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:67
+msgid "Premium Feature"
+msgstr "ፕሪሚየም ባህሪ"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:41
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:54
+msgid "Premium Plugin"
+msgstr "ፕሪሚየም ተሰኪ"
+
+#: citadela-theme/CitadelaTheme.php:943
+msgid "Previous"
+msgstr "ቀዳሚ"
+
+#: citadela-theme/customizer.php:150
+msgid "Pro Features"
+msgstr "Pro ባህሪዎች"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "Purchase Code"
+msgstr "የግዢ ኮድ"
+
+#. translators: 1. Link to settings page, 2. Domain name, 3. Start html anchor tag, 4. End html anchor tag
+#: citadela-theme/Citadela.php:351
+msgid "Purchase Code %1$s is already used on \"%2$s\". If you want to use it on this website, you can %3$sderegister it here%4$s."
+msgstr "የግዢ ኮድ %1$s አስቀድሞ በ&quot;%2$s&quot; ላይ ጥቅም ላይ ውሏል። በዚህ ድር ጣቢያ ላይ ለመጠቀም ከፈለጉ፣ %3$ እዚህ%4$s መመዝገብ ይችላሉ።"
+
+#: citadela-theme/Citadela.php:348
+msgid "Purchase Code is already used"
+msgstr "የግዢ ኮድ አስቀድሞ ጥቅም ላይ ውሏል"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "የመጀመሪያውን ልጥፍዎን ለማተም ዝግጁ ነዎት? <a href=\"%1$s\">እዚ ጀምር</a> ።"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:9
+msgid "Ready to use Citadela layouts"
+msgstr "Citadela አቀማመጦችን ለመጠቀም ዝግጁ"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:69
+msgid "Ready-to-use one click install Citadela layouts to start your new website in minutes."
+msgstr "ለመጠቀም ዝግጁ የሆነ አንድ ጠቅታ የCitadela አቀማመጥን ይጫኑ አዲሱን ድር ጣቢያዎን በደቂቃዎች ውስጥ ለመጀመር።"
+
+#: design/js/build/editor.js:121
+#: design/js/editor.js:19
+msgid "Remove space under header"
+msgstr "ከርዕሱ ስር ያለውን ቦታ ያስወግዱ"
+
+#. Template Name of the theme
+msgid "Right sidebar page"
+msgstr "የቀኝ የጎን አሞሌ ገጽ"
+
+#: citadela-theme/Citadela.php:124
+msgid "Save"
+msgstr "አስቀምጥ"
+
+#: template-parts/page_title.php:326
+msgid "Search results for: "
+msgstr "የፍለጋ ውጤቶች ለ፡"
+
+#: citadela-theme/widgets.php:42
+msgid "Search results widgets area"
+msgstr "የፍለጋ ውጤቶች መግብሮች አካባቢ"
+
+#: citadela-theme/customizer.php:64
+msgid "Settings for site header"
+msgstr "ለጣቢያ ራስጌ ቅንብሮች"
+
+#: header.php:54
+msgid "Skip to content"
+msgstr "ወደ ይዘት ዝለል"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ይቅርታ፣ ነገር ግን ከፍለጋ ቃላትህ ጋር የሚዛመድ ምንም ነገር የለም። እባክዎ በተለያዩ ቁልፍ ቃላት እንደገና ይሞክሩ።"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:61
+msgid "Start Reading"
+msgstr "ማንበብ ጀምር"
+
+#: template-parts/page_title.php:245
+msgid "Tag archives: "
+msgstr "የመለያ ማህደሮች"
+
+#: citadela-theme/template-tags.php:183
+msgid "Tagged"
+msgstr "መለያ ተሰጥቶታል።"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:9
+msgid "Thank you for installing Citadela Theme by AitThemes"
+msgstr "Citadela Theme በ AitThemes ስለጫኑ እናመሰግናለን"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:13
+msgid "Thank you for using premium Citadela plugins. As paying AitThemes customer you have access to our support forum and documentation."
+msgstr "ፕሪሚየም Citadela ተሰኪዎችን ስለተጠቀሙ እናመሰግናለን። የAitThemes ደንበኛ እንደመሆንዎ መጠን የድጋፍ ፎረም እና ሰነዶችን ማግኘት ይችላሉ።"
+
+#: citadela-theme/Citadela.php:117
+msgid "The API key for localhost is not needed."
+msgstr "የአካባቢ አስተናጋጅ የኤፒአይ ቁልፍ አያስፈልግም።"
+
+#: citadela-theme/Citadela.php:222
+msgid "Themely Purchase code"
+msgstr "ጭብጥ የግዢ ኮድ"
+
+#: citadela-theme/Citadela.php:472
+msgid "There was an error while installing plugin."
+msgstr "ተሰኪን በመጫን ጊዜ ስህተት ነበር።"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:61
+msgid "This website is running trial version of Citadela products. Please purchase a membership to activate the website. %1$sView available memberships%2$s"
+msgstr "ይህ ድህረ ገጽ የCitadela ምርቶችን የሙከራ ስሪት እያሄደ ነው። እባክዎ ድህረ ገጹን ለማንቃት አባልነት ይግዙ። %1$s የሚገኙ አባልነቶችን ይመልከቱ%2$s"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:70
+msgid "Trained support team will help you to start working on your website quickly. Our goal is to teach you how to use our products efficiently and the right way. Support system is fully confidential and closed, you can ask there any question regarding our theme you like. Please bear in mind that we do not do any customizations. There are plenty of location designers that will be happy to help you with your custom ideas."
+msgstr "የሰለጠነ የድጋፍ ቡድን በድር ጣቢያዎ ላይ በፍጥነት መስራት እንዲጀምሩ ይረዳዎታል. ግባችን ምርቶቻችንን በብቃት እና በትክክለኛው መንገድ እንዴት እንደሚጠቀሙ ማስተማር ነው። የድጋፍ ስርዓቱ ሙሉ በሙሉ ሚስጥራዊ እና የተዘጋ ነው, የሚወዱትን ጭብጥ በተመለከተ ማንኛውንም ጥያቄ እዚያ መጠየቅ ይችላሉ. ምንም አይነት ማሻሻያ እንደማንሰራ እባክዎ ልብ ይበሉ። በብጁ ሃሳቦችዎ እርስዎን ለመርዳት ደስተኞች የሚሆኑ ብዙ የአካባቢ ንድፍ አውጪዎች አሉ።"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:87
+msgid "Visit Support"
+msgstr "ድጋፍን ይጎብኙ"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your API key right now."
+msgstr "የእርስዎን API ቁልፍ አሁን ማረጋገጥ አንችልም።"
+
+#: citadela-theme/Citadela.php:367
+msgid "We can't verify your Purchase Code right now."
+msgstr "የግዢ ኮድዎን አሁን ማረጋገጥ አንችልም።"
+
+#: citadela-theme/customizer/Controls/CitadelaUpsellControl.php:36
+msgid "We have also created premium versions of Citadela that will shift your website to the whole new level."
+msgstr "እንዲሁም የእርስዎን ድር ጣቢያ ወደ ሙሉ አዲስ ደረጃ የሚያሸጋግሩትን የCitadela ዋና ስሪቶችን ፈጥረናል።"
+
+#. translators: %s - list of plugins
+#: citadela-theme/compatibility.php:82
+msgid "We've noticed that you're running Citadela incompatible AIT plugins (%s) so we deactivated them."
+msgstr "Citadela የማይጣጣሙ AIT ፕለጊኖችን (%s) እያሄዱ እንደሆነ አስተውለናል ስለዚህ አቦዝንናቸው።"
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:17
+msgid "We've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by <a href='%1$s'>upgrading PHP to the latest version</a>. Minimal requirement for %2$s is <strong>PHP 5.6.20</strong>."
+msgstr "ጊዜው ያለፈበት የPHP ስሪት እያሄዱ እንደሆነ አስተውለናል ይህም ከአሁን በኋላ አይደገፍም። <a href='%1$s'>ፒኤችፒን ወደ የቅርብ ጊዜው ስሪት በማሻሻል</a> ጣቢያዎ ፈጣን እና ደህንነቱ የተጠበቀ መሆኑን ያረጋግጡ። ለ%2$s ዝቅተኛው መስፈርት <strong>PHP 5.6.20</strong> ነው።"
+
+#. translators: 1. url to upgrading guide, 2. theme's name
+#: citadela-theme/compatibility.php:44
+msgid "We've noticed that you're running an outdated version of WordPress. Make sure your site is secure, by <a href='%1$s'>updating WordPress to the latest version</a>. Minimal requirement for %2$s is <strong>WordPress 5.2</strong>."
+msgstr "ጊዜው ያለፈበት የዎርድፕረስ ሥሪት እያሄዱ እንደሆነ አስተውለናል። <a href='%1$s'>WordPress ን ወደ የቅርብ ጊዜው ስሪት በማዘመን</a> ጣቢያዎ ደህንነቱ የተጠበቀ መሆኑን ያረጋግጡ። ለ%2$s ዝቅተኛው መስፈርት <strong>WordPress 5.2</strong> ነው።"
+
+#: citadela-theme/widgets.php:55
+msgid "Widgets displayed in the footer."
+msgstr "መግብሮች በግርጌው ውስጥ ይታያሉ።"
+
+#: citadela-theme/widgets.php:49
+msgid "Widgets displayed on 404 page."
+msgstr "መግብሮች በ404 ገጽ ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:64
+msgid "Widgets displayed on Shop page."
+msgstr "መግብሮች በሱቅ ገጽ ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:37
+msgid "Widgets displayed on archive pages."
+msgstr "መግብሮች በማህደር ገጾች ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:19
+msgid "Widgets displayed on blog page."
+msgstr "መግብሮች በብሎግ ገጽ ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:13
+msgid "Widgets displayed on home page."
+msgstr "መግብሮች በመነሻ ገጽ ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:25
+msgid "Widgets displayed on pages."
+msgstr "መግብሮች በገጾች ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:31
+msgid "Widgets displayed on posts."
+msgstr "መግብሮች በልጥፎች ላይ ይታያሉ።"
+
+#: citadela-theme/widgets.php:43
+msgid "Widgets displayed on search results page."
+msgstr "መግብሮች በፍለጋ ውጤቶች ገጽ ላይ ይታያሉ።"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:48
+msgid "With our Citadela WordPress theme layouts, you don’t need to hire a designer to help you make your website look professional. Our designers have already made that for you. Citadela WordPress Layouts are carefully designed to suit your business. All you need is to change the content to present your work. It saves you time and money."
+msgstr "በእኛ የCitadela WordPress ገጽታ አቀማመጦች፣ ድር ጣቢያዎ ፕሮፌሽናል እንዲመስል እንዲያግዝዎ ዲዛይነር መቅጠር አያስፈልገዎትም። የእኛ ንድፍ አውጪዎች አስቀድመው ሠርተውልዎታል. Citadela የዎርድፕረስ አቀማመጦች ለንግድዎ ተስማሚ እንዲሆኑ በጥንቃቄ የተነደፉ ናቸው። የሚያስፈልግህ ስራህን ለማቅረብ ይዘቱን መቀየር ብቻ ነው። ጊዜዎን እና ገንዘብዎን ይቆጥባል."
+
+#: citadela-theme/widgets.php:63
+msgid "Woocommerce Shop widgets area"
+msgstr "Woocommerce ሱቅ መግብሮች አካባቢ"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:231
+msgid "You can find Purchase Code in your %1$sEnvato account &rarr; Downloads%2$s under the Download button."
+msgstr "በግዢ ኮድ በ%1$sEnvato መለያዎ → ማውረዶች%2$s በማውረድ ቁልፍ ስር ማግኘት ይችላሉ።"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:233
+msgid "You can find Purchase Code in your %1$sMOJO account &rarr; Themes%2$s."
+msgstr "የግዢ ኮድ በ%1$sMOJO መለያዎ → ገጽታዎች%2$s ውስጥ ማግኘት ይችላሉ።"
+
+#: citadela-theme/Citadela.php:235
+msgid "You can find the Purchase Code in the purchase email from Themely."
+msgstr "የግዢ ኮድ ከ Themely በግዢ ኢሜል ውስጥ ማግኘት ይችላሉ።"
+
+#. translators: 1. start html anchor tag, 2. end html anchor tag
+#: citadela-theme/Citadela.php:237
+msgid "You can generate API Key for this domain in your %1$saccount%2$s."
+msgstr "ለዚህ ጎራ የኤፒአይ ቁልፍን በእርስዎ %1$saccount%2$s ማመንጨት ይችላሉ።"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:13
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin."
+msgstr "ድር ጣቢያዎን መገንባት ለመጀመር ከእነዚህ አቀማመጦች ውስጥ ማናቸውንም ማስመጣት ይችላሉ። አቀማመጥ Citadela Pro ፕለጊን በመጠቀም ማስመጣት ይቻላል።"
+
+#: citadela-theme/admin/settings/templates/_layout_packs.php:11
+msgid "You can import any of these layouts to start building your website. Layout can be imported using Citadela Pro plugin. Layout packages can be found in the main zip file you can download from Themeforest."
+msgstr "ድር ጣቢያዎን መገንባት ለመጀመር ከእነዚህ አቀማመጦች ውስጥ ማናቸውንም ማስመጣት ይችላሉ። አቀማመጥ Citadela Pro ፕለጊን በመጠቀም ማስመጣት ይቻላል። የአቀማመጥ ፓኬጆች ከ Themeforest ማውረድ በሚችሉት ዋናው ዚፕ ፋይል ውስጥ ይገኛሉ።"
+
+#: citadela-theme/admin/settings/templates/citadela-free-screen.php:30
+#: citadela-theme/Citadela.php:184
+msgid "You can test a full version of premium Citadela features for free."
+msgstr "የፕሪሚየም Citadela ባህሪያትን ሙሉ ስሪት በነጻ መሞከር ይችላሉ።"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:27
+msgid "You can test a full version of premium Citadela features for free. For live website, you need an active membership and a valid API key for this domain. %1$sSee available memberships%2$s."
+msgstr "የፕሪሚየም Citadela ባህሪያትን ሙሉ ስሪት በነጻ መሞከር ይችላሉ። ለቀጥታ ድር ጣቢያ፣ ለዚህ ጎራ ንቁ አባልነት እና የሚሰራ የኤፒአይ ቁልፍ ያስፈልግዎታል። %1$s ያሉትን አባልነቶች%2$s ይመልከቱ።"
+
+#: citadela-theme/Citadela.php:428
+msgid "You don't have permission to install plugins."
+msgstr "ተሰኪዎችን የመጫን ፍቃድ የለዎትም።"
+
+#. translators: %s - activation key type: Purchase Code or API Key
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:28
+msgid "You need to enter %1$s in order to use premium Citadela features. One %1$s will allow you to run Citadela on one URL. It will also ensure automatic updates for theme and plugins."
+msgstr "ፕሪሚየም Citadela ባህሪያትን ለመጠቀም %1$s ማስገባት አለብህ። አንድ %1$s Citadelaን በአንድ ዩአርኤል ላይ እንዲያሄዱ ይፈቅድልዎታል። እንዲሁም ለገጽታ እና ተሰኪዎች አውቶማቲክ ማሻሻያዎችን ያረጋግጣል።"
+
+#: citadela-theme/Citadela.php:110
+#: citadela-theme/Citadela.php:155
+msgid "You will need this to generate your API Key"
+msgstr "የእርስዎን ኤፒአይ ቁልፍ ለማመንጨት ይህ ያስፈልግዎታል"
+
+#. translators: 1. Start html anchor tag, 2. End html anchor tag
+#: citadela-theme/Citadela.php:343
+msgid "Your membership has expired. You can %1$srenew it here%2$s."
+msgstr "አባልነትዎ ጊዜው አልፎበታል። %1$ እዚህ%2$s ማደስ ይችላሉ።"
+
+#: citadela-theme/template-tags.php:90
+msgid "by"
+msgstr "በ"
+
+#: citadela-theme/admin/settings/templates/citadela-pro-screen.php:10
+msgid "by AitThemes"
+msgstr "በ AitThemes"
+
+#. Author URI of the theme
+msgid "https://www.ait-themes.club"
+msgstr "https://www.ait-themes.club"
+
+#. Theme URI of the theme
+msgid "https://www.ait-themes.club/citadela-wordpress-theme"
+msgstr "https://www.ait-themes.club/citadela-wordpress-ገጽታ"

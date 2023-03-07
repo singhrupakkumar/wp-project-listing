@@ -1,0 +1,14 @@
+/*
+*	ITEM GET DIRECTIONS: Citadela Block CSS styles for both frontend and editor screen
+*/
+
+.ctdl-item-get-directions { margin-bottom: 1.5rem; }
+
+.ctdl-item-get-directions.align-left 		{ text-align: left; }
+.ctdl-item-get-directions.align-center 	{ text-align: center; }
+.ctdl-item-get-directions.align-right 	{ text-align: right; }
+
+.ctdl-item-get-directions .button-wrapper > a					{ display: inline-block; max-width: 100%; height: auto; text-align: center; white-space: normal; box-sizing: border-box; vertical-align: top; }
+.ctdl-item-get-directions:not(.text-style) .button-wrapper > a 	{ background: #000000; color: #ffffff; border-radius: 4px; line-height: 1.3; }
+.ctdl-item-get-directions.small-button-style .button-wrapper > a { padding: 6px 20px; font-size: 14px; }
+.ctdl-item-get-directions.large-button-style .button-wrapper > a { padding: 12px 30px; font-size: 18px; }

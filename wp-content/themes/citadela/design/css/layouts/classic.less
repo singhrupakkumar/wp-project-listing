@@ -1,0 +1,92 @@
+/*
+ * Citadela Theme - Classic layout CSS
+ *
+ */
+
+
+/********************/
+/*** BASIC LAYOUT ***/
+/********************/
+
+.grid-main										{ max-width: @wideWidth; }
+.site-content									{ .pageOffset(); .contentbox(); }
+.site-content .page-title						{ .pageOffset(invert); }
+/*
+.classic-header-layout .site-header				{ .pageOffset(); }
+.classic-header-layout .site-branding			{ .pageOffset(padnone); }
+.center-header-layout .site-header				{ .pageOffset(mobile); }
+.center-header-layout .site-branding			{ .pageOffset(desktop); }
+.center-header-layout .site-header .grid-main	{ max-width: none; }
+.site-header.fullwidth-header .grid-main		{ max-width: none; }
+*/
+
+
+
+/**************/
+/*** HEADER ***/
+/**************/
+
+.showHeaderImage(@url) when not ("@{url}" = "")
+{
+	background-image: 		url("@{url}");
+ 	background-repeat: 		@headerImageRepeat;
+ 	background-attachment: 	@headerImageAttachment;
+ 	background-position: 	@headerImagePosition;
+ 	background-size: 		@headerImageSize;
+}
+
+.site-header     			{ .showHeaderImage(@headerImageUrl); }
+
+
+/****************/
+/*** SIDEBARS ***/
+/****************/
+
+.right-sidebar
+{
+	#secondary						{ margin: 5em auto 3em auto; }
+}
+.left-sidebar
+{
+	#secondary						{ margin: 5em auto 3em auto; }
+}
+
+@media all and (min-width: @resTablet)
+{
+	body:not(.page-fullwidth).right-sidebar,
+	body:not(.page-fullwidth).left-sidebar
+	{
+		.site-content				{ max-width: @wideWidth; margin-left: auto; margin-right: auto; }
+		#primary					{ width: 65%; }
+		#secondary					{ padding-top: 1em; width: 30%; max-width: 300px; margin: 0; }
+		.content-area .site-main	{ max-width: none; }
+
+		.alignwide[class*='wp-block-'],
+		.alignwide[class*='wc-block-'],		
+		.alignfull[class*='wp-block-'],
+		.alignfull[class*='wc-block-']							{ .noAlignSize();  }
+		.alignwide[class*='wp-block-']:not(.has-background),
+		.alignwide[class*='wc-block-']:not(.has-background),		
+		.alignfull[class*='wp-block-']:not(.has-background),
+		.alignfull[class*='wc-block-']:not(.has-background)		{ .pageOffset(none); }		
+		
+		.citadela-block-custom-container									{ .noAlignSize(); .pageOffset(none); }
+		.citadela-block-custom-container.has-bg:not(.inside-space-zero)		{ padding-left: 20px; padding-right: 20px; }
+
+		.wp-block-columns.alignfull:not(.has-background),
+		.wp-block-columns.alignwide:not(.has-background)					{ .pageOffset(none); }
+	}
+	.right-sidebar
+	{
+		#primary					{ float: left;}
+		#secondary					{ float: right;}
+	}
+	.left-sidebar
+	{
+		#primary					{ float: right;}
+		#secondary					{ float: left; margin: 0em auto 4em auto; }
+	}
+}
+
+
+

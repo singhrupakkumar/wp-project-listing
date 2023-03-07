@@ -1,0 +1,28 @@
+/*
+*	ITEM GALLERY: Citadela Block CSS styles only for editor screen
+*/
+
+.ctdl-item-gallery.layout-default .citadela-block-articles-wrap		{ display: flex; flex-flow: row wrap; justify-content: flex-start; margin: 0px -8px; }
+.ctdl-item-gallery.layout-default article							{ flex: 1 1 auto; padding: 8px; box-sizing: border-box; }
+.ctdl-item-gallery.layout-default .item-thumbnail  					{ background-color: rgba(200,200,200,0.7); text-align: center; position: relative; color: #ffffff; height: 9vw; min-height: 150px; margin: 0px; }
+.ctdl-item-gallery.layout-default .item-thumbnail:before			{ content: "\f03e"; font-size: 70px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Font Awesome 5 Free'; font-weight: 400; }
+.ctdl-item-gallery.layout-default.size-mini .item-thumbnail			{ height: 7vw; min-height: 100px; }
+.ctdl-item-gallery.layout-default.size-small .item-thumbnail:before	{ font-size: 54px; }
+.ctdl-item-gallery.layout-default.size-mini .item-thumbnail:before	{ font-size: 40px; }
+
+.ctdl-item-gallery.layout-default[class*='image-position-'] .item-thumbnail:after		{ content: "\f35b"; font-family: 'Font Awesome 5 Free'; font-weight: 400; font-size: 26px; display: block; width: 28px; height: 28px; text-align: center; line-height: 28px; position: absolute; }
+.ctdl-item-gallery.layout-default.image-position-top-right .item-thumbnail:after        { top: 5px; right: 5px; transform: rotate(45deg); }
+.ctdl-item-gallery.layout-default.image-position-top-center .item-thumbnail:after       { top: 5px; left: 50%; margin-left: -14px; transform: rotate(0deg); }
+.ctdl-item-gallery.layout-default.image-position-top-left .item-thumbnail:after        	{ top: 5px; left: 5px; transform: rotate(-45deg); }
+.ctdl-item-gallery.layout-default.image-position-center-right .item-thumbnail:after     { top: 50%; margin-top: -14px; right: 5px; transform: rotate(90deg); }
+.ctdl-item-gallery.layout-default.image-position-center-center .item-thumbnail:after	{ display: none; }
+.ctdl-item-gallery.layout-default.image-position-center-left .item-thumbnail:after    	{ top: 50%; margin-top: -14px; left: 5px; transform: rotate(-90deg); }
+.ctdl-item-gallery.layout-default.image-position-bottom-right .item-thumbnail:after     { bottom: 5px; right: 5px; transform: rotate(135deg); }
+.ctdl-item-gallery.layout-default.image-position-bottom-center .item-thumbnail:after    { bottom: 5px; left: 50%; margin-left: -14px; transform: rotate(180deg); }
+.ctdl-item-gallery.layout-default.image-position-bottom-left .item-thumbnail:after      { bottom: 5px; left: 5px; transform: rotate(-135deg); }
+
+.ctdl-item-gallery.layout-default .item-content .caption				{ font-size: 0.6em; padding: 5px 0px; }
+.ctdl-item-gallery.layout-default .item-content .caption:before			{ content: ""; display: inline-block; width: 60%; height: 1em; vertical-align: top; background-color: rgba(200,200,200,0.5); }
+.ctdl-item-gallery.layout-default.caption-under-image .caption 			{}
+.ctdl-item-gallery.layout-default.caption-inside-image .caption 		{ background-color: rgba(200,200,200,0.7); text-align: center; }
+.ctdl-item-gallery.layout-default.caption-inside-image .caption:before  { background:  #ffffff; }
